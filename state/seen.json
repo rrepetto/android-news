@@ -65,6 +65,42 @@
       "title": "28 apps falsas de historial de llamadas acumulan 7.3M descargas en Play Store",
       "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
       "first_seen": "2026-06-24"
+    },
+    {
+      "id": "nfc-relay-attacks-188-pct-surge-2026",
+      "title": "Ataques NFC relay crecen 188% en 2026 (Kaspersky)",
+      "url": "https://me-en.kaspersky.com/about/press-releases/nfc-relay-attacks-on-smartphones-surged-by-188-in-2026-kaspersky-reveals",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "google-fake-call-detection-rcs-deepfake-2026",
+      "title": "Google lanza detección de llamadas falsas via RCS contra deepfakes",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "samsung-exynos-advisory-junio-2026-15-cves",
+      "title": "Samsung Exynos: advisory de junio 2026 con 15 CVEs",
+      "url": "https://www.sammyfans.com/2026/06/03/samsung-exynos-security-advisory-june-2026/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-advanced-protection-mode",
+      "title": "Android 17 Advanced Protection Mode bloquea abuso de Accessibility API",
+      "url": "https://securityaffairs.com/189497/security/advanced-protection-mode-in-android-17-prevents-apps-from-misusing-accessibility-services.html",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-behavior-changes-all-apps",
+      "title": "Android 17 cambios para TODAS las apps: WebOTP, audio, ubicación granular",
+      "url": "https://developer.android.com/about/versions/17/behavior-changes-all",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "pixel-11-titan-m3-risc-v-leak",
+      "title": "Pixel 11: filtración del chip de seguridad Titan M3 (RISC-V)",
+      "url": "https://android.gadgethacks.com/news/pixel-11-titan-m3-security-chip-5-year-upgrade-revealed/",
+      "first_seen": "2026-06-24"
     }
   ]
 }

@@ -14,4 +14,4 @@ Compatible con cualquier lector RSS (Feedly, Inoreader, Miniflux, etc.).
 
 | Fecha | Ítems |
 |-------|-------|
-| [2026-06-24](digests/2026-06-24.md) | 11 nuevos |
+| [2026-06-24](digests/2026-06-24.md) | 17 (6 nuevos) |
