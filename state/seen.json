@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": "asb-junio-2026-cve-2025-48595",
+      "title": "ASB Junio 2026: zero-day CVE-2025-48595 explotado activamente",
+      "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-api-37-lanzamiento-seguridad",
+      "title": "Android 17 (API 37) lanzado con criptografía post-cuántica y verificación de OS",
+      "url": "https://android-developers.googleblog.com/2026/06/Android-17.html",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-behavior-changes-targetsdk-37",
+      "title": "Android 17 endurece restricciones para apps (targetSdk 37)",
+      "url": "https://developer.android.com/about/versions/17/behavior-changes-17",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "rokarolla-troyano-bancario-217-apps",
+      "title": "Troyano bancario Rokarolla apunta a 217 apps bancarias y crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "samsung-one-ui-8-bootloader-lock",
+      "title": "Samsung elimina desbloqueo de bootloader con One UI 8",
+      "url": "https://www.androidauthority.com/samsung-bootloader-unlocking-disabled-one-ui-8-3581366/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "overlayphantom-troyano-bancario-180-apps",
+      "title": "OverlayPhantom: troyano bancario con overlays HTML sobre 180+ apps",
+      "url": "https://cyble.com/blog/overlayphantom-android-banking-trojan/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "grapheneos-android-17-dia-uno",
+      "title": "GrapheneOS publica Android 17 el mismo día que Google",
+      "url": "https://stateofsurveillance.org/news/grapheneos-android-17-port-degoogled-privacy-os-2026/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "play-protect-dynamic-signal-monitoring-android-17",
+      "title": "Play Protect: monitoreo dinámico de señales en Android 17",
+      "url": "https://www.androidauthority.com/android-security-features-2026-3665372/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "play-integrity-api-remediation-dialogs-2026",
+      "title": "Play Integrity API: nuevos diálogos de remediación y deprecaciones",
+      "url": "https://developer.android.com/google/play/integrity/reference/com/google/android/play/core/release-notes",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "samsung-knox-cloud-services-2606",
+      "title": "Samsung Knox Cloud Services 26.06",
+      "url": "https://www.samsungknox.com/en/blog/kcs-release-2026-06",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "fake-call-history-apps-play-store-73m",
+      "title": "28 apps falsas de historial de llamadas acumulan 7.3M descargas en Play Store",
+      "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "first_seen": "2026-06-24"
+    }
+  ]
+}

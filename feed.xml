@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Android Security Digest</title>
+    <link>https://github.com/rrepetto/android-news</link>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android: boletines, malware, integridad, root, bootloader, APIs y plataforma.</description>
+    <language>es</language>
+    <lastBuildDate>Wed, 24 Jun 2026 03:11:03 +0000</lastBuildDate>
+    <item>
+      <title>[ALTA] ASB Junio 2026: zero-day CVE-2025-48595 explotado activamente</title>
+      <link>https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html</link>
+      <guid isPermaLink="false">asb-junio-2026-cve-2025-48595</guid>
+      <description>Google parch&amp;oacute; 124 vulnerabilidades incluyendo un zero-day de escalamiento de privilegios en Framework (CVSS 8.4) explotado in-the-wild. CISA lo agreg&amp;oacute; al cat&amp;aacute;logo KEV. Categor&amp;iacute;a: ASB.</description>
+      <category>ASB</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ALTA] Android 17 (API 37) lanzado con criptograf&amp;iacute;a post-cu&amp;aacute;ntica y verificaci&amp;oacute;n de OS</title>
+      <link>https://android-developers.googleblog.com/2026/06/Android-17.html</link>
+      <guid isPermaLink="false">android-17-api-37-lanzamiento-seguridad</guid>
+      <description>Android 17 incluye soporte ML-DSA en Keystore para firmas quantum-safe, APK Signature Scheme v3.2 h&amp;iacute;brido, verificaci&amp;oacute;n de integridad del OS, monitoreo din&amp;aacute;mico de se&amp;ntilde;ales y Theft Detection Lock por defecto. Categor&amp;iacute;a: API/Plataforma.</description>
+      <category>API/Plataforma</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ALTA] Android 17 endurece restricciones para apps (targetSdk 37)</title>
+      <link>https://developer.android.com/about/versions/17/behavior-changes-17</link>
+      <guid isPermaLink="false">android-17-behavior-changes-targetsdk-37</guid>
+      <description>Nuevo permiso ACCESS_LOCAL_NETWORK, restricciones de audio en background, Certificate Transparency por defecto, retraso de 3h en SMS OTP, l&amp;iacute;mite de 50K keys en Keystore y prohibici&amp;oacute;n de reflection sobre campos static final. Categor&amp;iacute;a: API/Plataforma.</description>
+      <category>API/Plataforma</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ALTA] Troyano bancario Rokarolla apunta a 217 apps bancarias y crypto</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/</link>
+      <guid isPermaLink="false">rokarolla-troyano-bancario-217-apps</guid>
+      <description>Descubierto por Zimperium, 137 comandos remotos, roba PINs con overlays, intercepta SMS/OTP, reemplaza direcciones crypto en clipboard y desactiva Play Protect. Categor&amp;iacute;a: Malware.</description>
+      <category>Malware</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ALTA] Samsung elimina desbloqueo de bootloader con One UI 8</title>
+      <link>https://www.androidauthority.com/samsung-bootloader-unlocking-disabled-one-ui-8-3581366/</link>
+      <guid isPermaLink="false">samsung-one-ui-8-bootloader-lock</guid>
+      <description>One UI 8 hardcodea OEM_UNLOCK_ALLOWED=false en el bootloader para todos los modelos y regiones. Actualizar bloquea irreversiblemente el bootloader. Categor&amp;iacute;a: Bootloader.</description>
+      <category>Bootloader</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[MEDIA] OverlayPhantom: troyano bancario con overlays HTML sobre 180+ apps</title>
+      <link>https://cyble.com/blog/overlayphantom-android-banking-trojan/</link>
+      <guid isPermaLink="false">overlayphantom-troyano-bancario-180-apps</guid>
+      <description>Reportado por Cyble, activo desde mayo 2025, usa dropper disfrazado de ID Austria o TikTok. Abusa Accessibility Service en 10 pa&amp;iacute;ses. Categor&amp;iacute;a: Malware.</description>
+      <category>Malware</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[MEDIA] GrapheneOS publica Android 17 el mismo d&amp;iacute;a que Google</title>
+      <link>https://stateofsurveillance.org/news/grapheneos-android-17-port-degoogled-privacy-os-2026/</link>
+      <guid isPermaLink="false">grapheneos-android-17-dia-uno</guid>
+      <description>El 16 de junio, GrapheneOS port&amp;oacute; Android 17 para todos sus dispositivos soportados (Pixel 6a hasta Pixel 10 Pro Fold). Primera vez que iguala al d&amp;iacute;a la versi&amp;oacute;n mayor. Categor&amp;iacute;a: GrapheneOS.</description>
+      <category>GrapheneOS</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[MEDIA] Play Protect: monitoreo din&amp;aacute;mico de se&amp;ntilde;ales en Android 17</title>
+      <link>https://www.androidauthority.com/android-security-features-2026-3665372/</link>
+      <guid isPermaLink="false">play-protect-dynamic-signal-monitoring-android-17</guid>
+      <description>Google expande Live Threat Detection con an&amp;aacute;lisis on-device de comportamientos sospechosos: ocultamiento de &amp;iacute;conos, lanzamientos desde background, abuso de accessibility. Categor&amp;iacute;a: Play Integrity.</description>
+      <category>Play Integrity</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[MEDIA] Play Integrity API: nuevos di&amp;aacute;logos de remediaci&amp;oacute;n y deprecaciones</title>
+      <link>https://developer.android.com/google/play/integrity/reference/com/google/android/play/core/release-notes</link>
+      <guid isPermaLink="false">play-integrity-api-remediation-dialogs-2026</guid>
+      <description>Nuevos c&amp;oacute;digos GET_INTEGRITY y GET_STRONG_INTEGRITY permiten guiar al usuario a resolver fallos de integridad. Se depreca showDialog() en IntegrityTokenResponse. Categor&amp;iacute;a: Play Integrity.</description>
+      <category>Play Integrity</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BAJA] Samsung Knox Cloud Services 26.06</title>
+      <link>https://www.samsungknox.com/en/blog/kcs-release-2026-06</link>
+      <guid isPermaLink="false">samsung-knox-cloud-services-2606</guid>
+      <description>Nuevo dashboard centralizado de seguridad de flota, inscripci&amp;oacute;n de dispositivos en uso a Knox E-FOTA y Knox Asset Intelligence. Categor&amp;iacute;a: Knox.</description>
+      <category>Knox</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BAJA] 28 apps falsas de historial de llamadas acumulan 7.3M descargas en Play Store</title>
+      <link>https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html</link>
+      <guid isPermaLink="false">fake-call-history-apps-play-store-73m</guid>
+      <description>Apps fraudulentas cobraban a usuarios por datos de llamadas falsos. Descubiertas en mayo 2026. Categor&amp;iacute;a: Tampering.</description>
+      <category>Tampering</category>
+      <pubDate>Wed, 24 Jun 2026 03:11:03 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
