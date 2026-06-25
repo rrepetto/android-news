@@ -101,6 +101,36 @@
       "title": "Pixel 11: filtración del chip de seguridad Titan M3 (RISC-V)",
       "url": "https://android.gadgethacks.com/news/pixel-11-titan-m3-security-chip-5-year-upgrade-revealed/",
       "first_seen": "2026-06-24"
+    },
+    {
+      "id": "cve-2025-65018-framework-rce-critica-sin-interaccion",
+      "title": "CVE-2025-65018: RCE crítica en Android Framework sin interacción — posible cadena con zero-day activo",
+      "url": "https://android.gadgethacks.com/news/android-june-2026-security-update-zero-day-fix-124-vulnerabilities-patched/",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "samsung-junio-2026-rollout-s23-s26-foldables-12-sve",
+      "title": "Samsung expande parche de junio 2026 a Galaxy S23–S26 y foldables con 12 SVEs propias",
+      "url": "https://www.sammyfans.com/2026/06/25/samsung-june-2026-security-update-rollout/",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "cve-2026-25262-qualcomm-bootrom-no-parcheable",
+      "title": "CVE-2026-25262: Falla BootROM de Qualcomm no parcheable afecta millones de dispositivos",
+      "url": "https://www.kaspersky.com/blog/qualcomm-cve-2026-25262/55811/",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "play-integrity-fix-keybox-rotation-2026",
+      "title": "Play Integrity Fix adopta rotación de keybox y KeyboxHub comunitario",
+      "url": "https://github.com/KOWX712/PlayIntegrityFix",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "xiaomi-rollout-junio-2026-hyperos-3",
+      "title": "Xiaomi inicia rollout del parche de seguridad de junio 2026 en HyperOS 3",
+      "url": "https://ximitime.com/xiaomi-starts-rolling-out-june-2026-security-patch-to-first-devices-97720/",
+      "first_seen": "2026-06-25"
     }
   ]
 }
