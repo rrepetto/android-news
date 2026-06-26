@@ -131,6 +131,30 @@
       "title": "Xiaomi inicia rollout del parche de seguridad de junio 2026 en HyperOS 3",
       "url": "https://ximitime.com/xiaomi-starts-rolling-out-june-2026-security-patch-to-first-devices-97720/",
       "first_seen": "2026-06-25"
+    },
+    {
+      "id": "android-developer-verifier-sept-2026",
+      "title": "Google despliega Android Developer Verifier: desde septiembre 2026 dispositivos certificados bloquearán apps de desarrolladores no verificados",
+      "url": "https://android-developers.googleblog.com/2026/06/android-developer-verification.html",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "android-17-os-verification-pixel",
+      "title": "Android 17 incorpora verificación de integridad del OS en Pixel con ledger de transparencia público",
+      "url": "https://www.androidauthority.com/android-17-os-verification-3665868/",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "android-17-qpr1-beta-5-pixel",
+      "title": "Android 17 QPR1 Beta 5 lanzado para Pixel con correcciones finales antes del Feature Drop de septiembre",
+      "url": "https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-pixel/",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "google-play-services-2621-credential-exchange",
+      "title": "Google Play Services 26.21 habilita Credential Exchange para portabilidad de contraseñas y passkeys",
+      "url": "https://9to5google.com/2026/06/22/june-2026-google-system-updates/",
+      "first_seen": "2026-06-26"
     }
   ]
 }

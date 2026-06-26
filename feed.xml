@@ -3,48 +3,40 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android.</description>
+    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 25 Jun 2026 11:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:11:25 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] CVE-2025-65018: RCE cr&#xED;tica en Android Framework sin interacci&#xF3;n &#x2014; posible cadena con zero-day activo</title>
-      <link>https://android.gadgethacks.com/news/android-june-2026-security-update-zero-day-fix-124-vulnerabilities-patched/</link>
-      <guid isPermaLink="false">cve-2025-65018-framework-rce-critica-sin-interaccion</guid>
-      <description>Vulnerabilidad cr&#xED;tica de escalada de privilegios remota en el Framework, explotable sin interacci&#xF3;n del usuario. Combinada con CVE-2025-48595 (zero-day activo), forma una cadena de exploit completa (remoto + local EoP) que afecta Android 14&#x2013;16 QPR2. Categor&#xED;a: ASB.</description>
-      <pubDate>Thu, 25 Jun 2026 11:08:55 +0000</pubDate>
-      <category>ASB</category>
+      <title>[ALTA] Google despliega Android Developer Verifier: desde septiembre 2026 dispositivos certificados bloquearan apps de desarrolladores no verificados</title>
+      <link>https://android-developers.googleblog.com/2026/06/android-developer-verification.html</link>
+      <guid isPermaLink="false">android-developer-verifier-sept-2026</guid>
+      <description>Google empuja el servicio Android Developer Verifier a Android 8+ en junio 2026. Desde el 30/09/2026, dispositivos certificados en Brasil, Indonesia, Singapur y Tailandia bloquearan la instalacion de apps de desarrolladores no verificados; expansion global en 2027. Categoria: Tampering / Play Store</description>
+      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
+      <category>Tampering / Play Store</category>
     </item>
     <item>
-      <title>[MEDIA] Samsung expande parche de junio 2026 a Galaxy S23&#x2013;S26 y foldables con 12 SVEs propias</title>
-      <link>https://www.sammyfans.com/2026/06/25/samsung-june-2026-security-update-rollout/</link>
-      <guid isPermaLink="false">samsung-junio-2026-rollout-s23-s26-foldables-12-sve</guid>
-      <description>Samsung despliega (25/06) el parche de junio 2026: 45 vulnerabilidades corregidas (33 CVEs Google, 5 cr&#xED;ticas + 12 SVEs Samsung en AppBlock, SecTelephonyProvider, Galaxy Editing Service, Samsung Account, Samsung Cloud y Theme Manager). Categor&#xED;a: ASB/OEM.</description>
-      <pubDate>Thu, 25 Jun 2026 11:08:55 +0000</pubDate>
-      <category>ASB/OEM</category>
+      <title>[MEDIA] Android 17 incorpora verificacion de integridad del OS en Pixel con ledger de transparencia publico</title>
+      <link>https://www.androidauthority.com/android-17-os-verification-3665868/</link>
+      <guid isPermaLink="false">android-17-os-verification-pixel</guid>
+      <description>Nueva funcion de Android 17 que verifica estado de Play Protect, integridad del bootloader y legitimidad del build. Incluye verificacion cruzada entre dispositivos y un ledger publico. Lanzamiento inicial en Pixel; no apunta contra ROMs custom como GrapheneOS. Categoria: Bootloader / Integridad</description>
+      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
+      <category>Bootloader / Integridad</category>
     </item>
     <item>
-      <title>[MEDIA] CVE-2026-25262: Falla BootROM de Qualcomm no parcheable afecta millones de dispositivos</title>
-      <link>https://www.kaspersky.com/blog/qualcomm-cve-2026-25262/55811/</link>
-      <guid isPermaLink="false">cve-2026-25262-qualcomm-bootrom-no-parcheable</guid>
-      <description>Vulnerabilidad write-what-where en el BootROM de chips Qualcomm (MSM8916, MDM9x07/x45/x65, SDX50) permite ejecuci&#xF3;n de c&#xF3;digo antes del OS con acceso f&#xED;sico USB. Al estar en ROM inmutable, no existe parche posible. Categor&#xED;a: Bootloader.</description>
-      <pubDate>Thu, 25 Jun 2026 11:08:55 +0000</pubDate>
-      <category>Bootloader</category>
+      <title>[BAJA] Android 17 QPR1 Beta 5 lanzado para Pixel (23 junio)</title>
+      <link>https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-pixel/</link>
+      <guid isPermaLink="false">android-17-qpr1-beta-5-pixel</guid>
+      <description>Google lanza la quinta beta de QPR1 con correcciones finales antes del Feature Drop de septiembre. Pixel 6 regresa al programa beta. Ultima beta antes de la release candidate. Categoria: API/Plataforma</description>
+      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[MEDIA] Play Integrity Fix adopta rotaci&#xF3;n de keybox y KeyboxHub comunitario</title>
-      <link>https://github.com/KOWX712/PlayIntegrityFix</link>
-      <guid isPermaLink="false">play-integrity-fix-keybox-rotation-2026</guid>
-      <description>Los m&#xF3;dulos de bypass de Play Integrity (PIF, Integrity Box, Play Integrity Fork) rotan proactivamente keybox.xml desde KeyboxHub. Google responde baneando fingerprints compartidos r&#xE1;pidamente. Categor&#xED;a: Play Integrity / Root.</description>
-      <pubDate>Thu, 25 Jun 2026 11:08:55 +0000</pubDate>
-      <category>Play Integrity</category>
-    </item>
-    <item>
-      <title>[BAJA] Xiaomi inicia rollout del parche de seguridad de junio 2026 en HyperOS 3</title>
-      <link>https://ximitime.com/xiaomi-starts-rolling-out-june-2026-security-patch-to-first-devices-97720/</link>
-      <guid isPermaLink="false">xiaomi-rollout-junio-2026-hyperos-3</guid>
-      <description>Parche de junio 2026 llega a Xiaomi 15 Pro, 15 Ultra, 15T Pro, 14T Pro y Redmi K70 Ultra con HyperOS 3. Incluye correcciones de Framework, System, kernel, GPU, m&#xF3;dems y el zero-day CVE-2025-48595. Categor&#xED;a: ASB/OEM.</description>
-      <pubDate>Thu, 25 Jun 2026 11:08:55 +0000</pubDate>
-      <category>ASB/OEM</category>
+      <title>[BAJA] Google Play Services 26.21 habilita Credential Exchange para portabilidad de contrasenas y passkeys</title>
+      <link>https://9to5google.com/2026/06/22/june-2026-google-system-updates/</link>
+      <guid isPermaLink="false">google-play-services-2621-credential-exchange</guid>
+      <description>Play Services 26.21 permite importar/exportar contrasenas y passkeys entre Google Password Manager y gestores de terceros usando el estandar Credential Exchange. Incluye verificaciones adicionales de Play Protect para apps no verificadas. Categoria: API/Plataforma</description>
+      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
   </channel>
 </rss>
