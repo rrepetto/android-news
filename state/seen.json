@@ -155,6 +155,24 @@
       "title": "Google Play Services 26.21 habilita Credential Exchange para portabilidad de contraseñas y passkeys",
       "url": "https://9to5google.com/2026/06/22/june-2026-google-system-updates/",
       "first_seen": "2026-06-26"
+    },
+    {
+      "id": "anatsa-teabot-fake-document-reader-100k-play-store",
+      "title": "Anatsa (TeaBot) en Play Store: app falsa de lector de documentos con 100K+ descargas distribuye troyano bancario",
+      "url": "https://cybersecuritynews.com/fake-document-reader-in-the-google-play-store/",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "cve-2026-20971-samsung-knox-kernel-uaf-8-anos",
+      "title": "Samsung Knox CVE-2026-20971: vulnerabilidad UAF de 8 anos expuso millones de Galaxy S9-S25",
+      "url": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "google-play-distribucion-terceros-epic-settlement-julio-2026",
+      "title": "Google Play abrira distribucion a tiendas de terceros en EE.UU. (acuerdo Epic)",
+      "url": "https://support.google.com/googleplay/android-developer/answer/15582165?hl=en",
+      "first_seen": "2026-06-27"
     }
   ]
 }

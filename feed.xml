@@ -5,38 +5,30 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 26 Jun 2026 11:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:07:20 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Google despliega Android Developer Verifier: desde septiembre 2026 dispositivos certificados bloquearan apps de desarrolladores no verificados</title>
-      <link>https://android-developers.googleblog.com/2026/06/android-developer-verification.html</link>
-      <guid isPermaLink="false">android-developer-verifier-sept-2026</guid>
-      <description>Google empuja el servicio Android Developer Verifier a Android 8+ en junio 2026. Desde el 30/09/2026, dispositivos certificados en Brasil, Indonesia, Singapur y Tailandia bloquearan la instalacion de apps de desarrolladores no verificados; expansion global en 2027. Categoria: Tampering / Play Store</description>
-      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
-      <category>Tampering / Play Store</category>
+      <title>[ALTA] Anatsa (TeaBot) en Play Store: app falsa de lector de documentos con 100K+ descargas distribuye troyano bancario</title>
+      <link>https://cybersecuritynews.com/fake-document-reader-in-the-google-play-store/</link>
+      <guid isPermaLink="false">anatsa-teabot-fake-document-reader-100k-play-store</guid>
+      <description>ThreatLabz descubrio una app disfrazada de lector de documentos en Google Play con mas de 100.000 descargas que instala el troyano bancario Anatsa, superponiendo pantallas falsas sobre 831+ apps financieras. Categoria: Malware</description>
+      <pubDate>Sat, 27 Jun 2026 11:07:20 +0000</pubDate>
+      <category>Malware</category>
     </item>
     <item>
-      <title>[MEDIA] Android 17 incorpora verificacion de integridad del OS en Pixel con ledger de transparencia publico</title>
-      <link>https://www.androidauthority.com/android-17-os-verification-3665868/</link>
-      <guid isPermaLink="false">android-17-os-verification-pixel</guid>
-      <description>Nueva funcion de Android 17 que verifica estado de Play Protect, integridad del bootloader y legitimidad del build. Incluye verificacion cruzada entre dispositivos y un ledger publico. Lanzamiento inicial en Pixel; no apunta contra ROMs custom como GrapheneOS. Categoria: Bootloader / Integridad</description>
-      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
-      <category>Bootloader / Integridad</category>
+      <title>[MEDIA] Samsung Knox CVE-2026-20971: vulnerabilidad UAF de 8 anos expuso millones de Galaxy S9-S25</title>
+      <link>https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/</link>
+      <guid isPermaLink="false">cve-2026-20971-samsung-knox-kernel-uaf-8-anos</guid>
+      <description>Falla use-after-free (CVSS 7.8) en el kernel de Knox (PROCA/FIVE) afecto Galaxy S9 a S25. Parchada en enero 2026, divulgacion tecnica reciente. Categoria: Knox</description>
+      <pubDate>Sat, 27 Jun 2026 11:07:20 +0000</pubDate>
+      <category>Knox</category>
     </item>
     <item>
-      <title>[BAJA] Android 17 QPR1 Beta 5 lanzado para Pixel (23 junio)</title>
-      <link>https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-pixel/</link>
-      <guid isPermaLink="false">android-17-qpr1-beta-5-pixel</guid>
-      <description>Google lanza la quinta beta de QPR1 con correcciones finales antes del Feature Drop de septiembre. Pixel 6 regresa al programa beta. Ultima beta antes de la release candidate. Categoria: API/Plataforma</description>
-      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] Google Play Services 26.21 habilita Credential Exchange para portabilidad de contrasenas y passkeys</title>
-      <link>https://9to5google.com/2026/06/22/june-2026-google-system-updates/</link>
-      <guid isPermaLink="false">google-play-services-2621-credential-exchange</guid>
-      <description>Play Services 26.21 permite importar/exportar contrasenas y passkeys entre Google Password Manager y gestores de terceros usando el estandar Credential Exchange. Incluye verificaciones adicionales de Play Protect para apps no verificadas. Categoria: API/Plataforma</description>
-      <pubDate>Fri, 26 Jun 2026 11:11:25 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[BAJA] Google Play abrira distribucion a tiendas de terceros en EE.UU. (acuerdo Epic)</title>
+      <link>https://support.google.com/googleplay/android-developer/answer/15582165?hl=en</link>
+      <guid isPermaLink="false">google-play-distribucion-terceros-epic-settlement-julio-2026</guid>
+      <description>Desde julio 2026, listings de Google Play seran compartidos con app stores de terceros en EE.UU. salvo opt-out. Implicacion: apps expuestas a canales con controles de integridad menores. Categoria: Play Store</description>
+      <pubDate>Sat, 27 Jun 2026 11:07:20 +0000</pubDate>
+      <category>Play Store</category>
     </item>
   </channel>
 </rss>
