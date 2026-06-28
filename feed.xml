@@ -5,30 +5,54 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 27 Jun 2026 11:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 11:09:07 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Anatsa (TeaBot) en Play Store: app falsa de lector de documentos con 100K+ descargas distribuye troyano bancario</title>
-      <link>https://cybersecuritynews.com/fake-document-reader-in-the-google-play-store/</link>
-      <guid isPermaLink="false">anatsa-teabot-fake-document-reader-100k-play-store</guid>
-      <description>ThreatLabz descubrio una app disfrazada de lector de documentos en Google Play con mas de 100.000 descargas que instala el troyano bancario Anatsa, superponiendo pantallas falsas sobre 831+ apps financieras. Categoria: Malware</description>
-      <pubDate>Sat, 27 Jun 2026 11:07:20 +0000</pubDate>
+      <title>[ALTA] Gemini Android: hijack via notificaciones de WhatsApp/Slack/SMS (prompt injection)</title>
+      <link>https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html</link>
+      <guid isPermaLink="false">gemini-android-hijack-notificaciones-prompt-injection</guid>
+      <description>Investigadores de SafeBreach demostraron que una notificacion envenenada de WhatsApp, Slack o SMS podia secuestrar Google Gemini en Android sin app maliciosa, fabricando mensajes o envenenando la memoria del asistente. Google ya lo parcho. Categoria: API/Plataforma.</description>
+      <pubDate>Sun, 28 Jun 2026 11:09:07 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[ALTA] Qualcomm: boletin de junio 2026 con 3 CVEs criticos CVSS 9.8</title>
+      <link>https://docs.qualcomm.com/securitybulletin/june-2026-bulletin.html</link>
+      <guid isPermaLink="false">qualcomm-junio-2026-3-cves-criticos-cvss-9-8</guid>
+      <description>Tres vulnerabilidades criticas en componentes closed-source de Qualcomm (CVE-2025-47392, CVE-2026-25276, CVE-2026-25277) con CVSS 9.8 cada una. Afectan capas HAL; muchos dispositivos IoT/automotriz probablemente nunca recibiran el parche. Categoria: ASB.</description>
+      <pubDate>Sun, 28 Jun 2026 11:09:07 +0000</pubDate>
+      <category>ASB</category>
+    </item>
+    <item>
+      <title>[ALTA] TrickMo: nueva variante usa blockchain TON como C2 y proxy SOCKS5</title>
+      <link>https://securityaffairs.com/192003/malware/android-banking-trojan-trickmo-evolves-using-ton-network-for-c2.html</link>
+      <guid isPermaLink="false">trickmo-variante-ton-c2-socks5-proxy-2026</guid>
+      <description>Variante del troyano bancario TrickMo apunta a Francia, Italia y Austria usando blockchain TON para C2 sigiloso y SOCKS5 para evadir deteccion de fraude basada en IP. Graba pantalla, intercepta OTPs y permite toma de control total. Categoria: Malware.</description>
+      <pubDate>Sun, 28 Jun 2026 11:09:07 +0000</pubDate>
       <category>Malware</category>
     </item>
     <item>
-      <title>[MEDIA] Samsung Knox CVE-2026-20971: vulnerabilidad UAF de 8 anos expuso millones de Galaxy S9-S25</title>
-      <link>https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/</link>
-      <guid isPermaLink="false">cve-2026-20971-samsung-knox-kernel-uaf-8-anos</guid>
-      <description>Falla use-after-free (CVSS 7.8) en el kernel de Knox (PROCA/FIVE) afecto Galaxy S9 a S25. Parchada en enero 2026, divulgacion tecnica reciente. Categoria: Knox</description>
-      <pubDate>Sat, 27 Jun 2026 11:07:20 +0000</pubDate>
-      <category>Knox</category>
+      <title>[MEDIA] Samsung One UI 9.0 Beta (Android 17) disponible para Galaxy S26</title>
+      <link>https://news.samsung.com/global/samsung-launches-one-ui-9-beta-for-galaxy-s26-series-users</link>
+      <guid isPermaLink="false">samsung-one-ui-9-beta-android-17-galaxy-s26</guid>
+      <description>Samsung lanzo la beta de One UI 9 basada en Android 17 para Galaxy S26 en 6 paises. Estable esperado en julio con Galaxy Z Fold 8 / Z Flip 8. Categoria: API/Plataforma.</description>
+      <pubDate>Sun, 28 Jun 2026 11:09:07 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[BAJA] Google Play abrira distribucion a tiendas de terceros en EE.UU. (acuerdo Epic)</title>
-      <link>https://support.google.com/googleplay/android-developer/answer/15582165?hl=en</link>
-      <guid isPermaLink="false">google-play-distribucion-terceros-epic-settlement-julio-2026</guid>
-      <description>Desde julio 2026, listings de Google Play seran compartidos con app stores de terceros en EE.UU. salvo opt-out. Implicacion: apps expuestas a canales con controles de integridad menores. Categoria: Play Store</description>
-      <pubDate>Sat, 27 Jun 2026 11:07:20 +0000</pubDate>
-      <category>Play Store</category>
+      <title>[MEDIA] Android Drop junio 2026: Personal Safety para menores</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/</link>
+      <guid isPermaLink="false">android-drop-junio-2026-personal-safety-menores</guid>
+      <description>El Feature Drop de junio extiende Personal Safety a menores de 13 (info medica en lock screen, contactos de emergencia, deteccion de accidentes) y adolescentes (Safety Check, ubicacion en tiempo real). Categoria: API/Plataforma.</description>
+      <pubDate>Sun, 28 Jun 2026 11:09:07 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Zygisk Next v1.4.2</title>
+      <link>https://github.com/Dr-TSNG/ZygiskNext/releases</link>
+      <guid isPermaLink="false">zygisk-next-v1-4-2-junio-2026</guid>
+      <description>Nueva version del modulo standalone Zygisk (22/06/2026) con correcciones de crash y compatibilidad con Android 8/8.1. Relevante para el ecosistema root. Categoria: Root.</description>
+      <pubDate>Sun, 28 Jun 2026 11:09:07 +0000</pubDate>
+      <category>Root</category>
     </item>
   </channel>
 </rss>

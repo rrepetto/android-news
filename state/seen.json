@@ -173,6 +173,42 @@
       "title": "Google Play abrira distribucion a tiendas de terceros en EE.UU. (acuerdo Epic)",
       "url": "https://support.google.com/googleplay/android-developer/answer/15582165?hl=en",
       "first_seen": "2026-06-27"
+    },
+    {
+      "id": "gemini-android-hijack-notificaciones-prompt-injection",
+      "title": "Gemini Android: hijack via notificaciones de WhatsApp/Slack/SMS (prompt injection)",
+      "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "qualcomm-junio-2026-3-cves-criticos-cvss-9-8",
+      "title": "Qualcomm: boletín de junio 2026 con 3 CVEs críticos CVSS 9.8",
+      "url": "https://docs.qualcomm.com/securitybulletin/june-2026-bulletin.html",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "trickmo-variante-ton-c2-socks5-proxy-2026",
+      "title": "TrickMo: nueva variante usa blockchain TON como C2 y proxy SOCKS5",
+      "url": "https://securityaffairs.com/192003/malware/android-banking-trojan-trickmo-evolves-using-ton-network-for-c2.html",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "samsung-one-ui-9-beta-android-17-galaxy-s26",
+      "title": "Samsung One UI 9.0 Beta (Android 17) disponible para Galaxy S26",
+      "url": "https://news.samsung.com/global/samsung-launches-one-ui-9-beta-for-galaxy-s26-series-users",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "android-drop-junio-2026-personal-safety-menores",
+      "title": "Android Drop junio 2026: Personal Safety para menores",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "zygisk-next-v1-4-2-junio-2026",
+      "title": "Zygisk Next v1.4.2",
+      "url": "https://github.com/Dr-TSNG/ZygiskNext/releases",
+      "first_seen": "2026-06-28"
     }
   ]
 }
