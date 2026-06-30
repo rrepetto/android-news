@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Android Security Digest</title>
-    <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
-    <language>es</language>
-    <lastBuildDate>Mon, 29 Jun 2026 11:13:24 +0000</lastBuildDate>
-  </channel>
+<channel>
+<title>Android Security Digest</title>
+<link>https://github.com/rrepetto/android-news</link>
+<description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
+<language>es</language>
+<lastBuildDate>Tue, 30 Jun 2026 11:05:06 +0000</lastBuildDate>
+<item>
+<title>[ALTA] Shizuku roto en Android 17: issue oficial sin resolver y fork comunitario con hardening de seguridad</title>
+<link>https://github.com/RikkaApps/Shizuku/issues/2180</link>
+<guid isPermaLink="false">shizuku-roto-android-17-nightzuku-fork-junio-2026</guid>
+<description>Shizuku v13.6.0 deja de mostrar apps autorizadas en Android 17 por un cambio en IPackageManager.getInstalledPackages. El issue oficial sigue abierto; el fork Nightzuku aporta fix y hardening de seguridad (elimina logging de clave privada RSA, allowBackup=false). Categoria: Shizuku/Sui.</description>
+<pubDate>Tue, 30 Jun 2026 11:05:06 +0000</pubDate>
+<category>Shizuku/Sui</category>
+</item>
+<item>
+<title>[MEDIA] KernelSU v3.2.5: nueva release con &quot;selinux hide&quot; y endurecimiento</title>
+<link>https://github.com/tiann/KernelSU/releases/tag/v3.2.5</link>
+<guid isPermaLink="false">kernelsu-v3-2-5-selinux-hide</guid>
+<description>Nueva release oficial de KernelSU: oculta el estado de SELinux modificado, corrige un out-of-bounds read, refactoriza la allowlist del kernel y agrega KSU_NO_NEW_PRIVS. Categoria: Root.</description>
+<pubDate>Tue, 30 Jun 2026 11:05:06 +0000</pubDate>
+<category>Root</category>
+</item>
+<item>
+<title>[MEDIA] Guia comunitaria en XDA reporta bypass funcional de Strong Integrity y ocultacion de root</title>
+<link>https://xdaforums.com/t/guide-how-to-pass-strong-integrity-and-bypass-root-detection-apps-revolut-company-portal-google-wallet-etc-working-as-of-june-22nd-2026.4773849/</link>
+<guid isPermaLink="false">xda-strong-integrity-bypass-root-hide-junio-2026</guid>
+<description>Hilo activo en XDA Forums que describe como pasar el veredicto Strong Integrity de Play Integrity y evadir deteccion de root en apps como Revolut, Microsoft Company Portal y Google Wallet. Contenido no verificado directamente. Categoria: Play Integrity.</description>
+<pubDate>Tue, 30 Jun 2026 11:05:06 +0000</pubDate>
+<category>Play Integrity</category>
+</item>
+</channel>
 </rss>

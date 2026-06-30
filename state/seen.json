@@ -209,6 +209,24 @@
       "title": "Zygisk Next v1.4.2",
       "url": "https://github.com/Dr-TSNG/ZygiskNext/releases",
       "first_seen": "2026-06-28"
+    },
+    {
+      "id": "shizuku-roto-android-17-nightzuku-fork-junio-2026",
+      "title": "Shizuku roto en Android 17: issue oficial sin resolver y fork comunitario con hardening de seguridad",
+      "url": "https://github.com/RikkaApps/Shizuku/issues/2180",
+      "first_seen": "2026-06-30"
+    },
+    {
+      "id": "kernelsu-v3-2-5-selinux-hide",
+      "title": "KernelSU v3.2.5: nueva release con \"selinux hide\" y endurecimiento",
+      "url": "https://github.com/tiann/KernelSU/releases/tag/v3.2.5",
+      "first_seen": "2026-06-30"
+    },
+    {
+      "id": "xda-strong-integrity-bypass-root-hide-junio-2026",
+      "title": "Guía comunitaria en XDA reporta bypass funcional de Strong Integrity y ocultación de root",
+      "url": "https://xdaforums.com/t/guide-how-to-pass-strong-integrity-and-bypass-root-detection-apps-revolut-company-portal-google-wallet-etc-working-as-of-june-22nd-2026.4773849/",
+      "first_seen": "2026-06-30"
     }
   ]
 }
