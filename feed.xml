@@ -1,34 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-<title>Android Security Digest</title>
-<link>https://github.com/rrepetto/android-news</link>
-<description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
-<language>es</language>
-<lastBuildDate>Tue, 30 Jun 2026 11:05:06 +0000</lastBuildDate>
-<item>
-<title>[ALTA] Shizuku roto en Android 17: issue oficial sin resolver y fork comunitario con hardening de seguridad</title>
-<link>https://github.com/RikkaApps/Shizuku/issues/2180</link>
-<guid isPermaLink="false">shizuku-roto-android-17-nightzuku-fork-junio-2026</guid>
-<description>Shizuku v13.6.0 deja de mostrar apps autorizadas en Android 17 por un cambio en IPackageManager.getInstalledPackages. El issue oficial sigue abierto; el fork Nightzuku aporta fix y hardening de seguridad (elimina logging de clave privada RSA, allowBackup=false). Categoria: Shizuku/Sui.</description>
-<pubDate>Tue, 30 Jun 2026 11:05:06 +0000</pubDate>
-<category>Shizuku/Sui</category>
-</item>
-<item>
-<title>[MEDIA] KernelSU v3.2.5: nueva release con &quot;selinux hide&quot; y endurecimiento</title>
-<link>https://github.com/tiann/KernelSU/releases/tag/v3.2.5</link>
-<guid isPermaLink="false">kernelsu-v3-2-5-selinux-hide</guid>
-<description>Nueva release oficial de KernelSU: oculta el estado de SELinux modificado, corrige un out-of-bounds read, refactoriza la allowlist del kernel y agrega KSU_NO_NEW_PRIVS. Categoria: Root.</description>
-<pubDate>Tue, 30 Jun 2026 11:05:06 +0000</pubDate>
-<category>Root</category>
-</item>
-<item>
-<title>[MEDIA] Guia comunitaria en XDA reporta bypass funcional de Strong Integrity y ocultacion de root</title>
-<link>https://xdaforums.com/t/guide-how-to-pass-strong-integrity-and-bypass-root-detection-apps-revolut-company-portal-google-wallet-etc-working-as-of-june-22nd-2026.4773849/</link>
-<guid isPermaLink="false">xda-strong-integrity-bypass-root-hide-junio-2026</guid>
-<description>Hilo activo en XDA Forums que describe como pasar el veredicto Strong Integrity de Play Integrity y evadir deteccion de root en apps como Revolut, Microsoft Company Portal y Google Wallet. Contenido no verificado directamente. Categoria: Play Integrity.</description>
-<pubDate>Tue, 30 Jun 2026 11:05:06 +0000</pubDate>
-<category>Play Integrity</category>
-</item>
-</channel>
+  <channel>
+    <title>Android Security Digest</title>
+    <link>https://github.com/rrepetto/android-news</link>
+    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
+    <language>es</language>
+    <lastBuildDate>Wed, 01 Jul 2026 11:03:55 +0000</lastBuildDate>
+    <item>
+      <title>[ALTA] Google implementa RBUS: el ASB mensual ahora solo lista vulnerabilidades de alto riesgo</title>
+      <link>https://www.androidauthority.com/android-risk-based-security-updates-3597466/</link>
+      <guid isPermaLink="false">google-rbus-asb-parches-riesgo-2025-2026</guid>
+      <description>Solo CVEs bajo explotacion activa o en cadenas de exploit reciben parches mensuales; el resto se acumula en boletines trimestrales (mar/jun/sep/dic). El ASB de julio 2025 fue el primero en quedar vacio; el de julio 2026, proximo a publicarse, podria seguir el mismo patron. Impacta todo el ciclo de parcheo del ecosistema Android. Categoria: ASB</description>
+      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
+      <category>ASB</category>
+    </item>
+    <item>
+      <title>[MEDIA] GrapheneOS y CalyxOS publican actualizaciones de seguridad con parches de julio 2026</title>
+      <link>https://www.nobsbitcoin.com/grapheneos-and-calyxos-july-security-updates-released/</link>
+      <guid isPermaLink="false">grapheneos-calyxos-parches-julio-2026</guid>
+      <description>Ambas distribuciones enfocadas en privacidad publicaron actualizaciones que incluyen los parches del ASB de julio 2026, adelantando a la mayoria de los OEMs. GrapheneOS incorpora los parches previamente bajo acuerdo con Google. Categoria: GrapheneOS/CalyxOS</description>
+      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
+      <category>GrapheneOS/CalyxOS</category>
+    </item>
+    <item>
+      <title>[MEDIA] Android Developer ID Status API lanza globalmente en julio 2026</title>
+      <link>https://android-developers.googleblog.com/2026/06/android-developer-verification.html</link>
+      <guid isPermaLink="false">android-developer-id-status-api-julio-2026</guid>
+      <description>Google lanza la Developer ID Status API globalmente y abre early access para la Developer Console API (registro via CI/CD). Las tiendas de terceros pueden integrarlas para bloquear apps de desarrolladores no verificados, reforzando la cadena de suministro. Categoria: API/Plataforma</description>
+      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung Galaxy Unpacked julio 22: Z Fold 8/Flip 8 con One UI 9 estable (Android 17)</title>
+      <link>https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more</link>
+      <guid isPermaLink="false">samsung-galaxy-unpacked-julio-22-2026-fold8-oneui9</guid>
+      <description>Samsung presentara el 22 de julio en Londres el Galaxy Z Fold 8 y Z Flip 8 con One UI 9 (Android 17) estable; implica despliegue de nuevas politicas Knox y la baseline de seguridad de Android 17 en hardware de alta gama. Categoria: Bootloader/Plataforma</description>
+      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
+      <category>Bootloader/Plataforma</category>
+    </item>
+  </channel>
 </rss>

@@ -227,6 +227,30 @@
       "title": "Guía comunitaria en XDA reporta bypass funcional de Strong Integrity y ocultación de root",
       "url": "https://xdaforums.com/t/guide-how-to-pass-strong-integrity-and-bypass-root-detection-apps-revolut-company-portal-google-wallet-etc-working-as-of-june-22nd-2026.4773849/",
       "first_seen": "2026-06-30"
+    },
+    {
+      "id": "google-rbus-asb-parches-riesgo-2025-2026",
+      "title": "Google implementa RBUS: el ASB mensual ahora solo lista vulnerabilidades de alto riesgo",
+      "url": "https://www.androidauthority.com/android-risk-based-security-updates-3597466/",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "grapheneos-calyxos-parches-julio-2026",
+      "title": "GrapheneOS y CalyxOS publican actualizaciones de seguridad con parches de julio 2026",
+      "url": "https://www.nobsbitcoin.com/grapheneos-and-calyxos-july-security-updates-released/",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "android-developer-id-status-api-julio-2026",
+      "title": "Android Developer ID Status API lanza globalmente en julio 2026",
+      "url": "https://android-developers.googleblog.com/2026/06/android-developer-verification.html",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "samsung-galaxy-unpacked-julio-22-2026-fold8-oneui9",
+      "title": "Samsung Galaxy Unpacked julio 22: Z Fold 8/Flip 8 con One UI 9 estable (Android 17)",
+      "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more",
+      "first_seen": "2026-07-01"
     }
   ]
 }
