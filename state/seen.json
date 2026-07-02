@@ -251,6 +251,24 @@
       "title": "Samsung Galaxy Unpacked julio 22: Z Fold 8/Flip 8 con One UI 9 estable (Android 17)",
       "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more",
       "first_seen": "2026-07-01"
+    },
+    {
+      "id": "ai-deepseek-browser-ransomware-chromium-android-2026",
+      "title": "Ransomware de navegador generado por IA (DeepSeek) cifra archivos en Android Chrome sin instalar nada",
+      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "android-17-qpr1-beta-6-platform-stability-julio-2026",
+      "title": "Android 17 QPR1 Beta 6 alcanza Platform Stability — APIs del Feature Drop de septiembre están bloqueadas",
+      "url": "https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-pixel/",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "samsung-junio-2026-s23fe-mas-dispositivos-julio-2026",
+      "title": "Samsung extiende el parche de junio 2026 al Galaxy S23 FE y más dispositivos ya en julio",
+      "url": "https://www.androidheadlines.com/2026/07/samsungs-june-2026-security-update-just-reached-more-galaxy-devices.html",
+      "first_seen": "2026-07-02"
     }
   ]
 }

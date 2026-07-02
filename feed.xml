@@ -3,40 +3,32 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas.</description>
+    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/ y state/seen.json.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:10:19 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Google implementa RBUS: el ASB mensual ahora solo lista vulnerabilidades de alto riesgo</title>
-      <link>https://www.androidauthority.com/android-risk-based-security-updates-3597466/</link>
-      <guid isPermaLink="false">google-rbus-asb-parches-riesgo-2025-2026</guid>
-      <description>Solo CVEs bajo explotacion activa o en cadenas de exploit reciben parches mensuales; el resto se acumula en boletines trimestrales (mar/jun/sep/dic). El ASB de julio 2025 fue el primero en quedar vacio; el de julio 2026, proximo a publicarse, podria seguir el mismo patron. Impacta todo el ciclo de parcheo del ecosistema Android. Categoria: ASB</description>
-      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
-      <category>ASB</category>
+      <title>[ALTA] Ransomware de navegador generado por IA (DeepSeek) cifra archivos en Android Chrome sin instalar nada</title>
+      <link>https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html</link>
+      <guid isPermaLink="false">ai-deepseek-browser-ransomware-chromium-android-2026</guid>
+      <description>Check Point Research documento el primer caso de ransomware browser-only generado con IA (DeepSeek/InfernoGrabber v9.0): abusa de la File System Access API de Chromium para enumerar, leer, exfiltrar y cifrar archivos del usuario desde una web trampa, sin payload nativo, sin root y sin explotar vulnerabilidad. Funciona en Android Chrome y Windows. Marca un nuevo vector de ataque de bajo umbral y alta evasion. Categoria: Malware</description>
+      <pubDate>Thu, 02 Jul 2026 11:10:19 +0000</pubDate>
+      <category>Malware</category>
     </item>
     <item>
-      <title>[MEDIA] GrapheneOS y CalyxOS publican actualizaciones de seguridad con parches de julio 2026</title>
-      <link>https://www.nobsbitcoin.com/grapheneos-and-calyxos-july-security-updates-released/</link>
-      <guid isPermaLink="false">grapheneos-calyxos-parches-julio-2026</guid>
-      <description>Ambas distribuciones enfocadas en privacidad publicaron actualizaciones que incluyen los parches del ASB de julio 2026, adelantando a la mayoria de los OEMs. GrapheneOS incorpora los parches previamente bajo acuerdo con Google. Categoria: GrapheneOS/CalyxOS</description>
-      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
-      <category>GrapheneOS/CalyxOS</category>
-    </item>
-    <item>
-      <title>[MEDIA] Android Developer ID Status API lanza globalmente en julio 2026</title>
-      <link>https://android-developers.googleblog.com/2026/06/android-developer-verification.html</link>
-      <guid isPermaLink="false">android-developer-id-status-api-julio-2026</guid>
-      <description>Google lanza la Developer ID Status API globalmente y abre early access para la Developer Console API (registro via CI/CD). Las tiendas de terceros pueden integrarlas para bloquear apps de desarrolladores no verificados, reforzando la cadena de suministro. Categoria: API/Plataforma</description>
-      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
+      <title>[MEDIA] Android 17 QPR1 Beta 6 alcanza Platform Stability &amp;mdash; APIs del Feature Drop de septiembre bloqueadas</title>
+      <link>https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-pixel/</link>
+      <guid isPermaLink="false">android-17-qpr1-beta-6-platform-stability-julio-2026</guid>
+      <description>Google publico Beta 6 de Android 17 QPR1 para Pixel (build CP31.260618.005, 1 julio 2026) declarando Platform Stability: APIs congeladas para el Feature Drop de septiembre. Desarrolladores pueden ya optimizar sus apps. Mejoras en desktop windowing y Health Connect. Categoria: API/Plataforma</description>
+      <pubDate>Thu, 02 Jul 2026 11:10:19 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[BAJA] Samsung Galaxy Unpacked julio 22: Z Fold 8/Flip 8 con One UI 9 estable (Android 17)</title>
-      <link>https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more</link>
-      <guid isPermaLink="false">samsung-galaxy-unpacked-julio-22-2026-fold8-oneui9</guid>
-      <description>Samsung presentara el 22 de julio en Londres el Galaxy Z Fold 8 y Z Flip 8 con One UI 9 (Android 17) estable; implica despliegue de nuevas politicas Knox y la baseline de seguridad de Android 17 en hardware de alta gama. Categoria: Bootloader/Plataforma</description>
-      <pubDate>Wed, 01 Jul 2026 11:03:55 +0000</pubDate>
-      <category>Bootloader/Plataforma</category>
+      <title>[BAJA] Samsung extiende el parche de junio 2026 al Galaxy S23 FE y mas dispositivos ya en julio</title>
+      <link>https://www.androidheadlines.com/2026/07/samsungs-june-2026-security-update-just-reached-more-galaxy-devices.html</link>
+      <guid isPermaLink="false">samsung-junio-2026-s23fe-mas-dispositivos-julio-2026</guid>
+      <description>Samsung desplego el parche de seguridad de junio 2026 (45 vulnerabilidades, zero-day CVE-2025-48595) al Galaxy S23 FE (firmware S711BXXSGGZF2) y dispositivos adicionales ya en julio, indicando adopcion tardia del parche critico con explotacion activa confirmada. Categoria: ASB/Parches</description>
+      <pubDate>Thu, 02 Jul 2026 11:10:19 +0000</pubDate>
+      <category>ASB/Parches</category>
     </item>
   </channel>
 </rss>
