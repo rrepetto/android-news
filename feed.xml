@@ -3,32 +3,16 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: boletines (ASB), malware, Play Integrity, root, bootloader, APIs/plataforma y mas. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/ y state/seen.json.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. Solo ítems del último día.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:10:19 +0000</lastBuildDate>
-    <item>
-      <title>[ALTA] Ransomware de navegador generado por IA (DeepSeek) cifra archivos en Android Chrome sin instalar nada</title>
-      <link>https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html</link>
-      <guid isPermaLink="false">ai-deepseek-browser-ransomware-chromium-android-2026</guid>
-      <description>Check Point Research documento el primer caso de ransomware browser-only generado con IA (DeepSeek/InfernoGrabber v9.0): abusa de la File System Access API de Chromium para enumerar, leer, exfiltrar y cifrar archivos del usuario desde una web trampa, sin payload nativo, sin root y sin explotar vulnerabilidad. Funciona en Android Chrome y Windows. Marca un nuevo vector de ataque de bajo umbral y alta evasion. Categoria: Malware</description>
-      <pubDate>Thu, 02 Jul 2026 11:10:19 +0000</pubDate>
-      <category>Malware</category>
-    </item>
-    <item>
-      <title>[MEDIA] Android 17 QPR1 Beta 6 alcanza Platform Stability &amp;mdash; APIs del Feature Drop de septiembre bloqueadas</title>
-      <link>https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-pixel/</link>
-      <guid isPermaLink="false">android-17-qpr1-beta-6-platform-stability-julio-2026</guid>
-      <description>Google publico Beta 6 de Android 17 QPR1 para Pixel (build CP31.260618.005, 1 julio 2026) declarando Platform Stability: APIs congeladas para el Feature Drop de septiembre. Desarrolladores pueden ya optimizar sus apps. Mejoras en desktop windowing y Health Connect. Categoria: API/Plataforma</description>
-      <pubDate>Thu, 02 Jul 2026 11:10:19 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung extiende el parche de junio 2026 al Galaxy S23 FE y mas dispositivos ya en julio</title>
-      <link>https://www.androidheadlines.com/2026/07/samsungs-june-2026-security-update-just-reached-more-galaxy-devices.html</link>
-      <guid isPermaLink="false">samsung-junio-2026-s23fe-mas-dispositivos-julio-2026</guid>
-      <description>Samsung desplego el parche de seguridad de junio 2026 (45 vulnerabilidades, zero-day CVE-2025-48595) al Galaxy S23 FE (firmware S711BXXSGGZF2) y dispositivos adicionales ya en julio, indicando adopcion tardia del parche critico con explotacion activa confirmada. Categoria: ASB/Parches</description>
-      <pubDate>Thu, 02 Jul 2026 11:10:19 +0000</pubDate>
-      <category>ASB/Parches</category>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 11:11:55 +0000</lastBuildDate>
+  <item>
+    <title>[BAJA] Google pierde apelación final en la UE: multa de €4.100M por Android confirmada</title>
+    <link>https://www.androidheadlines.com/2026/07/google-loses-final-appeal-eu-android-antitrust-fine.html</link>
+    <guid isPermaLink="false">google-eu-android-antitrust-final-appeal-julio-2026</guid>
+    <description>El Tribunal de Justicia de la UE desestimó el último recurso de Google contra la multa de €4.100M por obligar a los OEMs a preinstalar Chrome, Search y Play Store como condición de licencia Android. Decisión definitiva e inapelable; podría forzar cambios en acuerdos OEM a largo plazo. | Categoría: Plataforma/Ecosistema</description>
+    <pubDate>Fri, 03 Jul 2026 11:11:55 +0000</pubDate>
+    <category>Plataforma/Ecosistema</category>
+  </item>
   </channel>
 </rss>
