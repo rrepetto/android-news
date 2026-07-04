@@ -3,16 +3,54 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. Solo ítems del último día.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:11:55 +0000</lastBuildDate>
-  <item>
-    <title>[BAJA] Google pierde apelación final en la UE: multa de €4.100M por Android confirmada</title>
-    <link>https://www.androidheadlines.com/2026/07/google-loses-final-appeal-eu-android-antitrust-fine.html</link>
-    <guid isPermaLink="false">google-eu-android-antitrust-final-appeal-julio-2026</guid>
-    <description>El Tribunal de Justicia de la UE desestimó el último recurso de Google contra la multa de €4.100M por obligar a los OEMs a preinstalar Chrome, Search y Play Store como condición de licencia Android. Decisión definitiva e inapelable; podría forzar cambios en acuerdos OEM a largo plazo. | Categoría: Plataforma/Ecosistema</description>
-    <pubDate>Fri, 03 Jul 2026 11:11:55 +0000</pubDate>
-    <category>Plataforma/Ecosistema</category>
-  </item>
+    <lastBuildDate>Sat, 04 Jul 2026 11:10:03 +0000</lastBuildDate>
+
+    <item>
+      <title>[ALTA] CVE-2026-46242 &apos;Bad Epoll&apos;: LPE a root en kernel Linux 6.4+, alcanza Android</title>
+      <link>https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html</link>
+      <guid isPermaLink="false">cve-2026-46242-bad-epoll-linux-kernel-android</guid>
+      <description>Race condition use-after-free en el subsistema epoll del kernel Linux 6.4+. Un usuario sin privilegios puede escalar a root; PoC con 99% de fiabilidad que puede dispararse desde el sandbox del renderer de Chrome en Android. Divulgaci&amp;oacute;n p&amp;uacute;blica: 3 de julio 2026. Categor&amp;iacute;a: Kernel/CVE</description>
+      <pubDate>Sat, 04 Jul 2026 11:10:03 +0000</pubDate>
+      <category>Kernel/CVE</category>
+    </item>
+
+    <item>
+      <title>[ALTA] Google + FBI desmantelan botnet NetNut/Popa: 2 millones de Android comprometidos</title>
+      <link>https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html</link>
+      <guid isPermaLink="false">netnut-popa-botnet-android-takedown-julio-2026</guid>
+      <description>Operaci&amp;oacute;n coordinada de Google (GTIG), FBI y Lumen que tumb&amp;oacute; la red de proxy residencial NetNut/Popa. SDKs maliciosos en TVs y cajas de streaming Android comprometieron 2 millones de dispositivos, usados por 316 clusters de amenazas para C2 y ataques. Categor&amp;iacute;a: Malware</description>
+      <pubDate>Sat, 04 Jul 2026 11:10:03 +0000</pubDate>
+      <category>Malware</category>
+    </item>
+
+    <item>
+      <title>[ALTA] F-Droid llama &apos;malware&apos; al ADV de Google; 71 organizaciones firman carta abierta</title>
+      <link>https://f-droid.org/2026/07/01/adv-malware.html</link>
+      <guid isPermaLink="false">fdroid-adv-malware-openandroid-71-orgs-julio-2026</guid>
+      <description>F-Droid califica al Android Developer Verifier (ADV) como virus pre-instalado en Android 8+. Enforcement desde el 30/09/2026 en 4 pa&amp;iacute;ses bloquear&amp;aacute; apps de desarrolladores no verificados. EFF, FSF, ACLU y 68 organizaciones m&amp;aacute;s se oponen. Categor&amp;iacute;a: API/Plataforma</description>
+      <pubDate>Sat, 04 Jul 2026 11:10:03 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+
+    <item>
+      <title>[MEDIA] Glitch SPY RAT: RAT Android con 70+ comandos distribuido via fake app de alquiler</title>
+      <link>https://gbhackers.com/glitch-spy-rat-abuses-android/</link>
+      <guid isPermaLink="false">glitch-spy-rat-android-accessibility-julio-2026</guid>
+      <description>RAT para Android entregado via falsa plataforma polaca de alquiler. Usa Accessibility Services para control total: screen streaming, keylogging, robo de SMS, crypto-clipper multi-chain y navegador remoto oculto. Loader: Brokewell Android Loader. Categor&amp;iacute;a: Accessibility</description>
+      <pubDate>Sat, 04 Jul 2026 11:10:03 +0000</pubDate>
+      <category>Accessibility</category>
+    </item>
+
+    <item>
+      <title>[MEDIA] RustDuck: botnet en Rust compromete Android set-top boxes via ADB para DDoS</title>
+      <link>https://thehackernews.com/2026/07/rustduck-botnet-rebuilds-in-rust-to.html</link>
+      <guid isPermaLink="false">rustduck-botnet-android-adb-ddos-junio-2026</guid>
+      <description>Botnet activa desde febrero 2026 que migra de C a Rust con cifrado ChaCha20-Poly1305. Compromete Android set-top boxes via ADB, routers y servidores para DDoS. Rastreada por XLab/QiAnXin. Categor&amp;iacute;a: Malware</description>
+      <pubDate>Sat, 04 Jul 2026 11:10:03 +0000</pubDate>
+      <category>Malware</category>
+    </item>
+
   </channel>
 </rss>

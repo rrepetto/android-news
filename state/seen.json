@@ -275,6 +275,36 @@
       "title": "Google pierde apelación final en la UE: multa de €4.100M por Android confirmada",
       "url": "https://www.androidheadlines.com/2026/07/google-loses-final-appeal-eu-android-antitrust-fine.html",
       "first_seen": "2026-07-03"
+    },
+    {
+      "id": "cve-2026-46242-bad-epoll-linux-kernel-android",
+      "title": "CVE-2026-46242 'Bad Epoll': LPE a root en kernel Linux 6.4+, alcanza Android",
+      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "netnut-popa-botnet-android-takedown-julio-2026",
+      "title": "Google + FBI desmantelan botnet NetNut/Popa: 2 millones de Android comprometidos",
+      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "fdroid-adv-malware-openandroid-71-orgs-julio-2026",
+      "title": "F-Droid llama 'malware' al ADV de Google; 71 organizaciones firman carta abierta",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "glitch-spy-rat-android-accessibility-julio-2026",
+      "title": "Glitch SPY RAT: RAT Android con 70+ comandos distribuido via fake app de alquiler",
+      "url": "https://gbhackers.com/glitch-spy-rat-abuses-android/",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "rustduck-botnet-android-adb-ddos-junio-2026",
+      "title": "RustDuck: botnet en Rust compromete Android set-top boxes via ADB para DDoS",
+      "url": "https://thehackernews.com/2026/07/rustduck-botnet-rebuilds-in-rust-to.html",
+      "first_seen": "2026-07-04"
     }
   ]
 }
