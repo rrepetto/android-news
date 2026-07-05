@@ -305,6 +305,12 @@
       "title": "RustDuck: botnet en Rust compromete Android set-top boxes via ADB para DDoS",
       "url": "https://thehackernews.com/2026/07/rustduck-botnet-rebuilds-in-rust-to.html",
       "first_seen": "2026-07-04"
+    },
+    {
+      "id": "quick-share-android-cispa-6-flaws-julio-2026",
+      "title": "Quick Share (Android): 6 vulnerabilidades CISPA — bypass de autenticacion en protocolo de proximidad",
+      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "first_seen": "2026-07-05"
     }
   ]
 }
