@@ -311,6 +311,24 @@
       "title": "Quick Share (Android): 6 vulnerabilidades CISPA — bypass de autenticacion en protocolo de proximidad",
       "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
       "first_seen": "2026-07-05"
+    },
+    {
+      "id": "mediatek-julio-2026-product-security-bulletin",
+      "title": "MediaTek publica boletin de seguridad de julio 2026 para chipsets Android",
+      "url": "https://corp.mediatek.com/product-security-bulletin/July-2026",
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "samsung-watch-julio-2026-parche-primer-rollout",
+      "title": "Samsung inicia el primer rollout del parche de julio 2026 en Galaxy Watch 8 y Watch 7",
+      "url": "https://www.sammobile.com/news/galaxy-watch-8-watch-7-first-samsung-devices-get-july-2026-security-update/",
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "samsung-one-ui-9-beta-4-galaxy-s26-julio-2026",
+      "title": "Samsung confirma One UI 9.0 Beta 4 para Galaxy S26 con mejoras de Auto Blocker y USB",
+      "url": "https://www.sammyfans.com/2026/07/05/samsung-confirms-one-ui-9-0-beta-4-to-release-next-week/",
+      "first_seen": "2026-07-06"
     }
   ]
 }
