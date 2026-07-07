@@ -329,6 +329,36 @@
       "title": "Samsung confirma One UI 9.0 Beta 4 para Galaxy S26 con mejoras de Auto Blocker y USB",
       "url": "https://www.sammyfans.com/2026/07/05/samsung-confirms-one-ui-9-0-beta-4-to-release-next-week/",
       "first_seen": "2026-07-06"
+    },
+    {
+      "id": "asb-julio-2026-tres-zero-days-explotados",
+      "title": "ASB Julio 2026: tres vulnerabilidades Android explotadas activamente",
+      "url": "https://www.bleepingcomputer.com/news/security/android-july-security-updates-fix-three-actively-exploited-bugs/",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "samsung-julio-2026-parche-57-cves-5-criticos",
+      "title": "Samsung julio 2026: parche con 57 vulnerabilidades (5 críticas, 16 SVEs propias)",
+      "url": "https://www.sammobile.com/news/samsung-july-2026-security-patch-detailed/",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "samsung-one-ui-9-roadmap-julio-2026-estable-22jul",
+      "title": "Samsung One UI 9 (Android 17): hoja de ruta estable desde el 22 de julio",
+      "url": "https://www.sammyfans.com/2026/07/07/samsung-software-roadmap-july-2026/",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "kernelsu-next-v3-3-0-julio-2026",
+      "title": "KernelSU-Next v3.3.0: SELinux hide mejorado y refactor del kernel allowlist",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.3.0",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "samsung-quarterly-security-list-julio-2026-a27-m47",
+      "title": "Samsung actualiza lista Quarterly Security: A27 5G y M47 5G se suman; M13 4G pierde soporte",
+      "url": "https://www.sammyfans.com/2026/07/07/samsung-updates-quarterly-security-list-with-2-new-additions-1-exit/",
+      "first_seen": "2026-07-07"
     }
   ]
 }
