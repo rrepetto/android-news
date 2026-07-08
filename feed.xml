@@ -3,48 +3,32 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader y plataforma.</description>
+    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 11:04:08 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] ASB Julio 2026: tres vulnerabilidades Android explotadas activamente</title>
-      <link>https://www.bleepingcomputer.com/news/security/android-july-security-updates-fix-three-actively-exploited-bugs/</link>
-      <guid isPermaLink="false">asb-julio-2026-tres-zero-days-explotados</guid>
-      <description>El Android Security Bulletin de julio 2026 parchea tres CVEs bajo explotacion activa y limitada, junto con decenas de vulnerabilidades de alta severidad. Nivel de parche 2026-07-01 / 2026-07-05. Actualizar de inmediato. Categoria: ASB</description>
-      <pubDate>Tue, 07 Jul 2026 11:11:28 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-    <item>
-      <title>[MEDIA] Samsung julio 2026: parche con 57 vulnerabilidades (5 criticas, 16 SVEs propias)</title>
-      <link>https://www.sammobile.com/news/samsung-july-2026-security-patch-detailed/</link>
-      <guid isPermaLink="false">samsung-julio-2026-parche-57-cves-5-criticos</guid>
-      <description>Samsung detallo su actualizacion de julio 2026: 41 CVEs de Google (5 criticos, 36 altos) + 16 SVEs de One UI, incluyendo bypass de KnoxGuardManager de configuracion de persistencia. Rollout en smartphones aun no iniciado. Categoria: ASB</description>
-      <pubDate>Tue, 07 Jul 2026 11:11:28 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-    <item>
-      <title>[MEDIA] Samsung One UI 9 (Android 17): hoja de ruta estable desde el 22 de julio</title>
-      <link>https://www.sammyfans.com/2026/07/07/samsung-software-roadmap-july-2026/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-roadmap-julio-2026-estable-22jul</guid>
-      <description>Samsung publico el roadmap oficial de software de julio 2026. One UI 9 estable debuta el 22 de julio con Galaxy Z Fold 8 y Flip 8; expansion a flagships S-series en agosto 2026. Categoria: API/Plataforma</description>
-      <pubDate>Tue, 07 Jul 2026 11:11:28 +0000</pubDate>
+      <title>[ALTA] Android 16 VPN bypass &apos;Tiny UDP Cannon&apos;: Google Won&apos;t Fix, GrapheneOS lo parchea</title>
+      <link>https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/</link>
+      <guid isPermaLink="false">android-16-vpn-tiny-udp-cannon-wont-fix-grapheneos</guid>
+      <description>Falla en la implementacion de QUIC connection teardown en Android 16 permite que apps filtren la IP real del usuario incluso con Always-On VPN activo. Google cerro el reporte como Won&apos;t Fix (Infeasible); GrapheneOS desactivo la feature problematica en su release 2026050400. Afecta a todos los usuarios de VPN en Android 16. Categoria: API/Plataforma</description>
+      <pubDate>Wed, 08 Jul 2026 11:04:08 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[MEDIA] KernelSU-Next v3.3.0: SELinux hide mejorado y refactor del kernel allowlist</title>
-      <link>https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.3.0</link>
-      <guid isPermaLink="false">kernelsu-next-v3-3-0-julio-2026</guid>
-      <description>Nueva version mayor del fork avanzado de KernelSU: introduce evasion de deteccion de root via &quot;SELinux hide&quot; con correccion de deteccion attr/current, refactor del kernel allowlist, soporte de kernels 5.10-6.12 en Android 12-15. Categoria: Root</description>
-      <pubDate>Tue, 07 Jul 2026 11:11:28 +0000</pubDate>
-      <category>Root</category>
+      <title>[MEDIA] CVE-2026-58299: RCE en Microsoft Edge para Android (CVSS 7.5)</title>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58299</link>
+      <guid isPermaLink="false">cve-2026-58299-edge-android-rce</guid>
+      <description>Race condition TOCTOU en Microsoft Edge para Android permite ejecucion remota de codigo a traves de la red sin privilegios adicionales (CVSS 7.5, severidad Important). Parcheado el 3 de julio 2026. Requiere interaccion del usuario para ser explotado. Categoria: ASB</description>
+      <pubDate>Wed, 08 Jul 2026 11:04:08 +0000</pubDate>
+      <category>ASB</category>
     </item>
     <item>
-      <title>[BAJA] Samsung actualiza lista Quarterly Security: A27 5G y M47 5G se suman; M13 4G pierde soporte</title>
-      <link>https://www.sammyfans.com/2026/07/07/samsung-updates-quarterly-security-list-with-2-new-additions-1-exit/</link>
-      <guid isPermaLink="false">samsung-quarterly-security-list-julio-2026-a27-m47</guid>
-      <description>Samsung reviso su lista de dispositivos con actualizaciones trimestrales de seguridad: incorpora Galaxy A27 5G y M47 5G; el Galaxy M13 4G llega al fin de vida sin soporte. Categoria: Bootloader</description>
-      <pubDate>Tue, 07 Jul 2026 11:11:28 +0000</pubDate>
-      <category>Bootloader</category>
+      <title>[MEDIA] Pixel 6/6 Pro: solo 3 actualizaciones restantes antes del fin de soporte en octubre 2026</title>
+      <link>https://tech-ish.com/2026/07/08/pixel-6-july-2026-security-update/</link>
+      <guid isPermaLink="false">pixel-6-final-stretch-eol-octubre-2026</guid>
+      <description>El parche de julio 2026 es el antepenultimo para Pixel 6 y 6 Pro, que pierden soporte de seguridad en octubre 2026. La Pixel 6a tiene soporte hasta julio 2027. Los usuarios deben planificar la migracion a un dispositivo soportado. Categoria: API/Plataforma</description>
+      <pubDate>Wed, 08 Jul 2026 11:04:08 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
   </channel>
 </rss>

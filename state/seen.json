@@ -359,6 +359,24 @@
       "title": "Samsung actualiza lista Quarterly Security: A27 5G y M47 5G se suman; M13 4G pierde soporte",
       "url": "https://www.sammyfans.com/2026/07/07/samsung-updates-quarterly-security-list-with-2-new-additions-1-exit/",
       "first_seen": "2026-07-07"
+    },
+    {
+      "id": "android-16-vpn-tiny-udp-cannon-wont-fix-grapheneos",
+      "title": "Android 16 VPN bypass 'Tiny UDP Cannon': Google Won't Fix, GrapheneOS lo parchea",
+      "url": "https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "cve-2026-58299-edge-android-rce",
+      "title": "CVE-2026-58299: RCE en Microsoft Edge para Android (CVSS 7.5)",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58299",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "pixel-6-final-stretch-eol-octubre-2026",
+      "title": "Pixel 6/6 Pro: solo 3 actualizaciones restantes antes del fin de soporte en octubre 2026",
+      "url": "https://tech-ish.com/2026/07/08/pixel-6-july-2026-security-update/",
+      "first_seen": "2026-07-08"
     }
   ]
 }
