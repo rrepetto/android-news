@@ -5,30 +5,46 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:10:14 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Android 16 VPN bypass &apos;Tiny UDP Cannon&apos;: Google Won&apos;t Fix, GrapheneOS lo parchea</title>
-      <link>https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/</link>
-      <guid isPermaLink="false">android-16-vpn-tiny-udp-cannon-wont-fix-grapheneos</guid>
-      <description>Falla en la implementacion de QUIC connection teardown en Android 16 permite que apps filtren la IP real del usuario incluso con Always-On VPN activo. Google cerro el reporte como Won&apos;t Fix (Infeasible); GrapheneOS desactivo la feature problematica en su release 2026050400. Afecta a todos los usuarios de VPN en Android 16. Categoria: API/Plataforma</description>
-      <pubDate>Wed, 08 Jul 2026 11:04:08 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] Pixel julio 2026: actualización corrige bootloop persistente desde marzo (boletín Pixel-específico vacío)</title>
+      <link>https://www.notebookcheck.net/Google-Pixel-July-update-fixes-bootloop-issue.1337711.0.html</link>
+      <guid isPermaLink="false">pixel-julio-2026-update-bootloop-fix</guid>
+      <description>El parche mensual de Pixel para julio 2026 no incluye CVEs de seguridad adicionales en el boletín Pixel-específico (vacío este mes), pero sí resuelve el bootloop que afectaba a todos los dispositivos desde el Feature Drop de marzo, además de correcciones de apps y UI. Categoría: Pixel/Plataforma</description>
+      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
+      <category>Pixel/Plataforma</category>
     </item>
     <item>
-      <title>[MEDIA] CVE-2026-58299: RCE en Microsoft Edge para Android (CVSS 7.5)</title>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58299</link>
-      <guid isPermaLink="false">cve-2026-58299-edge-android-rce</guid>
-      <description>Race condition TOCTOU en Microsoft Edge para Android permite ejecucion remota de codigo a traves de la red sin privilegios adicionales (CVSS 7.5, severidad Important). Parcheado el 3 de julio 2026. Requiere interaccion del usuario para ser explotado. Categoria: ASB</description>
-      <pubDate>Wed, 08 Jul 2026 11:04:08 +0000</pubDate>
-      <category>ASB</category>
+      <title>[BAJA] Samsung Galaxy S26 inicia rollout del parche de seguridad julio 2026 en Corea (One UI 8.5)</title>
+      <link>https://www.sammyfans.com/2026/07/09/samsung-galaxy-s26-grabs-the-july-2026-security-update/</link>
+      <guid isPermaLink="false">samsung-galaxy-s26-rollout-julio-2026</guid>
+      <description>Samsung comenzó la distribución del parche de julio 2026 (57 CVEs: 5 críticos, 42 altos, 16 SVEs propias) para Galaxy S26 en Corea con One UI 8.5; expansión global próxima en días. Categoría: ASB/Parches</description>
+      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
+      <category>ASB/Parches</category>
     </item>
     <item>
-      <title>[MEDIA] Pixel 6/6 Pro: solo 3 actualizaciones restantes antes del fin de soporte en octubre 2026</title>
-      <link>https://tech-ish.com/2026/07/08/pixel-6-july-2026-security-update/</link>
-      <guid isPermaLink="false">pixel-6-final-stretch-eol-octubre-2026</guid>
-      <description>El parche de julio 2026 es el antepenultimo para Pixel 6 y 6 Pro, que pierden soporte de seguridad en octubre 2026. La Pixel 6a tiene soporte hasta julio 2027. Los usuarios deben planificar la migracion a un dispositivo soportado. Categoria: API/Plataforma</description>
-      <pubDate>Wed, 08 Jul 2026 11:04:08 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[BAJA] Google Play System Update julio 2026 llega a dispositivos Samsung Galaxy</title>
+      <link>https://www.sammyfans.com/2026/07/09/july-2026-google-play-system-update-rolling-out-to-samsung-phones/</link>
+      <guid isPermaLink="false">google-play-system-update-julio-2026-samsung</guid>
+      <description>La actualización del sistema Google Play de julio 2026 se distribuye en Samsung con Android 16 y 17 beta; independiente del parche mensual Samsung, proviene directamente de Google con mejoras de seguridad en servicios Play. Categoría: ASB/Plataforma</description>
+      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
+      <category>ASB/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Xiaomi inicia rollout del parche de seguridad de julio 2026 en HyperOS 3</title>
+      <link>https://ximitime.com/xiaomi-rolls-out-july-2026-android-security-patch-for-devices-98429/</link>
+      <guid isPermaLink="false">xiaomi-julio-2026-parche-rollout</guid>
+      <description>Xiaomi comenzó la distribución del parche de julio 2026 en dispositivos Xiaomi, REDMI y POCO con HyperOS 3; REDMI Pad SE 8.7 (EEA) entre los primeros en recibirlo. Categoría: ASB/Parches</description>
+      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
+      <category>ASB/Parches</category>
+    </item>
+    <item>
+      <title>[BAJA] Qualcomm publica boletín de seguridad de julio 2026 para chipsets Snapdragon</title>
+      <link>https://docs.qualcomm.com/product/publicresources/securitybulletin/july-2026-bulletin.html</link>
+      <guid isPermaLink="false">qualcomm-julio-2026-security-bulletin</guid>
+      <description>Qualcomm publicó su boletín mensual de julio 2026 con parches para componentes propietarios de chipsets Snapdragon; OEMs notificados y con recomendación urgente de distribución. Categoría: ASB/Chips</description>
+      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
+      <category>ASB/Chips</category>
     </item>
   </channel>
 </rss>

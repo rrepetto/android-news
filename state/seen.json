@@ -377,6 +377,36 @@
       "title": "Pixel 6/6 Pro: solo 3 actualizaciones restantes antes del fin de soporte en octubre 2026",
       "url": "https://tech-ish.com/2026/07/08/pixel-6-july-2026-security-update/",
       "first_seen": "2026-07-08"
+    },
+    {
+      "id": "pixel-julio-2026-update-bootloop-fix",
+      "title": "Pixel julio 2026: actualización corrige bootloop persistente desde marzo (boletín Pixel-específico vacío)",
+      "url": "https://www.notebookcheck.net/Google-Pixel-July-update-fixes-bootloop-issue.1337711.0.html",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "samsung-galaxy-s26-rollout-julio-2026",
+      "title": "Samsung Galaxy S26 inicia rollout del parche de seguridad julio 2026 en Corea (One UI 8.5)",
+      "url": "https://www.sammyfans.com/2026/07/09/samsung-galaxy-s26-grabs-the-july-2026-security-update/",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "google-play-system-update-julio-2026-samsung",
+      "title": "Google Play System Update julio 2026 llega a dispositivos Samsung Galaxy",
+      "url": "https://www.sammyfans.com/2026/07/09/july-2026-google-play-system-update-rolling-out-to-samsung-phones/",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "xiaomi-julio-2026-parche-rollout",
+      "title": "Xiaomi inicia rollout del parche de seguridad de julio 2026 en HyperOS 3",
+      "url": "https://ximitime.com/xiaomi-rolls-out-july-2026-android-security-patch-for-devices-98429/",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "qualcomm-julio-2026-security-bulletin",
+      "title": "Qualcomm publica boletín de seguridad de julio 2026 para chipsets Snapdragon",
+      "url": "https://docs.qualcomm.com/product/publicresources/securitybulletin/july-2026-bulletin.html",
+      "first_seen": "2026-07-09"
     }
   ]
 }
