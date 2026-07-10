@@ -5,46 +5,43 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:08:32 +0000</lastBuildDate>
+
     <item>
-      <title>[MEDIA] Pixel julio 2026: actualización corrige bootloop persistente desde marzo (boletín Pixel-específico vacío)</title>
-      <link>https://www.notebookcheck.net/Google-Pixel-July-update-fixes-bootloop-issue.1337711.0.html</link>
-      <guid isPermaLink="false">pixel-julio-2026-update-bootloop-fix</guid>
-      <description>El parche mensual de Pixel para julio 2026 no incluye CVEs de seguridad adicionales en el boletín Pixel-específico (vacío este mes), pero sí resuelve el bootloop que afectaba a todos los dispositivos desde el Feature Drop de marzo, además de correcciones de apps y UI. Categoría: Pixel/Plataforma</description>
-      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
-      <category>Pixel/Plataforma</category>
+      <title>[ALTA] RedWing MaaS: fraude bancario Android alquilado en Telegram (Zimperium)</title>
+      <link>https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html</link>
+      <guid isPermaLink="false">redwing-maas-android-banking-telegram-2026</guid>
+      <description>Zimperium zLabs reveló RedWing, plataforma MaaS que permite a atacantes sin experiencia comprometer Android, robar credenciales bancarias e interceptar OTPs. Apunta a 82 instituciones financieras; genera APKs personalizados via bot Telegram. Categoría: Malware.</description>
+      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
+      <category>Malware</category>
     </item>
+
     <item>
-      <title>[BAJA] Samsung Galaxy S26 inicia rollout del parche de seguridad julio 2026 en Corea (One UI 8.5)</title>
-      <link>https://www.sammyfans.com/2026/07/09/samsung-galaxy-s26-grabs-the-july-2026-security-update/</link>
-      <guid isPermaLink="false">samsung-galaxy-s26-rollout-julio-2026</guid>
-      <description>Samsung comenzó la distribución del parche de julio 2026 (57 CVEs: 5 críticos, 42 altos, 16 SVEs propias) para Galaxy S26 en Corea con One UI 8.5; expansión global próxima en días. Categoría: ASB/Parches</description>
-      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
-      <category>ASB/Parches</category>
+      <title>[ALTA] GhostLock (CVE-2026-43499): LPE de 15 años en kernel Linux con PoC público apuntado a ARM64 Android</title>
+      <link>https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</link>
+      <guid isPermaLink="false">cve-2026-43499-ghostlock-linux-kernel-android</guid>
+      <description>Falla use-after-free en rtmutex del kernel Linux desde 2011. PoC público 97% confiable, root en ~5s, container escape, orientado a Android ARM64. Fix en Linux 7.1 pero bug secundario (CVE-2026-53166) complica el parche. Categoría: ASB/CVE.</description>
+      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
+      <category>ASB/CVE</category>
     </item>
+
     <item>
-      <title>[BAJA] Google Play System Update julio 2026 llega a dispositivos Samsung Galaxy</title>
-      <link>https://www.sammyfans.com/2026/07/09/july-2026-google-play-system-update-rolling-out-to-samsung-phones/</link>
-      <guid isPermaLink="false">google-play-system-update-julio-2026-samsung</guid>
-      <description>La actualización del sistema Google Play de julio 2026 se distribuye en Samsung con Android 16 y 17 beta; independiente del parche mensual Samsung, proviene directamente de Google con mejoras de seguridad en servicios Play. Categoría: ASB/Plataforma</description>
-      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
-      <category>ASB/Plataforma</category>
+      <title>[MEDIA] Samsung Messages se apagó el 6 julio y scammers lanzan smishing masivo contra usuarios Galaxy</title>
+      <link>https://www.techtimes.com/articles/319771/20260706/samsung-messages-gone-dark-scam-texts-target-galaxy-users-shutdown-day.htm</link>
+      <guid isPermaLink="false">samsung-messages-shutdown-smishing-julio-2026</guid>
+      <description>Samsung Messages discontinuado en EE.UU. el 6/7 (Android 12+). Campaña de smishing activa desde abril explota confusión de usuarios Galaxy con links de &quot;activación&quot; falsos. Samsung no envía SMS con links para esta migración. Categoría: Malware/Phishing.</description>
+      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
+      <category>Malware</category>
     </item>
+
     <item>
-      <title>[BAJA] Xiaomi inicia rollout del parche de seguridad de julio 2026 en HyperOS 3</title>
-      <link>https://ximitime.com/xiaomi-rolls-out-july-2026-android-security-patch-for-devices-98429/</link>
-      <guid isPermaLink="false">xiaomi-julio-2026-parche-rollout</guid>
-      <description>Xiaomi comenzó la distribución del parche de julio 2026 en dispositivos Xiaomi, REDMI y POCO con HyperOS 3; REDMI Pad SE 8.7 (EEA) entre los primeros en recibirlo. Categoría: ASB/Parches</description>
-      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
-      <category>ASB/Parches</category>
+      <title>[BAJA] Samsung expande rollout del parche de julio 2026 a Galaxy S25, Fold 7, Flip 7 y TriFold</title>
+      <link>https://www.sammobile.com/news/new-galaxy-s25-update-brings-july-2026-security-patch/</link>
+      <guid isPermaLink="false">samsung-julio-2026-rollout-s25-fold7-flip7</guid>
+      <description>Tras el S26, el parche de julio 2026 (57 vulnerabilidades, 5 críticas, incluye 3 zero-days activos) llega ahora a Galaxy S25 completo y foldables 2025. Rollout iniciado en Corea del Sur. Categoría: ASB.</description>
+      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
+      <category>ASB</category>
     </item>
-    <item>
-      <title>[BAJA] Qualcomm publica boletín de seguridad de julio 2026 para chipsets Snapdragon</title>
-      <link>https://docs.qualcomm.com/product/publicresources/securitybulletin/july-2026-bulletin.html</link>
-      <guid isPermaLink="false">qualcomm-julio-2026-security-bulletin</guid>
-      <description>Qualcomm publicó su boletín mensual de julio 2026 con parches para componentes propietarios de chipsets Snapdragon; OEMs notificados y con recomendación urgente de distribución. Categoría: ASB/Chips</description>
-      <pubDate>Thu, 09 Jul 2026 11:10:14 +0000</pubDate>
-      <category>ASB/Chips</category>
-    </item>
+
   </channel>
 </rss>

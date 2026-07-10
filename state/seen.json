@@ -407,6 +407,30 @@
       "title": "Qualcomm publica boletín de seguridad de julio 2026 para chipsets Snapdragon",
       "url": "https://docs.qualcomm.com/product/publicresources/securitybulletin/july-2026-bulletin.html",
       "first_seen": "2026-07-09"
+    },
+    {
+      "id": "redwing-maas-android-banking-telegram-2026",
+      "title": "RedWing MaaS: fraude bancario Android alquilado en Telegram (Zimperium)",
+      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "cve-2026-43499-ghostlock-linux-kernel-android",
+      "title": "GhostLock (CVE-2026-43499): LPE de 15 años en kernel Linux con PoC público apuntado a ARM64 Android",
+      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "samsung-messages-shutdown-smishing-julio-2026",
+      "title": "Samsung Messages se apagó el 6 julio y scammers lanzan smishing masivo contra usuarios Galaxy",
+      "url": "https://www.techtimes.com/articles/319771/20260706/samsung-messages-gone-dark-scam-texts-target-galaxy-users-shutdown-day.htm",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "samsung-julio-2026-rollout-s25-fold7-flip7",
+      "title": "Samsung expande rollout del parche de julio 2026 a Galaxy S25, Fold 7, Flip 7 y TriFold",
+      "url": "https://www.sammobile.com/news/new-galaxy-s25-update-brings-july-2026-security-patch/",
+      "first_seen": "2026-07-10"
     }
   ]
 }
