@@ -5,42 +5,24 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Jul 2026 11:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:12:17 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] RedWing MaaS: fraude bancario Android alquilado en Telegram (Zimperium)</title>
-      <link>https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html</link>
-      <guid isPermaLink="false">redwing-maas-android-banking-telegram-2026</guid>
-      <description>Zimperium zLabs reveló RedWing, plataforma MaaS que permite a atacantes sin experiencia comprometer Android, robar credenciales bancarias e interceptar OTPs. Apunta a 82 instituciones financieras; genera APKs personalizados via bot Telegram. Categoría: Malware.</description>
-      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
-      <category>Malware</category>
+      <title>[ALTA] &quot;Ill Bloom&quot;: falla PRNG en wallets crypto Android explota activamente con +$5M robados</title>
+      <link>https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html</link>
+      <guid isPermaLink="false">ill-bloom-crypto-wallet-android-julio-2026</guid>
+      <description>Coinspect revelo que billeteras crypto Android (apps moviles y extensiones de browser) con frases semilla generadas con baja entropia son explotadas activamente. Se confirmaron mas de $5M robados en sweeps coordinados. La falla no afecta wallets hardware. Coinspect publico un checker en illbloom.org para verificar exposicion. Categoria: Malware / Vulnerabilidades.</description>
+      <pubDate>Sat, 11 Jul 2026 11:12:17 +0000</pubDate>
+      <category>Malware / Vulnerabilidades</category>
     </item>
 
     <item>
-      <title>[ALTA] GhostLock (CVE-2026-43499): LPE de 15 años en kernel Linux con PoC público apuntado a ARM64 Android</title>
-      <link>https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</link>
-      <guid isPermaLink="false">cve-2026-43499-ghostlock-linux-kernel-android</guid>
-      <description>Falla use-after-free en rtmutex del kernel Linux desde 2011. PoC público 97% confiable, root en ~5s, container escape, orientado a Android ARM64. Fix en Linux 7.1 pero bug secundario (CVE-2026-53166) complica el parche. Categoría: ASB/CVE.</description>
-      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
-      <category>ASB/CVE</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] Samsung Messages se apagó el 6 julio y scammers lanzan smishing masivo contra usuarios Galaxy</title>
-      <link>https://www.techtimes.com/articles/319771/20260706/samsung-messages-gone-dark-scam-texts-target-galaxy-users-shutdown-day.htm</link>
-      <guid isPermaLink="false">samsung-messages-shutdown-smishing-julio-2026</guid>
-      <description>Samsung Messages discontinuado en EE.UU. el 6/7 (Android 12+). Campaña de smishing activa desde abril explota confusión de usuarios Galaxy con links de &quot;activación&quot; falsos. Samsung no envía SMS con links para esta migración. Categoría: Malware/Phishing.</description>
-      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
-      <category>Malware</category>
-    </item>
-
-    <item>
-      <title>[BAJA] Samsung expande rollout del parche de julio 2026 a Galaxy S25, Fold 7, Flip 7 y TriFold</title>
-      <link>https://www.sammobile.com/news/new-galaxy-s25-update-brings-july-2026-security-patch/</link>
-      <guid isPermaLink="false">samsung-julio-2026-rollout-s25-fold7-flip7</guid>
-      <description>Tras el S26, el parche de julio 2026 (57 vulnerabilidades, 5 críticas, incluye 3 zero-days activos) llega ahora a Galaxy S25 completo y foldables 2025. Rollout iniciado en Corea del Sur. Categoría: ASB.</description>
-      <pubDate>Fri, 10 Jul 2026 11:08:32 +0000</pubDate>
-      <category>ASB</category>
+      <title>[BAJA] Samsung Galaxy Watch 6 recibe parche de seguridad de julio 2026</title>
+      <link>https://www.sammobile.com/news/galaxy-watch-6-series-gets-july-2026-security-update/</link>
+      <guid isPermaLink="false">samsung-watch-6-julio-2026</guid>
+      <description>La serie Galaxy Watch 6 suma el parche de julio 2026, continuando el rollout iniciado por Watch 7 y Watch 8 el 6 de julio y extendido luego a S26, S25 y foldables. Categoria: ASB / Rollout.</description>
+      <pubDate>Sat, 11 Jul 2026 11:12:17 +0000</pubDate>
+      <category>ASB / Rollout</category>
     </item>
 
   </channel>

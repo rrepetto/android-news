@@ -431,6 +431,18 @@
       "title": "Samsung expande rollout del parche de julio 2026 a Galaxy S25, Fold 7, Flip 7 y TriFold",
       "url": "https://www.sammobile.com/news/new-galaxy-s25-update-brings-july-2026-security-patch/",
       "first_seen": "2026-07-10"
+    },
+    {
+      "id": "ill-bloom-crypto-wallet-android-julio-2026",
+      "title": "\"Ill Bloom\": falla PRNG en wallets crypto Android explota activamente con +$5M robados",
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "first_seen": "2026-07-11"
+    },
+    {
+      "id": "samsung-watch-6-julio-2026",
+      "title": "Samsung Galaxy Watch 6 recibe parche de seguridad de julio 2026",
+      "url": "https://www.sammobile.com/news/galaxy-watch-6-series-gets-july-2026-security-update/",
+      "first_seen": "2026-07-11"
     }
   ]
 }
