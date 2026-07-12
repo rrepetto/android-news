@@ -5,24 +5,24 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 11 Jul 2026 11:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:32:18 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] &quot;Ill Bloom&quot;: falla PRNG en wallets crypto Android explota activamente con +$5M robados</title>
-      <link>https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html</link>
-      <guid isPermaLink="false">ill-bloom-crypto-wallet-android-julio-2026</guid>
-      <description>Coinspect revelo que billeteras crypto Android (apps moviles y extensiones de browser) con frases semilla generadas con baja entropia son explotadas activamente. Se confirmaron mas de $5M robados en sweeps coordinados. La falla no afecta wallets hardware. Coinspect publico un checker en illbloom.org para verificar exposicion. Categoria: Malware / Vulnerabilidades.</description>
-      <pubDate>Sat, 11 Jul 2026 11:12:17 +0000</pubDate>
-      <category>Malware / Vulnerabilidades</category>
+      <title>[ALTA] WireVPN: app en Play Store con +1M descargas convierte Android en nodo proxy residencial (Lurking Lizard)</title>
+      <link>https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html</link>
+      <guid isPermaLink="false">lurking-lizard-wirevpn-proxy-android-play-store-2026</guid>
+      <description>Infoblox revelo que la app &quot;wirevpn - Fast Unlimited Proxy&quot; (WEILAI NETWORK TECHNOLOGY) con mas de 1 millon de descargas y 34.000 resenas en Play Store forma parte de la operacion &quot;Lurking Lizard&quot;, activa desde 2022 y atribuida a un actor chino. En lugar de proteger el trafico del usuario, convierte el dispositivo en exit-node de una red proxy residencial comercial. La campana tambien distribuye instaladores falsos de 7-Zip, TikTok y WhatsApp para otros SO. Categoria: Malware.</description>
+      <pubDate>Sun, 12 Jul 2026 11:32:18 +0000</pubDate>
+      <category>Malware</category>
     </item>
 
     <item>
-      <title>[BAJA] Samsung Galaxy Watch 6 recibe parche de seguridad de julio 2026</title>
-      <link>https://www.sammobile.com/news/galaxy-watch-6-series-gets-july-2026-security-update/</link>
-      <guid isPermaLink="false">samsung-watch-6-julio-2026</guid>
-      <description>La serie Galaxy Watch 6 suma el parche de julio 2026, continuando el rollout iniciado por Watch 7 y Watch 8 el 6 de julio y extendido luego a S26, S25 y foldables. Categoria: ASB / Rollout.</description>
-      <pubDate>Sat, 11 Jul 2026 11:12:17 +0000</pubDate>
-      <category>ASB / Rollout</category>
+      <title>[MEDIA] Seis vulnerabilidades U-Boot (BRLY-2026-037 a 042) permiten ejecucion de codigo pre-firma en dispositivos Android y embebidos</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/</link>
+      <guid isPermaLink="false">uboot-brly-2026-037-042-fit-code-execution-android</guid>
+      <description>Binarly descubrio seis fallas en el bootloader U-Boot presentes desde v2013.07 (mas de 50 releases afectados). Dos permiten ejecucion de codigo arbitrario antes de verificar la firma de imagen (BRLY-2026-037: null pointer a stack overflow; BRLY-2026-038: buffer underflow), las cuatro restantes causan DoS. Los parches se integraron en upstream pero el proximo release v2026.10 no llega hasta octubre; afecta routers, camaras y dispositivos Android basados en U-Boot. Categoria: Bootloader.</description>
+      <pubDate>Sun, 12 Jul 2026 11:32:18 +0000</pubDate>
+      <category>Bootloader</category>
     </item>
 
   </channel>

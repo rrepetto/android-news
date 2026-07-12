@@ -443,6 +443,18 @@
       "title": "Samsung Galaxy Watch 6 recibe parche de seguridad de julio 2026",
       "url": "https://www.sammobile.com/news/galaxy-watch-6-series-gets-july-2026-security-update/",
       "first_seen": "2026-07-11"
+    },
+    {
+      "id": "lurking-lizard-wirevpn-proxy-android-play-store-2026",
+      "title": "WireVPN: app en Play Store con +1M descargas convierte Android en nodo proxy residencial (Lurking Lizard)",
+      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "first_seen": "2026-07-12"
+    },
+    {
+      "id": "uboot-brly-2026-037-042-fit-code-execution-android",
+      "title": "Seis vulnerabilidades U-Boot (BRLY-2026-037 a 042) permiten ejecución de código pre-firma en dispositivos embebidos y Android",
+      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "first_seen": "2026-07-12"
     }
   ]
 }
