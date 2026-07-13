@@ -5,24 +5,42 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 12 Jul 2026 11:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:04:25 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] WireVPN: app en Play Store con +1M descargas convierte Android en nodo proxy residencial (Lurking Lizard)</title>
-      <link>https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html</link>
-      <guid isPermaLink="false">lurking-lizard-wirevpn-proxy-android-play-store-2026</guid>
-      <description>Infoblox revelo que la app &quot;wirevpn - Fast Unlimited Proxy&quot; (WEILAI NETWORK TECHNOLOGY) con mas de 1 millon de descargas y 34.000 resenas en Play Store forma parte de la operacion &quot;Lurking Lizard&quot;, activa desde 2022 y atribuida a un actor chino. En lugar de proteger el trafico del usuario, convierte el dispositivo en exit-node de una red proxy residencial comercial. La campana tambien distribuye instaladores falsos de 7-Zip, TikTok y WhatsApp para otros SO. Categoria: Malware.</description>
-      <pubDate>Sun, 12 Jul 2026 11:32:18 +0000</pubDate>
+      <title>[ALTA] DCHSpy (MuddyWater): nuevas variantes iranies para Android con senuelos VPN-Starlink</title>
+      <link>https://www.securityweek.com/new-variants-of-dchspy-spyware-used-by-iranian-apt-to-target-android-users/</link>
+      <guid isPermaLink="false">dchspy-muddywater-variantes-iran-israel-2026</guid>
+      <description>El APT irani MuddyWater lanzo variantes actualizadas del spyware DCHSpy disfrazadas de apps VPN (Earth VPN, Comodo VPN) y con senuelos Starlink durante el conflicto Israel-Iran; exfiltran mensajes de WhatsApp, SMS y datos del dispositivo. Lookout y SecurityWeek reportaron la expansion de la campana en 2026, con muestras nuevas obtenidas tras los ataques israelies a infraestructura nuclear irani. Categoria: Malware/Spyware.</description>
+      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
+      <category>Malware/Spyware</category>
+    </item>
+
+    <item>
+      <title>[MEDIA] Frogblight: nuevo troyano bancario Android geo-apuntado a Turquia (Kaspersky)</title>
+      <link>https://www.kaspersky.com/about/press-releases/kaspersky-uncovers-frogblight-a-new-android-banking-trojan-targeting-turkiye</link>
+      <guid isPermaLink="false">frogblight-troyano-bancario-turquia-kaspersky-2026</guid>
+      <description>Kaspersky descubrio Frogblight, un troyano bancario Android dirigido especificamente a apps de bancos turcos; emplea overlay attacks y abusa de Accessibility Services para interceptar credenciales e interceptar OTPs en tiempo real. Categoria: Malware.</description>
+      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
       <category>Malware</category>
     </item>
 
     <item>
-      <title>[MEDIA] Seis vulnerabilidades U-Boot (BRLY-2026-037 a 042) permiten ejecucion de codigo pre-firma en dispositivos Android y embebidos</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/</link>
-      <guid isPermaLink="false">uboot-brly-2026-037-042-fit-code-execution-android</guid>
-      <description>Binarly descubrio seis fallas en el bootloader U-Boot presentes desde v2013.07 (mas de 50 releases afectados). Dos permiten ejecucion de codigo arbitrario antes de verificar la firma de imagen (BRLY-2026-037: null pointer a stack overflow; BRLY-2026-038: buffer underflow), las cuatro restantes causan DoS. Los parches se integraron en upstream pero el proximo release v2026.10 no llega hasta octubre; afecta routers, camaras y dispositivos Android basados en U-Boot. Categoria: Bootloader.</description>
-      <pubDate>Sun, 12 Jul 2026 11:32:18 +0000</pubDate>
-      <category>Bootloader</category>
+      <title>[MEDIA] CalyxOS 7.2.2.0 regresa tras 11 meses de pausa con firma HSM open-source</title>
+      <link>https://calyxos.org/news/2026/07/01/calyxos-official-release-is-back/</link>
+      <guid isPermaLink="false">calyxos-regresa-version-7-2-2-0-julio-2026</guid>
+      <description>CalyxOS vuelve con la version 7.2.2.0 (base Android 16) despues de 11 meses de hiatus por cambio de liderazgo; adopta firma de codigo basada en HSM de codigo abierto para eliminar puntos unicos de fallo, agrega soporte para SHIFTphone 8 y proyecta mantenimiento hasta diciembre 2026. Categoria: GrapheneOS/CalyxOS/Pixel security.</description>
+      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
+      <category>GrapheneOS/CalyxOS/Pixel security</category>
+    </item>
+
+    <item>
+      <title>[BAJA] LSPosed archivado en mayo 2026; Vector (JingMatrix) es el sucesor oficial</title>
+      <link>https://github.com/JingMatrix/Vector/releases</link>
+      <guid isPermaLink="false">lsposed-archivado-vector-sucesor-mayo-2026</guid>
+      <description>LSPosed fue archivado el 2 de mayo de 2026; el proyecto sucesor oficial es Vector de JingMatrix, con Vector 2.0 ya disponible. Afecta a todos los modulos y apps que dependian del framework de hooking basado en Xposed para Android. Categoria: Root.</description>
+      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
+      <category>Root</category>
     </item>
 
   </channel>

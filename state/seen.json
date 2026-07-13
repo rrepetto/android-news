@@ -455,6 +455,30 @@
       "title": "Seis vulnerabilidades U-Boot (BRLY-2026-037 a 042) permiten ejecución de código pre-firma en dispositivos embebidos y Android",
       "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
       "first_seen": "2026-07-12"
+    },
+    {
+      "id": "dchspy-muddywater-variantes-iran-israel-2026",
+      "title": "DCHSpy (MuddyWater): nuevas variantes iraníes para Android con señuelos VPN-Starlink",
+      "url": "https://www.securityweek.com/new-variants-of-dchspy-spyware-used-by-iranian-apt-to-target-android-users/",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "frogblight-troyano-bancario-turquia-kaspersky-2026",
+      "title": "Frogblight: nuevo troyano bancario Android geo-apuntado a Turquía (Kaspersky)",
+      "url": "https://www.kaspersky.com/about/press-releases/kaspersky-uncovers-frogblight-a-new-android-banking-trojan-targeting-turkiye",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "calyxos-regresa-version-7-2-2-0-julio-2026",
+      "title": "CalyxOS 7.2.2.0 regresa tras 11 meses de pausa con firma HSM open-source",
+      "url": "https://calyxos.org/news/2026/07/01/calyxos-official-release-is-back/",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "lsposed-archivado-vector-sucesor-mayo-2026",
+      "title": "LSPosed archivado en mayo 2026; Vector (JingMatrix) es el sucesor oficial del framework de hooking",
+      "url": "https://github.com/JingMatrix/Vector/releases",
+      "first_seen": "2026-07-13"
     }
   ]
 }
