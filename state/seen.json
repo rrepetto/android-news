@@ -479,6 +479,18 @@
       "title": "LSPosed archivado en mayo 2026; Vector (JingMatrix) es el sucesor oficial del framework de hooking",
       "url": "https://github.com/JingMatrix/Vector/releases",
       "first_seen": "2026-07-13"
+    },
+    {
+      "id": "redhook-android-rat-wireless-adb-julio-2026",
+      "title": "RedHook Android RAT: abusa de Wireless ADB para obtener acceso shell sin root ni PC",
+      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "samsung-galaxy-s26-julio-2026-global-expansion",
+      "title": "Samsung Galaxy S26: parche de julio 2026 se expande globalmente",
+      "url": "https://www.sammobile.com/news/galaxy-s26-july-2026-security-update-expands-globally/",
+      "first_seen": "2026-07-14"
     }
   ]
 }

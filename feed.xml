@@ -5,42 +5,24 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:04:08 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] DCHSpy (MuddyWater): nuevas variantes iranies para Android con senuelos VPN-Starlink</title>
-      <link>https://www.securityweek.com/new-variants-of-dchspy-spyware-used-by-iranian-apt-to-target-android-users/</link>
-      <guid isPermaLink="false">dchspy-muddywater-variantes-iran-israel-2026</guid>
-      <description>El APT irani MuddyWater lanzo variantes actualizadas del spyware DCHSpy disfrazadas de apps VPN (Earth VPN, Comodo VPN) y con senuelos Starlink durante el conflicto Israel-Iran; exfiltran mensajes de WhatsApp, SMS y datos del dispositivo. Lookout y SecurityWeek reportaron la expansion de la campana en 2026, con muestras nuevas obtenidas tras los ataques israelies a infraestructura nuclear irani. Categoria: Malware/Spyware.</description>
-      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
-      <category>Malware/Spyware</category>
+      <title>[ALTA] RedHook Android RAT: abusa de Wireless ADB para obtener acceso shell sin root ni PC</title>
+      <link>https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/</link>
+      <guid isPermaLink="false">redhook-android-rat-wireless-adb-julio-2026</guid>
+      <description>Nueva version del RAT RedHook (Group-IB) engana al usuario para otorgar permisos de Accessibility, activa Developer Options + Wireless Debugging automaticamente y se conecta al daemon ADB local (127.0.0.1), obteniendo privilegios de shell (uid 2000) sin PC ni root. Usa framework basado en Shizuku para instalar apps, modificar ajustes protegidos y ejecutar comandos sin dialogo visible. Expansion: Vietnam a Indonesia. Categoria: RAT / Accessibility.</description>
+      <pubDate>Tue, 14 Jul 2026 11:04:08 +0000</pubDate>
+      <category>RAT / Accessibility</category>
     </item>
 
     <item>
-      <title>[MEDIA] Frogblight: nuevo troyano bancario Android geo-apuntado a Turquia (Kaspersky)</title>
-      <link>https://www.kaspersky.com/about/press-releases/kaspersky-uncovers-frogblight-a-new-android-banking-trojan-targeting-turkiye</link>
-      <guid isPermaLink="false">frogblight-troyano-bancario-turquia-kaspersky-2026</guid>
-      <description>Kaspersky descubrio Frogblight, un troyano bancario Android dirigido especificamente a apps de bancos turcos; emplea overlay attacks y abusa de Accessibility Services para interceptar credenciales e interceptar OTPs en tiempo real. Categoria: Malware.</description>
-      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
-      <category>Malware</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] CalyxOS 7.2.2.0 regresa tras 11 meses de pausa con firma HSM open-source</title>
-      <link>https://calyxos.org/news/2026/07/01/calyxos-official-release-is-back/</link>
-      <guid isPermaLink="false">calyxos-regresa-version-7-2-2-0-julio-2026</guid>
-      <description>CalyxOS vuelve con la version 7.2.2.0 (base Android 16) despues de 11 meses de hiatus por cambio de liderazgo; adopta firma de codigo basada en HSM de codigo abierto para eliminar puntos unicos de fallo, agrega soporte para SHIFTphone 8 y proyecta mantenimiento hasta diciembre 2026. Categoria: GrapheneOS/CalyxOS/Pixel security.</description>
-      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
-      <category>GrapheneOS/CalyxOS/Pixel security</category>
-    </item>
-
-    <item>
-      <title>[BAJA] LSPosed archivado en mayo 2026; Vector (JingMatrix) es el sucesor oficial</title>
-      <link>https://github.com/JingMatrix/Vector/releases</link>
-      <guid isPermaLink="false">lsposed-archivado-vector-sucesor-mayo-2026</guid>
-      <description>LSPosed fue archivado el 2 de mayo de 2026; el proyecto sucesor oficial es Vector de JingMatrix, con Vector 2.0 ya disponible. Afecta a todos los modulos y apps que dependian del framework de hooking basado en Xposed para Android. Categoria: Root.</description>
-      <pubDate>Mon, 13 Jul 2026 11:04:25 +0000</pubDate>
-      <category>Root</category>
+      <title>[BAJA] Samsung Galaxy S26: parche de julio 2026 se expande globalmente</title>
+      <link>https://www.sammobile.com/news/galaxy-s26-july-2026-security-update-expands-globally/</link>
+      <guid isPermaLink="false">samsung-galaxy-s26-julio-2026-global-expansion</guid>
+      <description>El rollout del parche de seguridad de julio 2026 del Galaxy S26 se extiende a India y mercados europeos (~555 MB, build S94xBXXS4AZG5, 57 fixes). Categoria: Parche.</description>
+      <pubDate>Tue, 14 Jul 2026 11:04:08 +0000</pubDate>
+      <category>Parche</category>
     </item>
 
   </channel>
