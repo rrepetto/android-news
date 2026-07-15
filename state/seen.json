@@ -491,6 +491,36 @@
       "title": "Samsung Galaxy S26: parche de julio 2026 se expande globalmente",
       "url": "https://www.sammobile.com/news/galaxy-s26-july-2026-security-update-expands-globally/",
       "first_seen": "2026-07-14"
+    },
+    {
+      "id": "nfcshare-malware-bancario-github-nfc-2026",
+      "title": "NFCShare: malware Android roba datos NFC de tarjetas bancarias vía apps falsas en GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "google-play-interoperabilidad-julio22-2026-riesgo-seguridad",
+      "title": "Google Play abre catálogo a tiendas de terceros el 22 de julio — riesgo de APKs trojanizados",
+      "url": "https://www.androidauthority.com/epic-google-play-store-settlement-withdrawn-3687649/",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "grapheneos-2026071101-security-preview-asb-futuro",
+      "title": "GrapheneOS 2026071101: preview de seguridad con parches ASB hasta enero 2027",
+      "url": "https://grapheneos.org/releases",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "samsung-one-ui-9-security-label-power-menu-2026",
+      "title": "Samsung One UI 9 Beta 4: Security Label en el Power Menu",
+      "url": "https://www.sammyfans.com/2026/07/15/samsung-one-ui-9-0-power-menu-adds-a-new-security-label/",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "samsung-galaxy-a55-julio-2026-rollout",
+      "title": "Samsung Galaxy A55 inicia rollout del parche de julio 2026",
+      "url": "https://www.sammobile.com/news/new-galaxy-a55-update-brings-july-2026-security-patch/",
+      "first_seen": "2026-07-15"
     }
   ]
 }

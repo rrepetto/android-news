@@ -3,26 +3,53 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. El feed contiene solo los items del ultimo dia; el historial completo esta en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
     <language>es</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:04:20 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] RedHook Android RAT: abusa de Wireless ADB para obtener acceso shell sin root ni PC</title>
-      <link>https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/</link>
-      <guid isPermaLink="false">redhook-android-rat-wireless-adb-julio-2026</guid>
-      <description>Nueva version del RAT RedHook (Group-IB) engana al usuario para otorgar permisos de Accessibility, activa Developer Options + Wireless Debugging automaticamente y se conecta al daemon ADB local (127.0.0.1), obteniendo privilegios de shell (uid 2000) sin PC ni root. Usa framework basado en Shizuku para instalar apps, modificar ajustes protegidos y ejecutar comandos sin dialogo visible. Expansion: Vietnam a Indonesia. Categoria: RAT / Accessibility.</description>
-      <pubDate>Tue, 14 Jul 2026 11:04:08 +0000</pubDate>
-      <category>RAT / Accessibility</category>
+      <title>[ALTA] NFCShare: malware Android roba datos NFC de tarjetas bancarias vía apps falsas en GitHub</title>
+      <link>https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/</link>
+      <guid isPermaLink="false">nfcshare-malware-bancario-github-nfc-2026</guid>
+      <description>Campaña activa distribuye APKs maliciosos en GitHub impersonando actualizaciones de apps bancarias europeas. Captura datos NFC de tarjetas (número, vencimiento, PIN) via IsoDep/EMV y los exfiltra por WebSocket. Usa APKs con paths ZIP malformados para evadir análisis. Categoría: Malware</description>
+      <pubDate>Wed, 15 Jul 2026 11:04:20 +0000</pubDate>
+      <category>Malware</category>
     </item>
 
     <item>
-      <title>[BAJA] Samsung Galaxy S26: parche de julio 2026 se expande globalmente</title>
-      <link>https://www.sammobile.com/news/galaxy-s26-july-2026-security-update-expands-globally/</link>
-      <guid isPermaLink="false">samsung-galaxy-s26-julio-2026-global-expansion</guid>
-      <description>El rollout del parche de seguridad de julio 2026 del Galaxy S26 se extiende a India y mercados europeos (~555 MB, build S94xBXXS4AZG5, 57 fixes). Categoria: Parche.</description>
-      <pubDate>Tue, 14 Jul 2026 11:04:08 +0000</pubDate>
-      <category>Parche</category>
+      <title>[MEDIA] Google Play abre catálogo a tiendas de terceros el 22 de julio — riesgo de APKs trojanizados</title>
+      <link>https://www.androidauthority.com/epic-google-play-store-settlement-withdrawn-3687649/</link>
+      <guid isPermaLink="false">google-play-interoperabilidad-julio22-2026-riesgo-seguridad</guid>
+      <description>A partir del martes próximo, tiendas Android externas acceden al catálogo completo de Google Play (EE.UU.). Firmas de seguridad advierten que stores que instalen desde sus propios servidores eluden Play Protect y pueden entregar APKs trojanizados. Categoría: Play Integrity / Plataforma</description>
+      <pubDate>Wed, 15 Jul 2026 11:04:20 +0000</pubDate>
+      <category>Play Integrity</category>
+    </item>
+
+    <item>
+      <title>[BAJA] GrapheneOS 2026071101: preview de seguridad con parches ASB hasta enero 2027</title>
+      <link>https://grapheneos.org/releases</link>
+      <guid isPermaLink="false">grapheneos-2026071101-security-preview-asb-futuro</guid>
+      <description>Nueva build de preview incorpora parches del ASB de julio 2026 y de los boletines proyectados hasta enero 2027, demostrando capacidad de cobertura de seguridad adelantada. Categoría: GrapheneOS</description>
+      <pubDate>Wed, 15 Jul 2026 11:04:20 +0000</pubDate>
+      <category>GrapheneOS</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Samsung One UI 9 Beta 4: Security Label en el Power Menu</title>
+      <link>https://www.sammyfans.com/2026/07/15/samsung-one-ui-9-0-power-menu-adds-a-new-security-label/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-security-label-power-menu-2026</guid>
+      <description>Con la Beta 4 de One UI 9 (Android 17) para Galaxy S26, el menú de apagado muestra por primera vez una etiqueta de seguridad indicando el motivo del bloqueo. Pequeña mejora de transparencia de seguridad. Categoría: Knox / Samsung</description>
+      <pubDate>Wed, 15 Jul 2026 11:04:20 +0000</pubDate>
+      <category>Knox</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Samsung Galaxy A55 inicia rollout del parche de julio 2026</title>
+      <link>https://www.sammobile.com/news/new-galaxy-a55-update-brings-july-2026-security-patch/</link>
+      <guid isPermaLink="false">samsung-galaxy-a55-julio-2026-rollout</guid>
+      <description>El Galaxy A55 comenzó a recibir el parche de seguridad de julio 2026 (57 correcciones, 5 críticas). Expansión progresiva a otros mercados esperada en días. Categoría: ASB / Parches</description>
+      <pubDate>Wed, 15 Jul 2026 11:04:20 +0000</pubDate>
+      <category>ASB</category>
     </item>
 
   </channel>
