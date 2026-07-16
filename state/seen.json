@@ -521,6 +521,30 @@
       "title": "Samsung Galaxy A55 inicia rollout del parche de julio 2026",
       "url": "https://www.sammobile.com/news/new-galaxy-a55-update-brings-july-2026-security-patch/",
       "first_seen": "2026-07-15"
+    },
+    {
+      "id": "albiriox-unicredit-telegram-julio-2026",
+      "title": "Albiriox MaaS: campana con falsa recompensa UniCredit via Telegram distribuye RAT Android",
+      "url": "https://www.d3lab.net/fake-banking-rewards-telegram-delivery-and-albiriox-anatomy-of-an-android-malware-campaign/",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "google-play-policy-julio-15-2026-chat-anonimo-read-call-log",
+      "title": "Google Play Policy julio 2026: restricciones en chat anonimo, READ_CALL_LOG y plazo targetSdk agosto 2026",
+      "url": "https://support.google.com/googleplay/android-developer/answer/17134731?hl=en",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "android-17-qpr1-beta-7-julio-2026",
+      "title": "Android 17 QPR1 Beta 7 lanzado para Pixel con parche de seguridad de julio 2026",
+      "url": "https://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "samsung-galaxy-s24-julio-2026-rollout",
+      "title": "Samsung Galaxy S24 inicia rollout del parche de julio 2026",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-with-july-2026-security-patch/",
+      "first_seen": "2026-07-16"
     }
   ]
 }
