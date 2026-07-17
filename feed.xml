@@ -3,45 +3,40 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma. El feed contiene solo los items del ultimo dia.</description>
+    <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, root, Play Integrity, parches y más.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:10:46 +0000</lastBuildDate>
-
+    <lastBuildDate>Fri, 17 Jul 2026 11:10:30 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Albiriox MaaS: campana con falsa recompensa UniCredit via Telegram distribuye RAT Android</title>
-      <link>https://www.d3lab.net/fake-banking-rewards-telegram-delivery-and-albiriox-anatomy-of-an-android-malware-campaign/</link>
-      <guid isPermaLink="false">albiriox-unicredit-telegram-julio-2026</guid>
-      <description>Bot de Telegram promete $100 de recompensa UniCredit para instalar un APK malicioso con Albiriox, RAT MaaS que transmite pantalla en tiempo real al atacante y ejecuta fraude bancario on-device sin robar contrasenas. Apunta a +400 apps bancarias y crypto. Dominio de campana registrado el 8 de julio 2026. Categoria: Malware</description>
-      <pubDate>Thu, 16 Jul 2026 11:10:46 +0000</pubDate>
-      <category>Malware</category>
+      <title>[ALTA] IonStack: cadena 1-click URL-to-root en Android 17 combina Firefox JIT RCE y GhostLock (PoC público)</title>
+      <link>https://cybersecuritynews.com/android-17-root-1-click/</link>
+      <guid isPermaLink="false">ionstack-android-17-1click-root-firefox-ghostlock</guid>
+      <description>Nebula Security demostró la primera cadena completa browser-to-kernel para Android 17: CVE-2026-10702 (Firefox &lt;151.0.3 JIT RCE) encadenado con GhostLock (CVE-2026-43499) otorga root completo con un solo clic en un link malicioso, sin interacción adicional y con 97% de éxito reportado. PoC público disponible. Mitigation: actualizar Firefox a &gt;=151.0.3 y aplicar parches del kernel (ASB julio 2026). Categoría: Root / Exploit</description>
+      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
+      <category>Root</category>
     </item>
-
     <item>
-      <title>[MEDIA] Google Play Policy julio 2026: restricciones en chat anonimo, READ_CALL_LOG y plazo targetSdk agosto 2026</title>
-      <link>https://support.google.com/googleplay/android-developer/answer/17134731?hl=en</link>
-      <guid isPermaLink="false">google-play-policy-julio-15-2026-chat-anonimo-read-call-log</guid>
-      <description>Nuevas restricciones efectivas 15 de julio: apps de chat anonimo no pueden apuntar a menores; READ_CALL_LOG no permite verificacion de cuenta (migrar a Digital Credentials API o SMS Retriever API); User Data requirements se extienden a IA de terceros; plazo targetSdk actualizado: 31 de agosto 2026. Categoria: Play Integrity</description>
-      <pubDate>Thu, 16 Jul 2026 11:10:46 +0000</pubDate>
-      <category>Play Integrity</category>
-    </item>
-
-    <item>
-      <title>[BAJA] Android 17 QPR1 Beta 7 lanzado para Pixel con parche de seguridad de julio 2026</title>
-      <link>https://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/</link>
-      <guid isPermaLink="false">android-17-qpr1-beta-7-julio-2026</guid>
-      <description>Google publico la Beta 7 del QPR1 de Android 17 el 15 de julio con parche de seguridad de julio 2026; corrige bugs en Quick Settings (Battery Share, iconos de estado, controlador de tamano de fuente). QPR1 estable previsto para septiembre 2026. Categoria: API/Plataforma</description>
-      <pubDate>Thu, 16 Jul 2026 11:10:46 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-
-    <item>
-      <title>[BAJA] Samsung Galaxy S24 inicia rollout del parche de julio 2026</title>
-      <link>https://www.sammobile.com/news/samsung-updates-galaxy-s24-with-july-2026-security-patch/</link>
-      <guid isPermaLink="false">samsung-galaxy-s24-julio-2026-rollout</guid>
-      <description>Samsung extiende el parche de julio 2026 (57 vulnerabilidades, 5 criticas) a la serie Galaxy S24 desde el 15 de julio en Corea del Sur; firmware S92xNKSS6DZG1 (439 MB). Categoria: ASB</description>
-      <pubDate>Thu, 16 Jul 2026 11:10:46 +0000</pubDate>
+      <title>[BAJA] Samsung Galaxy Z Fold 6 y Flip 6 reciben parche de julio 2026 (57 fixes, 5 críticos)</title>
+      <link>https://samsung.gadgethacks.com/news/galaxy-z-fold-6-and-flip-6-july-2026-security-update-5-critical-flaws-fixed/</link>
+      <guid isPermaLink="false">samsung-galaxy-z-fold6-flip6-julio-2026-parche</guid>
+      <description>Rollout iniciado el 15 de julio con el mismo paquete mensual de 57 correcciones (5 críticas, 42 altas). Sin cambios funcionales; cubre los foldables de generación anterior. Categoría: ASB / Parches</description>
+      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
       <category>ASB</category>
     </item>
-
+    <item>
+      <title>[BAJA] Samsung Galaxy A56 y A35 inician rollout del parche de julio 2026</title>
+      <link>https://www.androidheadlines.com/2026/07/samsungs-july-2026-security-update-reaches-more-galaxy-devices.html</link>
+      <guid isPermaLink="false">samsung-galaxy-a56-a35-julio-2026-rollout</guid>
+      <description>Parche mensual disponible desde el 16 de julio en Rusia, Brasil y mercados selectos. Extensión habitual del rollout de la serie A. Categoría: ASB / Parches</description>
+      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
+      <category>ASB</category>
+    </item>
+    <item>
+      <title>[BAJA] One UI 9 (Android 17) en prueba interna en 42 dispositivos Galaxy previo al Unpacked del 22 de julio</title>
+      <link>https://www.gsmarena.com/samsung_one_ui_9_galaxy_device_test_list-news-73574.php</link>
+      <guid isPermaLink="false">samsung-one-ui-9-42-devices-testing-android-17-jul16</guid>
+      <description>Samsung amplió las pruebas internas de One UI 9 a 42 modelos (S, Z, A, Tab), preparando el lanzamiento estable que debuta en el evento del 22 de julio en Londres con los Galaxy Z Fold 8 / Flip 8. Categoría: API/Plataforma</description>
+      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
   </channel>
 </rss>

@@ -545,6 +545,30 @@
       "title": "Samsung Galaxy S24 inicia rollout del parche de julio 2026",
       "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-with-july-2026-security-patch/",
       "first_seen": "2026-07-16"
+    },
+    {
+      "id": "ionstack-android-17-1click-root-firefox-ghostlock",
+      "title": "IonStack: cadena 1-click URL-to-root en Android 17 combina Firefox JIT RCE y GhostLock (PoC público)",
+      "url": "https://cybersecuritynews.com/android-17-root-1-click/",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "samsung-galaxy-z-fold6-flip6-julio-2026-parche",
+      "title": "Samsung Galaxy Z Fold 6 y Flip 6 reciben parche de julio 2026 (57 fixes, 5 críticos)",
+      "url": "https://samsung.gadgethacks.com/news/galaxy-z-fold-6-and-flip-6-july-2026-security-update-5-critical-flaws-fixed/",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "samsung-galaxy-a56-a35-julio-2026-rollout",
+      "title": "Samsung Galaxy A56 y A35 inician rollout del parche de julio 2026",
+      "url": "https://www.androidheadlines.com/2026/07/samsungs-july-2026-security-update-reaches-more-galaxy-devices.html",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "samsung-one-ui-9-42-devices-testing-android-17-jul16",
+      "title": "Samsung One UI 9 en prueba interna en 42 dispositivos Galaxy previo al lanzamiento del 22 de julio",
+      "url": "https://www.gsmarena.com/samsung_one_ui_9_galaxy_device_test_list-news-73574.php",
+      "first_seen": "2026-07-17"
     }
   ]
 }
