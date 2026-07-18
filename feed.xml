@@ -5,38 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, root, Play Integrity, parches y más.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 17 Jul 2026 11:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 11:04:12 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] IonStack: cadena 1-click URL-to-root en Android 17 combina Firefox JIT RCE y GhostLock (PoC público)</title>
-      <link>https://cybersecuritynews.com/android-17-root-1-click/</link>
-      <guid isPermaLink="false">ionstack-android-17-1click-root-firefox-ghostlock</guid>
-      <description>Nebula Security demostró la primera cadena completa browser-to-kernel para Android 17: CVE-2026-10702 (Firefox &lt;151.0.3 JIT RCE) encadenado con GhostLock (CVE-2026-43499) otorga root completo con un solo clic en un link malicioso, sin interacción adicional y con 97% de éxito reportado. PoC público disponible. Mitigation: actualizar Firefox a &gt;=151.0.3 y aplicar parches del kernel (ASB julio 2026). Categoría: Root / Exploit</description>
-      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
-      <category>Root</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung Galaxy Z Fold 6 y Flip 6 reciben parche de julio 2026 (57 fixes, 5 críticos)</title>
-      <link>https://samsung.gadgethacks.com/news/galaxy-z-fold-6-and-flip-6-july-2026-security-update-5-critical-flaws-fixed/</link>
-      <guid isPermaLink="false">samsung-galaxy-z-fold6-flip6-julio-2026-parche</guid>
-      <description>Rollout iniciado el 15 de julio con el mismo paquete mensual de 57 correcciones (5 críticas, 42 altas). Sin cambios funcionales; cubre los foldables de generación anterior. Categoría: ASB / Parches</description>
-      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung Galaxy A56 y A35 inician rollout del parche de julio 2026</title>
-      <link>https://www.androidheadlines.com/2026/07/samsungs-july-2026-security-update-reaches-more-galaxy-devices.html</link>
-      <guid isPermaLink="false">samsung-galaxy-a56-a35-julio-2026-rollout</guid>
-      <description>Parche mensual disponible desde el 16 de julio en Rusia, Brasil y mercados selectos. Extensión habitual del rollout de la serie A. Categoría: ASB / Parches</description>
-      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-    <item>
-      <title>[BAJA] One UI 9 (Android 17) en prueba interna en 42 dispositivos Galaxy previo al Unpacked del 22 de julio</title>
-      <link>https://www.gsmarena.com/samsung_one_ui_9_galaxy_device_test_list-news-73574.php</link>
-      <guid isPermaLink="false">samsung-one-ui-9-42-devices-testing-android-17-jul16</guid>
-      <description>Samsung amplió las pruebas internas de One UI 9 a 42 modelos (S, Z, A, Tab), preparando el lanzamiento estable que debuta en el evento del 22 de julio en Londres con los Galaxy Z Fold 8 / Flip 8. Categoría: API/Plataforma</description>
-      <pubDate>Fri, 17 Jul 2026 11:10:30 +0000</pubDate>
+      <title>[MEDIA] EU/DMA: Google obligado a abrir Android a asistentes IA rivales de Gemini</title>
+      <link>https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html</link>
+      <guid isPermaLink="false">eu-dma-google-android-ia-rivales-julio-2026</guid>
+      <description>La CE bajo la DMA obliga a Google a dar a asistentes IA de terceros el mismo acceso al SO Android que tiene Gemini: cámara, micrófono, pantalla, wake word y control de apps. Google debe implementarlo en Android 18 antes del 1 agosto 2027. Impacta el modelo de seguridad de Android al exigir acceso profundo al SO para terceros. Categoría: API/Plataforma</description>
+      <pubDate>Sat, 18 Jul 2026 11:04:12 +0000</pubDate>
       <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] GrapheneOS 2026071100: exec spawning refactorizado con toggle por-app</title>
+      <link>https://alternativeto.net/news/2026/7/grapheneos-update-new-exec-spawning-app-toggle-july-2026-security-patch/</link>
+      <guid isPermaLink="false">grapheneos-2026071100-exec-spawning-per-app-toggle</guid>
+      <description>La release estable 2026071100 reemplaza la implementación global de exec spawning por una nueva con toggle per-app, extiende la función al zygote nativo de Android 17, sube el patch level a 2026-07-05, y corrige bugs de Wi-Fi multi-usuario, geocodificación y grabación de pantalla. Categoría: Knox/GrapheneOS/CalyxOS</description>
+      <pubDate>Sat, 18 Jul 2026 11:04:12 +0000</pubDate>
+      <category>Knox/GrapheneOS/CalyxOS</category>
     </item>
   </channel>
 </rss>

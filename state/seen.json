@@ -569,6 +569,18 @@
       "title": "Samsung One UI 9 en prueba interna en 42 dispositivos Galaxy previo al lanzamiento del 22 de julio",
       "url": "https://www.gsmarena.com/samsung_one_ui_9_galaxy_device_test_list-news-73574.php",
       "first_seen": "2026-07-17"
+    },
+    {
+      "id": "eu-dma-google-android-ia-rivales-julio-2026",
+      "title": "EU/DMA: Google obligado a abrir Android a asistentes IA rivales de Gemini",
+      "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "first_seen": "2026-07-18"
+    },
+    {
+      "id": "grapheneos-2026071100-exec-spawning-per-app-toggle",
+      "title": "GrapheneOS 2026071100: exec spawning refactorizado con toggle por-app",
+      "url": "https://alternativeto.net/news/2026/7/grapheneos-update-new-exec-spawning-app-toggle-july-2026-security-patch/",
+      "first_seen": "2026-07-18"
     }
   ]
 }
