@@ -3,24 +3,45 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, root, Play Integrity, parches y más.</description>
+    <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, root, Play Integrity, parches y más. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:10:37 +0000</lastBuildDate>
+
     <item>
-      <title>[MEDIA] EU/DMA: Google obligado a abrir Android a asistentes IA rivales de Gemini</title>
-      <link>https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html</link>
-      <guid isPermaLink="false">eu-dma-google-android-ia-rivales-julio-2026</guid>
-      <description>La CE bajo la DMA obliga a Google a dar a asistentes IA de terceros el mismo acceso al SO Android que tiene Gemini: cámara, micrófono, pantalla, wake word y control de apps. Google debe implementarlo en Android 18 antes del 1 agosto 2027. Impacta el modelo de seguridad de Android al exigir acceso profundo al SO para terceros. Categoría: API/Plataforma</description>
-      <pubDate>Sat, 18 Jul 2026 11:04:12 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] Samsung One UI 9 Phishing App Risk Alert debuta en Galaxy Z Fold 8 / Flip 8</title>
+      <link>https://www.sammobile.com/news/one-ui-9-galaxy-z-flip-fold-8-stop-phishing-apps-running/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-phishing-app-risk-alert-fold8-flip8-julio-2026</guid>
+      <description>Nuevo mecanismo anti-phishing que bloquea apps fraudulentas incluso después de instaladas: cruza datos con Galaxy Store para clasificar riesgo, detecta instalación mediante control remoto o durante llamadas sospechosas de phishing. Debuta en los foldables del 22 de julio y se extenderá a otros Galaxy con One UI 9. Categoría: Knox/Plataforma</description>
+      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
+      <category>Knox/Plataforma</category>
     </item>
+
     <item>
-      <title>[BAJA] GrapheneOS 2026071100: exec spawning refactorizado con toggle por-app</title>
-      <link>https://alternativeto.net/news/2026/7/grapheneos-update-new-exec-spawning-app-toggle-july-2026-security-patch/</link>
-      <guid isPermaLink="false">grapheneos-2026071100-exec-spawning-per-app-toggle</guid>
-      <description>La release estable 2026071100 reemplaza la implementación global de exec spawning por una nueva con toggle per-app, extiende la función al zygote nativo de Android 17, sube el patch level a 2026-07-05, y corrige bugs de Wi-Fi multi-usuario, geocodificación y grabación de pantalla. Categoría: Knox/GrapheneOS/CalyxOS</description>
-      <pubDate>Sat, 18 Jul 2026 11:04:12 +0000</pubDate>
-      <category>Knox/GrapheneOS/CalyxOS</category>
+      <title>[MEDIA] Samsung Galaxy S22 excluido oficialmente de Android 17 (One UI 9)</title>
+      <link>https://tech-ish.com/2026/07/17/samsung-galaxy-s22-one-ui-9-update/</link>
+      <guid isPermaLink="false">samsung-galaxy-s22-excluido-android-17-one-ui-9-julio-2026</guid>
+      <description>Samsung confirma que el Galaxy S22, S22+ y S22 Ultra no recibirán Android 17 ni One UI 9, completando 4 OS upgrades prometidas con Android 16. Los usuarios quedan sin acceso a nuevas protecciones de plataforma (Advanced Protection Mode, OS Verification, DCL nativo) y solo recibirán parches trimestrales de seguridad en adelante. Categoría: Bootloader/Plataforma</description>
+      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
+      <category>Bootloader/Plataforma</category>
     </item>
+
+    <item>
+      <title>[BAJA] Samsung Auto Blocker One UI 9: Security Report + USB blocking total</title>
+      <link>https://www.androidauthority.com/samsung-one-ui-9-auto-blocker-update-3666893/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-auto-blocker-security-report-julio-2026</guid>
+      <description>Auto Blocker en One UI 9 incorpora informe histórico de 7 días/mensual de bloqueos de instalaciones de fuentes desconocidas, bloqueo total de USB en modo Máximas Restricciones, y soporte para stores de terceros con requisitos de cumplimiento de seguridad Samsung. Categoría: Knox/Plataforma</description>
+      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
+      <category>Knox/Plataforma</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Samsung Galaxy S23 inicia rollout del parche de julio 2026</title>
+      <link>https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/</link>
+      <guid isPermaLink="false">samsung-galaxy-s23-julio-2026-rollout</guid>
+      <description>El Galaxy S23 y variantes reciben el ASB de julio 2026 (57 fixes: 5 críticos, 42 altos, 16 SVEs Samsung). Categoría: ASB</description>
+      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
+      <category>ASB</category>
+    </item>
+
   </channel>
 </rss>
