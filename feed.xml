@@ -5,42 +5,33 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, root, Play Integrity, parches y más. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 19 Jul 2026 11:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:12:29 +0000</lastBuildDate>
 
     <item>
-      <title>[MEDIA] Samsung One UI 9 Phishing App Risk Alert debuta en Galaxy Z Fold 8 / Flip 8</title>
-      <link>https://www.sammobile.com/news/one-ui-9-galaxy-z-flip-fold-8-stop-phishing-apps-running/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-phishing-app-risk-alert-fold8-flip8-julio-2026</guid>
-      <description>Nuevo mecanismo anti-phishing que bloquea apps fraudulentas incluso después de instaladas: cruza datos con Galaxy Store para clasificar riesgo, detecta instalación mediante control remoto o durante llamadas sospechosas de phishing. Debuta en los foldables del 22 de julio y se extenderá a otros Galaxy con One UI 9. Categoría: Knox/Plataforma</description>
-      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
-      <category>Knox/Plataforma</category>
+      <title>[MEDIA] Samsung Galaxy Glasses (Android XR): privacidad y anti-tampering previo al lanzamiento del 22 de julio</title>
+      <link>https://samsung.gadgethacks.com/news/samsung-galaxy-glasses-launch-july-2026-features-privacy-and-tradeoffs/</link>
+      <guid isPermaLink="false">galaxy-glasses-android-xr-privacidad-anti-tampering-julio-2026</guid>
+      <description>Los Galaxy Glasses (cámara 12MP, sin display) debutan en Unpacked el 22 de julio con Android XR: la especificación del SO obliga a un sistema dual-LED (usuario + transeúnte) para señalizar grabación activa, y Google incorpora protecciones anti-tampering en hardware desde el primer día. Sin embargo, Samsung no ha divulgado políticas de retención de datos, desglose on-device vs. cloud ni controles empresariales, generando interrogantes críticos de privacidad. Categoría: API/Plataforma</description>
+      <pubDate>Mon, 20 Jul 2026 11:12:29 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
 
     <item>
-      <title>[MEDIA] Samsung Galaxy S22 excluido oficialmente de Android 17 (One UI 9)</title>
-      <link>https://tech-ish.com/2026/07/17/samsung-galaxy-s22-one-ui-9-update/</link>
-      <guid isPermaLink="false">samsung-galaxy-s22-excluido-android-17-one-ui-9-julio-2026</guid>
-      <description>Samsung confirma que el Galaxy S22, S22+ y S22 Ultra no recibirán Android 17 ni One UI 9, completando 4 OS upgrades prometidas con Android 16. Los usuarios quedan sin acceso a nuevas protecciones de plataforma (Advanced Protection Mode, OS Verification, DCL nativo) y solo recibirán parches trimestrales de seguridad en adelante. Categoría: Bootloader/Plataforma</description>
-      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
-      <category>Bootloader/Plataforma</category>
+      <title>[MEDIA] Estudio MVPNalyzer: 88% de 281 apps VPN gratuitas en Play Store fallan en seguridad — 2.4B instalaciones afectadas</title>
+      <link>https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html</link>
+      <guid isPermaLink="false">mvpnalyzer-281-vpn-apps-play-store-2026</guid>
+      <description>Investigadores de la U. de Michigan, U. de New Mexico e IIT Delhi analizaron 281 apps VPN gratuitas de Play Store: 29 filtran tráfico DNS fuera del túnel cifrado, 61 envían datos en texto claro, 5 exponen su configuración permitiendo redirect MITM, 107 de 108 emplean cifrado débil (Blowfish/3DES), y 246 se comunican con dominios de tracking. Las apps con problemas acumulan más de 2.4B instalaciones. Presentado en NDSS 2026. Categoría: Privacidad/Plataforma</description>
+      <pubDate>Mon, 20 Jul 2026 11:12:29 +0000</pubDate>
+      <category>Privacidad/Plataforma</category>
     </item>
 
     <item>
-      <title>[BAJA] Samsung Auto Blocker One UI 9: Security Report + USB blocking total</title>
-      <link>https://www.androidauthority.com/samsung-one-ui-9-auto-blocker-update-3666893/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-auto-blocker-security-report-julio-2026</guid>
-      <description>Auto Blocker en One UI 9 incorpora informe histórico de 7 días/mensual de bloqueos de instalaciones de fuentes desconocidas, bloqueo total de USB en modo Máximas Restricciones, y soporte para stores de terceros con requisitos de cumplimiento de seguridad Samsung. Categoría: Knox/Plataforma</description>
-      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
-      <category>Knox/Plataforma</category>
-    </item>
-
-    <item>
-      <title>[BAJA] Samsung Galaxy S23 inicia rollout del parche de julio 2026</title>
-      <link>https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/</link>
-      <guid isPermaLink="false">samsung-galaxy-s23-julio-2026-rollout</guid>
-      <description>El Galaxy S23 y variantes reciben el ASB de julio 2026 (57 fixes: 5 críticos, 42 altos, 16 SVEs Samsung). Categoría: ASB</description>
-      <pubDate>Sun, 19 Jul 2026 11:10:37 +0000</pubDate>
-      <category>ASB</category>
+      <title>[BAJA] Samsung Galaxy A25 y XCover 7 reciben el parche de seguridad de julio 2026</title>
+      <link>https://www.sammobile.com/news/samsung-updates-galaxy-xcover-7-with-july-2026-security-patch/</link>
+      <guid isPermaLink="false">samsung-galaxy-a25-xcover7-julio-2026-rollout</guid>
+      <description>El parche de julio 2026 (57 fixes, 5 críticos, 16 SVEs) se extiende a Galaxy A25 (build A256U1UESCEZG1, Puerto Rico) y XCover 7 (build G556BXXSHEZG2, Vietnam, Tailandia, Filipinas). Extensión del rollout mensual de Samsung. Categoría: Samsung</description>
+      <pubDate>Mon, 20 Jul 2026 11:12:29 +0000</pubDate>
+      <category>Samsung</category>
     </item>
 
   </channel>

@@ -605,6 +605,24 @@
       "title": "Samsung Galaxy S23 inicia rollout del parche de julio 2026",
       "url": "https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/",
       "first_seen": "2026-07-19"
+    },
+    {
+      "id": "galaxy-glasses-android-xr-privacidad-anti-tampering-julio-2026",
+      "title": "Samsung Galaxy Glasses (Android XR): privacidad y anti-tampering previo al lanzamiento del 22 de julio",
+      "url": "https://samsung.gadgethacks.com/news/samsung-galaxy-glasses-launch-july-2026-features-privacy-and-tradeoffs/",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "mvpnalyzer-281-vpn-apps-play-store-2026",
+      "title": "Estudio MVPNalyzer: 88% de 281 apps VPN gratuitas en Play Store fallan en seguridad — 2.4B instalaciones afectadas",
+      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "samsung-galaxy-a25-xcover7-julio-2026-rollout",
+      "title": "Samsung Galaxy A25 y XCover 7 reciben el parche de seguridad de julio 2026",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-xcover-7-with-july-2026-security-patch/",
+      "first_seen": "2026-07-20"
     }
   ]
 }
