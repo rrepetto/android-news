@@ -623,6 +623,30 @@
       "title": "Samsung Galaxy A25 y XCover 7 reciben el parche de seguridad de julio 2026",
       "url": "https://www.sammobile.com/news/samsung-updates-galaxy-xcover-7-with-july-2026-security-patch/",
       "first_seen": "2026-07-20"
+    },
+    {
+      "id": "pixel-6-6-pro-eol-confirmado-qpr2-julio-2026",
+      "title": "Pixel 6 y 6 Pro: Google confirma oficialmente fin de soporte al lanzar QPR2 sin ellos",
+      "url": "https://www.droid-life.com/2026/07/20/google-confirms-end-of-life-status-for-pixel-6-and-pixel-6-pro/",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "android-17-qpr2-beta-1-julio-2026",
+      "title": "Android 17 QPR2 Beta 1 disponible para Pixel: inicio del ciclo hacia el Pixel Drop de diciembre 2026",
+      "url": "https://9to5google.com/2026/07/20/android-17-qpr2-beta-1-pixel/",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "grapheneos-2026071500-secure-nfc-kernel-update",
+      "title": "GrapheneOS 2026071500: NFC seguro por defecto, compatibilidad con V-KEY anti-tampering y actualizaciones de kernel GKI",
+      "url": "https://grapheneos.org/releases#2026071500",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "samsung-one-ui-9-testing-fan-editions-s25edge-julio-2026",
+      "title": "Samsung expande pruebas internas de One UI 9 (Android 17) a Galaxy S23 FE, S24 FE, S25 FE y S25 Edge",
+      "url": "https://tech-ish.com/2026/07/20/one-ui-9-galaxy-fan-edition-s25-edge/",
+      "first_seen": "2026-07-21"
     }
   ]
 }

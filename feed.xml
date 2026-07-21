@@ -3,36 +3,40 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, root, Play Integrity, parches y más. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. Feed solo del último día; historial completo en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:12:29 +0000</lastBuildDate>
-
+    <lastBuildDate>Tue, 21 Jul 2026 11:10:13 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Samsung Galaxy Glasses (Android XR): privacidad y anti-tampering previo al lanzamiento del 22 de julio</title>
-      <link>https://samsung.gadgethacks.com/news/samsung-galaxy-glasses-launch-july-2026-features-privacy-and-tradeoffs/</link>
-      <guid isPermaLink="false">galaxy-glasses-android-xr-privacidad-anti-tampering-julio-2026</guid>
-      <description>Los Galaxy Glasses (cámara 12MP, sin display) debutan en Unpacked el 22 de julio con Android XR: la especificación del SO obliga a un sistema dual-LED (usuario + transeúnte) para señalizar grabación activa, y Google incorpora protecciones anti-tampering en hardware desde el primer día. Sin embargo, Samsung no ha divulgado políticas de retención de datos, desglose on-device vs. cloud ni controles empresariales, generando interrogantes críticos de privacidad. Categoría: API/Plataforma</description>
-      <pubDate>Mon, 20 Jul 2026 11:12:29 +0000</pubDate>
+      <title>[ALTA] Pixel 6 y 6 Pro: Google confirma oficialmente fin de soporte al lanzar QPR2 sin ellos</title>
+      <link>https://www.droid-life.com/2026/07/20/google-confirms-end-of-life-status-for-pixel-6-and-pixel-6-pro/</link>
+      <guid isPermaLink="false">pixel-6-6-pro-eol-confirmado-qpr2-julio-2026</guid>
+      <description>Con el lanzamiento de Android 17 QPR2 Beta 1, Google excluyó formalmente a los Pixel 6 y 6 Pro; las notas de release confirman que Android 17 QPR1 (septiembre 2026) será su última actualización, dejando los dispositivos sin parches de seguridad a partir de octubre 2026. Millones de usuarios quedarán expuestos a CVEs nuevas sin mitigación. Categoría: Bootloader/Seguridad del dispositivo.</description>
+      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
+      <category>Bootloader/Seguridad del dispositivo</category>
+    </item>
+    <item>
+      <title>[MEDIA] Android 17 QPR2 Beta 1 disponible para Pixel: inicio del ciclo hacia el Pixel Drop de diciembre 2026</title>
+      <link>https://9to5google.com/2026/07/20/android-17-qpr2-beta-1-pixel/</link>
+      <guid isPermaLink="false">android-17-qpr2-beta-1-julio-2026</guid>
+      <description>Google lanzó el primer beta del Pixel Drop de diciembre 2026 (build CP41.260701.005), disponible para Pixel 6a en adelante. Sin cambios de comportamiento de SDK significativos, pero inaugura el ciclo de preview del Q4 y confirma la hoja de ruta de la plataforma. Categoría: API/Plataforma.</description>
+      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
-
     <item>
-      <title>[MEDIA] Estudio MVPNalyzer: 88% de 281 apps VPN gratuitas en Play Store fallan en seguridad — 2.4B instalaciones afectadas</title>
-      <link>https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html</link>
-      <guid isPermaLink="false">mvpnalyzer-281-vpn-apps-play-store-2026</guid>
-      <description>Investigadores de la U. de Michigan, U. de New Mexico e IIT Delhi analizaron 281 apps VPN gratuitas de Play Store: 29 filtran tráfico DNS fuera del túnel cifrado, 61 envían datos en texto claro, 5 exponen su configuración permitiendo redirect MITM, 107 de 108 emplean cifrado débil (Blowfish/3DES), y 246 se comunican con dominios de tracking. Las apps con problemas acumulan más de 2.4B instalaciones. Presentado en NDSS 2026. Categoría: Privacidad/Plataforma</description>
-      <pubDate>Mon, 20 Jul 2026 11:12:29 +0000</pubDate>
-      <category>Privacidad/Plataforma</category>
+      <title>[MEDIA] GrapheneOS 2026071500: NFC seguro por defecto, compatibilidad con V-KEY anti-tampering y actualizaciones de kernel GKI</title>
+      <link>https://grapheneos.org/releases#2026071500</link>
+      <guid isPermaLink="false">grapheneos-2026071500-secure-nfc-kernel-update</guid>
+      <description>La versión 2026071500 habilita el modo NFC seguro estándar por defecto, mejora el exec spawning para ser compatible con apps que usan V-KEY V-OS Mobile App Protection y código anti-tampering que verifica Linux mount IDs, y actualiza los kernels GKI LTS (6.1.170, 6.6.130, 6.12). Relevante para entornos de alta seguridad que combinan hardening y apps empresariales. Categoría: Knox/GrapheneOS/Privacy OS.</description>
+      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
+      <category>Knox/GrapheneOS/Privacy OS</category>
     </item>
-
     <item>
-      <title>[BAJA] Samsung Galaxy A25 y XCover 7 reciben el parche de seguridad de julio 2026</title>
-      <link>https://www.sammobile.com/news/samsung-updates-galaxy-xcover-7-with-july-2026-security-patch/</link>
-      <guid isPermaLink="false">samsung-galaxy-a25-xcover7-julio-2026-rollout</guid>
-      <description>El parche de julio 2026 (57 fixes, 5 críticos, 16 SVEs) se extiende a Galaxy A25 (build A256U1UESCEZG1, Puerto Rico) y XCover 7 (build G556BXXSHEZG2, Vietnam, Tailandia, Filipinas). Extensión del rollout mensual de Samsung. Categoría: Samsung</description>
-      <pubDate>Mon, 20 Jul 2026 11:12:29 +0000</pubDate>
-      <category>Samsung</category>
+      <title>[BAJA] Samsung expande pruebas internas de One UI 9 (Android 17) a Galaxy S23 FE, S24 FE, S25 FE y S25 Edge</title>
+      <link>https://tech-ish.com/2026/07/20/one-ui-9-galaxy-fan-edition-s25-edge/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-testing-fan-editions-s25edge-julio-2026</guid>
+      <description>Builds de test con el parche de julio 2026 aparecieron en servidores de Samsung para Galaxy S23 FE, S24 FE, S25 FE y S25 Edge, señalando progreso hacia el rollout estable de Android 17. No hay confirmación de fecha; el stable para la gama S25/S26 se espera en agosto-septiembre 2026. Categoría: API/Plataforma.</description>
+      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
-
   </channel>
 </rss>
