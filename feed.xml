@@ -3,39 +3,39 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. Feed solo del último día; historial completo en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed refleja solo el último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:04:48 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Pixel 6 y 6 Pro: Google confirma oficialmente fin de soporte al lanzar QPR2 sin ellos</title>
-      <link>https://www.droid-life.com/2026/07/20/google-confirms-end-of-life-status-for-pixel-6-and-pixel-6-pro/</link>
-      <guid isPermaLink="false">pixel-6-6-pro-eol-confirmado-qpr2-julio-2026</guid>
-      <description>Con el lanzamiento de Android 17 QPR2 Beta 1, Google excluyó formalmente a los Pixel 6 y 6 Pro; las notas de release confirman que Android 17 QPR1 (septiembre 2026) será su última actualización, dejando los dispositivos sin parches de seguridad a partir de octubre 2026. Millones de usuarios quedarán expuestos a CVEs nuevas sin mitigación. Categoría: Bootloader/Seguridad del dispositivo.</description>
-      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
-      <category>Bootloader/Seguridad del dispositivo</category>
-    </item>
-    <item>
-      <title>[MEDIA] Android 17 QPR2 Beta 1 disponible para Pixel: inicio del ciclo hacia el Pixel Drop de diciembre 2026</title>
-      <link>https://9to5google.com/2026/07/20/android-17-qpr2-beta-1-pixel/</link>
-      <guid isPermaLink="false">android-17-qpr2-beta-1-julio-2026</guid>
-      <description>Google lanzó el primer beta del Pixel Drop de diciembre 2026 (build CP41.260701.005), disponible para Pixel 6a en adelante. Sin cambios de comportamiento de SDK significativos, pero inaugura el ciclo de preview del Q4 y confirma la hoja de ruta de la plataforma. Categoría: API/Plataforma.</description>
-      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
+      <title>[ALTA] One UI 9.0 estable debuta oficialmente en Galaxy Z Fold 8, Z Fold 8 Ultra y Z Flip 8</title>
+      <link>https://www.sammyfans.com/2026/07/22/official-one-ui-9-0-and-one-ui-9-0-watch-unveiling-today/</link>
+      <guid isPermaLink="false">samsung-oneui9-estable-debut-fold8-flip8-julio22-2026</guid>
+      <description>Samsung lanzó hoy en Galaxy Unpacked London la primera versión estable de One UI 9.0 (Android 17). Advanced Protection Mode, Anti-Phishing App Risk Alert, Auto Blocker y 7 años de actualizaciones de seguridad garantizados. Categoría: API/Plataforma</description>
+      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[MEDIA] GrapheneOS 2026071500: NFC seguro por defecto, compatibilidad con V-KEY anti-tampering y actualizaciones de kernel GKI</title>
-      <link>https://grapheneos.org/releases#2026071500</link>
-      <guid isPermaLink="false">grapheneos-2026071500-secure-nfc-kernel-update</guid>
-      <description>La versión 2026071500 habilita el modo NFC seguro estándar por defecto, mejora el exec spawning para ser compatible con apps que usan V-KEY V-OS Mobile App Protection y código anti-tampering que verifica Linux mount IDs, y actualiza los kernels GKI LTS (6.1.170, 6.6.130, 6.12). Relevante para entornos de alta seguridad que combinan hardening y apps empresariales. Categoría: Knox/GrapheneOS/Privacy OS.</description>
-      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
-      <category>Knox/GrapheneOS/Privacy OS</category>
+      <title>[ALTA] GrapheneOS alerta: Google reduciría backports de seguridad para versiones antiguas de Android</title>
+      <link>https://cyberinsider.com/grapheneos-says-google-will-cut-security-backports-for-older-android-releases/</link>
+      <guid isPermaLink="false">grapheneos-alerta-google-backports-android-versiones-antiguas-2026</guid>
+      <description>Según GrapheneOS, Google informó a OEMs que reducirá los backports de parches de seguridad a versiones previas. Millones de dispositivos en Android 14-16 podrían recibir cobertura reducida de vulnerabilidades internas. Google no confirmó el cambio. Categoría: ASB</description>
+      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
+      <category>ASB</category>
     </item>
     <item>
-      <title>[BAJA] Samsung expande pruebas internas de One UI 9 (Android 17) a Galaxy S23 FE, S24 FE, S25 FE y S25 Edge</title>
-      <link>https://tech-ish.com/2026/07/20/one-ui-9-galaxy-fan-edition-s25-edge/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-testing-fan-editions-s25edge-julio-2026</guid>
-      <description>Builds de test con el parche de julio 2026 aparecieron en servidores de Samsung para Galaxy S23 FE, S24 FE, S25 FE y S25 Edge, señalando progreso hacia el rollout estable de Android 17. No hay confirmación de fecha; el stable para la gama S25/S26 se espera en agosto-septiembre 2026. Categoría: API/Plataforma.</description>
-      <pubDate>Tue, 21 Jul 2026 11:04:10 +0000</pubDate>
+      <title>[MEDIA] Android XR Security Bulletin Julio 2026 — primer boletín mensual para la plataforma XR</title>
+      <link>https://source.android.com/docs/security/bulletin/xr/2026/2026-07-01</link>
+      <guid isPermaLink="false">android-xr-bulletin-julio-2026</guid>
+      <description>Google publicó el boletín de seguridad de julio para Android XR (nivel de parche 2026-07-05), coincidiendo con el lanzamiento de Galaxy Glasses (primer dispositivo Android XR masivo). Categoría: ASB/API/Plataforma</description>
+      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
+      <category>ASB/API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung Galaxy Watch 9 y Watch Ultra 2 — Snapdragon Wear Elite y AI health companion</title>
+      <link>https://www.trustedreviews.com/news/samsung-teases-galaxy-watch-9-and-ultra-2-with-ai-health-upgrades</link>
+      <guid isPermaLink="false">samsung-galaxy-watch9-ultra2-unpacked-julio22-2026</guid>
+      <description>Lanzados en Unpacked London. Watch Ultra 2 estrena Snapdragon Wear Elite (3nm) con IA local. Datos biométricos continuos; sin política de retención de datos publicada. Categoría: API/Plataforma</description>
+      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
   </channel>
