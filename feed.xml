@@ -3,40 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed refleja solo el último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:04:48 +0000</lastBuildDate>
-    <item>
-      <title>[ALTA] One UI 9.0 estable debuta oficialmente en Galaxy Z Fold 8, Z Fold 8 Ultra y Z Flip 8</title>
-      <link>https://www.sammyfans.com/2026/07/22/official-one-ui-9-0-and-one-ui-9-0-watch-unveiling-today/</link>
-      <guid isPermaLink="false">samsung-oneui9-estable-debut-fold8-flip8-julio22-2026</guid>
-      <description>Samsung lanzó hoy en Galaxy Unpacked London la primera versión estable de One UI 9.0 (Android 17). Advanced Protection Mode, Anti-Phishing App Risk Alert, Auto Blocker y 7 años de actualizaciones de seguridad garantizados. Categoría: API/Plataforma</description>
-      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[ALTA] GrapheneOS alerta: Google reduciría backports de seguridad para versiones antiguas de Android</title>
-      <link>https://cyberinsider.com/grapheneos-says-google-will-cut-security-backports-for-older-android-releases/</link>
-      <guid isPermaLink="false">grapheneos-alerta-google-backports-android-versiones-antiguas-2026</guid>
-      <description>Según GrapheneOS, Google informó a OEMs que reducirá los backports de parches de seguridad a versiones previas. Millones de dispositivos en Android 14-16 podrían recibir cobertura reducida de vulnerabilidades internas. Google no confirmó el cambio. Categoría: ASB</description>
-      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-    <item>
-      <title>[MEDIA] Android XR Security Bulletin Julio 2026 — primer boletín mensual para la plataforma XR</title>
-      <link>https://source.android.com/docs/security/bulletin/xr/2026/2026-07-01</link>
-      <guid isPermaLink="false">android-xr-bulletin-julio-2026</guid>
-      <description>Google publicó el boletín de seguridad de julio para Android XR (nivel de parche 2026-07-05), coincidiendo con el lanzamiento de Galaxy Glasses (primer dispositivo Android XR masivo). Categoría: ASB/API/Plataforma</description>
-      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
-      <category>ASB/API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung Galaxy Watch 9 y Watch Ultra 2 — Snapdragon Wear Elite y AI health companion</title>
-      <link>https://www.trustedreviews.com/news/samsung-teases-galaxy-watch-9-and-ultra-2-with-ai-health-upgrades</link>
-      <guid isPermaLink="false">samsung-galaxy-watch9-ultra2-unpacked-julio22-2026</guid>
-      <description>Lanzados en Unpacked London. Watch Ultra 2 estrena Snapdragon Wear Elite (3nm) con IA local. Datos biométricos continuos; sin política de retención de datos publicada. Categoría: API/Plataforma</description>
-      <pubDate>Wed, 22 Jul 2026 11:04:48 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 11:11:15 +0000</lastBuildDate>
+  <item>
+    <title>[ALTA] Google Play abre a tiendas de apps rivales — implementado el 22 julio 2026</title>
+    <link>https://www.digitbin.com/google-play-third-party-app-stores/</link>
+    <guid isPermaLink="false">google-play-rival-stores-live-julio22-2026</guid>
+    <description>Por orden judicial (caso Google vs Epic), Google abrió su Play Store a tiendas de apps rivales en EE.UU. el 22 julio. Nuevo vector para distribución de apps troyanizadas con menor vetting. | Categoría: Plataforma/API</description>
+    <pubDate>Thu, 23 Jul 2026 11:11:15 +0000</pubDate>
+    <category>Plataforma/API</category>
+  </item>
+  <item>
+    <title>[MEDIA] Android 17 Advanced Protection bloquea Accessibility Services a apps que no son herramientas de accesibilidad</title>
+    <link>https://www.androidpolice.com/advanced-protection-mode-android-17-beta-accessibility/</link>
+    <guid isPermaLink="false">android-17-advanced-protection-accessibility-os-verify-2026</guid>
+    <description>Android 17 (API 37) bloquea Accessibility Services en Advanced Protection Mode para apps que no son herramientas de accesibilidad, cortando el vector favorito del malware bancario y RATs. Google introduce verificación del OS Android en Pixel para detectar builds modificadas. | Categoría: API/Plataforma</description>
+    <pubDate>Thu, 23 Jul 2026 11:11:15 +0000</pubDate>
+    <category>API/Plataforma</category>
+  </item>
   </channel>
 </rss>
