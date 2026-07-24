@@ -3,24 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android (solo el último día)</description>
     <language>es</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:13:00 +0000</lastBuildDate>
   <item>
-    <title>[ALTA] Google Play abre a tiendas de apps rivales — implementado el 22 julio 2026</title>
-    <link>https://www.digitbin.com/google-play-third-party-app-stores/</link>
-    <guid isPermaLink="false">google-play-rival-stores-live-julio22-2026</guid>
-    <description>Por orden judicial (caso Google vs Epic), Google abrió su Play Store a tiendas de apps rivales en EE.UU. el 22 julio. Nuevo vector para distribución de apps troyanizadas con menor vetting. | Categoría: Plataforma/API</description>
-    <pubDate>Thu, 23 Jul 2026 11:11:15 +0000</pubDate>
-    <category>Plataforma/API</category>
+    <title>[ALTA] OctagonPanel / BH Alert: spyware Android de 4 etapas se disfraza de app de emergencias de Bahrein</title>
+    <link>https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware</link>
+    <guid isPermaLink="false">octagonpanel-bhalert-spyware-bahrain-android-2026</guid>
+    <description>App falsa BH Alert despliega plataforma de vigilancia Android de 4 etapas: roba credenciales, SMS/OTP, realiza overlays bancarios y control remoto. Distribuida via dominios clon de Google Play. Categoría: Malware</description>
+    <pubDate>Fri, 24 Jul 2026 11:13:00 +0000</pubDate>
+    <category>Malware</category>
   </item>
   <item>
-    <title>[MEDIA] Android 17 Advanced Protection bloquea Accessibility Services a apps que no son herramientas de accesibilidad</title>
-    <link>https://www.androidpolice.com/advanced-protection-mode-android-17-beta-accessibility/</link>
-    <guid isPermaLink="false">android-17-advanced-protection-accessibility-os-verify-2026</guid>
-    <description>Android 17 (API 37) bloquea Accessibility Services en Advanced Protection Mode para apps que no son herramientas de accesibilidad, cortando el vector favorito del malware bancario y RATs. Google introduce verificación del OS Android en Pixel para detectar builds modificadas. | Categoría: API/Plataforma</description>
-    <pubDate>Thu, 23 Jul 2026 11:11:15 +0000</pubDate>
-    <category>API/Plataforma</category>
+    <title>[BAJA] Xiaomi amplía rollout del parche julio 2026 a 58 dispositivos Xiaomi/Redmi/Poco</title>
+    <link>https://www.gizmochina.com/2026/07/24/these-xiaomi-devices-have-received-july-2026-security-update/</link>
+    <guid isPermaLink="false">xiaomi-julio-2026-58-dispositivos-expansion</guid>
+    <description>Xiaomi completa rollout del parche julio 2026 (nivel 2026-07-05) para 58 modelos Xiaomi/Redmi/Poco en múltiples regiones. Cubre 5 CVEs críticos y 42 de alta severidad. Categoría: ASB/Parches</description>
+    <pubDate>Fri, 24 Jul 2026 11:13:00 +0000</pubDate>
+    <category>ASB/Parches</category>
   </item>
   </channel>
 </rss>

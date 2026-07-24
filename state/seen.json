@@ -683,6 +683,18 @@
       "title": "Android 17 Advanced Protection bloquea Accessibility Services a apps que no son herramientas de accesibilidad",
       "url": "https://www.androidpolice.com/advanced-protection-mode-android-17-beta-accessibility/",
       "first_seen": "2026-07-23"
+    },
+    {
+      "id": "octagonpanel-bhalert-spyware-bahrain-android-2026",
+      "title": "OctagonPanel / BH Alert: spyware Android de 4 etapas se disfraza de app de emergencias de Bahrein",
+      "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "xiaomi-julio-2026-58-dispositivos-expansion",
+      "title": "Xiaomi amplía rollout del parche julio 2026 a 58 dispositivos Xiaomi/Redmi/Poco",
+      "url": "https://www.gizmochina.com/2026/07/24/these-xiaomi-devices-have-received-july-2026-security-update/",
+      "first_seen": "2026-07-24"
     }
   ]
 }
