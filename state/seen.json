@@ -695,6 +695,30 @@
       "title": "Xiaomi amplía rollout del parche julio 2026 a 58 dispositivos Xiaomi/Redmi/Poco",
       "url": "https://www.gizmochina.com/2026/07/24/these-xiaomi-devices-have-received-july-2026-security-update/",
       "first_seen": "2026-07-24"
+    },
+    {
+      "id": "samsung-one-ui-9-lockscreen-bruteforce-policy-julio-2026",
+      "title": "Samsung One UI 9: bloqueo permanente de pantalla tras 13 intentos fallidos",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-one-ui-9-stricter-lock-screen-security/",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "grapheneos-2026071501-preview-multi-month-patches",
+      "title": "GrapheneOS 2026071501: security preview con parches ASB adelantados hasta enero 2027",
+      "url": "https://grapheneos.org/releases",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "samsung-julio-2026-expansion-fold5-flip5-serie-a-budget",
+      "title": "Samsung expande parche de julio 2026 a Galaxy Z Fold 5/Flip 5/Fold 4/Flip 4 y A-series (A54, A33, A26, A15)",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-5-flip-5-fold-4-flip-4-get-july-2026-security-update/",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "samsung-one-ui-9-beta-expansion-mas-dispositivos-julio-2026",
+      "title": "Samsung prepara expansión de One UI 9 beta a más Galaxy (Serie S25 próxima)",
+      "url": "https://www.gizmochina.com/2026/07/25/samsung-prepares-to-expand-one-ui-9-0-beta-to-more-galaxy-phones/",
+      "first_seen": "2026-07-25"
     }
   ]
 }

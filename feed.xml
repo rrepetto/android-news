@@ -5,22 +5,38 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android (solo el último día)</description>
     <language>es</language>
-    <lastBuildDate>Fri, 24 Jul 2026 11:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 11:04:45 +0000</lastBuildDate>
   <item>
-    <title>[ALTA] OctagonPanel / BH Alert: spyware Android de 4 etapas se disfraza de app de emergencias de Bahrein</title>
-    <link>https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware</link>
-    <guid isPermaLink="false">octagonpanel-bhalert-spyware-bahrain-android-2026</guid>
-    <description>App falsa BH Alert despliega plataforma de vigilancia Android de 4 etapas: roba credenciales, SMS/OTP, realiza overlays bancarios y control remoto. Distribuida via dominios clon de Google Play. Categoría: Malware</description>
-    <pubDate>Fri, 24 Jul 2026 11:13:00 +0000</pubDate>
-    <category>Malware</category>
+    <title>[ALTA] Samsung One UI 9: bloqueo permanente de pantalla tras 13 intentos fallidos</title>
+    <link>https://www.sammobile.com/news/samsung-galaxy-one-ui-9-stricter-lock-screen-security/</link>
+    <guid isPermaLink="false">samsung-one-ui-9-lockscreen-bruteforce-policy-julio-2026</guid>
+    <description>One UI 9.0 implementa nueva política anti-fuerza bruta: bloqueo temporal creciente desde el 5° intento hasta 24 horas tras el 12°, y bloqueo permanente con factory reset obligatorio tras el 13°. Aplica desde hoy a Galaxy Z Fold 8, Z Fold 8 Ultra y Z Flip 8; se extenderá con rollout estable de agosto-septiembre 2026. Categoría: Bootloader/Dispositivo</description>
+    <pubDate>Sat, 25 Jul 2026 11:04:45 +0000</pubDate>
+    <category>Bootloader/Dispositivo</category>
   </item>
   <item>
-    <title>[BAJA] Xiaomi amplía rollout del parche julio 2026 a 58 dispositivos Xiaomi/Redmi/Poco</title>
-    <link>https://www.gizmochina.com/2026/07/24/these-xiaomi-devices-have-received-july-2026-security-update/</link>
-    <guid isPermaLink="false">xiaomi-julio-2026-58-dispositivos-expansion</guid>
-    <description>Xiaomi completa rollout del parche julio 2026 (nivel 2026-07-05) para 58 modelos Xiaomi/Redmi/Poco en múltiples regiones. Cubre 5 CVEs críticos y 42 de alta severidad. Categoría: ASB/Parches</description>
-    <pubDate>Fri, 24 Jul 2026 11:13:00 +0000</pubDate>
+    <title>[MEDIA] GrapheneOS 2026071501: security preview con parches ASB adelantados hasta enero 2027</title>
+    <link>https://grapheneos.org/releases</link>
+    <guid isPermaLink="false">grapheneos-2026071501-preview-multi-month-patches</guid>
+    <description>Nueva build de GrapheneOS (revisión 01 del 15 de julio) incluye todos los parches de Android 17 de los boletines ASB de julio 2026 a enero 2027, además de correcciones de comportamiento inesperado en modo multi-usuario. Categoría: GrapheneOS/Pixel</description>
+    <pubDate>Sat, 25 Jul 2026 11:04:45 +0000</pubDate>
+    <category>GrapheneOS/Pixel</category>
+  </item>
+  <item>
+    <title>[BAJA] Samsung expande parche julio 2026 a Galaxy Z Fold 5/Flip 5/Fold 4/Flip 4 y A-series (A54, A33, A26, A15)</title>
+    <link>https://www.sammobile.com/news/galaxy-z-fold-5-flip-5-fold-4-flip-4-get-july-2026-security-update/</link>
+    <guid isPermaLink="false">samsung-julio-2026-expansion-fold5-flip5-serie-a-budget</guid>
+    <description>Continúa la distribución global del parche de julio 2026 (57 CVEs, 5 críticos, 16 SVEs) a foldables generación 4/5 y gama media-baja. Rollout iniciado en Corea con expansión global inminente. Categoría: ASB/Parches</description>
+    <pubDate>Sat, 25 Jul 2026 11:04:45 +0000</pubDate>
     <category>ASB/Parches</category>
+  </item>
+  <item>
+    <title>[BAJA] Samsung prepara expansión de One UI 9 beta a más Galaxy (Serie S25 próxima)</title>
+    <link>https://www.gizmochina.com/2026/07/25/samsung-prepares-to-expand-one-ui-9-0-beta-to-more-galaxy-phones/</link>
+    <guid isPermaLink="false">samsung-one-ui-9-beta-expansion-mas-dispositivos-julio-2026</guid>
+    <description>Samsung inicia distribución interna de One UI 9.0 (Android 17) en dispositivos adicionales; Serie S25 sería próxima en recibir beta pública. Relevante para el seguimiento de adopción de Android 17 y sus cambios de seguridad. Categoría: API/Plataforma</description>
+    <pubDate>Sat, 25 Jul 2026 11:04:45 +0000</pubDate>
+    <category>API/Plataforma</category>
   </item>
   </channel>
 </rss>
