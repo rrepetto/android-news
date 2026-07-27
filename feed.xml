@@ -3,40 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android — solo el último día</description>
+    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Jul 2026 11:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:21:44 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Android Developer Verifier (com.google.android.verifier) ya visible en dispositivos</title>
-      <link>https://www.androidauthority.com/android-developer-verifier-app-rollout-3689106/</link>
-      <guid isPermaLink="false">android-developer-verifier-app-visible-devices-julio-2026</guid>
-      <description>El servicio com.google.android.verifier ya aparece instalado silenciosamente en Android 8+, preparando el cumplimiento del 30/09/2026 en 4 países. Desde agosto se lanzará globalmente el flujo avanzado de sideloading. | Categoría: API/Plataforma</description>
-      <pubDate>Sun, 26 Jul 2026 11:03:41 +0000</pubDate>
+      <title>[BAJA] Samsung Galaxy A57 y A27 reciben parche de seguridad julio 2026</title>
+      <link>https://www.sammobile.com/news/samsung-updates-galaxy-a57-a27-with-july-2026-security-patch/</link>
+      <guid isPermaLink="false">samsung-galaxy-a57-a27-julio-2026</guid>
+      <description>El Galaxy A57 (gama media 2026, elegible para One UI 9/Android 17) despliega globalmente el parche de julio 2026 (firmware A576BXXS4AZG7, 383 MB; 57 fixes, 5 criticos); el A27 arranca rollout en Corea. Builds internas del A57 ya referencian el ASB de agosto 2026, sugiriendo integracion adelantada de parches futuros. Categoria: ASB/Parches</description>
+      <pubDate>Mon, 27 Jul 2026 11:10:42 +0000</pubDate>
+      <category>ASB/Parches</category>
+    </item>
+    <item>
+      <title>[BAJA] Builds filtradas de One UI 9 para Galaxy A57 y A17 5G apuntan a expansion beta Android 17</title>
+      <link>https://tech-ish.com/2026/07/25/samsung-one-ui-9-galaxy-a57-a17-5g/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-leaked-builds-a57-a175g</guid>
+      <description>Se detectaron builds internas de One UI 9 (Android 17) para el Galaxy A57 y el hasta ahora inedito Galaxy A17 5G, indicando que Samsung amplia el testing beta de Android 17 hacia la gama media. Android 17 introduce cambios de seguridad como el bloqueo de Accessibility Services para apps no certificadas y mejoras en Play Protect con monitoreo dinamico de senales. Categoria: API/Plataforma</description>
+      <pubDate>Mon, 27 Jul 2026 11:10:42 +0000</pubDate>
       <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] One UI 9 estable para Galaxy S26 y S25 apuntaría a agosto–septiembre 2026</title>
-      <link>https://tech-ish.com/2026/07/25/alleged-samsung-one-ui-9-rollout-timeline/</link>
-      <guid isPermaLink="false">samsung-oneui9-estable-s26-s25-cronograma-agosto-sept-2026</guid>
-      <description>Filtración apunta a agosto-septiembre para el rollout estable de One UI 9 (Android 17) en Galaxy S26 y S25, con las nuevas protecciones de pantalla de bloqueo y Auto Blocker mejorado. | Categoría: Bootloader</description>
-      <pubDate>Sun, 26 Jul 2026 11:03:41 +0000</pubDate>
-      <category>Bootloader</category>
-    </item>
-    <item>
-      <title>[BAJA] Parche julio 2026 llega globalmente a la serie Galaxy S25</title>
-      <link>https://www.sammobile.com/news/galaxy-s25-series-july-2026-security-update-goes-global/</link>
-      <guid isPermaLink="false">samsung-s25-julio-2026-global-rollout</guid>
-      <description>Samsung expandió globalmente el parche de seguridad de julio 2026 a toda la serie Galaxy S25 (57 CVEs, 5 críticos). | Categoría: ASB</description>
-      <pubDate>Sun, 26 Jul 2026 11:03:41 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-    <item>
-      <title>[BAJA] Galaxy A54, A33, A26 y A15 reciben parche julio 2026</title>
-      <link>https://www.sammobile.com/news/galaxy-a54-a33-a26-a15-get-july-2026-security-update/</link>
-      <guid isPermaLink="false">samsung-a54-a33-a26-a15-julio-2026</guid>
-      <description>Expansión del rollout del ASB julio 2026 a Galaxy A54, A33, A26 y A15. | Categoría: ASB</description>
-      <pubDate>Sun, 26 Jul 2026 11:03:41 +0000</pubDate>
-      <category>ASB</category>
     </item>
   </channel>
 </rss>
