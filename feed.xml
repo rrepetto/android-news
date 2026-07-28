@@ -5,22 +5,34 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:14:57 +0000</lastBuildDate>
+
     <item>
-      <title>[BAJA] Samsung Galaxy A57 y A27 reciben parche de seguridad julio 2026</title>
-      <link>https://www.sammobile.com/news/samsung-updates-galaxy-a57-a27-with-july-2026-security-patch/</link>
-      <guid isPermaLink="false">samsung-galaxy-a57-a27-julio-2026</guid>
-      <description>El Galaxy A57 (gama media 2026, elegible para One UI 9/Android 17) despliega globalmente el parche de julio 2026 (firmware A576BXXS4AZG7, 383 MB; 57 fixes, 5 criticos); el A27 arranca rollout en Corea. Builds internas del A57 ya referencian el ASB de agosto 2026, sugiriendo integracion adelantada de parches futuros. Categoria: ASB/Parches</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:42 +0000</pubDate>
-      <category>ASB/Parches</category>
+      <title>[MEDIA] Coretax RAT: informe Q2 2026 — banking trojan con abuso de Accessibility Services</title>
+      <link>https://promon.io/security-news/app-threat-report-q2-2026-coretax-android-banking-malware</link>
+      <guid isPermaLink="false">coretax-rat-android-accesibilidad-q2-2026-promon</guid>
+      <description>Promon publicó análisis detallado del troyano bancario Coretax, que combina abuso de Accessibility Services, overlays falsos y soporte de operador en vivo para secuestrar sesiones bancarias. Vinculado al cluster GoldFactory (Gigabud/MMRat); principalmente activo en Indonesia pero con expansión regional. Categoría: Accessibility / Malware</description>
+      <pubDate>Tue, 28 Jul 2026 11:14:57 +0000</pubDate>
+      <category>Accessibility / Malware</category>
     </item>
+
     <item>
-      <title>[BAJA] Builds filtradas de One UI 9 para Galaxy A57 y A17 5G apuntan a expansion beta Android 17</title>
-      <link>https://tech-ish.com/2026/07/25/samsung-one-ui-9-galaxy-a57-a17-5g/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-leaked-builds-a57-a175g</guid>
-      <description>Se detectaron builds internas de One UI 9 (Android 17) para el Galaxy A57 y el hasta ahora inedito Galaxy A17 5G, indicando que Samsung amplia el testing beta de Android 17 hacia la gama media. Android 17 introduce cambios de seguridad como el bloqueo de Accessibility Services para apps no certificadas y mejoras en Play Protect con monitoreo dinamico de senales. Categoria: API/Plataforma</description>
-      <pubDate>Mon, 27 Jul 2026 11:10:42 +0000</pubDate>
+      <title>[MEDIA] App de &quot;seguridad&quot; Android se convierte en spyware — ThreatsDay julio 23 2026</title>
+      <link>https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html</link>
+      <guid isPermaLink="false">app-seguridad-android-spyware-julio-2026-thn</guid>
+      <description>The Hacker News reportó que una aplicación de seguridad personal para Android fue descubierta actuando como spyware, robando datos de usuarios de forma sigilosa. El caso fue incluido en el resumen semanal de amenazas THN del 23 de julio. Categoría: Malware</description>
+      <pubDate>Tue, 28 Jul 2026 11:14:57 +0000</pubDate>
+      <category>Malware</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Google System Updates julio 2026: passkeys en Android TV, perfiles de trabajo en Wear OS</title>
+      <link>https://9to5google.com/2026/07/27/july-2026-google-system-updates/</link>
+      <guid isPermaLink="false">google-system-updates-julio-2026-9to5google</guid>
+      <description>El resumen actualizado de 9to5Google documenta las novedades del paquete del sistema de julio 2026: soporte de passkeys en Android TV, transferencia de perfiles de trabajo a relojes Wear OS, acceso al IMEI desde pantalla de bloqueo y tienda nativa de Google One. Categoría: API/Plataforma</description>
+      <pubDate>Tue, 28 Jul 2026 11:14:57 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
+
   </channel>
 </rss>
