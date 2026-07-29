@@ -773,6 +773,22 @@
       "title": "Google System Updates julio 2026: passkeys en Android TV, perfiles de trabajo en Wear OS",
       "url": "https://9to5google.com/2026/07/27/july-2026-google-system-updates/",
       "first_seen": "2026-07-28"
+    },
+    {
+      "id": "tengu-mirai-botnet-androidtv-apk-watchdog-julio-2026",
+      "title": "Tengu: nueva botnet Mirai con payloads APK para Android TV y DDoS avanzado",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "first_seen": "2026-07-29",
+      "category": "Malware",
+      "relevancia": "Media"
+    },
+    {
+      "id": "android-malware-deteccion-falsopositivos-drebin-julio-2026",
+      "title": "Investigación revela hasta 80% de falsos positivos en detectores de malware Android sobre apps legítimas",
+      "url": "https://www.helpnetsecurity.com/2026/07/29/android-malware-detection-research/",
+      "first_seen": "2026-07-29",
+      "category": "Plataforma/Investigación",
+      "relevancia": "Baja"
     }
   ]
 }

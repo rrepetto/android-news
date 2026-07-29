@@ -5,33 +5,24 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 28 Jul 2026 11:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:11:44 +0000</lastBuildDate>
 
     <item>
-      <title>[MEDIA] Coretax RAT: informe Q2 2026 — banking trojan con abuso de Accessibility Services</title>
-      <link>https://promon.io/security-news/app-threat-report-q2-2026-coretax-android-banking-malware</link>
-      <guid isPermaLink="false">coretax-rat-android-accesibilidad-q2-2026-promon</guid>
-      <description>Promon publicó análisis detallado del troyano bancario Coretax, que combina abuso de Accessibility Services, overlays falsos y soporte de operador en vivo para secuestrar sesiones bancarias. Vinculado al cluster GoldFactory (Gigabud/MMRat); principalmente activo en Indonesia pero con expansión regional. Categoría: Accessibility / Malware</description>
-      <pubDate>Tue, 28 Jul 2026 11:14:57 +0000</pubDate>
-      <category>Accessibility / Malware</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] App de &quot;seguridad&quot; Android se convierte en spyware — ThreatsDay julio 23 2026</title>
-      <link>https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html</link>
-      <guid isPermaLink="false">app-seguridad-android-spyware-julio-2026-thn</guid>
-      <description>The Hacker News reportó que una aplicación de seguridad personal para Android fue descubierta actuando como spyware, robando datos de usuarios de forma sigilosa. El caso fue incluido en el resumen semanal de amenazas THN del 23 de julio. Categoría: Malware</description>
-      <pubDate>Tue, 28 Jul 2026 11:14:57 +0000</pubDate>
+      <title>[MEDIA] Tengu: nueva botnet Mirai con payloads APK para Android TV y DDoS avanzado</title>
+      <link>https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</link>
+      <guid isPermaLink="false">tengu-mirai-botnet-androidtv-apk-watchdog-julio-2026</guid>
+      <description>Nozomi Networks descubrió Tengu, variante Mirai que infecta dispositivos IoT Linux expuestos vía Telnet y puede desplegar payloads APK en boxes Android TV. Su mecanismo watchdog en hardware reinicia el dispositivo al detectar que el proceso fue eliminado, borrando evidencia forense. Soporta 25+ vectores DDoS y puede actuar como proxy SOCKS5. Categoría: Malware</description>
+      <pubDate>Wed, 29 Jul 2026 11:11:44 +0000</pubDate>
       <category>Malware</category>
     </item>
 
     <item>
-      <title>[BAJA] Google System Updates julio 2026: passkeys en Android TV, perfiles de trabajo en Wear OS</title>
-      <link>https://9to5google.com/2026/07/27/july-2026-google-system-updates/</link>
-      <guid isPermaLink="false">google-system-updates-julio-2026-9to5google</guid>
-      <description>El resumen actualizado de 9to5Google documenta las novedades del paquete del sistema de julio 2026: soporte de passkeys en Android TV, transferencia de perfiles de trabajo a relojes Wear OS, acceso al IMEI desde pantalla de bloqueo y tienda nativa de Google One. Categoría: API/Plataforma</description>
-      <pubDate>Tue, 28 Jul 2026 11:14:57 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[BAJA] Investigación revela hasta 80% de falsos positivos en detectores de malware Android sobre apps legítimas</title>
+      <link>https://www.helpnetsecurity.com/2026/07/29/android-malware-detection-research/</link>
+      <guid isPermaLink="false">android-malware-deteccion-falsopositivos-drebin-julio-2026</guid>
+      <description>Investigadores de Singapore Management University y Nankai University evaluaron 6 detectores populares (Drebin, MalScan, MaskDroid, LAMD) sobre 270 apps benignas de alto permiso de Google Play. Más del 50% fueron marcadas como maliciosas; LAMD alcanzó el 80% de falsos positivos. Categoría: Plataforma/Investigación</description>
+      <pubDate>Wed, 29 Jul 2026 11:11:44 +0000</pubDate>
+      <category>Plataforma/Investigación</category>
     </item>
 
   </channel>
