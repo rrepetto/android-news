@@ -5,24 +5,24 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:06:10 +0000</lastBuildDate>
 
     <item>
-      <title>[MEDIA] Tengu: nueva botnet Mirai con payloads APK para Android TV y DDoS avanzado</title>
-      <link>https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</link>
-      <guid isPermaLink="false">tengu-mirai-botnet-androidtv-apk-watchdog-julio-2026</guid>
-      <description>Nozomi Networks descubrió Tengu, variante Mirai que infecta dispositivos IoT Linux expuestos vía Telnet y puede desplegar payloads APK en boxes Android TV. Su mecanismo watchdog en hardware reinicia el dispositivo al detectar que el proceso fue eliminado, borrando evidencia forense. Soporta 25+ vectores DDoS y puede actuar como proxy SOCKS5. Categoría: Malware</description>
-      <pubDate>Wed, 29 Jul 2026 11:11:44 +0000</pubDate>
+      <title>[ALTA] Flying Eagle Android RAT: código fuente filtrado en Telegram, activo en 170 servidores</title>
+      <link>https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html</link>
+      <guid isPermaLink="false">flying-eagle-android-rat-170-servidores-julio-2026</guid>
+      <description>Investigadores de Hunt.io y NetAskari publicaron el 29 de julio que el código fuente del framework RAT &quot;Flying Eagle&quot; circula en Telegram y ya alimenta 170 servidores C2. Abusa de Accessibility Services para keylogging, captura de pantalla e inyección de gestos con overlays sobre apps financieras y wallets. Su sucesor &quot;Night Dragon&quot; ya está operativo con modos de pantalla negra y harvesting automatizado de credenciales de Alipay, WeChat y criptomonedas. Categoría: Malware / Accessibility</description>
+      <pubDate>Thu, 30 Jul 2026 11:06:10 +0000</pubDate>
       <category>Malware</category>
     </item>
 
     <item>
-      <title>[BAJA] Investigación revela hasta 80% de falsos positivos en detectores de malware Android sobre apps legítimas</title>
-      <link>https://www.helpnetsecurity.com/2026/07/29/android-malware-detection-research/</link>
-      <guid isPermaLink="false">android-malware-deteccion-falsopositivos-drebin-julio-2026</guid>
-      <description>Investigadores de Singapore Management University y Nankai University evaluaron 6 detectores populares (Drebin, MalScan, MaskDroid, LAMD) sobre 270 apps benignas de alto permiso de Google Play. Más del 50% fueron marcadas como maliciosas; LAMD alcanzó el 80% de falsos positivos. Categoría: Plataforma/Investigación</description>
-      <pubDate>Wed, 29 Jul 2026 11:11:44 +0000</pubDate>
-      <category>Plataforma/Investigación</category>
+      <title>[MEDIA] AfterCall: apps en Google Play abusan de overlay para mostrar anuncios tras llamadas</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy</link>
+      <guid isPermaLink="false">aftercall-android-overlay-adfraud-julio-2026</guid>
+      <description>DoubleVerify documentó una ola de apps en Google Play que engañan al usuario para conceder el permiso &quot;Mostrar sobre otras apps&quot; y lo usan para inyectar publicidad full-screen en el momento exacto en que termina una llamada telefónica. Las apps se ocultan del listado de recientes para dificultar su identificación. El esquema es responsable de cientos de millones de impresiones fraudulentas. Categoría: Malware / Tampering</description>
+      <pubDate>Thu, 30 Jul 2026 11:06:10 +0000</pubDate>
+      <category>Malware</category>
     </item>
 
   </channel>

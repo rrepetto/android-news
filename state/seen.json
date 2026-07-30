@@ -789,6 +789,18 @@
       "first_seen": "2026-07-29",
       "category": "Plataforma/Investigación",
       "relevancia": "Baja"
+    },
+    {
+      "id": "flying-eagle-android-rat-170-servidores-julio-2026",
+      "title": "Flying Eagle Android RAT: código fuente filtrado en Telegram, activo en 170 servidores",
+      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "aftercall-android-overlay-adfraud-julio-2026",
+      "title": "AfterCall: apps en Google Play abusan de overlay para mostrar anuncios tras llamadas",
+      "url": "https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy",
+      "first_seen": "2026-07-30"
     }
   ]
 }
