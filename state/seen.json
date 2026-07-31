@@ -801,6 +801,12 @@
       "title": "AfterCall: apps en Google Play abusan de overlay para mostrar anuncios tras llamadas",
       "url": "https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy",
       "first_seen": "2026-07-30"
+    },
+    {
+      "id": "copybara-rat-n26-italy-vishing-julio-2026",
+      "title": "Copybara Android RAT: campaña activa en Italia suplanta soporte de N26 via vishing + dropper multi-etapa",
+      "url": "https://cybersecuritynews.com/fake-n26-support-calls-copybara-rat/",
+      "first_seen": "2026-07-31"
     }
   ]
 }

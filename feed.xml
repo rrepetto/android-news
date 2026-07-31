@@ -5,24 +5,15 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:11:36 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] Flying Eagle Android RAT: código fuente filtrado en Telegram, activo en 170 servidores</title>
-      <link>https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html</link>
-      <guid isPermaLink="false">flying-eagle-android-rat-170-servidores-julio-2026</guid>
-      <description>Investigadores de Hunt.io y NetAskari publicaron el 29 de julio que el código fuente del framework RAT &quot;Flying Eagle&quot; circula en Telegram y ya alimenta 170 servidores C2. Abusa de Accessibility Services para keylogging, captura de pantalla e inyección de gestos con overlays sobre apps financieras y wallets. Su sucesor &quot;Night Dragon&quot; ya está operativo con modos de pantalla negra y harvesting automatizado de credenciales de Alipay, WeChat y criptomonedas. Categoría: Malware / Accessibility</description>
-      <pubDate>Thu, 30 Jul 2026 11:06:10 +0000</pubDate>
-      <category>Malware</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] AfterCall: apps en Google Play abusan de overlay para mostrar anuncios tras llamadas</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy</link>
-      <guid isPermaLink="false">aftercall-android-overlay-adfraud-julio-2026</guid>
-      <description>DoubleVerify documentó una ola de apps en Google Play que engañan al usuario para conceder el permiso &quot;Mostrar sobre otras apps&quot; y lo usan para inyectar publicidad full-screen en el momento exacto en que termina una llamada telefónica. Las apps se ocultan del listado de recientes para dificultar su identificación. El esquema es responsable de cientos de millones de impresiones fraudulentas. Categoría: Malware / Tampering</description>
-      <pubDate>Thu, 30 Jul 2026 11:06:10 +0000</pubDate>
-      <category>Malware</category>
+      <title>[ALTA] Copybara Android RAT: campaña activa en Italia suplanta soporte de N26 via vishing + dropper multi-etapa</title>
+      <link>https://cybersecuritynews.com/fake-n26-support-calls-copybara-rat/</link>
+      <guid isPermaLink="false">copybara-rat-n26-italy-vishing-julio-2026</guid>
+      <description>RAT Copybara abusa de Accessibility Services para keylogging, streaming de pantalla y control remoto total; se distribuye como &quot;Certificato N26&quot; tras una llamada de vishing que suplanta al soporte del banco alemán N26. La cadena combina vishing, kit de phishing en tiempo real y dropper Android multi-etapa; permite al atacante operar el dispositivo en segundo plano mientras la víctima ve una pantalla de carga falsa. Categoría: Accessibility / Malware bancario.</description>
+      <pubDate>Fri, 31 Jul 2026 11:11:36 +0000</pubDate>
+      <category>Accessibility</category>
     </item>
 
   </channel>
