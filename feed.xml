@@ -3,18 +3,32 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
+    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. Feed actualizado diariamente con los items del ultimo dia.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:11:36 +0000</lastBuildDate>
-
+    <lastBuildDate>Sat, 01 Aug 2026 11:13:41 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Copybara Android RAT: campaña activa en Italia suplanta soporte de N26 via vishing + dropper multi-etapa</title>
-      <link>https://cybersecuritynews.com/fake-n26-support-calls-copybara-rat/</link>
-      <guid isPermaLink="false">copybara-rat-n26-italy-vishing-julio-2026</guid>
-      <description>RAT Copybara abusa de Accessibility Services para keylogging, streaming de pantalla y control remoto total; se distribuye como &quot;Certificato N26&quot; tras una llamada de vishing que suplanta al soporte del banco alemán N26. La cadena combina vishing, kit de phishing en tiempo real y dropper Android multi-etapa; permite al atacante operar el dispositivo en segundo plano mientras la víctima ve una pantalla de carga falsa. Categoría: Accessibility / Malware bancario.</description>
-      <pubDate>Fri, 31 Jul 2026 11:11:36 +0000</pubDate>
-      <category>Accessibility</category>
+      <title>[ALTA] Android AI Agents: texto invisible en pantalla puede ejecutar comandos en PC controladora</title>
+      <link>https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html</link>
+      <guid isPermaLink="false">android-ai-agent-invisible-text-host-pc-julio-2026</guid>
+      <description>Investigadores evaluaron 5 frameworks open-source de agentes IA para Android; todos fallaron &gt;=6 de 7 ataques de invisible screen text. Una app con permiso de superposicion puede insertar texto oculto que el agente interpreta como instrucciones legitimas y ejecuta comandos ADB en la PC host. Sin explotacion activa aun pero el vector es reproducible sin mitigacion. Categoria: API/Plataforma, Accessibility</description>
+      <pubDate>Sat, 01 Aug 2026 11:13:41 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
-
+    <item>
+      <title>[ALTA] Google lanza Advanced Flow para sideloading APK en agosto 2026</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/</link>
+      <guid isPermaLink="false">google-advanced-flow-sideloading-agosto-2026</guid>
+      <description>Google despliega este mes el mecanismo Advanced Flow para instalar APKs de desarrolladores no verificados: requiere Modo Desarrollador, 24h de espera, reinicio y reautenticacion. Enforcement desde septiembre en Brasil, Indonesia, Singapur y Tailandia. Afecta F-Droid, Aurora y otras tiendas alternativas. Categoria: API/Plataforma</description>
+      <pubDate>Sat, 01 Aug 2026 11:13:41 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Deadline Google Play API 36 (Android 16): 31 agosto 2026 — quedan 30 dias</title>
+      <link>https://support.google.com/googleplay/android-developer/answer/11926878</link>
+      <guid isPermaLink="false">google-play-api36-deadline-agosto31-2026</guid>
+      <description>A partir del 31-08-2026 Google Play rechazara envios de nuevas apps y actualizaciones que apunten a API &lt; 36. Hay extension disponible hasta el 1 de noviembre de 2026. Las apps que no actualicen targetSdk pierden visibilidad para usuarios de Android 16+. Categoria: API/Plataforma</description>
+      <pubDate>Sat, 01 Aug 2026 11:13:41 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
   </channel>
 </rss>

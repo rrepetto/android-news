@@ -807,6 +807,24 @@
       "title": "Copybara Android RAT: campaña activa en Italia suplanta soporte de N26 via vishing + dropper multi-etapa",
       "url": "https://cybersecuritynews.com/fake-n26-support-calls-copybara-rat/",
       "first_seen": "2026-07-31"
+    },
+    {
+      "id": "android-ai-agent-invisible-text-host-pc-julio-2026",
+      "title": "Android AI Agents: texto invisible en pantalla puede ejecutar comandos en PC controladora",
+      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "google-advanced-flow-sideloading-agosto-2026",
+      "title": "Google lanza Advanced Flow para sideloading APK en agosto 2026 — enforcement desde septiembre",
+      "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "google-play-api36-deadline-agosto31-2026",
+      "title": "Deadline Google Play API 36 (Android 16): 31 agosto 2026 — quedan 30 días",
+      "url": "https://support.google.com/googleplay/android-developer/answer/11926878",
+      "first_seen": "2026-08-01"
     }
   ]
 }
