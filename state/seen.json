@@ -825,6 +825,12 @@
       "title": "Deadline Google Play API 36 (Android 16): 31 agosto 2026 — quedan 30 días",
       "url": "https://support.google.com/googleplay/android-developer/answer/11926878",
       "first_seen": "2026-08-01"
+    },
+    {
+      "id": "eset-threat-report-h1-2026-promptspy-genai",
+      "title": "ESET Threat Report H1 2026: PromptSpy, primer malware Android que usa IA generativa en tiempo de ejecución",
+      "url": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/",
+      "first_seen": "2026-08-02"
     }
   ]
 }

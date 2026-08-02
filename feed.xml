@@ -3,32 +3,16 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario automatizado de novedades de seguridad del ecosistema Android. Feed actualizado diariamente con los items del ultimo dia.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed refleja únicamente el último día; el historial completo está en digests/ y state/seen.json.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:04:47 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Android AI Agents: texto invisible en pantalla puede ejecutar comandos en PC controladora</title>
-      <link>https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html</link>
-      <guid isPermaLink="false">android-ai-agent-invisible-text-host-pc-julio-2026</guid>
-      <description>Investigadores evaluaron 5 frameworks open-source de agentes IA para Android; todos fallaron &gt;=6 de 7 ataques de invisible screen text. Una app con permiso de superposicion puede insertar texto oculto que el agente interpreta como instrucciones legitimas y ejecuta comandos ADB en la PC host. Sin explotacion activa aun pero el vector es reproducible sin mitigacion. Categoria: API/Plataforma, Accessibility</description>
-      <pubDate>Sat, 01 Aug 2026 11:13:41 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[ALTA] Google lanza Advanced Flow para sideloading APK en agosto 2026</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/</link>
-      <guid isPermaLink="false">google-advanced-flow-sideloading-agosto-2026</guid>
-      <description>Google despliega este mes el mecanismo Advanced Flow para instalar APKs de desarrolladores no verificados: requiere Modo Desarrollador, 24h de espera, reinicio y reautenticacion. Enforcement desde septiembre en Brasil, Indonesia, Singapur y Tailandia. Afecta F-Droid, Aurora y otras tiendas alternativas. Categoria: API/Plataforma</description>
-      <pubDate>Sat, 01 Aug 2026 11:13:41 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] Deadline Google Play API 36 (Android 16): 31 agosto 2026 — quedan 30 dias</title>
-      <link>https://support.google.com/googleplay/android-developer/answer/11926878</link>
-      <guid isPermaLink="false">google-play-api36-deadline-agosto31-2026</guid>
-      <description>A partir del 31-08-2026 Google Play rechazara envios de nuevas apps y actualizaciones que apunten a API &lt; 36. Hay extension disponible hasta el 1 de noviembre de 2026. Las apps que no actualicen targetSdk pierden visibilidad para usuarios de Android 16+. Categoria: API/Plataforma</description>
-      <pubDate>Sat, 01 Aug 2026 11:13:41 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] ESET Threat Report H1 2026: PromptSpy, primer malware Android que usa IA generativa en tiempo de ejecución</title>
+      <link>https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/</link>
+      <guid isPermaLink="false">eset-threat-report-h1-2026-promptspy-genai</guid>
+      <description>ESET Threat Report H1 2026 documenta PromptSpy, el primer malware Android que usa Google Gemini (IA generativa) en tiempo de ejecución para persistencia adaptativa. Cubre dic 2025-may 2026. Categoría: Malware</description>
+      <pubDate>Sun, 02 Aug 2026 11:04:47 +0000</pubDate>
+      <category>Malware</category>
     </item>
   </channel>
 </rss>
