@@ -831,6 +831,24 @@
       "title": "ESET Threat Report H1 2026: PromptSpy, primer malware Android que usa IA generativa en tiempo de ejecución",
       "url": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/",
       "first_seen": "2026-08-02"
+    },
+    {
+      "id": "zygisknext-v1-4-4-agosto-2026",
+      "title": "ZygiskNext v1.4.4: correcciones de detección y soporte Meta Quest",
+      "url": "https://github.com/Dr-TSNG/ZygiskNext/releases",
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "android-17-qpr1-beta-8-julio-2026",
+      "title": "Android 17 QPR1 Beta 8: corrige bug de autenticación de huella digital y NFC",
+      "url": "https://9to5google.com/2026/07/31/android-17-qpr1-beta-8-pixel/",
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "samsung-s25-oneui9-beta-inminente-agosto-2026",
+      "title": "Samsung Galaxy S25: programa One UI 9 Beta inminente",
+      "url": "https://www.sammyfans.com/2026/08/03/samsung-galaxy-s25-one-ui-9-beta-is-too-close-to-rollout/amp/",
+      "first_seen": "2026-08-03"
     }
   ]
 }

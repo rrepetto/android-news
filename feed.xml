@@ -5,14 +5,30 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed refleja únicamente el último día; el historial completo está en digests/ y state/seen.json.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:23:37 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] ESET Threat Report H1 2026: PromptSpy, primer malware Android que usa IA generativa en tiempo de ejecución</title>
-      <link>https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/</link>
-      <guid isPermaLink="false">eset-threat-report-h1-2026-promptspy-genai</guid>
-      <description>ESET Threat Report H1 2026 documenta PromptSpy, el primer malware Android que usa Google Gemini (IA generativa) en tiempo de ejecución para persistencia adaptativa. Cubre dic 2025-may 2026. Categoría: Malware</description>
-      <pubDate>Sun, 02 Aug 2026 11:04:47 +0000</pubDate>
-      <category>Malware</category>
+      <title>[MEDIA] ZygiskNext v1.4.4: correcciones de detección y soporte Meta Quest</title>
+      <link>https://github.com/Dr-TSNG/ZygiskNext/releases</link>
+      <guid isPermaLink="false">zygisknext-v1-4-4-agosto-2026</guid>
+      <description>Nueva release del módulo Zygisk standalone para KernelSU/APatch. Introduce corrección de problemas de detección (mejora evasión de Play Integrity y otras salvaguardas), soporte para Meta Quest stub zygote, y arregla la traducción arm32 para VPhone. Herramienta clave en el ecosistema de root/bypass de integridad. Categoría: Root</description>
+      <pubDate>Mon, 03 Aug 2026 11:23:37 +0000</pubDate>
+      <category>Root</category>
+    </item>
+    <item>
+      <title>[BAJA] Android 17 QPR1 Beta 8: corrige bug de autenticación de huella digital y NFC</title>
+      <link>https://9to5google.com/2026/07/31/android-17-qpr1-beta-8-pixel/</link>
+      <guid isPermaLink="false">android-17-qpr1-beta-8-julio-2026</guid>
+      <description>Lanzada el 31 de julio para Pixel 6 en adelante. Corrige un fallo de autenticación biométrica (relevante en seguridad), un bug de audio crónico y fallos en NFC. Es la última beta QPR1 antes del Feature Drop de septiembre 2026. Categoría: API/Plataforma</description>
+      <pubDate>Mon, 03 Aug 2026 11:23:37 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung Galaxy S25: programa One UI 9 Beta inminente</title>
+      <link>https://www.sammyfans.com/2026/08/03/samsung-galaxy-s25-one-ui-9-beta-is-too-close-to-rollout/amp/</link>
+      <guid isPermaLink="false">samsung-s25-oneui9-beta-inminente-agosto-2026</guid>
+      <description>Al 3 de agosto, una build interna del S25 con Android 17 / One UI 9 ya tiene certificación Google Play, indicando que el Beta Program podría arrancar esta semana. Implica la llegada de Advanced Protection Mode, Security Label y demás features de seguridad de Android 17 a la línea S25. Categoría: API/Plataforma</description>
+      <pubDate>Mon, 03 Aug 2026 11:23:37 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
   </channel>
 </rss>
