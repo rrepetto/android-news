@@ -5,32 +5,32 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed refleja únicamente el último día; el historial completo está en digests/ y state/seen.json.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:11:50 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] ASB Agosto 2026: Google publica boletín mensual con múltiples críticos</title>
-      <link>https://source.android.com/docs/security/bulletin/2026/2026-08-01</link>
-      <guid isPermaLink="false">asb-agosto-2026-publicado-0803</guid>
-      <description>Google libera el Android Security Bulletin de agosto 2026 (publicado 2026-08-03). El nivel de parche 2026-08-05 cubre todos los problemas. Incluye vulnerabilidades de ejecución remota de código y escalada de privilegios en Framework, System y Kernel. Categoría: ASB.</description>
-      <pubDate>Tue, 04 Aug 2026 11:13:52 +0000</pubDate>
+      <title>[MEDIA] Pixel Update Bulletin agosto 2026: CVE-2026-0163 (High) + rollout iniciado</title>
+      <link>https://9to5google.com/2026/08/04/android-17-august-pixel-update/</link>
+      <guid isPermaLink="false">pixel-agosto-2026-rollout-cve-2026-0163</guid>
+      <description>Google publica la actualización mensual de Pixel (nivel de parche 2026-08-05) con CVE-2026-0163 (severidad alta, Pixel-específico) y tres correcciones funcionales para la serie Pixel 10 (crashes en juegos, GPU y pantalla táctil). Soportados: Pixel 8 hasta Pixel 10a. Categoría: ASB</description>
+      <pubDate>Wed, 05 Aug 2026 11:11:50 +0000</pubDate>
       <category>ASB</category>
     </item>
 
     <item>
-      <title>[ALTA] Samsung SMR Agosto 2026: 56 CVEs, 8 críticos + SVEs graves</title>
-      <link>https://www.sammobile.com/news/samsung-august-2026-security-patch-detailed/</link>
-      <guid isPermaLink="false">samsung-agosto-2026-smr-56-cves-sve</guid>
-      <description>Samsung publica su Security Maintenance Release de agosto 2026 con 38 fixes de Google (8 críticos, 30 altos) y 18 SVE propios. Destacan: stack overflow en libril_sem.so (RCE para atacantes locales privilegiados), control de acceso en Weaver (inoperabilidad del dispositivo) e input validation en Samsung Dialer (acceso remoto a funciones SIM). Categoría: ASB.</description>
-      <pubDate>Tue, 04 Aug 2026 11:13:52 +0000</pubDate>
-      <category>ASB</category>
+      <title>[BAJA] Samsung actualiza hoja de ruta de software One UI para agosto 2026</title>
+      <link>https://www.sammyfans.com/2026/08/04/samsung-updates-one-ui-software-rollout-roadmap-august-2026/</link>
+      <guid isPermaLink="false">samsung-oneui-roadmap-agosto-2026</guid>
+      <description>Samsung publicó el roadmap oficial de rollout de agosto 2026, confirmando el orden de distribución del parche agosto 2026 y la progresión de One UI 9 hacia más dispositivos Galaxy (Z Fold 8/Flip 8 primero, luego S26, S25/S24). Categoría: API/Plataforma</description>
+      <pubDate>Wed, 05 Aug 2026 11:11:50 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
 
     <item>
-      <title>[MEDIA] Android 17 QPR2 Beta 2 disponible para Pixel 6a y superiores</title>
-      <link>https://www.droid-life.com/2026/08/03/google-releases-android-17-qpr2-beta-2-for-pixel/</link>
-      <guid isPermaLink="false">android-17-qpr2-beta-2-agosto3-2026</guid>
-      <description>Google lanza Android 17 QPR2 Beta 2 (CP41.260701.006) el 2026-08-03 para Pixel 6a hasta Pixel 10a. Trae nuevo ícono en Settings, codename cambia a &quot;DEV&quot;, y excluye definitivamente a Pixel 6/6 Pro (EOL). Stable de QPR2 previsto para diciembre 2026. Categoría: API/Plataforma.</description>
-      <pubDate>Tue, 04 Aug 2026 11:13:52 +0000</pubDate>
+      <title>[BAJA] Samsung Galaxy S25: programa One UI 9 Beta (Android 17) por lanzarse</title>
+      <link>https://www.gizmochina.com/2026/08/05/galaxy-s25-series-one-ui-9-beta-program-launching-soon/</link>
+      <guid isPermaLink="false">samsung-galaxy-s25-oneui9-beta-agosto-2026</guid>
+      <description>Samsung habilitó los foros del programa beta de One UI 9 para Galaxy S25/S25+/S25 Ultra, señalando el inminente inicio del programa con Android 17, Auto Blocker mejorado y nuevas políticas de USB y seguridad. Categoría: API/Plataforma</description>
+      <pubDate>Wed, 05 Aug 2026 11:11:50 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
 
