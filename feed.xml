@@ -3,36 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed refleja únicamente el último día; el historial completo está en digests/ y state/seen.json.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene únicamente los ítems del último día; el historial completo está en digests/ y state/seen.json.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 05 Aug 2026 11:11:50 +0000</lastBuildDate>
-
+    <lastBuildDate>Thu, 06 Aug 2026 11:13:57 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Pixel Update Bulletin agosto 2026: CVE-2026-0163 (High) + rollout iniciado</title>
-      <link>https://9to5google.com/2026/08/04/android-17-august-pixel-update/</link>
-      <guid isPermaLink="false">pixel-agosto-2026-rollout-cve-2026-0163</guid>
-      <description>Google publica la actualización mensual de Pixel (nivel de parche 2026-08-05) con CVE-2026-0163 (severidad alta, Pixel-específico) y tres correcciones funcionales para la serie Pixel 10 (crashes en juegos, GPU y pantalla táctil). Soportados: Pixel 8 hasta Pixel 10a. Categoría: ASB</description>
-      <pubDate>Wed, 05 Aug 2026 11:11:50 +0000</pubDate>
-      <category>ASB</category>
+      <title>[MEDIA] Samsung Galaxy Z Fold 3 y Z Flip 3: fin de soporte de seguridad en agosto 2026</title>
+      <link>https://www.bgr.com/2136284/samsung-phones-not-getting-updates-2026/</link>
+      <guid isPermaLink="false">samsung-fold3-flip3-eol-agosto-2026</guid>
+      <description>Los Galaxy Z Fold 3 y Z Flip 3, lanzados en agosto 2021, completan su ciclo de 5 años de soporte de seguridad este mes. Millones de usuarios que permanezcan en estos dispositivos no recibirán más parches de Samsung, quedando expuestos a vulnerabilidades futuras sin corrección oficial. Categoría: EOL</description>
+      <pubDate>Thu, 06 Aug 2026 11:13:57 +0000</pubDate>
+      <category>EOL</category>
     </item>
-
     <item>
-      <title>[BAJA] Samsung actualiza hoja de ruta de software One UI para agosto 2026</title>
-      <link>https://www.sammyfans.com/2026/08/04/samsung-updates-one-ui-software-rollout-roadmap-august-2026/</link>
-      <guid isPermaLink="false">samsung-oneui-roadmap-agosto-2026</guid>
-      <description>Samsung publicó el roadmap oficial de rollout de agosto 2026, confirmando el orden de distribución del parche agosto 2026 y la progresión de One UI 9 hacia más dispositivos Galaxy (Z Fold 8/Flip 8 primero, luego S26, S25/S24). Categoría: API/Plataforma</description>
-      <pubDate>Wed, 05 Aug 2026 11:11:50 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] Google excluye Pixel 6 y Pixel 7 de correcciones clave en el update agosto 2026</title>
+      <link>https://tech-ish.com/2026/08/05/google-august-android-17-update-pixel-6-pixel-7/</link>
+      <guid isPermaLink="false">pixel-6-7-excluidos-agosto-2026-update</guid>
+      <description>El update Android 17 de agosto 2026 omite fixes de GPU, táctil y crashes para Pixel 6 y Pixel 7, incluso cuando el Pixel 7 tiene soporte oficial hasta octubre 2027. Señal de abandono práctico progresivo antes del EOL formal, que deja estas gamas sin correcciones de estabilidad y potencialmente de seguridad. Categoría: Pixel security</description>
+      <pubDate>Thu, 06 Aug 2026 11:13:57 +0000</pubDate>
+      <category>Pixel security</category>
     </item>
-
-    <item>
-      <title>[BAJA] Samsung Galaxy S25: programa One UI 9 Beta (Android 17) por lanzarse</title>
-      <link>https://www.gizmochina.com/2026/08/05/galaxy-s25-series-one-ui-9-beta-program-launching-soon/</link>
-      <guid isPermaLink="false">samsung-galaxy-s25-oneui9-beta-agosto-2026</guid>
-      <description>Samsung habilitó los foros del programa beta de One UI 9 para Galaxy S25/S25+/S25 Ultra, señalando el inminente inicio del programa con Android 17, Auto Blocker mejorado y nuevas políticas de USB y seguridad. Categoría: API/Plataforma</description>
-      <pubDate>Wed, 05 Aug 2026 11:11:50 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-
   </channel>
 </rss>
