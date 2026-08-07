@@ -3,24 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene únicamente los ítems del último día; el historial completo está en digests/ y state/seen.json.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene únicamente los ítems del último día.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:06:22 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Samsung Galaxy Z Fold 3 y Z Flip 3: fin de soporte de seguridad en agosto 2026</title>
-      <link>https://www.bgr.com/2136284/samsung-phones-not-getting-updates-2026/</link>
-      <guid isPermaLink="false">samsung-fold3-flip3-eol-agosto-2026</guid>
-      <description>Los Galaxy Z Fold 3 y Z Flip 3, lanzados en agosto 2021, completan su ciclo de 5 años de soporte de seguridad este mes. Millones de usuarios que permanezcan en estos dispositivos no recibirán más parches de Samsung, quedando expuestos a vulnerabilidades futuras sin corrección oficial. Categoría: EOL</description>
-      <pubDate>Thu, 06 Aug 2026 11:13:57 +0000</pubDate>
-      <category>EOL</category>
+      <title>[BAJA] Samsung Galaxy Z Fold8/Flip8 y Watch9/Ultra2 en venta global con 7 años de actualizaciones de seguridad</title>
+      <link>https://news.samsung.com/global/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9</link>
+      <guid isPermaLink="false">samsung-fold8-flip8-watch9-venta-global-agosto-2026</guid>
+      <description>Samsung pone en venta globalmente sus nuevos plegables y relojes con Android 17 / One UI 9 y el compromiso de 7 años de actualizaciones de seguridad para teléfonos (hasta Android 24) y 5 años para los relojes (récord para Wear OS). Categoría: Plataforma/Soporte</description>
+      <pubDate>Fri, 07 Aug 2026 11:06:22 +0000</pubDate>
+      <category>Plataforma/Soporte</category>
     </item>
     <item>
-      <title>[MEDIA] Google excluye Pixel 6 y Pixel 7 de correcciones clave en el update agosto 2026</title>
-      <link>https://tech-ish.com/2026/08/05/google-august-android-17-update-pixel-6-pixel-7/</link>
-      <guid isPermaLink="false">pixel-6-7-excluidos-agosto-2026-update</guid>
-      <description>El update Android 17 de agosto 2026 omite fixes de GPU, táctil y crashes para Pixel 6 y Pixel 7, incluso cuando el Pixel 7 tiene soporte oficial hasta octubre 2027. Señal de abandono práctico progresivo antes del EOL formal, que deja estas gamas sin correcciones de estabilidad y potencialmente de seguridad. Categoría: Pixel security</description>
-      <pubDate>Thu, 06 Aug 2026 11:13:57 +0000</pubDate>
-      <category>Pixel security</category>
+      <title>[BAJA] Samsung One UI 9 Watch para Galaxy Watch 6, 7 y 8: sin fecha confirmada</title>
+      <link>https://www.sammyfans.com/2026/08/07/samsung-one-ui-9-watch-older-galaxy-watch-users/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-watch-modelos-antiguos-agosto-2026</guid>
+      <description>Samsung lanzó One UI 9 Watch con los nuevos Watch9 y Watch Ultra2, pero aún no anunció formalmente el rollout a los modelos anteriores. Se detectaron builds de prueba interna para Watch7 y Watch8 en los servidores de Samsung; no hay beta pública ni cronograma oficial. Los Galaxy Watch 6 y anteriores quedan en el limbo de soporte. Categoría: Plataforma/Soporte</description>
+      <pubDate>Fri, 07 Aug 2026 11:06:22 +0000</pubDate>
+      <category>Plataforma/Soporte</category>
     </item>
   </channel>
 </rss>
