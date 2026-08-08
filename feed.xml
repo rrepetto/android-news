@@ -3,24 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene únicamente los ítems del último día.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 11:14:36 +0000</lastBuildDate>
     <item>
-      <title>[BAJA] Samsung Galaxy Z Fold8/Flip8 y Watch9/Ultra2 en venta global con 7 años de actualizaciones de seguridad</title>
-      <link>https://news.samsung.com/global/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9</link>
-      <guid isPermaLink="false">samsung-fold8-flip8-watch9-venta-global-agosto-2026</guid>
-      <description>Samsung pone en venta globalmente sus nuevos plegables y relojes con Android 17 / One UI 9 y el compromiso de 7 años de actualizaciones de seguridad para teléfonos (hasta Android 24) y 5 años para los relojes (récord para Wear OS). Categoría: Plataforma/Soporte</description>
-      <pubDate>Fri, 07 Aug 2026 11:06:22 +0000</pubDate>
-      <category>Plataforma/Soporte</category>
+      <title>[MEDIA] CalyxOS 7.2.4.20 para Android 16: actualización de seguridad de agosto 2026</title>
+      <link>https://calyxos.org/news/2026/08/07/august-security-update/</link>
+      <guid isPermaLink="false">calyxos-7-2-4-20-agosto-2026-android-16</guid>
+      <description>CalyxOS lanzó la versión 7.2.4.20 el 7 de agosto de 2026 para todos los dispositivos soportados, incorporando los parches del ASB de agosto 2026. Segunda actualización mensual desde que el proyecto retomó su ciclo regular en julio 2026. Categoría: Knox/GrapheneOS/CalyxOS</description>
+      <pubDate>Sat, 08 Aug 2026 11:14:36 +0000</pubDate>
+      <category>Knox/GrapheneOS/CalyxOS</category>
     </item>
     <item>
-      <title>[BAJA] Samsung One UI 9 Watch para Galaxy Watch 6, 7 y 8: sin fecha confirmada</title>
-      <link>https://www.sammyfans.com/2026/08/07/samsung-one-ui-9-watch-older-galaxy-watch-users/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-watch-modelos-antiguos-agosto-2026</guid>
-      <description>Samsung lanzó One UI 9 Watch con los nuevos Watch9 y Watch Ultra2, pero aún no anunció formalmente el rollout a los modelos anteriores. Se detectaron builds de prueba interna para Watch7 y Watch8 en los servidores de Samsung; no hay beta pública ni cronograma oficial. Los Galaxy Watch 6 y anteriores quedan en el limbo de soporte. Categoría: Plataforma/Soporte</description>
-      <pubDate>Fri, 07 Aug 2026 11:06:22 +0000</pubDate>
-      <category>Plataforma/Soporte</category>
+      <title>[MEDIA] Google considera restringir ADB local en Android; Shizuku y herramientas de desarrollo en riesgo</title>
+      <link>https://www.androidauthority.com/google-android-on-device-adb-changes-discussion-3691371/</link>
+      <guid isPermaLink="false">google-restriccion-adb-local-shizuku-cve-2026-0073</guid>
+      <description>Un mantenedor del núcleo de ADB propuso limitar adbd a interfaces externas, bloqueando loopback (127.0.0.1) y rompiendo Shizuku, libadb-android y otras herramientas. Motivado por CVE-2026-0073 (bypass de autenticación ADB inalámbrico). No hay decisión final; la comunidad propone un toggle en Developer Options. Categoría: API/Plataforma</description>
+      <pubDate>Sat, 08 Aug 2026 11:14:36 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
   </channel>
 </rss>

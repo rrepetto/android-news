@@ -909,6 +909,18 @@
       "title": "Samsung One UI 9 Watch para Galaxy Watch 6, 7 y 8: sin fecha confirmada",
       "url": "https://www.sammyfans.com/2026/08/07/samsung-one-ui-9-watch-older-galaxy-watch-users/",
       "first_seen": "2026-08-07"
+    },
+    {
+      "id": "calyxos-7-2-4-20-agosto-2026-android-16",
+      "title": "CalyxOS 7.2.4.20 para Android 16: actualización de seguridad de agosto 2026",
+      "url": "https://calyxos.org/news/2026/08/07/august-security-update/",
+      "first_seen": "2026-08-08"
+    },
+    {
+      "id": "google-restriccion-adb-local-shizuku-cve-2026-0073",
+      "title": "Google considera restringir ADB local en Android; Shizuku y herramientas de desarrollo en riesgo",
+      "url": "https://www.androidauthority.com/google-android-on-device-adb-changes-discussion-3691371/",
+      "first_seen": "2026-08-08"
     }
   ]
 }

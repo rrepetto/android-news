@@ -16,6 +16,7 @@ Compatible con cualquier lector RSS (Feedly, Inoreader, Miniflux, etc.).
 
 | Fecha | Items |
 |-------|-------|
+| [2026-08-08](digests/2026-08-08.md) | 2 nuevos |
 | [2026-08-07](digests/2026-08-07.md) | 2 nuevos |
 | [2026-08-06](digests/2026-08-06.md) | 2 nuevos |
 | [2026-08-05](digests/2026-08-05.md) | 3 nuevos |
@@ -46,18 +47,3 @@ Compatible con cualquier lector RSS (Feedly, Inoreader, Miniflux, etc.).
 | [2026-07-11](digests/2026-07-11.md) | 2 nuevos |
 | [2026-07-10](digests/2026-07-10.md) | 4 nuevos |
 | [2026-07-09](digests/2026-07-09.md) | 5 nuevos |
-| [2026-07-08](digests/2026-07-08.md) | 3 nuevos |
-| [2026-07-07](digests/2026-07-07.md) | 5 nuevos |
-| [2026-07-06](digests/2026-07-06.md) | 3 nuevos |
-| [2026-07-05](digests/2026-07-05.md) | 1 nuevo |
-| [2026-07-04](digests/2026-07-04.md) | 5 nuevos |
-| [2026-07-03](digests/2026-07-03.md) | 1 nuevo |
-| [2026-07-02](digests/2026-07-02.md) | 3 nuevos |
-| [2026-07-01](digests/2026-07-01.md) | 4 nuevos |
-| [2026-06-30](digests/2026-06-30.md) | 3 nuevos |
-| [2026-06-29](digests/2026-06-29.md) | Sin novedades |
-| [2026-06-28](digests/2026-06-28.md) | 6 nuevos |
-| [2026-06-27](digests/2026-06-27.md) | 3 nuevos |
-| [2026-06-26](digests/2026-06-26.md) | 4 nuevos |
-| [2026-06-25](digests/2026-06-25.md) | 5 nuevos |
-| [2026-06-24](digests/2026-06-24.md) | 17 nuevos |
