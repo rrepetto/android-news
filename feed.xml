@@ -3,23 +3,31 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. Solo se muestran los ítems del último día.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 08 Aug 2026 11:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:16:59 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] CalyxOS 7.2.4.20 para Android 16: actualización de seguridad de agosto 2026</title>
-      <link>https://calyxos.org/news/2026/08/07/august-security-update/</link>
-      <guid isPermaLink="false">calyxos-7-2-4-20-agosto-2026-android-16</guid>
-      <description>CalyxOS lanzó la versión 7.2.4.20 el 7 de agosto de 2026 para todos los dispositivos soportados, incorporando los parches del ASB de agosto 2026. Segunda actualización mensual desde que el proyecto retomó su ciclo regular en julio 2026. Categoría: Knox/GrapheneOS/CalyxOS</description>
-      <pubDate>Sat, 08 Aug 2026 11:14:36 +0000</pubDate>
-      <category>Knox/GrapheneOS/CalyxOS</category>
+      <title>[BAJA] Samsung One UI 9.5 en desarrollo para Galaxy S27 Ultra</title>
+      <link>https://www.sammyfans.com/2026/08/02/samsung-began-one-ui-9-5-development-on-galaxy-s27-ultra/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-5-desarrollo-s27-ultra-agosto2026</guid>
+      <description>Samsung ya tiene en progreso el desarrollo interno de One UI 9.5 (sucesor de One UI 9 / Android 17) para el Galaxy S27 Ultra; confirma que el ciclo de actualización hacia Android 17.x para 2027 ya arrancó internamente. Categoría: API/Plataforma.</description>
+      <pubDate>Sun, 09 Aug 2026 11:16:59 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[MEDIA] Google considera restringir ADB local en Android; Shizuku y herramientas de desarrollo en riesgo</title>
-      <link>https://www.androidauthority.com/google-android-on-device-adb-changes-discussion-3691371/</link>
-      <guid isPermaLink="false">google-restriccion-adb-local-shizuku-cve-2026-0073</guid>
-      <description>Un mantenedor del núcleo de ADB propuso limitar adbd a interfaces externas, bloqueando loopback (127.0.0.1) y rompiendo Shizuku, libadb-android y otras herramientas. Motivado por CVE-2026-0073 (bypass de autenticación ADB inalámbrico). No hay decisión final; la comunidad propone un toggle en Developer Options. Categoría: API/Plataforma</description>
-      <pubDate>Sat, 08 Aug 2026 11:14:36 +0000</pubDate>
+      <title>[BAJA] Samsung One UI 9 (Android 17) en testing interno en 50 dispositivos Galaxy</title>
+      <link>https://www.sammyfans.com/2026/08/09/samsung-android-17-one-ui-9-galaxy-devices/</link>
+      <guid isPermaLink="false">samsung-oneui9-50-dispositivos-testing-agosto9-2026</guid>
+      <description>La lista de modelos Galaxy en pruebas internas de One UI 9 subió de 42 a 50, incorporando nuevos dispositivos de la serie A y tablets; señal de que el rollout estable a la gama S25 y siguientes está próximo. Categoría: API/Plataforma.</description>
+      <pubDate>Sun, 09 Aug 2026 11:16:59 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung One UI 9 Beta para Galaxy S25 — guía de instalación publicada, apertura inminente</title>
+      <link>https://www.sammyfans.com/2026/08/09/galaxy-s25-one-ui-9-beta-how-to-download-and-install/</link>
+      <guid isPermaLink="false">samsung-oneui9-beta-s25-guia-apertura-agosto9-2026</guid>
+      <description>Con guía de descarga e instalación ya disponible públicamente, Samsung confirma que el programa Beta de One UI 9 (Android 17) para Galaxy S25, S25+ y S25 Ultra abrirá días después de que Beta 5 concluya en el S26 (semana del 10-15 agosto). Categoría: API/Plataforma.</description>
+      <pubDate>Sun, 09 Aug 2026 11:16:59 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
   </channel>
