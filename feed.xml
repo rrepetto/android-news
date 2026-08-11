@@ -3,35 +3,44 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
     <language>es</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:21:00 +0000</lastBuildDate>
 
     <item>
-      <title>[MEDIA] Samsung inicia rollout del parche de agosto 2026 para Fold 8, Flip 8 y S26</title>
-      <link>https://www.sammyfans.com/2026/08/10/a-massive-wave-of-samsung-updates-is-near/</link>
-      <guid isPermaLink="false">samsung-agosto-2026-rollout-inicio-fold8-flip8</guid>
-      <description>Arranca hoy el despliegue masivo del parche de agosto 2026 en Galaxy Z Fold 8, Z Flip 8 y la serie S26; el update cubre 56 correcciones (8 críticas del ASB + 18 SVEs propios de Samsung). En paralelo llega esta semana la One UI 9 Beta 5. Categoría: ASB</description>
-      <pubDate>Mon, 10 Aug 2026 11:13:10 +0000</pubDate>
-      <category>ASB</category>
+      <title>[ALTA] Revolut bloquea nuevamente a usuarios de GrapheneOS invocando Play Integrity</title>
+      <link>https://cybernews.com/privacy/grapheneos-says-revolut-is-blocking-users-again-and-this-time-its-personal/</link>
+      <guid isPermaLink="false">grapheneos-revolut-bloqueo-play-integrity-agosto-2026</guid>
+      <description>Revolut volvió a bloquear el acceso de dispositivos GrapheneOS, argumentando &quot;seguridad&quot; pero en realidad verificando que el OS esté certificado por Google (boot state amarillo bloqueado, naranja permitido). GrapheneOS denuncia que Revolut admite Android 9 sin parches pero rechaza su OS hardened y actualizado, y que es enforcement de licencias, no seguridad real. Categoría: Play Integrity</description>
+      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
+      <category>Play Integrity</category>
     </item>
 
     <item>
-      <title>[BAJA] Samsung One UI 9 Beta 5 para Galaxy S26 confirmada para ventana 10–15 agosto</title>
-      <link>https://www.sammobile.com/news/samsung-reveals-when-fifth-one-ui-9-0-beta-coming-galaxy-s26/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-beta-5-galaxy-s26-agosto-2026</guid>
-      <description>Samsung confirmó la quinta beta de One UI 9 (Android 17) para S26/S26+/S26 Ultra con ventana del 10 al 15 de agosto; la demora fue por pulido de estabilidad. El programa beta se prepara para expandirse a la serie S25 próximamente. Categoría: API/Plataforma</description>
-      <pubDate>Mon, 10 Aug 2026 11:13:10 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] BTMOB RAT: anatomía del negocio subterráneo del troyano Android MaaS</title>
+      <link>https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/</link>
+      <guid isPermaLink="false">btmob-rat-underground-business-agosto-2026</guid>
+      <description>Investigadores de Flare analizaron miles de posts en foros underground y revelaron el ecosistema fragmentado del BTMOB: versión V4.5 ($1.200 vitalicio / $3.000 servidor privado / $7.000 código fuente), revendedores no oficiales y variantes pirateadas. Activo contra usuarios bancarios en LATAM y Europa. Categoría: Malware</description>
+      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
+      <category>Malware</category>
     </item>
 
     <item>
-      <title>[BAJA] ZygiskNext v1.4.5: soporte Android 17 QPR2 Beta 2 y correcciones de compatibilidad</title>
-      <link>https://github.com/Dr-TSNG/ZygiskNext/releases</link>
-      <guid isPermaLink="false">zygisknext-v1-4-5-agosto-2026</guid>
-      <description>Nueva release de ZygiskNext con soporte para Android 17 QPR2 Beta 2 y correcciones de compatibilidad; complementa el ecosistema de ocultación de root en dispositivos actualizados. Categoría: Root</description>
-      <pubDate>Mon, 10 Aug 2026 11:13:10 +0000</pubDate>
-      <category>Root</category>
+      <title>[BAJA] Kaspersky Q2 2026: estadísticas de amenazas móviles Android — 304K paquetes maliciosos</title>
+      <link>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</link>
+      <guid isPermaLink="false">kaspersky-q2-2026-mobile-statistics</guid>
+      <description>Kaspersky bloqueó ~1,99M de ataques en Q2 2026 (baja desde 2,67M en Q1). Se descubrieron 304K+ paquetes maliciosos incluyendo 93K troyanos bancarios. Anatsa detectado en Google Play via fake PDF reader. Categoría: Malware</description>
+      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
+      <category>Malware</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Samsung One UI 9.5 en desarrollo para más dispositivos Galaxy</title>
+      <link>https://www.sammyfans.com/2026/08/11/samsung-one-ui-9-5-is-in-development-for-these-galaxy-phones/</link>
+      <guid isPermaLink="false">samsung-one-ui-9-5-mas-dispositivos-agosto11-2026</guid>
+      <description>Samsung confirma que el desarrollo de One UI 9.5 se extiende a más modelos Galaxy más allá del S27 Ultra. Ampliación de la hoja de ruta de actualización a Android futura para base más amplia de usuarios. Categoría: Plataforma</description>
+      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
+      <category>Plataforma</category>
     </item>
 
   </channel>
