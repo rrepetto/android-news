@@ -3,45 +3,32 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo el último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:21:00 +0000</lastBuildDate>
-
-    <item>
-      <title>[ALTA] Revolut bloquea nuevamente a usuarios de GrapheneOS invocando Play Integrity</title>
-      <link>https://cybernews.com/privacy/grapheneos-says-revolut-is-blocking-users-again-and-this-time-its-personal/</link>
-      <guid isPermaLink="false">grapheneos-revolut-bloqueo-play-integrity-agosto-2026</guid>
-      <description>Revolut volvió a bloquear el acceso de dispositivos GrapheneOS, argumentando &quot;seguridad&quot; pero en realidad verificando que el OS esté certificado por Google (boot state amarillo bloqueado, naranja permitido). GrapheneOS denuncia que Revolut admite Android 9 sin parches pero rechaza su OS hardened y actualizado, y que es enforcement de licencias, no seguridad real. Categoría: Play Integrity</description>
-      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
-      <category>Play Integrity</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] BTMOB RAT: anatomía del negocio subterráneo del troyano Android MaaS</title>
-      <link>https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/</link>
-      <guid isPermaLink="false">btmob-rat-underground-business-agosto-2026</guid>
-      <description>Investigadores de Flare analizaron miles de posts en foros underground y revelaron el ecosistema fragmentado del BTMOB: versión V4.5 ($1.200 vitalicio / $3.000 servidor privado / $7.000 código fuente), revendedores no oficiales y variantes pirateadas. Activo contra usuarios bancarios en LATAM y Europa. Categoría: Malware</description>
-      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
-      <category>Malware</category>
-    </item>
-
-    <item>
-      <title>[BAJA] Kaspersky Q2 2026: estadísticas de amenazas móviles Android — 304K paquetes maliciosos</title>
-      <link>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</link>
-      <guid isPermaLink="false">kaspersky-q2-2026-mobile-statistics</guid>
-      <description>Kaspersky bloqueó ~1,99M de ataques en Q2 2026 (baja desde 2,67M en Q1). Se descubrieron 304K+ paquetes maliciosos incluyendo 93K troyanos bancarios. Anatsa detectado en Google Play via fake PDF reader. Categoría: Malware</description>
-      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
-      <category>Malware</category>
-    </item>
-
-    <item>
-      <title>[BAJA] Samsung One UI 9.5 en desarrollo para más dispositivos Galaxy</title>
-      <link>https://www.sammyfans.com/2026/08/11/samsung-one-ui-9-5-is-in-development-for-these-galaxy-phones/</link>
-      <guid isPermaLink="false">samsung-one-ui-9-5-mas-dispositivos-agosto11-2026</guid>
-      <description>Samsung confirma que el desarrollo de One UI 9.5 se extiende a más modelos Galaxy más allá del S27 Ultra. Ampliación de la hoja de ruta de actualización a Android futura para base más amplia de usuarios. Categoría: Plataforma</description>
-      <pubDate>Tue, 11 Aug 2026 11:21:00 +0000</pubDate>
-      <category>Plataforma</category>
-    </item>
-
+    <lastBuildDate>Wed, 12 Aug 2026 11:20:00 +0000</lastBuildDate>
+  <item>
+    <title>[ALTA] TEESimulator v4.0: bypass total de hardware attestation via AOSP kmr-ta in-process</title>
+    <link>https://github.com/JingMatrix/TEESimulator/releases</link>
+    <guid isPermaLink="false">teesimulator-v4-agosto11-2026</guid>
+    <description>JingMatrix lanzó TEESimulator v4.0 (11 ago), ejecutando in-process el componente kmr-ta de AOSP para generar attestations de hardware indistinguibles. Elimina la ventaja de hardware-backed attestation en dispositivos rooteados. Soporta Android 10-17, incluye WebUI. Canary builds activos el 12 ago. Categoría: Root / Play Integrity. Relevancia: ALTA.</description>
+    <pubDate>Wed, 12 Aug 2026 11:20:00 +0000</pubDate>
+    <category>Root / Play Integrity</category>
+  </item>
+  <item>
+    <title>[MEDIA] MediaTek Boletín de Seguridad agosto 2026</title>
+    <link>https://www.mediatek.com/product-security-bulletin/august-2026</link>
+    <guid isPermaLink="false">mediatek-agosto-2026-security-bulletin</guid>
+    <description>MediaTek publicó su boletín mensual de agosto 2026 con vulnerabilidades en chipsets de gama media-alta usados en millones de dispositivos Android. OEMs notificados con 2 meses de anticipación. Categoría: ASB. Relevancia: MEDIA.</description>
+    <pubDate>Wed, 12 Aug 2026 11:20:00 +0000</pubDate>
+    <category>ASB</category>
+  </item>
+  <item>
+    <title>[BAJA] Samsung One UI 9.0 Beta 5 para Galaxy S26 lanzado (12 agosto 2026)</title>
+    <link>https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/</link>
+    <guid isPermaLink="false">samsung-oneui9-beta5-s26-lanzamiento-agosto12-2026</guid>
+    <description>Samsung liberó el 12 de agosto el quinto beta de One UI 9 (Android 17) para Galaxy S26, incorporando los parches de seguridad de agosto 2026. Primera beta con todos los arreglos del ciclo de agosto. Categoría: API/Plataforma. Relevancia: BAJA.</description>
+    <pubDate>Wed, 12 Aug 2026 11:20:00 +0000</pubDate>
+    <category>API/Plataforma</category>
+  </item>
   </channel>
 </rss>
