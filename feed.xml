@@ -3,32 +3,32 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo el último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:20:00 +0000</lastBuildDate>
-  <item>
-    <title>[ALTA] TEESimulator v4.0: bypass total de hardware attestation via AOSP kmr-ta in-process</title>
-    <link>https://github.com/JingMatrix/TEESimulator/releases</link>
-    <guid isPermaLink="false">teesimulator-v4-agosto11-2026</guid>
-    <description>JingMatrix lanzó TEESimulator v4.0 (11 ago), ejecutando in-process el componente kmr-ta de AOSP para generar attestations de hardware indistinguibles. Elimina la ventaja de hardware-backed attestation en dispositivos rooteados. Soporta Android 10-17, incluye WebUI. Canary builds activos el 12 ago. Categoría: Root / Play Integrity. Relevancia: ALTA.</description>
-    <pubDate>Wed, 12 Aug 2026 11:20:00 +0000</pubDate>
-    <category>Root / Play Integrity</category>
-  </item>
-  <item>
-    <title>[MEDIA] MediaTek Boletín de Seguridad agosto 2026</title>
-    <link>https://www.mediatek.com/product-security-bulletin/august-2026</link>
-    <guid isPermaLink="false">mediatek-agosto-2026-security-bulletin</guid>
-    <description>MediaTek publicó su boletín mensual de agosto 2026 con vulnerabilidades en chipsets de gama media-alta usados en millones de dispositivos Android. OEMs notificados con 2 meses de anticipación. Categoría: ASB. Relevancia: MEDIA.</description>
-    <pubDate>Wed, 12 Aug 2026 11:20:00 +0000</pubDate>
-    <category>ASB</category>
-  </item>
-  <item>
-    <title>[BAJA] Samsung One UI 9.0 Beta 5 para Galaxy S26 lanzado (12 agosto 2026)</title>
-    <link>https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/</link>
-    <guid isPermaLink="false">samsung-oneui9-beta5-s26-lanzamiento-agosto12-2026</guid>
-    <description>Samsung liberó el 12 de agosto el quinto beta de One UI 9 (Android 17) para Galaxy S26, incorporando los parches de seguridad de agosto 2026. Primera beta con todos los arreglos del ciclo de agosto. Categoría: API/Plataforma. Relevancia: BAJA.</description>
-    <pubDate>Wed, 12 Aug 2026 11:20:00 +0000</pubDate>
-    <category>API/Plataforma</category>
-  </item>
+    <lastBuildDate>Thu, 13 Aug 2026 11:21:17 +0000</lastBuildDate>
+    <item>
+      <title>[ALTA] WindRelay + SpyNote: combo de malware NFC relay drena cuentas bancarias en 13 minutos</title>
+      <link>https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/</link>
+      <guid isPermaLink="false">windrelay-spynote-nfc-relay-android-agosto-2026</guid>
+      <description>Campana documentada el 12 de agosto por Group-IB: WindRelay (NFC relay malware) combinado con SpyNote RAT permite al atacante, en una llamada de 13 minutos simulando ser el banco, tomar control remoto del dispositivo via Accessibility Services, sacar un prestamo en nombre de la victima y relayar datos de tarjeta NFC en tiempo real. 23 muestras en VirusTotal (nov 2025-jul 2026), apunta a bancos de Chequia, Eslovaquia y Eslovenia. Categoria: Malware</description>
+      <pubDate>Thu, 13 Aug 2026 11:21:17 +0000</pubDate>
+      <category>Malware</category>
+    </item>
+    <item>
+      <title>[MEDIA] NyaZygisk v2.4: implementacion Zygisk standalone con property spoofing y anti-deteccion</title>
+      <link>https://github.com/HSSkyBoy/NyaZygisk/releases</link>
+      <guid isPermaLink="false">nyazygisk-v2-4-agosto-2026</guid>
+      <description>Nueva version (10 agosto) para KernelSU y APatch con spoofing de propiedades via spoof.prop, aleatorizacion del boot digest para evadir verificacion de OS, soporte OneUI 8.5 y ARMv9 BTI. Expande capacidades de ocultamiento de root frente a Play Integrity y attestation. Categoria: Root</description>
+      <pubDate>Thu, 13 Aug 2026 11:21:17 +0000</pubDate>
+      <category>Root</category>
+    </item>
+    <item>
+      <title>[BAJA] Galaxy S24 y S25 se unen al Beta de One UI 9 (Android 17)</title>
+      <link>https://www.sammyfans.com/2026/08/13/good-news-galaxy-s24-flagships-to-join-one-ui-9-beta-program/</link>
+      <guid isPermaLink="false">samsung-oneui9-beta-s24-s25-agosto13-2026</guid>
+      <description>Samsung anuncia (13 agosto) la expansion del programa beta a Galaxy S24 y S25 series con el parche de seguridad de agosto 2026 (56 fixes: 38 CVEs Google + 18 SVE). Rollout estable esperado en septiembre. Categoria: API/Plataforma</description>
+      <pubDate>Thu, 13 Aug 2026 11:21:17 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
   </channel>
 </rss>

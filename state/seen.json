@@ -999,6 +999,24 @@
       "title": "Samsung One UI 9.0 Beta 5 para Galaxy S26 lanzado (12 agosto)",
       "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/",
       "first_seen": "2026-08-12"
+    },
+    {
+      "id": "windrelay-spynote-nfc-relay-android-agosto-2026",
+      "title": "WindRelay + SpyNote: combo de malware NFC relay drena cuentas bancarias en 13 minutos",
+      "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "nyazygisk-v2-4-agosto-2026",
+      "title": "NyaZygisk v2.4: implementacion Zygisk standalone con property spoofing y anti-deteccion",
+      "url": "https://github.com/HSSkyBoy/NyaZygisk/releases",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "samsung-oneui9-beta-s24-s25-agosto13-2026",
+      "title": "Galaxy S24 y S25 se unen al Beta de One UI 9 (Android 17)",
+      "url": "https://www.sammyfans.com/2026/08/13/good-news-galaxy-s24-flagships-to-join-one-ui-9-beta-program/",
+      "first_seen": "2026-08-13"
     }
   ]
 }
