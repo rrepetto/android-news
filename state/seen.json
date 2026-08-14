@@ -1017,6 +1017,24 @@
       "title": "Galaxy S24 y S25 se unen al Beta de One UI 9 (Android 17)",
       "url": "https://www.sammyfans.com/2026/08/13/good-news-galaxy-s24-flagships-to-join-one-ui-9-beta-program/",
       "first_seen": "2026-08-13"
+    },
+    {
+      "id": "grapheneos-2026080501-sept-jan-asb-patches-agosto-2026",
+      "title": "GrapheneOS 2026080501: preview de seguridad incorpora parches ASB de septiembre 2026 a enero 2027",
+      "url": "https://discuss.grapheneos.org/d/27068-grapheneos-security-preview-releases?page=5",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "samsung-agosto-2026-rollout-global-fold8-series-agosto13",
+      "title": "Samsung: rollout global del parche de agosto 2026 a Galaxy Z Fold 8, Fold 8 Ultra y Flip 8",
+      "url": "https://sammyguru.com/galaxy-z-fold-8-fold-8-ultra-flip-8-august-2026-update-global/",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "magicnet-root-network-proxy-agosto13-2026",
+      "title": "MagicNet: módulo root de gestión de red actualizado el 13 de agosto",
+      "url": "https://github.com/LIghtJUNction/MagicNet",
+      "first_seen": "2026-08-14"
     }
   ]
 }
