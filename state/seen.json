@@ -1035,6 +1035,12 @@
       "title": "MagicNet: módulo root de gestión de red actualizado el 13 de agosto",
       "url": "https://github.com/LIghtJUNction/MagicNet",
       "first_seen": "2026-08-14"
+    },
+    {
+      "id": "android-17-qpr2-beta3-app-lock-call-forwarding-agosto14-2026",
+      "title": "Android 17 QPR2 Beta 3: App Lock nativo + restricción anti-fraude en call forwarding USSD",
+      "url": "https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/",
+      "first_seen": "2026-08-15"
     }
   ]
 }

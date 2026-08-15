@@ -5,34 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 14 Aug 2026 11:21:14 +0000</lastBuildDate>
-
+    <lastBuildDate>Sat, 15 Aug 2026 11:13:25 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] GrapheneOS 2026080501: preview de seguridad incorpora parches ASB de septiembre 2026 a enero 2027</title>
-      <link>https://discuss.grapheneos.org/d/27068-grapheneos-security-preview-releases?page=5</link>
-      <guid isPermaLink="false">grapheneos-2026080501-sept-jan-asb-patches-agosto-2026</guid>
-      <description>La release de seguridad 2026080501 de GrapheneOS suma los parches de los Android Security Bulletins de septiembre, octubre, noviembre, diciembre 2026 y enero 2027, antes de su divulgación pública oficial. Convierte a GrapheneOS en el único OS Android que cubre vulnerabilidades con hasta 5 meses de anticipación respecto a cualquier otro OEM. Categoría: Knox/GrapheneOS/Pixel security</description>
-      <pubDate>Fri, 14 Aug 2026 11:21:14 +0000</pubDate>
-      <category>Knox/GrapheneOS/Pixel security</category>
+      <title>[MEDIA] Android 17 QPR2 Beta 3: App Lock nativo + restricción anti-fraude en call forwarding USSD</title>
+      <link>https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/</link>
+      <guid isPermaLink="false">android-17-qpr2-beta3-app-lock-call-forwarding-agosto14-2026</guid>
+      <description>Google lanzó el 14 de agosto la tercera beta del Pixel Drop de diciembre 2026 para Pixel 6a en adelante. Incorpora App Lock nativo (bloqueo por huella/PIN por app, con notificaciones ocultas en lockscreen) y restringe el API TelephonyManager.sendUssdRequest() para códigos de desvío de llamada: las apps ya no pueden ejecutarlos en background con solo el permiso CALL_PHONE, y el marcador del sistema muestra un diálogo de confirmación OS-level antes de ejecutar cualquier código de call forwarding. Esto corta una vía de fraude telefónico usada en campañas de vishing. Categoría: API/Plataforma.</description>
+      <pubDate>Sat, 15 Aug 2026 11:13:25 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
-
-    <item>
-      <title>[BAJA] Samsung: rollout global del parche de agosto 2026 a Galaxy Z Fold 8, Fold 8 Ultra y Flip 8</title>
-      <link>https://sammyguru.com/galaxy-z-fold-8-fold-8-ultra-flip-8-august-2026-update-global/</link>
-      <guid isPermaLink="false">samsung-agosto-2026-rollout-global-fold8-series-agosto13</guid>
-      <description>La actualización de agosto 2026 (56 fixes: 8 críticos de Google + 30 de alta prioridad + 18 SVE de Samsung) ya está disponible globalmente en India, Europa, EE.UU., Turquía y Vietnam para la serie Fold 8/Flip 8. Próximos: Galaxy S26, S25, Z Fold 7 y A-series. Categoría: ASB</description>
-      <pubDate>Fri, 14 Aug 2026 11:21:14 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-
-    <item>
-      <title>[BAJA] MagicNet: módulo root de gestión de red actualizado el 13 de agosto</title>
-      <link>https://github.com/LIghtJUNction/MagicNet</link>
-      <guid isPermaLink="false">magicnet-root-network-proxy-agosto13-2026</guid>
-      <description>MagicNet fue actualizado para Magisk, KernelSU y APatch con integración mihomo/sing-box, WebUI Vue, CLI scriptable, diagnósticos MCP y soporte de hotspot; permite a dispositivos rooteados controlar el tráfico por debajo de la capa de apps e inyectar proxies transparentes. Categoría: Root</description>
-      <pubDate>Fri, 14 Aug 2026 11:21:14 +0000</pubDate>
-      <category>Root</category>
-    </item>
-
   </channel>
 </rss>
