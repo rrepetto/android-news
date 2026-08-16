@@ -3,16 +3,45 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 15 Aug 2026 11:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:14:18 +0000</lastBuildDate>
+
     <item>
-      <title>[MEDIA] Android 17 QPR2 Beta 3: App Lock nativo + restricción anti-fraude en call forwarding USSD</title>
-      <link>https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/</link>
-      <guid isPermaLink="false">android-17-qpr2-beta3-app-lock-call-forwarding-agosto14-2026</guid>
-      <description>Google lanzó el 14 de agosto la tercera beta del Pixel Drop de diciembre 2026 para Pixel 6a en adelante. Incorpora App Lock nativo (bloqueo por huella/PIN por app, con notificaciones ocultas en lockscreen) y restringe el API TelephonyManager.sendUssdRequest() para códigos de desvío de llamada: las apps ya no pueden ejecutarlos en background con solo el permiso CALL_PHONE, y el marcador del sistema muestra un diálogo de confirmación OS-level antes de ejecutar cualquier código de call forwarding. Esto corta una vía de fraude telefónico usada en campañas de vishing. Categoría: API/Plataforma.</description>
-      <pubDate>Sat, 15 Aug 2026 11:13:25 +0000</pubDate>
+      <title>[BAJA] Samsung amplía rollout del parche de agosto 2026 a Serie S25 y Galaxy A</title>
+      <link>https://www.sammyfans.com/2026/08/15/samsung-rolled-out-the-august-2026-update-to-these-galaxy-devices/</link>
+      <guid isPermaLink="false">samsung-agosto-2026-rollout-expansion-s25-a-agosto15</guid>
+      <description>El 15 de agosto Samsung comenzó a extender las 56 correcciones de seguridad de agosto (8 críticas, 30 altas) a la familia Galaxy S25 y dispositivos A-series. Hasta que un dispositivo recibe el parche sigue expuesto a las 8 vulnerabilidades críticas del ASB-2026-08. Categoría: ASB</description>
+      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
+      <category>ASB</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Google Play System Update agosto 2026 desplegado en dispositivos Samsung Galaxy</title>
+      <link>https://9to5google.com/2026/08/10/august-2026-google-system-updates/</link>
+      <guid isPermaLink="false">google-play-system-update-agosto-2026</guid>
+      <description>La actualización del sistema Google Play de agosto 2026 (Play Services v26.30) comenzó a llegar a dispositivos Samsung Galaxy. Incluye mejoras de seguridad en el módulo on-device AICore, parches en el módulo de Wallet y mejoras de localización en Wear OS. Categoría: API/Plataforma</description>
+      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
+
+    <item>
+      <title>[BAJA] One UI 9.5: primeras imágenes internas revelan rediseño glass y App Lock nativo</title>
+      <link>https://www.androidauthority.com/samsung-one-ui-9-5-leak-galaxy-design-changes-3698833/</link>
+      <guid isPermaLink="false">samsung-oneui95-leak-glass-applock-agosto16-2026</guid>
+      <description>Filtraciones del 16 de agosto muestran builds internas de One UI 9.5 con rediseño visual tipo &quot;Liquid Glass&quot;, App Lock nativo integrado al sistema y nueva función App Mirroring. El App Lock nativo elevaría la protección por biometría/PIN por app; App Mirroring introduce nuevos vectores de privacidad. Categoría: API/Plataforma</description>
+      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+
+    <item>
+      <title>[BAJA] One UI 9 Beta 6 para Galaxy S26 inminente: candidato a release candidate</title>
+      <link>https://www.sammyfans.com/2026/08/15/one-ui-9-beta-6-could-arrive-soon-for-samsung-galaxy-s26/</link>
+      <guid isPermaLink="false">samsung-oneui9-beta6-s26-agosto15-2026</guid>
+      <description>Samsung prepara la sexta y posiblemente última beta de One UI 9.0 para Galaxy S26. La Beta 5 (lanzada el 12 de agosto con el parche de agosto 2026) cerró la ventana de plataforma estable. Esto allana el camino para que la beta se extienda a Galaxy S25 y S24 próximamente. Categoría: API/Plataforma</description>
+      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+
   </channel>
 </rss>
