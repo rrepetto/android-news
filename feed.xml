@@ -3,45 +3,32 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
     <language>es</language>
-    <lastBuildDate>Sun, 16 Aug 2026 11:14:18 +0000</lastBuildDate>
-
+    <lastBuildDate>Mon, 17 Aug 2026 11:15:36 +0000</lastBuildDate>
     <item>
-      <title>[BAJA] Samsung amplía rollout del parche de agosto 2026 a Serie S25 y Galaxy A</title>
-      <link>https://www.sammyfans.com/2026/08/15/samsung-rolled-out-the-august-2026-update-to-these-galaxy-devices/</link>
-      <guid isPermaLink="false">samsung-agosto-2026-rollout-expansion-s25-a-agosto15</guid>
-      <description>El 15 de agosto Samsung comenzó a extender las 56 correcciones de seguridad de agosto (8 críticas, 30 altas) a la familia Galaxy S25 y dispositivos A-series. Hasta que un dispositivo recibe el parche sigue expuesto a las 8 vulnerabilidades críticas del ASB-2026-08. Categoría: ASB</description>
-      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
-      <category>ASB</category>
+      <title>[ALTA] Pixel 11 lanzado: Titan M3 con criptografía post-cuántica (NIST PQC) en secure boot</title>
+      <link>https://www.privacyguides.org/news/2026/08/13/google-announced-the-pixel-11-with-their-new-titan-m3-quantum-safe-secure-boot/</link>
+      <guid isPermaLink="false">pixel-11-titan-m3-pqc-secure-boot-agosto2026</guid>
+      <description>Google presentó el 12 de agosto la serie Pixel 11 (Tensor G6 + Titan M3), primer Android con criptografía post-cuántica NIST en el secure boot a nivel hardware; Titan M3 con certificación Common Criteria equivalente a SIM/bancaria. Categoría: Knox/Pixel/Titan M</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:36 +0000</pubDate>
+      <category>Knox/Pixel/Titan M</category>
     </item>
-
     <item>
-      <title>[BAJA] Google Play System Update agosto 2026 desplegado en dispositivos Samsung Galaxy</title>
-      <link>https://9to5google.com/2026/08/10/august-2026-google-system-updates/</link>
-      <guid isPermaLink="false">google-play-system-update-agosto-2026</guid>
-      <description>La actualización del sistema Google Play de agosto 2026 (Play Services v26.30) comenzó a llegar a dispositivos Samsung Galaxy. Incluye mejoras de seguridad en el módulo on-device AICore, parches en el módulo de Wallet y mejoras de localización en Wear OS. Categoría: API/Plataforma</description>
-      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
+      <title>[MEDIA] Pixel 11: 7 años de actualizaciones de software Y repuestos — máximo compromiso de Google</title>
+      <link>https://www.androidauthority.com/google-pixel-11-seven-years-spare-parts-3698034/</link>
+      <guid isPermaLink="false">pixel-11-7-anos-soporte-repuestos-agosto2026</guid>
+      <description>La serie Pixel 11 recibe 7 años de actualizaciones (OS + seguridad) y 7 años de repuestos físicos, política más amplia en la historia de Pixel y paridad con Samsung Galaxy S. Categoría: API/Plataforma</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:36 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
-
     <item>
-      <title>[BAJA] One UI 9.5: primeras imágenes internas revelan rediseño glass y App Lock nativo</title>
-      <link>https://www.androidauthority.com/samsung-one-ui-9-5-leak-galaxy-design-changes-3698833/</link>
-      <guid isPermaLink="false">samsung-oneui95-leak-glass-applock-agosto16-2026</guid>
-      <description>Filtraciones del 16 de agosto muestran builds internas de One UI 9.5 con rediseño visual tipo &quot;Liquid Glass&quot;, App Lock nativo integrado al sistema y nueva función App Mirroring. El App Lock nativo elevaría la protección por biometría/PIN por app; App Mirroring introduce nuevos vectores de privacidad. Categoría: API/Plataforma</description>
-      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
+      <title>[BAJA] Droid-life actualiza el calendario de soporte Pixel (16 agosto 2026)</title>
+      <link>https://www.droid-life.com/2026/08/16/google-pixel-update-schedule-how-long-will-my-phone-get-updates/</link>
+      <guid isPermaLink="false">pixel-update-schedule-agosto16-2026</guid>
+      <description>Guía actualizada con fechas de fin de soporte: Pixel 6/6 Pro (octubre 2026), Pixel 6a (julio 2027), Pixel 8+ (agosto 2031), Pixel 11 (agosto 2033). Categoría: API/Plataforma</description>
+      <pubDate>Mon, 17 Aug 2026 11:15:36 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
-
-    <item>
-      <title>[BAJA] One UI 9 Beta 6 para Galaxy S26 inminente: candidato a release candidate</title>
-      <link>https://www.sammyfans.com/2026/08/15/one-ui-9-beta-6-could-arrive-soon-for-samsung-galaxy-s26/</link>
-      <guid isPermaLink="false">samsung-oneui9-beta6-s26-agosto15-2026</guid>
-      <description>Samsung prepara la sexta y posiblemente última beta de One UI 9.0 para Galaxy S26. La Beta 5 (lanzada el 12 de agosto con el parche de agosto 2026) cerró la ventana de plataforma estable. Esto allana el camino para que la beta se extienda a Galaxy S25 y S24 próximamente. Categoría: API/Plataforma</description>
-      <pubDate>Sun, 16 Aug 2026 11:14:18 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-
   </channel>
 </rss>
