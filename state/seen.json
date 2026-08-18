@@ -1083,6 +1083,30 @@
       "title": "Droid-life actualiza el calendario de soporte Pixel (16 agosto 2026)",
       "url": "https://www.droid-life.com/2026/08/16/google-pixel-update-schedule-how-long-will-my-phone-get-updates/",
       "first_seen": "2026-08-17"
+    },
+    {
+      "id": "unisoc-volte-kernel-exploit-agosto17-2026",
+      "title": "Unisoc VoLTE exploit chain: acceso total al kernel Android sin parche",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "kimwolf-v7-android-botnet-http2-agosto-2026",
+      "title": "Kimwolf v7: botnet Android/IoT camufla DDoS HTTP/2 como tráfico legítimo de Chrome",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "octagon-android-bot-vnc-crypto-wallets-agosto-2026",
+      "title": "Octagon Android Bot: MaaS con VNC oculto y accessibility overlays apunta a wallets cripto",
+      "url": "https://iverify.io/blog/octagon-android-bot-crypto-wallets-banking-apps",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "samsung-oneui9-stable-s26-firma-inminente-agosto2026",
+      "title": "Samsung One UI 9 stable para Galaxy S26 inminente: build BZH8 detectado en servidores",
+      "url": "https://sammyguru.com/samsung-galaxy-s26-new-one-ui-9-stable-build/",
+      "first_seen": "2026-08-18"
     }
   ]
 }

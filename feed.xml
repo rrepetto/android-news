@@ -3,31 +3,39 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra únicamente el último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 17 Aug 2026 11:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:16:24 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Pixel 11 lanzado: Titan M3 con criptografía post-cuántica (NIST PQC) en secure boot</title>
-      <link>https://www.privacyguides.org/news/2026/08/13/google-announced-the-pixel-11-with-their-new-titan-m3-quantum-safe-secure-boot/</link>
-      <guid isPermaLink="false">pixel-11-titan-m3-pqc-secure-boot-agosto2026</guid>
-      <description>Google presentó el 12 de agosto la serie Pixel 11 (Tensor G6 + Titan M3), primer Android con criptografía post-cuántica NIST en el secure boot a nivel hardware; Titan M3 con certificación Common Criteria equivalente a SIM/bancaria. Categoría: Knox/Pixel/Titan M</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:36 +0000</pubDate>
-      <category>Knox/Pixel/Titan M</category>
+      <title>[ALTA] Unisoc VoLTE exploit chain: acceso total al kernel Android sin parche</title>
+      <link>https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html</link>
+      <guid isPermaLink="false">unisoc-volte-kernel-exploit-agosto17-2026</guid>
+      <description>SSD Secure Disclosure publicó cadena de exploit de dos etapas que logra acceso completo al kernel Android en chipsets Unisoc T606/T612/T616/T7250 via llamada VoLTE. Sin parche; Unisoc no respondió. Afecta millones de dispositivos de gama baja. Categoría: Vulnerabilidad/CVE</description>
+      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
+      <category>Vulnerabilidad/CVE</category>
     </item>
     <item>
-      <title>[MEDIA] Pixel 11: 7 años de actualizaciones de software Y repuestos — máximo compromiso de Google</title>
-      <link>https://www.androidauthority.com/google-pixel-11-seven-years-spare-parts-3698034/</link>
-      <guid isPermaLink="false">pixel-11-7-anos-soporte-repuestos-agosto2026</guid>
-      <description>La serie Pixel 11 recibe 7 años de actualizaciones (OS + seguridad) y 7 años de repuestos físicos, política más amplia en la historia de Pixel y paridad con Samsung Galaxy S. Categoría: API/Plataforma</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:36 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] Kimwolf v7: botnet Android/IoT camufla DDoS HTTP/2 como tráfico legítimo de Chrome</title>
+      <link>https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html</link>
+      <guid isPermaLink="false">kimwolf-v7-android-botnet-http2-agosto-2026</guid>
+      <description>Nueva versión del botnet Kimwolf/AISURU agrega flood HTTP/2 con fingerprints Chrome para evadir mitigaciones DDoS; usa ENS Ethereum y Tor para C2 resistente a takedowns. 1,8M+ dispositivos comprometidos. Categoría: Malware</description>
+      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
+      <category>Malware</category>
     </item>
     <item>
-      <title>[BAJA] Droid-life actualiza el calendario de soporte Pixel (16 agosto 2026)</title>
-      <link>https://www.droid-life.com/2026/08/16/google-pixel-update-schedule-how-long-will-my-phone-get-updates/</link>
-      <guid isPermaLink="false">pixel-update-schedule-agosto16-2026</guid>
-      <description>Guía actualizada con fechas de fin de soporte: Pixel 6/6 Pro (octubre 2026), Pixel 6a (julio 2027), Pixel 8+ (agosto 2031), Pixel 11 (agosto 2033). Categoría: API/Plataforma</description>
-      <pubDate>Mon, 17 Aug 2026 11:15:36 +0000</pubDate>
+      <title>[MEDIA] Octagon Android Bot: MaaS con VNC oculto y accessibility overlays apunta a wallets cripto</title>
+      <link>https://iverify.io/blog/octagon-android-bot-crypto-wallets-banking-apps</link>
+      <guid isPermaLink="false">octagon-android-bot-vnc-crypto-wallets-agosto-2026</guid>
+      <description>Plataforma MaaS Octagon ($1.400/mes) con VNC oculto y overlays de accesibilidad roba credenciales de Trust Wallet, MetaMask, Binance y apps bancarias. Persistencia via watchdog que sobrevive reinicios. Categoría: Malware/Accessibility</description>
+      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
+      <category>Malware/Accessibility</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung One UI 9 stable para Galaxy S26 inminente: build BZH8 detectado en servidores</title>
+      <link>https://sammyguru.com/samsung-galaxy-s26-new-one-ui-9-stable-build/</link>
+      <guid isPermaLink="false">samsung-oneui9-stable-s26-firma-inminente-agosto2026</guid>
+      <description>Firmware estable One UI 9 (S948BXXU4BZH8) detectado en servidores Samsung para Galaxy S26. Fin probable del programa beta; lanzamiento estimado fines de agosto/principios de septiembre. Categoría: API/Plataforma</description>
+      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
   </channel>
