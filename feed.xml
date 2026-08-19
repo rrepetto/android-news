@@ -3,40 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra únicamente el último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
     <language>es</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:13:53 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Unisoc VoLTE exploit chain: acceso total al kernel Android sin parche</title>
-      <link>https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html</link>
-      <guid isPermaLink="false">unisoc-volte-kernel-exploit-agosto17-2026</guid>
-      <description>SSD Secure Disclosure publicó cadena de exploit de dos etapas que logra acceso completo al kernel Android en chipsets Unisoc T606/T612/T616/T7250 via llamada VoLTE. Sin parche; Unisoc no respondió. Afecta millones de dispositivos de gama baja. Categoría: Vulnerabilidad/CVE</description>
-      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
-      <category>Vulnerabilidad/CVE</category>
-    </item>
-    <item>
-      <title>[MEDIA] Kimwolf v7: botnet Android/IoT camufla DDoS HTTP/2 como tráfico legítimo de Chrome</title>
-      <link>https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html</link>
-      <guid isPermaLink="false">kimwolf-v7-android-botnet-http2-agosto-2026</guid>
-      <description>Nueva versión del botnet Kimwolf/AISURU agrega flood HTTP/2 con fingerprints Chrome para evadir mitigaciones DDoS; usa ENS Ethereum y Tor para C2 resistente a takedowns. 1,8M+ dispositivos comprometidos. Categoría: Malware</description>
-      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
-      <category>Malware</category>
-    </item>
-    <item>
-      <title>[MEDIA] Octagon Android Bot: MaaS con VNC oculto y accessibility overlays apunta a wallets cripto</title>
-      <link>https://iverify.io/blog/octagon-android-bot-crypto-wallets-banking-apps</link>
-      <guid isPermaLink="false">octagon-android-bot-vnc-crypto-wallets-agosto-2026</guid>
-      <description>Plataforma MaaS Octagon ($1.400/mes) con VNC oculto y overlays de accesibilidad roba credenciales de Trust Wallet, MetaMask, Binance y apps bancarias. Persistencia via watchdog que sobrevive reinicios. Categoría: Malware/Accessibility</description>
-      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
+      <title>[ALTA] DragonDoll: spyware Android en 26 países vía actualización falsa de Chrome</title>
+      <link>https://www.brinztech.com/breach-alerts/brinztech-alert-dragondoll-android-spyware-campaign-targets-users-across-26-countries-via-fake-chrome-updates</link>
+      <guid isPermaLink="false">dragondoll-spyware-26-paises-fake-chrome-agosto-2026</guid>
+      <description>PT ESC (Positive Technologies) revela DragonDoll, activo desde principios de 2026 con ~150 muestras en 26 países. APK falso de Chrome solicita Accessibility Services para keylogging, screenshots y exfiltración de Telegram. Sin zero-days; ingeniería social pura. Categoría: Malware/Accessibility</description>
+      <pubDate>Wed, 19 Aug 2026 11:13:53 +0000</pubDate>
       <category>Malware/Accessibility</category>
     </item>
     <item>
-      <title>[BAJA] Samsung One UI 9 stable para Galaxy S26 inminente: build BZH8 detectado en servidores</title>
-      <link>https://sammyguru.com/samsung-galaxy-s26-new-one-ui-9-stable-build/</link>
-      <guid isPermaLink="false">samsung-oneui9-stable-s26-firma-inminente-agosto2026</guid>
-      <description>Firmware estable One UI 9 (S948BXXU4BZH8) detectado en servidores Samsung para Galaxy S26. Fin probable del programa beta; lanzamiento estimado fines de agosto/principios de septiembre. Categoría: API/Plataforma</description>
-      <pubDate>Tue, 18 Aug 2026 11:16:24 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[BAJA] Samsung amplía rollout del parche de agosto 2026 a más dispositivos Galaxy (18 agosto)</title>
+      <link>https://www.gizmochina.com/2026/08/18/samsung-august-2026-security-update-is-available-for-these-galaxy-devices/</link>
+      <guid isPermaLink="false">samsung-agosto-2026-rollout-expansion-agosto18-gizmochina</guid>
+      <description>Nueva ola de expansión del parche agosto 2026 (56 fixes: 38 de Google, 18 SVEs propias). Gizmochina lista los dispositivos que recibieron la actualización al 18 de agosto; distribución continúa hacia S23/S24 y mid-range A-series. Categoría: ASB</description>
+      <pubDate>Wed, 19 Aug 2026 11:13:53 +0000</pubDate>
+      <category>ASB</category>
     </item>
   </channel>
 </rss>
