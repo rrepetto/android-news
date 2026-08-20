@@ -3,24 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:13:00 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] DragonDoll: spyware Android en 26 países vía actualización falsa de Chrome</title>
-      <link>https://www.brinztech.com/breach-alerts/brinztech-alert-dragondoll-android-spyware-campaign-targets-users-across-26-countries-via-fake-chrome-updates</link>
-      <guid isPermaLink="false">dragondoll-spyware-26-paises-fake-chrome-agosto-2026</guid>
-      <description>PT ESC (Positive Technologies) revela DragonDoll, activo desde principios de 2026 con ~150 muestras en 26 países. APK falso de Chrome solicita Accessibility Services para keylogging, screenshots y exfiltración de Telegram. Sin zero-days; ingeniería social pura. Categoría: Malware/Accessibility</description>
-      <pubDate>Wed, 19 Aug 2026 11:13:53 +0000</pubDate>
-      <category>Malware/Accessibility</category>
+      <title>[ALTA] ToxicPanda 2.0: nueva variante bancaria Android apunta a 349 apps con 167 comandos remotos</title>
+      <link>https://zimperium.com/blog/the-toxicpanda-never-sleeps-toxicpanda-2.0-prepares-its-next-strike-on-mobile</link>
+      <guid isPermaLink="false">toxicpanda-v2-android-banking-trojan-agosto-2026</guid>
+      <description>Zimperium zLabs publicó el 19 de agosto el análisis de ToxicPanda 2.0, que expande el targeting del troyano bancario de 16 a 349 instituciones financieras en 16 países, añade 167 comandos remotos y mecanismo de robo de PIN vía Accessibility Services. Categoría: Malware</description>
+      <pubDate>Thu, 20 Aug 2026 11:13:00 +0000</pubDate>
+      <category>Malware</category>
     </item>
     <item>
-      <title>[BAJA] Samsung amplía rollout del parche de agosto 2026 a más dispositivos Galaxy (18 agosto)</title>
-      <link>https://www.gizmochina.com/2026/08/18/samsung-august-2026-security-update-is-available-for-these-galaxy-devices/</link>
-      <guid isPermaLink="false">samsung-agosto-2026-rollout-expansion-agosto18-gizmochina</guid>
-      <description>Nueva ola de expansión del parche agosto 2026 (56 fixes: 38 de Google, 18 SVEs propias). Gizmochina lista los dispositivos que recibieron la actualización al 18 de agosto; distribución continúa hacia S23/S24 y mid-range A-series. Categoría: ASB</description>
-      <pubDate>Wed, 19 Aug 2026 11:13:53 +0000</pubDate>
-      <category>ASB</category>
+      <title>[BAJA] GrapheneOS confirma primer Motorola compatible en 2027, comenzando por flagships Snapdragon</title>
+      <link>https://www.notebookcheck.net/GrapheneOS-confirms-2027-launch-on-Motorola-phones-starting-with-flagships.1373443.0.html</link>
+      <guid isPermaLink="false">grapheneos-motorola-support-2027-agosto-2026</guid>
+      <description>GrapheneOS confirmó que los primeros smartphones Motorola con soporte oficial llegarán en 2027, terminando la exclusividad con Pixel. Solo flagships Snapdragon inicialmente. Categoría: GrapheneOS / Knox</description>
+      <pubDate>Thu, 20 Aug 2026 11:13:00 +0000</pubDate>
+      <category>GrapheneOS / Knox</category>
     </item>
   </channel>
 </rss>

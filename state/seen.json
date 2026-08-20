@@ -1119,6 +1119,18 @@
       "title": "Samsung amplía rollout del parche de agosto 2026 a más dispositivos Galaxy (18 agosto)",
       "url": "https://www.gizmochina.com/2026/08/18/samsung-august-2026-security-update-is-available-for-these-galaxy-devices/",
       "first_seen": "2026-08-19"
+    },
+    {
+      "id": "toxicpanda-v2-android-banking-trojan-agosto-2026",
+      "title": "ToxicPanda 2.0: nueva variante bancaria Android apunta a 349 apps con 167 comandos remotos",
+      "url": "https://zimperium.com/blog/the-toxicpanda-never-sleeps-toxicpanda-2.0-prepares-its-next-strike-on-mobile",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "grapheneos-motorola-support-2027-agosto-2026",
+      "title": "GrapheneOS confirma primer Motorola compatible en 2027, comenzando por flagships Snapdragon",
+      "url": "https://www.notebookcheck.net/GrapheneOS-confirms-2027-launch-on-Motorola-phones-starting-with-flagships.1373443.0.html",
+      "first_seen": "2026-08-20"
     }
   ]
 }
