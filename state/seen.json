@@ -1137,6 +1137,36 @@
       "title": "Manic: troyano bancario Android con relay P2P offline y spyware integrado",
       "url": "https://www.threatfabric.com/blogs/manic-blend-between-banking-malware-and-spyware",
       "first_seen": "2026-08-21"
+    },
+    {
+      "id": "android-17-qpr2-sim-security-timeline-celular-agosto2026",
+      "title": "Android 17 QPR2 Beta 3: SIM security timeline + detección nativa de IMSI catchers y ataques de red celular",
+      "url": "https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-galaxy-quantum7-qrng-agosto25-2026",
+      "title": "Samsung Galaxy Quantum 7 lanza el 25 de agosto en Corea del Sur (QRNG)",
+      "url": "https://www.sammyfans.com/2026/08/21/samsung-to-release-galaxy-quantum-7-next-week/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-oneui9-watch-beta-watch8-agosto21-2026",
+      "title": "One UI 9 Watch (Wear OS 7) Beta para Galaxy Watch 8 es inminente",
+      "url": "https://www.sammyfans.com/2026/08/21/galaxy-watch-8s-one-ui-9-watch-beta-release-seems-imminent/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-oneui9-68-dispositivos-testing-agosto20-2026",
+      "title": "Samsung amplía testing interno de One UI 9 (Android 17) a 68 dispositivos Galaxy",
+      "url": "https://www.sammyfans.com/2026/08/20/samsung-android-17-one-ui-9-galaxy-devices/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-oneui95-s26-testing-semanas-adelantado-agosto19-2026",
+      "title": "Samsung prueba One UI 9.5 en Galaxy S26 semanas antes de lo esperado",
+      "url": "https://www.androidheadlines.com/2026/08/samsung-begins-testing-one-ui-9-5-galaxy-s26-s27-leak.html",
+      "first_seen": "2026-08-22"
     }
   ]
 }

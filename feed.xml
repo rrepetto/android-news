@@ -3,16 +3,48 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Novedades diarias de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:08:09 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Manic: troyano bancario Android con relay P2P offline y spyware integrado</title>
-      <link>https://www.threatfabric.com/blogs/manic-blend-between-banking-malware-and-spyware</link>
-      <guid isPermaLink="false">manic-android-banking-spyware-agosto-2026</guid>
-      <description>ThreatFabric descubrió Manic, malware activo desde febrero 2026 que apunta a 169 apps bancarias, eID, crypto, mensajería y 2FA. Usa Accessibility Services para capturar PINs mediante overlays transparentes y puede exfiltrar datos a través de dispositivos infectados cercanos por Wi-Fi Direct/Bluetooth cuando no tiene conexión directa al C2. Técnica peer-relay P2P única. Categoría: Malware.</description>
-      <pubDate>Fri, 21 Aug 2026 11:13:47 +0000</pubDate>
-      <category>Malware</category>
+      <title>[ALTA] Android 17 QPR2 Beta 3: SIM security timeline + detección nativa de IMSI catchers y ataques de red celular</title>
+      <link>https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/</link>
+      <guid isPermaLink="false">android-17-qpr2-sim-security-timeline-celular-agosto2026</guid>
+      <description>APK teardown revela que QPR2 Beta 3 incorpora un registro persistente (SIM security timeline) que almacena eventos de seguridad detectados por el modem: accesos a IMEI/IMSI por la red, torres falsas, ataques de downgrade, DoS, jamming y location tracking. Primer sistema anti-vigilancia celular nativo en Android (radio HAL v5). Categoría: API/Plataforma</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:09 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung Galaxy Quantum 7 lanza el 25 de agosto en Corea del Sur (QRNG)</title>
+      <link>https://www.sammyfans.com/2026/08/21/samsung-to-release-galaxy-quantum-7-next-week/</link>
+      <guid isPermaLink="false">samsung-galaxy-quantum7-qrng-agosto25-2026</guid>
+      <description>Séptima generación del Galaxy Quantum, basada en Galaxy A57 5G, con chip cuántico QRNG de ID Quantique para generación de claves criptográficas verdaderamente aleatorias. Exclusivo SK Telecom, Corea del Sur. Categoría: Knox/Hardware Security</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:09 +0000</pubDate>
+      <category>Knox/Hardware Security</category>
+    </item>
+    <item>
+      <title>[BAJA] One UI 9 Watch (Wear OS 7) Beta para Galaxy Watch 8 es inminente</title>
+      <link>https://www.sammyfans.com/2026/08/21/galaxy-watch-8s-one-ui-9-watch-beta-release-seems-imminent/</link>
+      <guid isPermaLink="false">samsung-oneui9-watch-beta-watch8-agosto21-2026</guid>
+      <description>Build de Beta detectada en servidores Samsung para Galaxy Watch 8; será la primera actualización pública de One UI 9 para wearables de generación anterior al Watch 9. Categoría: API/Plataforma</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:09 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung amplía testing interno de One UI 9 (Android 17) a 68 dispositivos Galaxy</title>
+      <link>https://www.sammyfans.com/2026/08/20/samsung-android-17-one-ui-9-galaxy-devices/</link>
+      <guid isPermaLink="false">samsung-oneui9-68-dispositivos-testing-agosto20-2026</guid>
+      <description>La lista de testing interno sube de 50 a 68 dispositivos Galaxy; indica expansión acelerada del rollout seguro de Android 17 hacia el segundo semestre 2026. Categoría: API/Plataforma</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:09 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung prueba One UI 9.5 en Galaxy S26 semanas antes de lo esperado</title>
+      <link>https://www.androidheadlines.com/2026/08/samsung-begins-testing-one-ui-9-5-galaxy-s26-s27-leak.html</link>
+      <guid isPermaLink="false">samsung-oneui95-s26-testing-semanas-adelantado-agosto19-2026</guid>
+      <description>Testing interno de One UI 9.5 (Android 17 refinado) comenzó en S26 mientras One UI 9 estable aún no llega al modelo; cadencia acelerada apunta a lanzamiento de 9.5 con Galaxy S27 en Q1 2027. Categoría: API/Plataforma</description>
+      <pubDate>Sat, 22 Aug 2026 11:08:09 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
   </channel>
 </rss>
