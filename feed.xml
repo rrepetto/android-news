@@ -5,14 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:09:19 +0000</lastBuildDate>
-  <item>
-    <title>[ALTA] Primer malware documentado para Android car head units — cadena de suministro MoYu/BadBox</title>
-    <link>https://thehackernews.com/2026/08/android-car-malware-spreads-through.html</link>
-    <guid isPermaLink="false">moyugroup-android-car-headunit-badbox-agosto22-2026</guid>
-    <description>[ALTA] Primer malware documentado para Android car head units (DoFun/TWCore), cadena de suministro atribuida al grupo MoYu vinculado a BadBox. Fraude publicitario y proxy botnet en sistemas de infoentretenimiento vehicular. Categoría: Malware.</description>
-    <pubDate>Sun, 23 Aug 2026 11:09:19 +0000</pubDate>
-    <category>Malware</category>
-  </item>
+    <lastBuildDate>Mon, 24 Aug 2026 11:15:06 +0000</lastBuildDate>
+    <item>
+      <title>[MEDIA] Google flexibiliza verificación de desarrolladores Android: cuentas gratuitas sin ID gubernamental</title>
+      <link>https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/</link>
+      <guid isPermaLink="false">google-backpedals-developer-registration-free-accounts-agosto-2026</guid>
+      <description>Ante la presión global, Google introduce cuentas de desarrollador gratuitas sin DNI para estudiantes y hobbyists (hasta 20 dispositivos), manteniendo el flujo avanzado de sideloading para usuarios expertos. Flexibiliza la controvertida política de developer verification antes de su rollout en septiembre 2026. Categoría: API/Plataforma</description>
+      <category>API/Plataforma</category>
+      <pubDate>Mon, 24 Aug 2026 11:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BAJA] Android 17 QPR1 Beta 9 disponible para Pixel — beta final para Pixel 6/6 Pro</title>
+      <link>https://www.droid-life.com/2026/08/17/android-17-qpr1-beta-9-update-released-for-pixel-phones/</link>
+      <guid isPermaLink="false">android-17-qpr1-beta-9-agosto17-2026</guid>
+      <description>Google liberó el 17 de agosto la Beta 9 de Android 17 QPR1 para Pixel 6 a Pixel 10. Corrige navegación gestual, reinicio en bucle y drenaje anómalo de batería; es la beta final para Pixel 6/6 Pro antes del estable esperado en septiembre 2026. Categoría: API/Plataforma</description>
+      <category>API/Plataforma</category>
+      <pubDate>Mon, 24 Aug 2026 11:15:06 +0000</pubDate>
+    </item>
   </channel>
 </rss>
