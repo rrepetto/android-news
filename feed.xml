@@ -3,32 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene únicamente los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:27:14 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Zimperium 2026 Global Mobile Threat Report: IA impulsa 14x el crecimiento de ataques móviles Android</title>
-      <link>https://zimperium.com/resources/new-zimperium-research-reveals-that-ai-based-attacks-are-targeting-and-succeeding-on-mobile</link>
-      <guid isPermaLink="false">zimperium-2026-global-mobile-threat-report-ai-attacks</guid>
-      <description>El Informe Global de Amenazas Móviles 2026 de Zimperium revela que la adopción de IA en apps Android creció 14x, el actor promedio usa IA en 15+ técnicas MITRE ATT&amp;CK, y el móvil es el vector más vulnerable en entornos empresariales. Categoría: Malware/Investigación</description>
-      <pubDate>Tue, 25 Aug 2026 11:23:00 +0000</pubDate>
-      <category>Malware/Investigación</category>
+      <title>[BAJA] One UI 9 Beta 6 lanzada para Galaxy S26 con parche agosto 2026</title>
+      <link>https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-6-3702640/</link>
+      <guid isPermaLink="false">samsung-oneui9-beta6-s26-lanzado-agosto25-2026</guid>
+      <description>La sexta beta de One UI 9 (Android 17) llego anticipadamente el 25 de agosto al Galaxy S26 incluyendo el parche de agosto 2026 (56 CVEs, 8 criticos de Google); el stable release para S26 y S25 se espera en semanas. Importa porque adelanta la cobertura del SMR de agosto a quienes participan del beta. Categoria: API/Plataforma.</description>
+      <pubDate>Wed, 26 Aug 2026 11:27:14 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[BAJA] Zimperium Deep Insights: forensia móvil automatizada con IA para empresas</title>
-      <link>https://securityboulevard.com/2026/08/zimperium-launches-deep-insights-for-automated-mobile-forensics/</link>
-      <guid isPermaLink="false">zimperium-deep-insights-mobile-forensics-agosto-2026</guid>
-      <description>Zimperium lanzó Deep Insights, solución unificada de Mobile Threat Defense y forensia automatizada que reduce investigaciones de incidentes móviles de semanas a minutos; disponibilidad general en septiembre 2026. Categoría: Plataforma/Herramientas</description>
-      <pubDate>Tue, 25 Aug 2026 11:23:00 +0000</pubDate>
-      <category>Plataforma/Herramientas</category>
-    </item>
-    <item>
-      <title>[BAJA] AV-Comparatives Mobile Security Review 2026: benchmark de 9 AV Android</title>
-      <link>https://av-comparatives.org/tests/mobile-security-review-2026/</link>
-      <guid isPermaLink="false">av-comparatives-mobile-security-review-2026</guid>
-      <description>AV-Comparatives testea 9 soluciones AV Android (Avast, Bitdefender, Kaspersky, Norton, Play Protect y otros) con 3.000+ muestras de malware y 500 apps limpias sobre Android 16. Categoría: Plataforma/Investigación</description>
-      <pubDate>Tue, 25 Aug 2026 11:23:00 +0000</pubDate>
-      <category>Plataforma/Investigación</category>
+      <title>[BAJA] Samsung Galaxy M55 recibe parche de seguridad agosto 2026</title>
+      <link>https://www.sammobile.com/news/samsung-updates-galaxy-m55-with-august-2026-security-patch/</link>
+      <guid isPermaLink="false">samsung-galaxy-m55-agosto-2026-patch</guid>
+      <description>Samsung extiende el rollout del SMR de agosto 2026 al Galaxy M55 (firmware M556BXXS5DZH1) en Bangladesh e India; expande la cobertura de 56 fixes (8 criticos) a la gama media. Categoria: ASB.</description>
+      <pubDate>Wed, 26 Aug 2026 11:27:14 +0000</pubDate>
+      <category>ASB</category>
     </item>
   </channel>
 </rss>
