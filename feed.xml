@@ -3,24 +3,16 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android: ASB, malware, Play Integrity, root, bootloader, APIs y plataforma.</description>
+    <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, integridad de plataforma, raíz y más.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:12:22 +0000</lastBuildDate>
     <item>
-      <title>[BAJA] One UI 9 Beta 6 lanzada para Galaxy S26 con parche agosto 2026</title>
-      <link>https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-6-3702640/</link>
-      <guid isPermaLink="false">samsung-oneui9-beta6-s26-lanzado-agosto25-2026</guid>
-      <description>La sexta beta de One UI 9 (Android 17) llego anticipadamente el 25 de agosto al Galaxy S26 incluyendo el parche de agosto 2026 (56 CVEs, 8 criticos de Google); el stable release para S26 y S25 se espera en semanas. Importa porque adelanta la cobertura del SMR de agosto a quienes participan del beta. Categoria: API/Plataforma.</description>
-      <pubDate>Wed, 26 Aug 2026 11:27:14 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung Galaxy M55 recibe parche de seguridad agosto 2026</title>
-      <link>https://www.sammobile.com/news/samsung-updates-galaxy-m55-with-august-2026-security-patch/</link>
-      <guid isPermaLink="false">samsung-galaxy-m55-agosto-2026-patch</guid>
-      <description>Samsung extiende el rollout del SMR de agosto 2026 al Galaxy M55 (firmware M556BXXS5DZH1) en Bangladesh e India; expande la cobertura de 56 fixes (8 criticos) a la gama media. Categoria: ASB.</description>
-      <pubDate>Wed, 26 Aug 2026 11:27:14 +0000</pubDate>
-      <category>ASB</category>
+      <title>[MEDIA] Samsung despliega parche de seguridad agosto 2026 a Galaxy S26, S25 y S24</title>
+      <link>https://www.sammyfans.com/2026/08/26/samsung-galaxy-s26-august-2026-security-update-is-now-rolling-out/</link>
+      <guid isPermaLink="false">samsung-s26-s25-s24-agosto-2026-security-rollout</guid>
+      <description>El rollout oficial del SMR de agosto 2026 llegó el 26 de agosto a los flagships Galaxy S26, S25, S25 FE y S24 series. Incluye 56 fixes (38 Google ASB + 18 Samsung SVE), 8 críticos de Google por RCE y escalada de privilegios. Categoría: ASB/Parches.</description>
+      <pubDate>Thu, 27 Aug 2026 11:12:22 +0000</pubDate>
+      <category>ASB/Parches</category>
     </item>
   </channel>
 </rss>
