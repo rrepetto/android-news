@@ -3,16 +3,32 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, integridad de plataforma, raíz y más.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:14:08 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Samsung despliega parche de seguridad agosto 2026 a Galaxy S26, S25 y S24</title>
-      <link>https://www.sammyfans.com/2026/08/26/samsung-galaxy-s26-august-2026-security-update-is-now-rolling-out/</link>
-      <guid isPermaLink="false">samsung-s26-s25-s24-agosto-2026-security-rollout</guid>
-      <description>El rollout oficial del SMR de agosto 2026 llegó el 26 de agosto a los flagships Galaxy S26, S25, S25 FE y S24 series. Incluye 56 fixes (38 Google ASB + 18 Samsung SVE), 8 críticos de Google por RCE y escalada de privilegios. Categoría: ASB/Parches.</description>
-      <pubDate>Thu, 27 Aug 2026 11:12:22 +0000</pubDate>
-      <category>ASB/Parches</category>
+      <title>[ALTA] Android 17: Google anuncia oficialmente 4 nuevas protecciones de seguridad de red</title>
+      <link>https://blog.google/security/new-android-network-security-protections/</link>
+      <guid isPermaLink="false">android-17-4-protecciones-red-anuncio-oficial-agosto2026</guid>
+      <description>Google publica oficialmente las 4 nuevas funciones de seguridad de red de Android 17: ECH (Encrypted Client Hello) oculta dominios visitados; alertas en tiempo real de ataques celulares (2G downgrade, jamming, IMSI catchers); operadores podrán deshabilitar 2G remotamente; panel SIM Security Info con cifrado activo. Primera publicación oficial consolidada — impacto en privacidad de todos los usuarios de Android 17. Categoría: API/Plataforma.</description>
+      <pubDate>Fri, 28 Aug 2026 11:14:08 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[ALTA] GoldDigger 2026 + ToxicPanda 2.0: ola coordinada de fraude bancario en dispositivo apunta a Sudáfrica y Reino Unido</title>
+      <link>https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html</link>
+      <guid isPermaLink="false">golddigger-toxicpanda-on-device-fraud-expansion-agosto2026</guid>
+      <description>Nueva campaña activa de GoldDigger suplanta aerolíneas y retailers causando infección masiva en Sudáfrica y UK; abusa de Accessibility Services para On-Device Fraud sin root. Combina con ToxicPanda 2.0 distribuido via Amazon AWS. Ambas familias ejecutan fraude directamente desde el dispositivo sin exfiltrar credenciales. Categoría: Malware.</description>
+      <pubDate>Fri, 28 Aug 2026 11:14:08 +0000</pubDate>
+      <category>Malware</category>
+    </item>
+    <item>
+      <title>[MEDIA] Samsung One UI 9.0 estable detectado para Galaxy S24 y S25</title>
+      <link>https://r2.community.samsung.com/t5/Galaxy-S/S24-S25-A-new-One-UI-9-0-stable-build-found/m-p/22760757</link>
+      <guid isPermaLink="false">samsung-oneui9-stable-build-s24-s25-detectada-agosto2026</guid>
+      <description>Build estable de One UI 9.0 (Android 17) detectado en servidores de Samsung para Galaxy S24 y S25, indicando rollout inminente. Serie S26 ya en Beta 6; S24/S25 serían los próximos en recibir la actualización mayor en agosto-septiembre 2026. Categoría: Bootloader.</description>
+      <pubDate>Fri, 28 Aug 2026 11:14:08 +0000</pubDate>
+      <category>Bootloader</category>
     </item>
   </channel>
 </rss>
