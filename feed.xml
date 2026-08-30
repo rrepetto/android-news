@@ -3,15 +3,31 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/ y seen.json.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 29 Aug 2026 11:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:11:19 +0000</lastBuildDate>
     <item>
-      <title>[BAJA] Android 17 QPR2 Beta 4 alcanza Platform Stability con protección anti-fraude telefónico</title>
-      <link>https://9to5google.com/2026/08/28/android-17-qpr2-beta-4-pixel/</link>
-      <guid isPermaLink="false">android-17-qpr2-beta-4-platform-stability-agosto28-2026</guid>
-      <description>Google lanzó QPR2 Beta 4 el 28/08 alcanzando Platform Stability (APIs congeladas para diciembre); corrige 16 bugs e incluye restricción de códigos USSD de desvío de llamadas en background vía TelephonyManager.sendUssdRequest(), protección relevante contra fraude bancario. Categoría: API/Plataforma</description>
-      <pubDate>Sat, 29 Aug 2026 11:10:24 +0000</pubDate>
+      <title>[MEDIA] AAOS SDV - Secure by Design (Google Android Developers Blog)</title>
+      <link>https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html</link>
+      <guid isPermaLink="false">aaos-sdv-secure-by-design-agosto24-2026</guid>
+      <description>Google publicó un análisis técnico del diseño seguro del AAOS para vehículos definidos por software (SDV): virtualización con Cuttlefish, aislamiento de dominios y políticas deny-by-default; marca el crecimiento de Android en automoción con foco explícito en seguridad de plataforma. Categoría: API/Plataforma</description>
+      <pubDate>Sun, 30 Aug 2026 11:11:19 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[MEDIA] Samsung One UI 9: nuevas funciones de seguridad y privacidad reveladas (29 ago)</title>
+      <link>https://www.sammyfans.com/2026/08/29/samsung-announced-more-one-ui-9-0-features-but-no-release-date/</link>
+      <guid isPermaLink="false">samsung-oneui9-security-privacy-features-agosto29-2026</guid>
+      <description>Samsung anunció funciones de seguridad de One UI 9: Privacy Alerts (IA on-device detecta apps que abusan de permisos de ubicación en background), protección anti-phishing en Samsung Internet con ML local, y Lockdown Mode accesible desde el menú de encendido. Sin fecha de lanzamiento estable aún. Categoría: API/Plataforma</description>
+      <pubDate>Sun, 30 Aug 2026 11:11:19 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung One UI 9 Beta 7 para Galaxy S26 con parche agosto 2026</title>
+      <link>https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-3704232/</link>
+      <guid isPermaLink="false">samsung-oneui9-beta7-s26-agosto28-2026</guid>
+      <description>La séptima beta de One UI 9 para el Galaxy S26 incorpora el parche de seguridad 2026-08-05, nuevas funciones AI (My FanCam, Call Brief, Netflix en Now Brief), corrección de reboots intermitentes y mejoras en Do Not Disturb; indica proximidad al lanzamiento estable. Categoría: API/Plataforma</description>
+      <pubDate>Sun, 30 Aug 2026 11:11:19 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
   </channel>
