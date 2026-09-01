@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/rrepetto/android-news/claude/digest/feed.xml
 
 ## Últimos 30 digests
 
+- [2026-09-01](digests/2026-09-01.md)
 - [2026-08-31](digests/2026-08-31.md)
 - [2026-08-30](digests/2026-08-30.md)
 - [2026-08-29](digests/2026-08-29.md)
@@ -41,4 +42,3 @@ https://raw.githubusercontent.com/rrepetto/android-news/claude/digest/feed.xml
 - [2026-08-05](digests/2026-08-05.md)
 - [2026-08-04](digests/2026-08-04.md)
 - [2026-08-03](digests/2026-08-03.md)
-- [2026-08-02](digests/2026-08-02.md)

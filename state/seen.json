@@ -1281,6 +1281,30 @@
       "title": "Samsung completa rollout del patch agosto 2026: Galaxy S23 es el último flagship en recibirlo",
       "url": "https://www.sammobile.com/news/galaxy-s23-august-2026-security-update-last-day-month",
       "first_seen": "2026-08-31"
+    },
+    {
+      "id": "google-play-api36-enforcement-live-sept1-2026",
+      "title": "Google Play API 36: enforcement activo desde hoy — apps sin targetSdk 36 bloqueadas para publicar",
+      "url": "https://www.testerscommunity.com/blog/update-your-target-api-level-by-august-31-2026",
+      "first_seen": "2026-09-01"
+    },
+    {
+      "id": "android-dev-verification-sept30-keepandroidopen-2026",
+      "title": "Android developer verification Sept 30: sideloading libre bloqueado en 4 países; Keep Android Open (71 orgs) escala campaña",
+      "url": "https://keepandroidopen.org/",
+      "first_seen": "2026-09-01"
+    },
+    {
+      "id": "samsung-oneui9-stable-confirmed-s26-s25-sept2026",
+      "title": "Samsung confirma One UI 9 estable para Galaxy S26 Ultra y S25",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/08/31/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/",
+      "first_seen": "2026-09-01"
+    },
+    {
+      "id": "android-17-qpr1-sept-feature-drop-stable-2026",
+      "title": "Android 17 QPR1 stable — Pixel Feature Drop de septiembre 2026 inminente; último update para Pixel 6/6 Pro antes de EOL",
+      "url": "https://or1k.net/news/android-17-qpr1-beta-9-drops-as-september-approaches/",
+      "first_seen": "2026-09-01"
     }
   ]
 }

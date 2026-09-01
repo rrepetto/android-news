@@ -3,32 +3,45 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Novedades diarias de seguridad del ecosistema Android — solo el último día</description>
     <language>es</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:15:31 +0000</lastBuildDate>
-  <item>
-    <title>[MEDIA] XDA: Bypass de Play Integrity (MEETS_STRONG_INTEGRITY) sigue activo — guía actualizada al 26 agosto 2026</title>
-    <link>https://xdaforums.com/t/guide-how-to-pass-strong-integrity-and-bypass-root-detection-apps-revolut-company-portal-google-wallet-etc-working-as-of-august-26th-2026.4773849/</link>
-    <guid isPermaLink="false">xda-strong-integrity-bypass-agosto26-2026</guid>
-    <description>Guía XDA actualizada al 26/08: bypass de MEETS_STRONG_INTEGRITY sigue funcional; Specter reemplaza Yuri Keybox Manager (abandonado). Los métodos de spoofing permanecen vigentes contra controles de acceso bancarios. | Categoría: Play Integrity</description>
-    <pubDate>Mon, 31 Aug 2026 11:15:31 +0000</pubDate>
-    <category>Play Integrity</category>
-  </item>
-  <item>
-    <title>[BAJA] Zygisk Next v1.5.0 lanzado (26 agosto 2026)</title>
-    <link>https://magisk.dev/modules/zygisk-next/</link>
-    <guid isPermaLink="false">zygisk-next-v1-5-0-agosto26-2026</guid>
-    <description>Zygisk Next v1.5.0 publicado el 26/08. Compatible con Magisk, KernelSU, APatch y KSUNext. Añade soporte para Android 17 QPR2 Beta 4 y correcciones de compatibilidad. | Categoría: Root</description>
-    <pubDate>Mon, 31 Aug 2026 11:15:31 +0000</pubDate>
-    <category>Root</category>
-  </item>
-  <item>
-    <title>[BAJA] Samsung completa rollout del patch agosto 2026: Galaxy S23 es el último flagship en recibirlo</title>
-    <link>https://www.sammobile.com/news/galaxy-s23-august-2026-security-update-last-day-month</link>
-    <guid isPermaLink="false">samsung-s23-agosto-2026-patch-fin-rollout</guid>
-    <description>Galaxy S23 recibe el patch de agosto 2026 (58 CVEs/SVEs) cerrando el rollout de flagships Samsung. Distribución expandida a más regiones para series S/Z/A. | Categoría: ASB</description>
-    <pubDate>Mon, 31 Aug 2026 11:15:31 +0000</pubDate>
-    <category>ASB</category>
-  </item>
+    <lastBuildDate>Tue, 01 Sep 2026 11:14:00 +0000</lastBuildDate>
+
+    <item>
+      <title>[ALTA] Google Play API 36: enforcement activo desde hoy — apps sin targetSdk 36 bloqueadas para publicar</title>
+      <link>https://www.testerscommunity.com/blog/update-your-target-api-level-by-august-31-2026</link>
+      <guid isPermaLink="false">google-play-api36-enforcement-live-sept1-2026</guid>
+      <description>A partir del 1 de septiembre de 2026, Google Play rechaza nuevas apps y actualizaciones que no apunten a Android 16 (API level 36). Millones de apps afectadas; extensiones disponibles hasta el 1 de noviembre. Categoría: API/Plataforma</description>
+      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+
+    <item>
+      <title>[ALTA] Android developer verification Sept 30: sideloading libre bloqueado en 4 países; Keep Android Open (71 orgs) escala campaña</title>
+      <link>https://keepandroidopen.org/</link>
+      <guid isPermaLink="false">android-dev-verification-sept30-keepandroidopen-2026</guid>
+      <description>A partir del 30 de septiembre de 2026, dispositivos Android certificados en Brasil, Indonesia, Singapur y Tailandia bloquearán la instalación de APKs de desarrolladores no registrados con Google. La coalición Keep Android Open —71 organizaciones de 23 países, 100K firmas— escala su campaña de oposición. Categoría: Play Integrity</description>
+      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
+      <category>Play Integrity</category>
+    </item>
+
+    <item>
+      <title>[MEDIA] Samsung confirma One UI 9 estable para Galaxy S26 Ultra y S25</title>
+      <link>https://www.forbes.com/sites/jaymcgregor/2026/08/31/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/</link>
+      <guid isPermaLink="false">samsung-oneui9-stable-confirmed-s26-s25-sept2026</guid>
+      <description>Samsung confirmó oficialmente la actualización gratuita a One UI 9 (Android 17) para Galaxy S26 Ultra, S26+ y la serie S25. Rollout esperado en las próximas semanas. Amplía el ecosistema con 7 años de soporte de seguridad. Categoría: Bootloader/Plataforma</description>
+      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
+      <category>Bootloader/Plataforma</category>
+    </item>
+
+    <item>
+      <title>[MEDIA] Android 17 QPR1 stable — Pixel Feature Drop de septiembre 2026 inminente; último update para Pixel 6/6 Pro antes de EOL</title>
+      <link>https://or1k.net/news/android-17-qpr1-beta-9-drops-as-september-approaches/</link>
+      <guid isPermaLink="false">android-17-qpr1-sept-feature-drop-stable-2026</guid>
+      <description>QPR1 stable está en proceso de publicación como primer Pixel Drop de septiembre 2026 (Beta 9 fue la última entrega). Incluirá correcciones de NFC, huellas digitales y gestos. Último update mayor para Pixel 6 y 6 Pro antes de su EOL en octubre 2026. Categoría: API/Plataforma</description>
+      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+
   </channel>
 </rss>
