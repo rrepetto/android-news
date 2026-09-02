@@ -3,43 +3,25 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Novedades diarias de seguridad del ecosistema Android — solo el último día</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo el último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:11:28 +0000</lastBuildDate>
 
     <item>
-      <title>[ALTA] Google Play API 36: enforcement activo desde hoy — apps sin targetSdk 36 bloqueadas para publicar</title>
-      <link>https://www.testerscommunity.com/blog/update-your-target-api-level-by-august-31-2026</link>
-      <guid isPermaLink="false">google-play-api36-enforcement-live-sept1-2026</guid>
-      <description>A partir del 1 de septiembre de 2026, Google Play rechaza nuevas apps y actualizaciones que no apunten a Android 16 (API level 36). Millones de apps afectadas; extensiones disponibles hasta el 1 de noviembre. Categoría: API/Plataforma</description>
-      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] Pixel 11 recibe actualización anticipada con parche de seguridad de septiembre de 2026</title>
+      <link>https://9to5google.com/2026/09/01/pixel-11-september-update-early/</link>
+      <guid isPermaLink="false">pixel-11-sept-2026-early-ota-patch</guid>
+      <description>Google desplegó una OTA fuera de ciclo (~100 MB) para el Pixel 11, 11 Pro, 11 Pro XL y 11 Pro Fold con nivel de parche &quot;1 de septiembre de 2026&quot;. No es QPR1: las funciones del Feature Drop aún no están presentes. Señal de que el ASB formal de septiembre 2026 está próximo. Categoría: ASB</description>
+      <pubDate>Wed, 02 Sep 2026 11:11:28 +0000</pubDate>
+      <category>ASB</category>
     </item>
 
     <item>
-      <title>[ALTA] Android developer verification Sept 30: sideloading libre bloqueado en 4 países; Keep Android Open (71 orgs) escala campaña</title>
-      <link>https://keepandroidopen.org/</link>
-      <guid isPermaLink="false">android-dev-verification-sept30-keepandroidopen-2026</guid>
-      <description>A partir del 30 de septiembre de 2026, dispositivos Android certificados en Brasil, Indonesia, Singapur y Tailandia bloquearán la instalación de APKs de desarrolladores no registrados con Google. La coalición Keep Android Open —71 organizaciones de 23 países, 100K firmas— escala su campaña de oposición. Categoría: Play Integrity</description>
-      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
-      <category>Play Integrity</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] Samsung confirma One UI 9 estable para Galaxy S26 Ultra y S25</title>
-      <link>https://www.forbes.com/sites/jaymcgregor/2026/08/31/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/</link>
-      <guid isPermaLink="false">samsung-oneui9-stable-confirmed-s26-s25-sept2026</guid>
-      <description>Samsung confirmó oficialmente la actualización gratuita a One UI 9 (Android 17) para Galaxy S26 Ultra, S26+ y la serie S25. Rollout esperado en las próximas semanas. Amplía el ecosistema con 7 años de soporte de seguridad. Categoría: Bootloader/Plataforma</description>
-      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
-      <category>Bootloader/Plataforma</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] Android 17 QPR1 stable — Pixel Feature Drop de septiembre 2026 inminente; último update para Pixel 6/6 Pro antes de EOL</title>
-      <link>https://or1k.net/news/android-17-qpr1-beta-9-drops-as-september-approaches/</link>
-      <guid isPermaLink="false">android-17-qpr1-sept-feature-drop-stable-2026</guid>
-      <description>QPR1 stable está en proceso de publicación como primer Pixel Drop de septiembre 2026 (Beta 9 fue la última entrega). Incluirá correcciones de NFC, huellas digitales y gestos. Último update mayor para Pixel 6 y 6 Pro antes de su EOL en octubre 2026. Categoría: API/Plataforma</description>
-      <pubDate>Tue, 01 Sep 2026 11:14:00 +0000</pubDate>
+      <title>[BAJA] Samsung inicia beta de One UI 9 (Android 17) en Galaxy S25, Z Fold 7 y Z Flip 7</title>
+      <link>https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/</link>
+      <guid isPermaLink="false">samsung-oneui9-beta-s25-fold7-flip7-sept1-2026</guid>
+      <description>El 1 de septiembre, Samsung amplió el programa beta de One UI 9 a Galaxy S25, S25+, S25 Ultra, S25 FE, Z Fold 7 y Z Flip 7, disponible en India, Corea, UK y EE.UU. Permite probar funciones de seguridad como Advanced Protection Mode y alertas anti-phishing antes del lanzamiento estable previsto en septiembre/octubre. Categoría: API/Plataforma</description>
+      <pubDate>Wed, 02 Sep 2026 11:11:28 +0000</pubDate>
       <category>API/Plataforma</category>
     </item>
 
