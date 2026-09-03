@@ -3,26 +3,44 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo el último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:12:28 +0000</lastBuildDate>
 
     <item>
-      <title>[MEDIA] Pixel 11 recibe actualización anticipada con parche de seguridad de septiembre de 2026</title>
-      <link>https://9to5google.com/2026/09/01/pixel-11-september-update-early/</link>
-      <guid isPermaLink="false">pixel-11-sept-2026-early-ota-patch</guid>
-      <description>Google desplegó una OTA fuera de ciclo (~100 MB) para el Pixel 11, 11 Pro, 11 Pro XL y 11 Pro Fold con nivel de parche &quot;1 de septiembre de 2026&quot;. No es QPR1: las funciones del Feature Drop aún no están presentes. Señal de que el ASB formal de septiembre 2026 está próximo. Categoría: ASB</description>
-      <pubDate>Wed, 02 Sep 2026 11:11:28 +0000</pubDate>
-      <category>ASB</category>
+      <title>[ALTA] GrapheneOS: Pixel 11 sí tiene MTE en hardware pero Google lo deshabilitó en firmware</title>
+      <link>https://nokiapoweruser.com/grapheneos-pixel-11-mte-support-android-17/</link>
+      <guid isPermaLink="false">grapheneos-pixel-11-mte-soporte-minimo-sept2026</guid>
+      <description>Google deshabilitó Memory Tagging Extension (MTE) en el firmware del Pixel 11 (Tensor G6) por degradar el rendimiento de caché de CPU; GrapheneOS descubrió que el soporte mínimo de hardware existe y puede reactivarse vía fastboot oem mte on + kernel personalizado. MTE es una defensa crítica contra exploits de corrupción de memoria — todos los usuarios de Pixel 11 con ROM stock carecen de esta protección hasta que Google la reactive en firmware. Categoría: GrapheneOS/Pixel security</description>
+      <pubDate>Thu, 03 Sep 2026 11:12:28 +0000</pubDate>
+      <category>GrapheneOS/Pixel security</category>
     </item>
 
     <item>
-      <title>[BAJA] Samsung inicia beta de One UI 9 (Android 17) en Galaxy S25, Z Fold 7 y Z Flip 7</title>
-      <link>https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/</link>
-      <guid isPermaLink="false">samsung-oneui9-beta-s25-fold7-flip7-sept1-2026</guid>
-      <description>El 1 de septiembre, Samsung amplió el programa beta de One UI 9 a Galaxy S25, S25+, S25 Ultra, S25 FE, Z Fold 7 y Z Flip 7, disponible en India, Corea, UK y EE.UU. Permite probar funciones de seguridad como Advanced Protection Mode y alertas anti-phishing antes del lanzamiento estable previsto en septiembre/octubre. Categoría: API/Plataforma</description>
-      <pubDate>Wed, 02 Sep 2026 11:11:28 +0000</pubDate>
+      <title>[BAJA] Samsung amplía elegibilidad de One UI 9 con millones más de Galaxy</title>
+      <link>https://www.forbes.com/sites/jaymcgregor/2026/09/02/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/</link>
+      <guid isPermaLink="false">samsung-oneui9-eligibilidad-millones-sept2-2026</guid>
+      <description>El 2 de septiembre, Forbes confirma que Samsung sumó a la lista de actualización gratuita a Galaxy S25, S24, S23 y Z Fold 7, expandiendo el programa Android 17 a decenas de millones de dispositivos adicionales; el lanzamiento estable para S26 se espera en días. Categoría: Plataforma/Samsung</description>
+      <pubDate>Thu, 03 Sep 2026 11:12:28 +0000</pubDate>
+      <category>Plataforma/Samsung</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Pixel 11 se une al programa Android 17 QPR2 Beta</title>
+      <link>https://9to5google.com/2026/09/01/pixel-11-android-17-qpr2-beta/</link>
+      <guid isPermaLink="false">pixel-11-android-17-qpr2-beta-sept2026</guid>
+      <description>Google habilitó al Pixel 11 series para inscribirse en el Beta de Android 17 QPR2 (Feature Drop de diciembre 2026), que incluye App Lock nativo, protección contra fraude USSD y mejoras de seguridad de red celular; el Pixel 11 saltó el ciclo QPR1 y entra directamente en QPR2. Categoría: API/Plataforma</description>
+      <pubDate>Thu, 03 Sep 2026 11:12:28 +0000</pubDate>
       <category>API/Plataforma</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Samsung One UI 9 Beta 8 Hotfix para Galaxy S26 Ultra</title>
+      <link>https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-8-3705321/</link>
+      <guid isPermaLink="false">samsung-oneui9-beta8-hotfix-s26-ultra-sept2026</guid>
+      <description>Samsung liberó un hotfix de la Beta 8 de One UI 9 para Galaxy S26 Ultra corrigiendo el tinte rojizo de pantalla (ZZHM) y mejorando la estabilidad; el anuncio de lanzamiento estable por parte de moderadores del foro apunta a que el update definitivo es inminente. Categoría: Plataforma/Samsung</description>
+      <pubDate>Thu, 03 Sep 2026 11:12:28 +0000</pubDate>
+      <category>Plataforma/Samsung</category>
     </item>
 
   </channel>
