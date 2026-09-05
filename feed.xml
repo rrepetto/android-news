@@ -3,32 +3,36 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:13:35 +0000</lastBuildDate>
-  <item>
-    <title>[ALTA] StreamRat: troyano bancario Android distribuido via Meta y TikTok</title>
-    <link>https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html</link>
-    <guid isPermaLink="false">streamrat-android-trojan-meta-ads-sept2-2026</guid>
-    <description>Nuevo RAT Android distribuido via anuncios de Meta y TikTok, abusa Accessibility Services para control total del dispositivo. Campaña alcanzó ~571k cuentas en la UE. Categoría: Malware.</description>
-    <pubDate>Fri, 04 Sep 2026 11:13:35 +0000</pubDate>
-    <category>Malware</category>
-  </item>
-  <item>
-    <title>[MEDIA] WhatsApp Android: bypass de pantalla de bloqueo via videollamada</title>
-    <link>https://cybersecuritynews.com/whatsapp-video-call-flaw/</link>
-    <guid isPermaLink="false">whatsapp-android-lockscreen-bypass-videocall-sept2026</guid>
-    <description>Fallo en WhatsApp Android permite acceder a galería de fotos desde teléfono bloqueado via videollamada. Requiere acceso físico. Meta desplegando fix. Categoría: Vulnerabilidad.</description>
-    <pubDate>Fri, 04 Sep 2026 11:13:35 +0000</pubDate>
-    <category>Vulnerabilidad</category>
-  </item>
-  <item>
-    <title>[BAJA] Apps falsas de Indeed instalan spyware en buscadores de empleo Android</title>
-    <link>https://cybernews.com/security/fake-indeed-apps-infecting-android-job-seekers-with-malware/</link>
-    <guid isPermaLink="false">fake-indeed-interview-spyware-agosto28-2026</guid>
-    <description>Apps falsas de Indeed actúan como droppers de spyware, con Accesibilidad bloquean desinstalación. Distribuidas por sideloading en Reino Unido. Categoría: Malware.</description>
-    <pubDate>Fri, 04 Sep 2026 11:13:35 +0000</pubDate>
-    <category>Malware</category>
-  </item>
+    <lastBuildDate>Sat, 05 Sep 2026 11:13:00 +0000</lastBuildDate>
+
+    <item>
+      <title>[ALTA] CVE-2026-85046: Chrome para Android V8 zero-day explotado activamente</title>
+      <link>https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</link>
+      <guid isPermaLink="false">cve-2026-85046-chrome-v8-zerodday-sept3-2026</guid>
+      <description>Vulnerabilidad de type confusion en el motor V8 de Chrome (CVSS 8.8) que permite ejecución de código dentro del sandbox del navegador mediante contenido web malicioso. Parcheada el 3 de septiembre de 2026 en Chrome 152.0.7977.82 para Android; Google confirma explotación activa en la naturaleza. Es el 6.° zero-day de Chrome en 2026. Actualizar Chrome inmediatamente. Categoría: Vulnerabilidad/Exploit</description>
+      <pubDate>Sat, 05 Sep 2026 11:13:00 +0000</pubDate>
+      <category>Vulnerabilidad/Exploit</category>
+    </item>
+
+    <item>
+      <title>[MEDIA] Magisk v31.0 lanzado (4 septiembre 2026)</title>
+      <link>https://github.com/topjohnwu/Magisk/releases/tag/v31.0</link>
+      <guid isPermaLink="false">magisk-v31-release-sept4-2026</guid>
+      <description>Nueva versión mayor de Magisk: UI completamente reescrita con Jetpack Compose + Material 3, emulador de terminal integrado (TTY/ANSI), soporte para Android 17 (API 37), streaming de boot images desde URLs OTA remotas. Cambio relevante para seguridad: la DenyList ahora incluye webview_zygote como destino de desmontaje, ampliando el ocultamiento de root en apps basadas en WebView. Categoría: Root</description>
+      <pubDate>Sat, 05 Sep 2026 11:13:00 +0000</pubDate>
+      <category>Root</category>
+    </item>
+
+    <item>
+      <title>[BAJA] Actualizaciones del sistema Google — septiembre 2026 (Play Protect)</title>
+      <link>https://9to5google.com/2026/09/04/september-2026-google-system-updates/</link>
+      <guid isPermaLink="false">google-system-updates-sept2026-play-protect</guid>
+      <description>Google publica las actualizaciones mensuales del sistema (Play Services, Play Store, Play system update). En el frente de seguridad: Play Protect suma verificaciones adicionales para apps no verificadas, alineado con el enforcement de API 36 activo desde el 1 de septiembre. Categoría: API/Plataforma</description>
+      <pubDate>Sat, 05 Sep 2026 11:13:00 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+
   </channel>
 </rss>

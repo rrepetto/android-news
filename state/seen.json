@@ -1359,6 +1359,24 @@
       "title": "Apps falsas de Indeed instalan spyware en buscadores de empleo Android",
       "url": "https://cybernews.com/security/fake-indeed-apps-infecting-android-job-seekers-with-malware/",
       "first_seen": "2026-09-04"
+    },
+    {
+      "id": "cve-2026-85046-chrome-v8-zerodday-sept3-2026",
+      "title": "CVE-2026-85046: Chrome para Android V8 zero-day explotado activamente",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "first_seen": "2026-09-05"
+    },
+    {
+      "id": "magisk-v31-release-sept4-2026",
+      "title": "Magisk v31.0 lanzado (4 septiembre 2026)",
+      "url": "https://github.com/topjohnwu/Magisk/releases/tag/v31.0",
+      "first_seen": "2026-09-05"
+    },
+    {
+      "id": "google-system-updates-sept2026-play-protect",
+      "title": "Actualizaciones del sistema Google — septiembre 2026 (Play Protect)",
+      "url": "https://9to5google.com/2026/09/04/september-2026-google-system-updates/",
+      "first_seen": "2026-09-05"
     }
   ]
 }
