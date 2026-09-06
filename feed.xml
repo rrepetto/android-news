@@ -3,36 +3,16 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:13:00 +0000</lastBuildDate>
-
+    <lastBuildDate>Sun, 06 Sep 2026 11:17:55 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] CVE-2026-85046: Chrome para Android V8 zero-day explotado activamente</title>
-      <link>https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</link>
-      <guid isPermaLink="false">cve-2026-85046-chrome-v8-zerodday-sept3-2026</guid>
-      <description>Vulnerabilidad de type confusion en el motor V8 de Chrome (CVSS 8.8) que permite ejecución de código dentro del sandbox del navegador mediante contenido web malicioso. Parcheada el 3 de septiembre de 2026 en Chrome 152.0.7977.82 para Android; Google confirma explotación activa en la naturaleza. Es el 6.° zero-day de Chrome en 2026. Actualizar Chrome inmediatamente. Categoría: Vulnerabilidad/Exploit</description>
-      <pubDate>Sat, 05 Sep 2026 11:13:00 +0000</pubDate>
-      <category>Vulnerabilidad/Exploit</category>
+      <title>[MEDIA] SURXRAT V5: RAT Android MaaS integra módulos LLM descargados desde Hugging Face</title>
+      <link>https://thecyberexpress.com/surxrat-arsinkrat-llm-android-rat-analysis/</link>
+      <guid isPermaLink="false">surxrat-v5-llm-huggingface-agosto5-2026</guid>
+      <description>SURXRAT V5 es un troyano de acceso remoto Android distribuido como malware-as-a-service via Telegram. La última versión descarga módulos de IA (LLM) desde Hugging Face para automatizar phishing y fraude bancario. Derivado de ArsinkRAT con más de 180 muestras identificadas. Categoría: Malware</description>
+      <pubDate>Sun, 06 Sep 2026 11:17:55 +0000</pubDate>
+      <category>Malware</category>
     </item>
-
-    <item>
-      <title>[MEDIA] Magisk v31.0 lanzado (4 septiembre 2026)</title>
-      <link>https://github.com/topjohnwu/Magisk/releases/tag/v31.0</link>
-      <guid isPermaLink="false">magisk-v31-release-sept4-2026</guid>
-      <description>Nueva versión mayor de Magisk: UI completamente reescrita con Jetpack Compose + Material 3, emulador de terminal integrado (TTY/ANSI), soporte para Android 17 (API 37), streaming de boot images desde URLs OTA remotas. Cambio relevante para seguridad: la DenyList ahora incluye webview_zygote como destino de desmontaje, ampliando el ocultamiento de root en apps basadas en WebView. Categoría: Root</description>
-      <pubDate>Sat, 05 Sep 2026 11:13:00 +0000</pubDate>
-      <category>Root</category>
-    </item>
-
-    <item>
-      <title>[BAJA] Actualizaciones del sistema Google — septiembre 2026 (Play Protect)</title>
-      <link>https://9to5google.com/2026/09/04/september-2026-google-system-updates/</link>
-      <guid isPermaLink="false">google-system-updates-sept2026-play-protect</guid>
-      <description>Google publica las actualizaciones mensuales del sistema (Play Services, Play Store, Play system update). En el frente de seguridad: Play Protect suma verificaciones adicionales para apps no verificadas, alineado con el enforcement de API 36 activo desde el 1 de septiembre. Categoría: API/Plataforma</description>
-      <pubDate>Sat, 05 Sep 2026 11:13:00 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-
   </channel>
 </rss>

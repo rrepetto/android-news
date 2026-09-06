@@ -1377,6 +1377,12 @@
       "title": "Actualizaciones del sistema Google — septiembre 2026 (Play Protect)",
       "url": "https://9to5google.com/2026/09/04/september-2026-google-system-updates/",
       "first_seen": "2026-09-05"
+    },
+    {
+      "id": "surxrat-v5-llm-huggingface-agosto5-2026",
+      "title": "SURXRAT V5: RAT Android MaaS integra módulos LLM descargados desde Hugging Face",
+      "url": "https://thecyberexpress.com/surxrat-arsinkrat-llm-android-rat-analysis/",
+      "first_seen": "2026-09-06"
     }
   ]
 }
