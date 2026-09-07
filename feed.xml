@@ -3,16 +3,8 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene únicamente los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:17:55 +0000</lastBuildDate>
-    <item>
-      <title>[MEDIA] SURXRAT V5: RAT Android MaaS integra módulos LLM descargados desde Hugging Face</title>
-      <link>https://thecyberexpress.com/surxrat-arsinkrat-llm-android-rat-analysis/</link>
-      <guid isPermaLink="false">surxrat-v5-llm-huggingface-agosto5-2026</guid>
-      <description>SURXRAT V5 es un troyano de acceso remoto Android distribuido como malware-as-a-service via Telegram. La última versión descarga módulos de IA (LLM) desde Hugging Face para automatizar phishing y fraude bancario. Derivado de ArsinkRAT con más de 180 muestras identificadas. Categoría: Malware</description>
-      <pubDate>Sun, 06 Sep 2026 11:17:55 +0000</pubDate>
-      <category>Malware</category>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 11:14:58 +0000</lastBuildDate>
   </channel>
 </rss>
