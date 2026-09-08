@@ -1383,6 +1383,12 @@
       "title": "SURXRAT V5: RAT Android MaaS integra módulos LLM descargados desde Hugging Face",
       "url": "https://thecyberexpress.com/surxrat-arsinkrat-llm-android-rat-analysis/",
       "first_seen": "2026-09-06"
+    },
+    {
+      "id": "samsung-sept-2026-patch-90-security-fixes",
+      "title": "Samsung publica detalles del parche de septiembre 2026: 90 correcciones, 18 críticas de Google y 2 CVEs críticos de Samsung en procesamiento de imágenes",
+      "url": "https://www.sammyfans.com/2026/09/08/samsung-september-2026-patch-details/",
+      "first_seen": "2026-09-08"
     }
   ]
 }

@@ -5,6 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene únicamente los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:09:57 +0000</lastBuildDate>
+    <item>
+      <title>[ALTA] Samsung publica detalles del parche de septiembre 2026: 90 correcciones, 18 críticas de Google y 2 CVEs críticos de Samsung en procesamiento de imágenes</title>
+      <link>https://www.sammyfans.com/2026/09/08/samsung-september-2026-patch-details/</link>
+      <guid isPermaLink="false">samsung-sept-2026-patch-90-security-fixes</guid>
+      <description>Samsung detalla su parche de septiembre 2026 con 90 correcciones: 18 críticas y 40 altas de Google, y 2 críticos propios en procesamiento de imágenes DNG y JPEG. El parche incorpora el ASB de septiembre 2026 antes de su publicación oficial por Google. | Categoría: ASB</description>
+      <pubDate>Tue, 08 Sep 2026 11:09:57 +0000</pubDate>
+      <category>ASB</category>
+    </item>
   </channel>
 </rss>
