@@ -1389,6 +1389,36 @@
       "title": "Samsung publica detalles del parche de septiembre 2026: 90 correcciones, 18 críticas de Google y 2 CVEs críticos de Samsung en procesamiento de imágenes",
       "url": "https://www.sammyfans.com/2026/09/08/samsung-september-2026-patch-details/",
       "first_seen": "2026-09-08"
+    },
+    {
+      "id": "asb-septiembre-2026-84-cves-zero-days",
+      "title": "ASB Septiembre 2026: CVE-2026-28604 RCE crítico y dos zero-days explotados activamente",
+      "url": "https://source.android.com/docs/security/bulletin/2026/2026-09-01",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "weworm-wechat-zero-click-worm-android-ios-sept2026",
+      "title": "WeWorm: gusano zero-click en WeChat compromete cuentas Android e iOS sin atender la llamada",
+      "url": "https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "thost9-hagaseca-android-rat-adb-worm-sept2026",
+      "title": "THost9/Hagaseca: RAT Android con loader empaquetado y gusano ADB activo",
+      "url": "https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "samsung-oneui9-stable-galaxy-s25-sept8-2026",
+      "title": "Samsung One UI 9 estable llega al Galaxy S25 (millones de dispositivos)",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/09/08/samsung-one-ui-9-features-galaxy-s26-galaxy-s25-release-date/",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "android-google-system-updates-sept-2026-motion-assist-find-hub",
+      "title": "Android Google System Updates Septiembre 2026: Motion Assist y Find Hub con Gemini",
+      "url": "https://9to5google.com/2026/09/07/september-2026-google-system-updates/",
+      "first_seen": "2026-09-09"
     }
   ]
 }
