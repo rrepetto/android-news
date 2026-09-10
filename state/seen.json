@@ -1419,6 +1419,18 @@
       "title": "Android Google System Updates Septiembre 2026: Motion Assist y Find Hub con Gemini",
       "url": "https://9to5google.com/2026/09/07/september-2026-google-system-updates/",
       "first_seen": "2026-09-09"
+    },
+    {
+      "id": "cve-2026-28662-wifi-rce-no-interaccion-sept2026",
+      "title": "CVE-2026-28662: RCE Wi-Fi sin interaccion de usuario en Android (parche Sept 2026)",
+      "url": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "eset-android-malware-18-campanas-2023-2026",
+      "title": "ESET: 18 campanas reales de malware Android (2023-2026), incluye primer caso con IA generativa",
+      "url": "https://www.eset.com/blog/en/home-topics/cybersecurity-protection/cybercriminals-targeting-android-os-are-getting-creative/",
+      "first_seen": "2026-09-10"
     }
   ]
 }
