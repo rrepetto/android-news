@@ -1431,6 +1431,48 @@
       "title": "ESET: 18 campanas reales de malware Android (2023-2026), incluye primer caso con IA generativa",
       "url": "https://www.eset.com/blog/en/home-topics/cybersecurity-protection/cybercriminals-targeting-android-os-are-getting-creative/",
       "first_seen": "2026-09-10"
+    },
+    {
+      "id": "cve-2026-52993-kernel-tipc-rce-sept2026",
+      "title": "CVE-2026-52993: RCE crítico en kernel Android vía protocolo TIPC (ASB Sept 2026)",
+      "url": "https://cybersecuritynews.com/android-security-update-september-2026/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "pixel-11-segunda-actualizacion-sept2026",
+      "title": "Pixel 11: segunda actualización de septiembre 2026 (build CD1A.260905.001.B1)",
+      "url": "https://www.droid-life.com/2026/09/10/pixel-11-getting-surprise-new-update/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "samsung-fold8-ultra-sept-2026-patch",
+      "title": "Samsung Galaxy Z Fold 8 y Fold 8 Ultra inician rollout del parche de septiembre 2026",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-get-september-2026-security-update",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "samsung-s26-oneui9-stable-inminente-sept11-2026",
+      "title": "Samsung confirma que One UI 9 estable para Galaxy S26 es inminente",
+      "url": "https://www.sammobile.com/news/samsung-confirms-stable-galaxy-s26-one-ui-9-update-coming-soon/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "samsung-oneui-roadmap-sept2026",
+      "title": "Samsung actualiza hoja de ruta de software One UI — septiembre 2026",
+      "url": "https://www.sammyfans.com/2026/09/08/samsung-updates-one-ui-software-rollout-roadmap-september-2026/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "grapheneos-2026090701-asb-preview-marzo-2027",
+      "title": "GrapheneOS 2026090701: security preview con parches ASB hasta marzo 2027",
+      "url": "https://grapheneos.org/releases",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "calyxos-7-2-5-20-sept-2026",
+      "title": "CalyxOS 7.2.5.20 lanzado con parche de seguridad de septiembre 2026",
+      "url": "https://calyxos.org/news/2026/09/10/september-security-update/",
+      "first_seen": "2026-09-11"
     }
   ]
 }

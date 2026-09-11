@@ -3,24 +3,64 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:05:28 +0000</lastBuildDate>
-  <item>
-    <title>[ALTA] CVE-2026-28662: RCE Wi-Fi sin interacción de usuario en Android (parche Sept 2026)</title>
-    <link>https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/</link>
-    <guid isPermaLink="false">cve-2026-28662-wifi-rce-no-interaccion-sept2026</guid>
-    <description>Falla de corrupción de memoria en Wi-Fi que permite RCE remoto sin privilegios ni interacción. El más crítico de las 180 vulnerabilidades del ASB septiembre 2026. Afecta Android 14 a 17. Categoría: ASB</description>
-    <pubDate>Thu, 10 Sep 2026 11:05:28 +0000</pubDate>
-    <category>ASB</category>
-  </item>
-  <item>
-    <title>[MEDIA] ESET: 18 campañas reales de malware Android (2023–2026), incluye primer caso con IA generativa</title>
-    <link>https://www.eset.com/blog/en/home-topics/cybersecurity-protection/cybercriminals-targeting-android-os-are-getting-creative/</link>
-    <guid isPermaLink="false">eset-android-malware-18-campanas-2023-2026</guid>
-    <description>ESET documenta 18 campañas de malware Android, incluyendo el primer caso de malware que abusa de IA generativa para analizar pantalla del dispositivo comprometido, distribuido como app bancaria falsa. Categoría: Malware</description>
-    <pubDate>Thu, 10 Sep 2026 11:05:28 +0000</pubDate>
-    <category>Malware</category>
-  </item>
+    <lastBuildDate>Fri, 11 Sep 2026 11:10:10 +0000</lastBuildDate>
+    <item>
+      <title>[MEDIA] CVE-2026-52993: RCE crítico en kernel Android vía protocolo TIPC (ASB Sept 2026)</title>
+      <link>https://cybersecuritynews.com/android-security-update-september-2026/</link>
+      <guid isPermaLink="false">cve-2026-52993-kernel-tipc-rce-sept2026</guid>
+      <description>Vulnerabilidad de ejecución de código remota en el componente TIPC del kernel Android (nivel 2026-09-05). Explotable enviando tráfico de red malformado sin interacción del usuario. Sin explotación activa confirmada al publicar el boletín. Categoría: ASB/CVE</description>
+      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <category>ASB/CVE</category>
+    </item>
+    <item>
+      <title>[BAJA] Pixel 11: segunda actualización de septiembre 2026 (build CD1A.260905.001.B1)</title>
+      <link>https://www.droid-life.com/2026/09/10/pixel-11-getting-surprise-new-update/</link>
+      <guid isPermaLink="false">pixel-11-segunda-actualizacion-sept2026</guid>
+      <description>Google publica un segundo update de septiembre para la serie Pixel 11 sin changelog público; se asume parche de seguridad Sept 2026. Segundo update fuera de ciclo del mes. Categoría: ASB/Pixel</description>
+      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <category>ASB/Pixel</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung Galaxy Z Fold 8 y Fold 8 Ultra inician rollout del parche de septiembre 2026</title>
+      <link>https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-get-september-2026-security-update</link>
+      <guid isPermaLink="false">samsung-fold8-ultra-sept-2026-patch</guid>
+      <description>Los foldables insignia de Samsung 2026 comienzan a recibir el parche de seguridad de septiembre (90 correcciones, 18 críticas de Google + 2 SVEs críticos). Categoría: ASB/Samsung</description>
+      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <category>ASB/Samsung</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung confirma que One UI 9 estable para Galaxy S26 es inminente</title>
+      <link>https://www.sammobile.com/news/samsung-confirms-stable-galaxy-s26-one-ui-9-update-coming-soon/</link>
+      <guid isPermaLink="false">samsung-s26-oneui9-stable-inminente-sept11-2026</guid>
+      <description>SamMobile reporta confirmación oficial de Samsung: One UI 9 (Android 17) estable para la serie Galaxy S26 llegará muy pronto. El S26 lleva 8+ betas y sería el próximo flagship en recibirla tras el S25. Categoría: API/Plataforma</description>
+      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] Samsung actualiza hoja de ruta de software One UI — septiembre 2026</title>
+      <link>https://www.sammyfans.com/2026/09/08/samsung-updates-one-ui-software-rollout-roadmap-september-2026/</link>
+      <guid isPermaLink="false">samsung-oneui-roadmap-sept2026</guid>
+      <description>Samsung publica la hoja de ruta mensual de actualizaciones con los dispositivos Galaxy que recibirán One UI 9 (Android 17) estable en este ciclo de septiembre. Categoría: API/Plataforma</description>
+      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[BAJA] GrapheneOS 2026090701: security preview con parches ASB hasta marzo 2027</title>
+      <link>https://grapheneos.org/releases</link>
+      <guid isPermaLink="false">grapheneos-2026090701-asb-preview-marzo-2027</guid>
+      <description>Nueva versión preview de GrapheneOS incorpora parches adelantados del ASB de septiembre 2026 a marzo 2027, manteniendo su ventaja de meses frente al ciclo mensual estándar de Android. Categoría: GrapheneOS</description>
+      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <category>GrapheneOS</category>
+    </item>
+    <item>
+      <title>[BAJA] CalyxOS 7.2.5.20 lanzado con parche de seguridad de septiembre 2026</title>
+      <link>https://calyxos.org/news/2026/09/10/september-security-update/</link>
+      <guid isPermaLink="false">calyxos-7-2-5-20-sept-2026</guid>
+      <description>CalyxOS publica versión 7.2.5.20 para Android 16 con el parche de septiembre 2026 integrado, disponible para dispositivos Pixel compatibles. Categoría: CalyxOS</description>
+      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <category>CalyxOS</category>
+    </item>
   </channel>
 </rss>
