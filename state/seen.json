@@ -1473,6 +1473,18 @@
       "title": "CalyxOS 7.2.5.20 lanzado con parche de seguridad de septiembre 2026",
       "url": "https://calyxos.org/news/2026/09/10/september-security-update/",
       "first_seen": "2026-09-11"
+    },
+    {
+      "id": "gigabud-vwork-work-profile-banking-trojan-sept2026",
+      "title": "Gigabud/Vwork: troyano bancario clona apps en perfiles de trabajo de Android para evadir detección",
+      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "samsung-galaxy-s24-oneui9-stable-inminente-sept2026",
+      "title": "Samsung Galaxy S24: próxima actualización podría ser la versión estable de One UI 9",
+      "url": "https://www.sammyfans.com/2026/09/11/samsung-galaxy-s24s-next-update-could-be-stable-one-ui-9/",
+      "first_seen": "2026-09-12"
     }
   ]
 }

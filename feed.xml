@@ -3,64 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Novedades diarias de seguridad del ecosistema Android: vulnerabilidades, malware, root, integridad de dispositivos y cambios de plataforma.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:07:07 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] CVE-2026-52993: RCE crítico en kernel Android vía protocolo TIPC (ASB Sept 2026)</title>
-      <link>https://cybersecuritynews.com/android-security-update-september-2026/</link>
-      <guid isPermaLink="false">cve-2026-52993-kernel-tipc-rce-sept2026</guid>
-      <description>Vulnerabilidad de ejecución de código remota en el componente TIPC del kernel Android (nivel 2026-09-05). Explotable enviando tráfico de red malformado sin interacción del usuario. Sin explotación activa confirmada al publicar el boletín. Categoría: ASB/CVE</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
-      <category>ASB/CVE</category>
+      <title>[ALTA] Gigabud/Vwork: troyano bancario clona apps en perfiles de trabajo de Android para evadir detección</title>
+      <link>https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html</link>
+      <guid isPermaLink="false">gigabud-vwork-work-profile-banking-trojan-sept2026</guid>
+      <description>Group-IB reveló que el trojan Gigabud (familia GoldFactory) se combina con Vwork, un fork malicioso de Shelter, para clonar apps bancarias en un perfil de trabajo separado. Las alertas en el perfil personal no alcanzan el perfil de trabajo donde se ejecutan las transacciones fraudulentas. Afecta 11 países, 1.469 dispositivos comprometidos en Indonesia con pérdidas de ~$960.000. Categoría: Malware</description>
+      <pubDate>Sat, 12 Sep 2026 11:07:07 +0000</pubDate>
+      <category>Malware</category>
     </item>
     <item>
-      <title>[BAJA] Pixel 11: segunda actualización de septiembre 2026 (build CD1A.260905.001.B1)</title>
-      <link>https://www.droid-life.com/2026/09/10/pixel-11-getting-surprise-new-update/</link>
-      <guid isPermaLink="false">pixel-11-segunda-actualizacion-sept2026</guid>
-      <description>Google publica un segundo update de septiembre para la serie Pixel 11 sin changelog público; se asume parche de seguridad Sept 2026. Segundo update fuera de ciclo del mes. Categoría: ASB/Pixel</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
-      <category>ASB/Pixel</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung Galaxy Z Fold 8 y Fold 8 Ultra inician rollout del parche de septiembre 2026</title>
-      <link>https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-get-september-2026-security-update</link>
-      <guid isPermaLink="false">samsung-fold8-ultra-sept-2026-patch</guid>
-      <description>Los foldables insignia de Samsung 2026 comienzan a recibir el parche de seguridad de septiembre (90 correcciones, 18 críticas de Google + 2 SVEs críticos). Categoría: ASB/Samsung</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
-      <category>ASB/Samsung</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung confirma que One UI 9 estable para Galaxy S26 es inminente</title>
-      <link>https://www.sammobile.com/news/samsung-confirms-stable-galaxy-s26-one-ui-9-update-coming-soon/</link>
-      <guid isPermaLink="false">samsung-s26-oneui9-stable-inminente-sept11-2026</guid>
-      <description>SamMobile reporta confirmación oficial de Samsung: One UI 9 (Android 17) estable para la serie Galaxy S26 llegará muy pronto. El S26 lleva 8+ betas y sería el próximo flagship en recibirla tras el S25. Categoría: API/Plataforma</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
+      <title>[BAJA] Samsung Galaxy S24: próxima actualización podría ser la versión estable de One UI 9</title>
+      <link>https://www.sammyfans.com/2026/09/11/samsung-galaxy-s24s-next-update-could-be-stable-one-ui-9/</link>
+      <guid isPermaLink="false">samsung-galaxy-s24-oneui9-stable-inminente-sept2026</guid>
+      <description>La siguiente build del S24/S24+/S24 Ultra podría ser ya el firmware estable de One UI 9 (Android 17). Rollout esperado fines de septiembre/principios de octubre. Implica adopción masiva de restricciones Android 17 (targetSdk 37) y Advanced Protection Mode. Categoría: API/Plataforma</description>
+      <pubDate>Sat, 12 Sep 2026 11:07:07 +0000</pubDate>
       <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung actualiza hoja de ruta de software One UI — septiembre 2026</title>
-      <link>https://www.sammyfans.com/2026/09/08/samsung-updates-one-ui-software-rollout-roadmap-september-2026/</link>
-      <guid isPermaLink="false">samsung-oneui-roadmap-sept2026</guid>
-      <description>Samsung publica la hoja de ruta mensual de actualizaciones con los dispositivos Galaxy que recibirán One UI 9 (Android 17) estable en este ciclo de septiembre. Categoría: API/Plataforma</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] GrapheneOS 2026090701: security preview con parches ASB hasta marzo 2027</title>
-      <link>https://grapheneos.org/releases</link>
-      <guid isPermaLink="false">grapheneos-2026090701-asb-preview-marzo-2027</guid>
-      <description>Nueva versión preview de GrapheneOS incorpora parches adelantados del ASB de septiembre 2026 a marzo 2027, manteniendo su ventaja de meses frente al ciclo mensual estándar de Android. Categoría: GrapheneOS</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
-      <category>GrapheneOS</category>
-    </item>
-    <item>
-      <title>[BAJA] CalyxOS 7.2.5.20 lanzado con parche de seguridad de septiembre 2026</title>
-      <link>https://calyxos.org/news/2026/09/10/september-security-update/</link>
-      <guid isPermaLink="false">calyxos-7-2-5-20-sept-2026</guid>
-      <description>CalyxOS publica versión 7.2.5.20 para Android 16 con el parche de septiembre 2026 integrado, disponible para dispositivos Pixel compatibles. Categoría: CalyxOS</description>
-      <pubDate>Fri, 11 Sep 2026 11:10:10 +0000</pubDate>
-      <category>CalyxOS</category>
     </item>
   </channel>
 </rss>

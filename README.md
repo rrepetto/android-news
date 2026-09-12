@@ -1,21 +1,22 @@
 # Android Security Digest
 
-Resumen diario automatizado de novedades de seguridad del ecosistema Android.
+Resumen diario automatizado de novedades de seguridad del ecosistema Android: vulnerabilidades, malware, root, integridad de dispositivos y cambios de plataforma.
 
 ## Feed RSS
 
-Suscribite al feed RSS para recibir los ítems del **último día**:
+Suscribite al feed para recibir las novedades del **último día** (el historial completo está en `digests/`):
 
 ```
 https://raw.githubusercontent.com/rrepetto/android-news/claude/digest/feed.xml
 ```
 
-> **Nota:** El feed contiene únicamente los ítems del día más reciente. El historial completo está en la carpeta [`digests/`](./digests/).
+> **Nota:** el feed RSS contiene únicamente los ítems del día en curso. El historial completo está en los archivos de la carpeta [`digests/`](./digests/).
 
 ## Últimos digests
 
-| Fecha | Digest |
+| Fecha | Enlace |
 |-------|--------|
+| 2026-09-12 | [digest](digests/2026-09-12.md) |
 | 2026-09-11 | [digest](digests/2026-09-11.md) |
 | 2026-09-10 | [digest](digests/2026-09-10.md) |
 | 2026-09-09 | [digest](digests/2026-09-09.md) |
@@ -45,4 +46,3 @@ https://raw.githubusercontent.com/rrepetto/android-news/claude/digest/feed.xml
 | 2026-08-16 | [digest](digests/2026-08-16.md) |
 | 2026-08-15 | [digest](digests/2026-08-15.md) |
 | 2026-08-14 | [digest](digests/2026-08-14.md) |
-| 2026-08-13 | [digest](digests/2026-08-13.md) |
