@@ -1485,6 +1485,42 @@
       "title": "Samsung Galaxy S24: próxima actualización podría ser la versión estable de One UI 9",
       "url": "https://www.sammyfans.com/2026/09/11/samsung-galaxy-s24s-next-update-could-be-stable-one-ui-9/",
       "first_seen": "2026-09-12"
+    },
+    {
+      "id": "streamrat-android-rat-meta-tiktok-ads-sept2026",
+      "title": "StreamRat: RAT Android vía anuncios Meta/TikTok con control total del dispositivo",
+      "url": "https://www.threatfabric.com/blogs/from-meta-ads-to-full-device-takeover-uncovering-streamrat",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "mantax-otax-android-ransomware-spyware-zimperium-sept2026",
+      "title": "Mantax Otax: ransomware Android + spyware de doble extorsión (Zimperium)",
+      "url": "https://zimperium.com/blog/mantax-otax-indonesian-mobile-ransomware-with-spyware-integration",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "windrelay-nfc-relay-spynote-android-malware-ago2026",
+      "title": "WindRelay: malware NFC relay Android que desvía pagos en tiempo real",
+      "url": "https://www.group-ib.com/blog/windrelay-nfc-spynote-rat-combo-fraud/",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "google-play-early-access-deceptive-apps-sept2026",
+      "title": "Google Play Early Access abusado: miles de apps deceptivas evaden reviews",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/google-play-early-access-exploit-deceptive-apps",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "android-developer-verification-sept30-2026-enforcement",
+      "title": "Android Developer Verification: enforcement el 30 de septiembre en 4 países",
+      "url": "https://developer.android.com/developer-verification/guides",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "android-17-qpr1-stable-sept14-2026",
+      "title": "Android 17 QPR1 estable esperado para 14 de septiembre",
+      "url": "https://nokiapoweruser.com/stable-android-17-qpr1-release-date-pixel-feature-drop-blur-effect/",
+      "first_seen": "2026-09-13"
     }
   ]
 }
