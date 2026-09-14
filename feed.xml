@@ -3,56 +3,40 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo lo del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:12:00 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] StreamRat: RAT Android vía anuncios Meta/TikTok con control total del dispositivo</title>
-      <link>https://www.threatfabric.com/blogs/from-meta-ads-to-full-device-takeover-uncovering-streamrat</link>
-      <guid isPermaLink="false">streamrat-android-rat-meta-tiktok-ads-sept2026</guid>
-      <description>RAT Android distribuido via anuncios Meta/TikTok que abusa de Accessibility Services, VNC oculto y MediaProjection para control total. Alcanzó 570.000 usuarios. Categoría: Malware/Accessibility</description>
-      <pubDate>Sun, 13 Sep 2026 11:04:10 +0000</pubDate>
-      <category>Malware/Accessibility</category>
+      <title>[ALTA] ShinyHunters y APT abusaron de Claude para extraer secretos de 1.8M APKs de Android</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/</link>
+      <guid isPermaLink="false">shinyhunters-claude-android-1-8m-apk-secrets-sept2026</guid>
+      <description>ShinyHunters (MeowSHA/frkoo) y grupos APT (Midnight Blizzard, GTG-10007) abusaron de Claude API para escanear 1.8M APKs de Android con TruffleHog buscando credenciales hardcodeadas. Anthropic publicó informe y baneó cuentas. | Categoría: App Security / Malware</description>
+      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
+      <category>App Security / Malware</category>
     </item>
     <item>
-      <title>[ALTA] Mantax Otax: ransomware Android + spyware de doble extorsión (Zimperium)</title>
-      <link>https://zimperium.com/blog/mantax-otax-indonesian-mobile-ransomware-with-spyware-integration</link>
-      <guid isPermaLink="false">mantax-otax-android-ransomware-spyware-zimperium-sept2026</guid>
-      <description>Ransomware+spyware Android de doble extorsión: roba PINs/OTPs/credenciales y cifra archivos. C2 vía GitHub. Zimperium, targeting Indonesia. Categoría: Malware</description>
-      <pubDate>Sun, 13 Sep 2026 11:04:10 +0000</pubDate>
-      <category>Malware</category>
+      <title>[ALTA] OEMpocalypse: CVE-2026-43499 como root exploit sin permisos contra OEM drivers Samsung/Xiaomi/Oppo</title>
+      <link>https://blog.calif.io/p/oempocalypse-now</link>
+      <guid isPermaLink="false">oempocalypse-cve-2026-43499-oem-root-exploit-agosto2026</guid>
+      <description>CVE-2026-43499 (GhostLock) explotado via drivers OEM de Samsung/Xiaomi/Oppo con APK sin permisos. PoC público en GitHub incluye bypass de Play Integrity vía KernelSU. Afecta Galaxy S23–S26 y otros. Bootloader bloqueado no es protección suficiente. | Categoría: Root / Play Integrity</description>
+      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
+      <category>Root / Play Integrity</category>
     </item>
     <item>
-      <title>[ALTA] WindRelay: malware NFC relay Android que desvía pagos en tiempo real</title>
-      <link>https://www.group-ib.com/blog/windrelay-nfc-spynote-rat-combo-fraud/</link>
-      <guid isPermaLink="false">windrelay-nfc-relay-spynote-android-malware-ago2026</guid>
-      <description>Malware NFC relay que captura datos de tarjeta en tiempo real y los retransmite para pagos físicos remotos. Combina con SpyNote RAT para doble fraude. Categoría: Malware</description>
-      <pubDate>Sun, 13 Sep 2026 11:04:10 +0000</pubDate>
-      <category>Malware</category>
+      <title>[MEDIA] MediaTek Security Bulletin Septiembre 2026: 15 CVEs (5 High, 10 Medium)</title>
+      <link>https://www.mediatek.com/product-security-bulletin/September-2026</link>
+      <guid isPermaLink="false">mediatek-septiembre-2026-security-bulletin</guid>
+      <description>Boletín mensual MediaTek septiembre 2026: 15 CVEs (5 High, 10 Medium) en distintos SoCs. Sin explotación activa. Correcciones incluidas en parche 2026-09-05. | Categoría: ASB</description>
+      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
+      <category>ASB</category>
     </item>
     <item>
-      <title>[MEDIA] Google Play Early Access abusado: miles de apps deceptivas evaden reviews</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/google-play-early-access-exploit-deceptive-apps</link>
-      <guid isPermaLink="false">google-play-early-access-deceptive-apps-sept2026</guid>
-      <description>El programa Early Access de Play Store es explotado para publicar miles de apps deceptivas (casino falso, recompensas) que evaden reviews públicas. Categoría: Tampering</description>
-      <pubDate>Sun, 13 Sep 2026 11:04:10 +0000</pubDate>
-      <category>Tampering</category>
-    </item>
-    <item>
-      <title>[MEDIA] Android Developer Verification: enforcement el 30 de septiembre en 4 países</title>
-      <link>https://developer.android.com/developer-verification/guides</link>
-      <guid isPermaLink="false">android-developer-verification-sept30-2026-enforcement</guid>
-      <description>Google activa el 30/9 la verificación obligatoria de identidad de desarrolladores en 4 países. Todas las apps (incluido sideload) deben tener desarrollador verificado. Categoría: API/Plataforma</description>
-      <pubDate>Sun, 13 Sep 2026 11:04:10 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[BAJA] Android 17 QPR1 estable esperado para 14 de septiembre</title>
-      <link>https://nokiapoweruser.com/stable-android-17-qpr1-release-date-pixel-feature-drop-blur-effect/</link>
-      <guid isPermaLink="false">android-17-qpr1-stable-sept14-2026</guid>
-      <description>Android 17 QPR1 estable esperado para el 14 de septiembre. Incluye correcciones y Pixel Feature Drop para Pixel 6-10. Categoría: API/Plataforma</description>
-      <pubDate>Sun, 13 Sep 2026 11:04:10 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[BAJA] Samsung Galaxy S26 sin One UI 9 estable al 14 septiembre 2026</title>
+      <link>https://r2.community.samsung.com/t5/Galaxy-S/September-14th-and-they-still-couldn-t-release-the-0ne-ui-9/m-p/22874155</link>
+      <guid isPermaLink="false">samsung-galaxy-s26-oneui9-retraso-sept14-2026</guid>
+      <description>One UI 9 estable para Galaxy S26/S26+/S26 Ultra sin liberarse al 14 de septiembre 2026 pese a anuncio previo. Sin nueva fecha confirmada. | Categoría: Bootloader / OEM</description>
+      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
+      <category>Bootloader / OEM</category>
     </item>
   </channel>
 </rss>

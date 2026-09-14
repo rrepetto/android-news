@@ -1521,6 +1521,30 @@
       "title": "Android 17 QPR1 estable esperado para 14 de septiembre",
       "url": "https://nokiapoweruser.com/stable-android-17-qpr1-release-date-pixel-feature-drop-blur-effect/",
       "first_seen": "2026-09-13"
+    },
+    {
+      "id": "shinyhunters-claude-android-1-8m-apk-secrets-sept2026",
+      "title": "ShinyHunters y APT abusaron de Claude para extraer secretos de 1.8M APKs de Android",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "oempocalypse-cve-2026-43499-oem-root-exploit-agosto2026",
+      "title": "OEMpocalypse: CVE-2026-43499 como root exploit sin permisos contra OEM drivers Samsung/Xiaomi/Oppo",
+      "url": "https://blog.calif.io/p/oempocalypse-now",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "mediatek-septiembre-2026-security-bulletin",
+      "title": "MediaTek Security Bulletin Septiembre 2026: 15 CVEs (5 High, 10 Medium)",
+      "url": "https://www.mediatek.com/product-security-bulletin/September-2026",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "samsung-galaxy-s26-oneui9-retraso-sept14-2026",
+      "title": "Samsung Galaxy S26 sin One UI 9 estable al 14 septiembre 2026",
+      "url": "https://r2.community.samsung.com/t5/Galaxy-S/September-14th-and-they-still-couldn-t-release-the-0ne-ui-9/m-p/22874155",
+      "first_seen": "2026-09-14"
     }
   ]
 }
