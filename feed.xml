@@ -3,40 +3,24 @@
   <channel>
     <title>Android Security Digest</title>
     <link>https://github.com/rrepetto/android-news</link>
-    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed muestra solo lo del último día; el historial completo está en digests/.</description>
+    <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:12:00 +0000</lastBuildDate>
-    <item>
-      <title>[ALTA] ShinyHunters y APT abusaron de Claude para extraer secretos de 1.8M APKs de Android</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/</link>
-      <guid isPermaLink="false">shinyhunters-claude-android-1-8m-apk-secrets-sept2026</guid>
-      <description>ShinyHunters (MeowSHA/frkoo) y grupos APT (Midnight Blizzard, GTG-10007) abusaron de Claude API para escanear 1.8M APKs de Android con TruffleHog buscando credenciales hardcodeadas. Anthropic publicó informe y baneó cuentas. | Categoría: App Security / Malware</description>
-      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
-      <category>App Security / Malware</category>
-    </item>
-    <item>
-      <title>[ALTA] OEMpocalypse: CVE-2026-43499 como root exploit sin permisos contra OEM drivers Samsung/Xiaomi/Oppo</title>
-      <link>https://blog.calif.io/p/oempocalypse-now</link>
-      <guid isPermaLink="false">oempocalypse-cve-2026-43499-oem-root-exploit-agosto2026</guid>
-      <description>CVE-2026-43499 (GhostLock) explotado via drivers OEM de Samsung/Xiaomi/Oppo con APK sin permisos. PoC público en GitHub incluye bypass de Play Integrity vía KernelSU. Afecta Galaxy S23–S26 y otros. Bootloader bloqueado no es protección suficiente. | Categoría: Root / Play Integrity</description>
-      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
-      <category>Root / Play Integrity</category>
-    </item>
-    <item>
-      <title>[MEDIA] MediaTek Security Bulletin Septiembre 2026: 15 CVEs (5 High, 10 Medium)</title>
-      <link>https://www.mediatek.com/product-security-bulletin/September-2026</link>
-      <guid isPermaLink="false">mediatek-septiembre-2026-security-bulletin</guid>
-      <description>Boletín mensual MediaTek septiembre 2026: 15 CVEs (5 High, 10 Medium) en distintos SoCs. Sin explotación activa. Correcciones incluidas en parche 2026-09-05. | Categoría: ASB</description>
-      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-    <item>
-      <title>[BAJA] Samsung Galaxy S26 sin One UI 9 estable al 14 septiembre 2026</title>
-      <link>https://r2.community.samsung.com/t5/Galaxy-S/September-14th-and-they-still-couldn-t-release-the-0ne-ui-9/m-p/22874155</link>
-      <guid isPermaLink="false">samsung-galaxy-s26-oneui9-retraso-sept14-2026</guid>
-      <description>One UI 9 estable para Galaxy S26/S26+/S26 Ultra sin liberarse al 14 de septiembre 2026 pese a anuncio previo. Sin nueva fecha confirmada. | Categoría: Bootloader / OEM</description>
-      <pubDate>Mon, 14 Sep 2026 11:12:00 +0000</pubDate>
-      <category>Bootloader / OEM</category>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 11:05:00 +0000</lastBuildDate>
+  <item>
+    <title>[MEDIA] Samsung Galaxy S26 OneUI 9 estable: cronograma de waves filtrado — semana del 15, 21 y 28 sep</title>
+    <link>https://nokiapoweruser.com/claim-stable-one-ui-9-galaxy-s26-launch-rollout-schedule/</link>
+    <guid isPermaLink="false">samsung-s26-oneui9-waves-rollout-sept15-2026</guid>
+    <description>Filtración revela cronograma OneUI 9 estable: Galaxy S26 semana del 15 sep, S25 y foldables nuevos el 21 sep, S24/Fold6/Flip6/S23 el 28 sep. Samsung confirma la actualización está próxima tras el retraso reportado el 14 sep. — Categoría: Bootloader/Plataforma</description>
+    <pubDate>Tue, 15 Sep 2026 11:04:52 +0000</pubDate>
+    <category>Bootloader/Plataforma</category>
+  </item>
+  <item>
+    <title>[MEDIA] Android 17 QPR1 Pixel Feature Drop: rollout retrasado, no llegó el 14 sep</title>
+    <link>https://www.droid-life.com/2026/09/14/where-is-the-september-google-pixel-update/</link>
+    <guid isPermaLink="false">android-17-qpr1-retraso-sept15-2026</guid>
+    <description>El rollout estable de Android 17 QPR1 esperado para el 14 de septiembre no se concretó. Pixels 6-11 aún sin actualización de seguridad mensual ni features del Feature Drop. Google sin comunicado oficial. — Categoría: API/Plataforma</description>
+    <pubDate>Tue, 15 Sep 2026 11:04:52 +0000</pubDate>
+    <category>API/Plataforma</category>
+  </item>
   </channel>
 </rss>
