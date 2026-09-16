@@ -1557,6 +1557,24 @@
       "title": "Samsung Galaxy S26 OneUI 9 estable: cronograma de waves filtrado — semana del 15, 21 y 28 sep",
       "url": "https://nokiapoweruser.com/claim-stable-one-ui-9-galaxy-s26-launch-rollout-schedule/",
       "first_seen": "2026-09-15"
+    },
+    {
+      "id": "android-17-qpr1-stable-lanzado-sept15-2026",
+      "title": "Android 17 QPR1 estable lanzado para Pixel (15 sept 2026) con zero-day fix y Pixel Feature Drop",
+      "url": "https://9to5google.com/2026/09/15/android-17-qpr1-pixel/",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "cve-2026-58704-pixel-modem-zerodday-sept2026",
+      "title": "CVE-2026-58704: zero-day en Pixel Modem explotado activamente (CVSS 8.0)",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "samsung-galaxy-s26-oneui9-stable-lanzado-sept2026",
+      "title": "Samsung Galaxy S26 recibe One UI 9.0 estable con Android 17 y parche sept 2026",
+      "url": "https://www.sammobile.com/news/galaxy-s26-stable-one-ui-9-0-update-released/",
+      "first_seen": "2026-09-16"
     }
   ]
 }

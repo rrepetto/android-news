@@ -12,6 +12,7 @@ Suscribite al feed para recibir las novedades del día:
 
 ## Historial de digests (últimos 30)
 
+- [2026-09-16](digests/2026-09-16.md)
 - [2026-09-15](digests/2026-09-15.md)
 - [2026-09-14](digests/2026-09-14.md)
 - [2026-09-13](digests/2026-09-13.md)
@@ -41,5 +42,4 @@ Suscribite al feed para recibir las novedades del día:
 - [2026-08-20](digests/2026-08-20.md)
 - [2026-08-19](digests/2026-08-19.md)
 - [2026-08-18](digests/2026-08-18.md)
-- [2026-08-17](digests/2026-08-17.md)
 

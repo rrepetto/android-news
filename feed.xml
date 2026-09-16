@@ -5,22 +5,34 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:05:00 +0000</lastBuildDate>
-  <item>
-    <title>[MEDIA] Samsung Galaxy S26 OneUI 9 estable: cronograma de waves filtrado — semana del 15, 21 y 28 sep</title>
-    <link>https://nokiapoweruser.com/claim-stable-one-ui-9-galaxy-s26-launch-rollout-schedule/</link>
-    <guid isPermaLink="false">samsung-s26-oneui9-waves-rollout-sept15-2026</guid>
-    <description>Filtración revela cronograma OneUI 9 estable: Galaxy S26 semana del 15 sep, S25 y foldables nuevos el 21 sep, S24/Fold6/Flip6/S23 el 28 sep. Samsung confirma la actualización está próxima tras el retraso reportado el 14 sep. — Categoría: Bootloader/Plataforma</description>
-    <pubDate>Tue, 15 Sep 2026 11:04:52 +0000</pubDate>
-    <category>Bootloader/Plataforma</category>
-  </item>
-  <item>
-    <title>[MEDIA] Android 17 QPR1 Pixel Feature Drop: rollout retrasado, no llegó el 14 sep</title>
-    <link>https://www.droid-life.com/2026/09/14/where-is-the-september-google-pixel-update/</link>
-    <guid isPermaLink="false">android-17-qpr1-retraso-sept15-2026</guid>
-    <description>El rollout estable de Android 17 QPR1 esperado para el 14 de septiembre no se concretó. Pixels 6-11 aún sin actualización de seguridad mensual ni features del Feature Drop. Google sin comunicado oficial. — Categoría: API/Plataforma</description>
-    <pubDate>Tue, 15 Sep 2026 11:04:52 +0000</pubDate>
-    <category>API/Plataforma</category>
-  </item>
+    <lastBuildDate>Wed, 16 Sep 2026 11:09:24 +0000</lastBuildDate>
+
+    <item>
+      <title>[ALTA] Android 17 QPR1 estable lanzado para Pixel (15 sept 2026) con zero-day fix y Pixel Feature Drop</title>
+      <link>https://9to5google.com/2026/09/15/android-17-qpr1-pixel/</link>
+      <guid isPermaLink="false">android-17-qpr1-stable-lanzado-sept15-2026</guid>
+      <description>Google lanzó Android 17 QPR1 estable el 15 de septiembre para 24 dispositivos Pixel (Pixel 6 a Pixel 11 Pro Fold) con el Pixel Feature Drop de septiembre. Incluye el parche 2026-09-05 que corrige el zero-day CVE-2026-58704, 20 correcciones Pixel-específicas, photo picker enforced y Gboard scam detection. Categoría: API/Plataforma</description>
+      <pubDate>Wed, 16 Sep 2026 11:09:24 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+
+    <item>
+      <title>[ALTA] CVE-2026-58704: zero-day en Pixel Modem explotado activamente (CVSS 8.0)</title>
+      <link>https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/</link>
+      <guid isPermaLink="false">cve-2026-58704-pixel-modem-zerodday-sept2026</guid>
+      <description>Falla de escalada de privilegios en el subcomponente Modem de dispositivos Pixel bajo explotación activa dirigida. No requiere interacción del usuario; atacantes con acceso a red adyacente pueden escalar privilegios. Parcheado en nivel 2026-09-05. Categoría: ASB</description>
+      <pubDate>Wed, 16 Sep 2026 11:09:24 +0000</pubDate>
+      <category>ASB</category>
+    </item>
+
+    <item>
+      <title>[MEDIA] Samsung Galaxy S26 recibe One UI 9.0 estable con Android 17 y parche sept 2026</title>
+      <link>https://www.sammobile.com/news/galaxy-s26-stable-one-ui-9-0-update-released/</link>
+      <guid isPermaLink="false">samsung-galaxy-s26-oneui9-stable-lanzado-sept2026</guid>
+      <description>Samsung lanzó One UI 9.0 estable para Galaxy S26, S26+ y S26 Ultra en Corea del Sur (firmware BZH8, ~550 MB) tras cinco meses de beta. Incluye Android 17 y parche de seguridad de septiembre 2026. Expansión global en días. Categoría: Bootloader/Knox</description>
+      <pubDate>Wed, 16 Sep 2026 11:09:24 +0000</pubDate>
+      <category>Bootloader/Knox</category>
+    </item>
+
   </channel>
 </rss>
