@@ -5,34 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:09:24 +0000</lastBuildDate>
-
-    <item>
-      <title>[ALTA] Android 17 QPR1 estable lanzado para Pixel (15 sept 2026) con zero-day fix y Pixel Feature Drop</title>
-      <link>https://9to5google.com/2026/09/15/android-17-qpr1-pixel/</link>
-      <guid isPermaLink="false">android-17-qpr1-stable-lanzado-sept15-2026</guid>
-      <description>Google lanzó Android 17 QPR1 estable el 15 de septiembre para 24 dispositivos Pixel (Pixel 6 a Pixel 11 Pro Fold) con el Pixel Feature Drop de septiembre. Incluye el parche 2026-09-05 que corrige el zero-day CVE-2026-58704, 20 correcciones Pixel-específicas, photo picker enforced y Gboard scam detection. Categoría: API/Plataforma</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:24 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-
-    <item>
-      <title>[ALTA] CVE-2026-58704: zero-day en Pixel Modem explotado activamente (CVSS 8.0)</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/</link>
-      <guid isPermaLink="false">cve-2026-58704-pixel-modem-zerodday-sept2026</guid>
-      <description>Falla de escalada de privilegios en el subcomponente Modem de dispositivos Pixel bajo explotación activa dirigida. No requiere interacción del usuario; atacantes con acceso a red adyacente pueden escalar privilegios. Parcheado en nivel 2026-09-05. Categoría: ASB</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:24 +0000</pubDate>
-      <category>ASB</category>
-    </item>
-
-    <item>
-      <title>[MEDIA] Samsung Galaxy S26 recibe One UI 9.0 estable con Android 17 y parche sept 2026</title>
-      <link>https://www.sammobile.com/news/galaxy-s26-stable-one-ui-9-0-update-released/</link>
-      <guid isPermaLink="false">samsung-galaxy-s26-oneui9-stable-lanzado-sept2026</guid>
-      <description>Samsung lanzó One UI 9.0 estable para Galaxy S26, S26+ y S26 Ultra en Corea del Sur (firmware BZH8, ~550 MB) tras cinco meses de beta. Incluye Android 17 y parche de seguridad de septiembre 2026. Expansión global en días. Categoría: Bootloader/Knox</description>
-      <pubDate>Wed, 16 Sep 2026 11:09:24 +0000</pubDate>
-      <category>Bootloader/Knox</category>
-    </item>
-
+    <lastBuildDate>Thu, 17 Sep 2026 11:11:38 +0000</lastBuildDate>
+  <item>
+    <title>[ALTA] RatHat: troyano Android encadena Accessibility + Wireless ADB + IA para robar credenciales bancarias</title>
+    <link>https://gbhackers.com/rathat-malware-attack/</link>
+    <guid isPermaLink="false">rathat-android-malware-adb-wireless-sept2026</guid>
+    <description>Nuevo malware bancario Android que encadena abuso de Accessibility Services, Wireless Debugging y shell ADB local para persistencia duradera; usa IA generativa para automatizar capturas. Roba PINs, OTPs y credenciales bancarias. Se reinstala tras borrado manual. Categoría: Malware</description>
+    <pubDate>Thu, 17 Sep 2026 11:11:38 +0000</pubDate>
+    <category>Malware</category>
+  </item>
   </channel>
 </rss>

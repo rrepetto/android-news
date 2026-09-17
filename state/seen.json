@@ -1575,6 +1575,12 @@
       "title": "Samsung Galaxy S26 recibe One UI 9.0 estable con Android 17 y parche sept 2026",
       "url": "https://www.sammobile.com/news/galaxy-s26-stable-one-ui-9-0-update-released/",
       "first_seen": "2026-09-16"
+    },
+    {
+      "id": "rathat-android-malware-adb-wireless-sept2026",
+      "title": "RatHat: troyano Android encadena Accessibility + Wireless ADB + IA para robar credenciales bancarias",
+      "url": "https://gbhackers.com/rathat-malware-attack/",
+      "first_seen": "2026-09-17"
     }
   ]
 }
