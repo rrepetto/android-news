@@ -5,14 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:14:34 +0000</lastBuildDate>
   <item>
-    <title>[ALTA] RatHat: troyano Android encadena Accessibility + Wireless ADB + IA para robar credenciales bancarias</title>
-    <link>https://gbhackers.com/rathat-malware-attack/</link>
-    <guid isPermaLink="false">rathat-android-malware-adb-wireless-sept2026</guid>
-    <description>Nuevo malware bancario Android que encadena abuso de Accessibility Services, Wireless Debugging y shell ADB local para persistencia duradera; usa IA generativa para automatizar capturas. Roba PINs, OTPs y credenciales bancarias. Se reinstala tras borrado manual. Categoría: Malware</description>
-    <pubDate>Thu, 17 Sep 2026 11:11:38 +0000</pubDate>
-    <category>Malware</category>
+    <title>[MEDIA] KernelSU Next v3.4.0 refuerza técnicas de ocultación SELinux y suma soporte Android 17/6.18</title>
+    <link>https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.0</link>
+    <guid isPermaLink="false">kernelsu-next-v3-4-0-selinux-hide-android17</guid>
+    <description>La release incorpora cambios de `selinux hide` que falsean la status page y `avd seqno`, mueve el unmount de WebView zygote a una allowlist, agrega LKM x64 y soporte para Android 17 con kernel 6.18, además de ajustes en verificación de firma. Importa porque amplía la superficie de root hiding/evasión que puede afectar señales de detección. Categoría: Root</description>
+    <pubDate>Wed, 23 Sep 2026 03:14:34 +0000</pubDate>
+    <category>Root</category>
+  </item>
+  <item>
+    <title>[MEDIA] Agentic AI automatiza análisis, hooking y fraude móvil a escala</title>
+    <link>https://zimperium.com/blog/how-agentic-ai-is-making-mobile-apps-easier-to-attack</link>
+    <guid isPermaLink="false">agentic-ai-mobile-tampering-fraud-zimperium-sep2026</guid>
+    <description>Zimperium describe cómo agentes pueden automatizar análisis estático y dinámico, usar Frida para explorar defensas, navegar UIs mediante Accessibility, captura de pantalla y OCR, y convertir un ataque exitoso en scripts desplegables sobre flotas de emuladores. No introduce una nueva clase de vulnerabilidad, pero reduce el costo técnico de adaptar tampering y fraude a cambios de una app. Categoría: Tampering / Automatización</description>
+    <pubDate>Wed, 23 Sep 2026 03:14:34 +0000</pubDate>
+    <category>Tampering / Automatización</category>
   </item>
   </channel>
 </rss>
