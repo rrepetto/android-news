@@ -5,7 +5,7 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 23 Sep 2026 03:14:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:45:16 +0000</lastBuildDate>
   <item>
     <title>[MEDIA] KernelSU Next v3.4.0 refuerza técnicas de ocultación SELinux y suma soporte Android 17/6.18</title>
     <link>https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.0</link>
