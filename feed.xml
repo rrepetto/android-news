@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:01:26 +0000</lastBuildDate>
-  <item>
-    <title>[MEDIA] RemControl bloquea Play Protect con una VPN local y cambia su firma por instalación</title>
-    <link>https://www.group-ib.com/blog/remcontrol-android-banking-trojan/</link>
-    <guid isPermaLink="false">remcontrol-android-banker-play-protect-vpn-sept2026</guid>
-    <description>Group-IB documenta un banker/RAT MaaS que corta el tráfico de `com.android.vending` mediante una VPN local para impedir el análisis en tiempo real de Play Protect y genera una clave de firma nueva por instalación. Luego abusa de Accessibility para overlays, streaming, control remoto y captura del patrón de desbloqueo; importa por combinar evasión de distribución con fraude on-device. Categoría: Malware / Accessibility / Play Protect</description>
-    <pubDate>Thu, 24 Sep 2026 12:01:26 +0000</pubDate>
-    <category>Malware / Accessibility / Play Protect</category>
-  </item>
+    <lastBuildDate>Fri, 25 Sep 2026 11:54:47 +0000</lastBuildDate>
+    <item>
+      <title>[MEDIA] OnePlus/OPPO: dos fallas sin parche permiten que una app sin permisos obtenga root</title>
+      <link>https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html?m=1</link>
+      <guid isPermaLink="false">oneplus-oppo-root-chain-atlasservice-olc2-sept2026</guid>
+      <description>Una cadena en servicios propios de OxygenOS permite que una app instalada, sin solicitar permisos especiales ni mostrar prompts, pase por AtlasService y el helper olc2 hasta obtener control root completo. OnePlus confirmó las fallas en mayo y señaló que afectan más dispositivos OnePlus y OPPO; al publicarse el 24 de septiembre todavía no había parche ni CVE. Categoría: Root</description>
+      <pubDate>Fri, 25 Sep 2026 11:54:47 +0000</pubDate>
+      <category>Root</category>
+    </item>
   </channel>
 </rss>
