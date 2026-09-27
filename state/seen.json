@@ -1599,6 +1599,12 @@
       "title": "RemControl bloquea Play Protect con una VPN local y cambia su firma por instalación",
       "url": "https://www.group-ib.com/blog/remcontrol-android-banking-trojan/",
       "first_seen": "2026-09-24"
+    },
+    {
+      "id": "oneplus-oppo-root-chain-atlasservice-olc2-sept2026",
+      "title": "OnePlus/OPPO: dos fallas sin parche permiten que una app sin permisos obtenga root",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html?m=1",
+      "first_seen": "2026-09-25"
     }
   ]
 }
