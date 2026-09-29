@@ -5,6 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:20:00 +0000</lastBuildDate>
+    <item>
+      <title>[MEDIA] GrapheneOS 2026092500 actualiza el stack hardware de Pixel a Android 17 QPR1</title>
+      <link>https://grapheneos.org/releases#2026092500</link>
+      <guid isPermaLink="false">grapheneos-2026092500-pixel-qpr1-hardware-security</guid>
+      <description>Publicado el 25 de septiembre de 2026. Actualiza drivers, firmware y soporte hardware userspace de Pixel a Android 17 QPR1, mejora Secure Paste e incorpora nuevos parches en security preview. Categoría: Pixel/GrapheneOS.</description>
+      <pubDate>Tue, 29 Sep 2026 17:20:00 +0000</pubDate>
+      <category>Pixel/GrapheneOS</category>
+    </item>
+    <item>
+      <title>[BAJA] Android 17 QPR2 Beta 6 corrige crashes de kernel en verificación biométrica</title>
+      <link>https://developer.android.com/about/versions/17/qpr2/release-notes</link>
+      <guid isPermaLink="false">android17-qpr2-beta6-kernel-biometric-crash</guid>
+      <description>Publicado el 24 de septiembre de 2026. Corrige un crash del kernel/reinicio al solicitar cámara y micrófono simultáneamente durante verificación biométrica, además de otros fallos de estabilidad. Categoría: API/Plataforma.</description>
+      <pubDate>Tue, 29 Sep 2026 17:20:00 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
   </channel>
 </rss>
