@@ -1605,6 +1605,30 @@
       "title": "OnePlus/OPPO: dos fallas sin parche permiten que una app sin permisos obtenga root",
       "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html?m=1",
       "first_seen": "2026-09-25"
+    },
+    {
+      "id": "grapheneos-2026092500-pixel-qpr1-hardware-security",
+      "title": "GrapheneOS 2026092500 actualiza el stack hardware de Pixel a Android 17 QPR1",
+      "url": "https://grapheneos.org/releases#2026092500",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "android17-qpr2-beta6-kernel-biometric-crash",
+      "title": "Android 17 QPR2 Beta 6 corrige crashes de kernel en verificación biométrica",
+      "url": "https://developer.android.com/about/versions/17/qpr2/release-notes",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "androidx-security-state-1-1-0-component-patch-posture",
+      "title": "AndroidX Security State permite evaluar parches por componente y CVE",
+      "url": "https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "cloader-runtime-obfuscation-adaptive-hooking-android",
+      "title": "CLoader coordina evasión dinámica de Frida/Xposed y logra 90% de bypass",
+      "url": "https://arxiv.org/abs/2609.23396",
+      "first_seen": "2026-09-30"
     }
   ]
 }

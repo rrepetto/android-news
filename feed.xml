@@ -5,22 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:45:39 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] GrapheneOS 2026092500 actualiza el stack hardware de Pixel a Android 17 QPR1</title>
-      <link>https://grapheneos.org/releases#2026092500</link>
-      <guid isPermaLink="false">grapheneos-2026092500-pixel-qpr1-hardware-security</guid>
-      <description>Publicado el 25 de septiembre de 2026. Actualiza drivers, firmware y soporte hardware userspace de Pixel a Android 17 QPR1, mejora Secure Paste e incorpora nuevos parches en security preview. Categoría: Pixel/GrapheneOS.</description>
-      <pubDate>Tue, 29 Sep 2026 17:20:00 +0000</pubDate>
-      <category>Pixel/GrapheneOS</category>
+      <title>[MEDIA] AndroidX Security State permite evaluar parches por componente y CVE</title>
+      <link>https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html</link>
+      <guid isPermaLink="false">androidx-security-state-1-1-0-component-patch-posture</guid>
+      <description>Publicado el 17 de septiembre de 2026. Las librerías estables permiten consultar DSPL, PSPL y ASPL por componente y auditar CVEs concretos, aportando una postura de parches más granular para decisiones de riesgo. Categoría: API/Plataforma.</description>
+      <pubDate>Wed, 30 Sep 2026 11:45:39 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
     <item>
-      <title>[BAJA] Android 17 QPR2 Beta 6 corrige crashes de kernel en verificación biométrica</title>
-      <link>https://developer.android.com/about/versions/17/qpr2/release-notes</link>
-      <guid isPermaLink="false">android17-qpr2-beta6-kernel-biometric-crash</guid>
-      <description>Publicado el 24 de septiembre de 2026. Corrige un crash del kernel/reinicio al solicitar cámara y micrófono simultáneamente durante verificación biométrica, además de otros fallos de estabilidad. Categoría: API/Plataforma.</description>
-      <pubDate>Tue, 29 Sep 2026 17:20:00 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] CLoader coordina evasión dinámica de Frida/Xposed y logra 90% de bypass</title>
+      <link>https://arxiv.org/abs/2609.23396</link>
+      <guid isPermaLink="false">cloader-runtime-obfuscation-adaptive-hooking-android</guid>
+      <description>Publicado el 20 de septiembre de 2026. Coordina puertos aleatorios, ofuscación en runtime, ejecución diferida y autocontroles para ocultar hooking; reporta 90% de bypass en su evaluación. Categoría: Hooking/Tampering.</description>
+      <pubDate>Wed, 30 Sep 2026 11:45:39 +0000</pubDate>
+      <category>Hooking/Tampering</category>
     </item>
   </channel>
 </rss>
