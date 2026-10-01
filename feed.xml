@@ -5,22 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 30 Sep 2026 11:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:48:44 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] AndroidX Security State permite evaluar parches por componente y CVE</title>
-      <link>https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html</link>
-      <guid isPermaLink="false">androidx-security-state-1-1-0-component-patch-posture</guid>
-      <description>Publicado el 17 de septiembre de 2026. Las librerías estables permiten consultar DSPL, PSPL y ASPL por componente y auditar CVEs concretos, aportando una postura de parches más granular para decisiones de riesgo. Categoría: API/Plataforma.</description>
-      <pubDate>Wed, 30 Sep 2026 11:45:39 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[MEDIA] CLoader coordina evasión dinámica de Frida/Xposed y logra 90% de bypass</title>
-      <link>https://arxiv.org/abs/2609.23396</link>
-      <guid isPermaLink="false">cloader-runtime-obfuscation-adaptive-hooking-android</guid>
-      <description>Publicado el 20 de septiembre de 2026. Coordina puertos aleatorios, ofuscación en runtime, ejecución diferida y autocontroles para ocultar hooking; reporta 90% de bypass en su evaluación. Categoría: Hooking/Tampering.</description>
-      <pubDate>Wed, 30 Sep 2026 11:45:39 +0000</pubDate>
-      <category>Hooking/Tampering</category>
+      <title>[MEDIA] Dos fallas de Setup Wizard permitían instalar apps y manipular la red sin interacción</title>
+      <link>https://ptsecurity.com/about/news/pt-experts-helped-google-and-apple-eliminate-11-vulnerabilities/</link>
+      <guid isPermaLink="false">positive-technologies-android-setup-wizard-cve-2026-57012-28616</guid>
+      <description>Publicado el 25 de septiembre de 2026. CVE-2026-57012 permitía encadenar un tag NFC preparado para instalar y ejecutar una app sin consentimiento; CVE-2026-28616 permitía forzar una red maliciosa y alterar certificados o proxy. Google corrigió ambas en septiembre. Categoría: CVE/Plataforma.</description>
+      <pubDate>Thu, 01 Oct 2026 11:48:44 +0000</pubDate>
+      <category>CVE/Plataforma</category>
     </item>
   </channel>
 </rss>

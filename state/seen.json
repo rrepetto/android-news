@@ -1629,6 +1629,12 @@
       "title": "CLoader coordina evasión dinámica de Frida/Xposed y logra 90% de bypass",
       "url": "https://arxiv.org/abs/2609.23396",
       "first_seen": "2026-09-30"
+    },
+    {
+      "id": "positive-technologies-android-setup-wizard-cve-2026-57012-28616",
+      "title": "Dos fallas de Setup Wizard permitían instalar apps y manipular la red sin interacción",
+      "url": "https://ptsecurity.com/about/news/pt-experts-helped-google-and-apple-eliminate-11-vulnerabilities/",
+      "first_seen": "2026-10-01"
     }
   ]
 }
