@@ -1635,6 +1635,18 @@
       "title": "Dos fallas de Setup Wizard permitían instalar apps y manipular la red sin interacción",
       "url": "https://ptsecurity.com/about/news/pt-experts-helped-google-and-apple-eliminate-11-vulnerabilities/",
       "first_seen": "2026-10-01"
+    },
+    {
+      "id": "google-advanced-protection-six-features-oct2026",
+      "title": "Advanced Protection incorpora Intrusion Logging, USB Protection y nuevas defensas en Android 17",
+      "url": "https://blog.google/security/android-advanced-protection-updates/",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "cert-pl-toll-fraud-meta-google-play-17-apps-2026",
+      "title": "Campaña de toll fraud encadenó 1.235 anuncios y 17 apps de Google Play",
+      "url": "https://cert.pl/en/posts/2026/09/tollfraud-analysis/",
+      "first_seen": "2026-10-02"
     }
   ]
 }
