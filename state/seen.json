@@ -1647,6 +1647,12 @@
       "title": "Campaña de toll fraud encadenó 1.235 anuncios y 17 apps de Google Play",
       "url": "https://cert.pl/en/posts/2026/09/tollfraud-analysis/",
       "first_seen": "2026-10-02"
+    },
+    {
+      "id": "grapheneos-2026100200-vpn-leak-keepalives-security-preview",
+      "title": "GrapheneOS 2026100200 bloquea una fuga VPN por hardware keepalives",
+      "url": "https://grapheneos.org/releases#2026100200",
+      "first_seen": "2026-10-03"
     }
   ]
 }
