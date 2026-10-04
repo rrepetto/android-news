@@ -5,14 +5,6 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:51:46 +0000</lastBuildDate>
-    <item>
-      <title>[MEDIA] GrapheneOS 2026100200 bloquea una fuga VPN por hardware keepalives</title>
-      <link>https://grapheneos.org/releases#2026100200</link>
-      <guid isPermaLink="false">grapheneos-2026100200-vpn-leak-keepalives-security-preview</guid>
-      <description>Publicado el 2 de octubre de 2026. GrapheneOS deshabilitó hardware keepalives sin privilegios por una fuga fuera de la VPN y añadió parches futuros de Android 17 y CVEs críticos y altos en security preview. Categoría: Pixel/GrapheneOS.</description>
-      <pubDate>Sat, 03 Oct 2026 11:51:46 +0000</pubDate>
-      <category>Pixel/GrapheneOS</category>
-    </item>
+    <lastBuildDate>Sun, 04 Oct 2026 11:28:19 +0000</lastBuildDate>
   </channel>
 </rss>
