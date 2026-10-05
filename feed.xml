@@ -5,6 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 04 Oct 2026 11:28:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:28:11 +0000</lastBuildDate>
+    <item>
+      <title>[MEDIA] MediaTek corrige dos vulnerabilidades críticas de memoria en módems</title>
+      <link>https://www.mediatek.com/product-security-bulletin/october-2026</link>
+      <guid isPermaLink="false">mediatek-octubre-2026-modem-critical-oob-cve-20519-20520</guid>
+      <description>Publicado el 5 de octubre de 2026. CVE-2026-20519 y CVE-2026-20520 son escrituras fuera de límites críticas en el módem que afectan a decenas de chipsets MediaTek; no hay explotación activa conocida. Categoría: CVE/Boletines.</description>
+      <pubDate>Mon, 05 Oct 2026 11:28:11 +0000</pubDate>
+      <category>CVE/Boletines</category>
+    </item>
   </channel>
 </rss>

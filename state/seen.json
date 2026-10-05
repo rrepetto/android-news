@@ -1653,6 +1653,12 @@
       "title": "GrapheneOS 2026100200 bloquea una fuga VPN por hardware keepalives",
       "url": "https://grapheneos.org/releases#2026100200",
       "first_seen": "2026-10-03"
+    },
+    {
+      "id": "mediatek-octubre-2026-modem-critical-oob-cve-20519-20520",
+      "title": "MediaTek corrige dos vulnerabilidades críticas de memoria en módems",
+      "url": "https://www.mediatek.com/product-security-bulletin/october-2026",
+      "first_seen": "2026-10-05"
     }
   ]
 }
