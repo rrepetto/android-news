@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 05 Oct 2026 11:28:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:07:08 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] MediaTek corrige dos vulnerabilidades críticas de memoria en módems</title>
-      <link>https://www.mediatek.com/product-security-bulletin/october-2026</link>
-      <guid isPermaLink="false">mediatek-octubre-2026-modem-critical-oob-cve-20519-20520</guid>
-      <description>Publicado el 5 de octubre de 2026. CVE-2026-20519 y CVE-2026-20520 son escrituras fuera de límites críticas en el módem que afectan a decenas de chipsets MediaTek; no hay explotación activa conocida. Categoría: CVE/Boletines.</description>
-      <pubDate>Mon, 05 Oct 2026 11:28:11 +0000</pubDate>
-      <category>CVE/Boletines</category>
+      <title>[MEDIA] ASB octubre 2026 corrige siete vulnerabilidades críticas</title>
+      <link>https://source.android.com/docs/security/bulletin/2026/2026-10-01</link>
+      <guid isPermaLink="false">asb-octubre-2026-critical-eop-dos</guid>
+      <description>Publicado el 5 de octubre de 2026. El boletín corrige siete fallas críticas, incluidas cuatro elevaciones locales de privilegios sin interacción, y una RCE High en Wi‑Fi distribuida por Mainline. Afecta a Android 14–17 según el CVE y no señala explotación activa. Categoría: ASB.</description>
+      <pubDate>Tue, 06 Oct 2026 11:07:08 +0000</pubDate>
+      <category>ASB</category>
     </item>
   </channel>
 </rss>
