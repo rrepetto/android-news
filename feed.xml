@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 06 Oct 2026 11:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:18:02 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] ASB octubre 2026 corrige siete vulnerabilidades críticas</title>
-      <link>https://source.android.com/docs/security/bulletin/2026/2026-10-01</link>
-      <guid isPermaLink="false">asb-octubre-2026-critical-eop-dos</guid>
-      <description>Publicado el 5 de octubre de 2026. El boletín corrige siete fallas críticas, incluidas cuatro elevaciones locales de privilegios sin interacción, y una RCE High en Wi‑Fi distribuida por Mainline. Afecta a Android 14–17 según el CVE y no señala explotación activa. Categoría: ASB.</description>
-      <pubDate>Tue, 06 Oct 2026 11:07:08 +0000</pubDate>
-      <category>ASB</category>
+      <title>[MEDIA] Pixel corrige tres vulnerabilidades críticas en Bluetooth, GDMC y GSA</title>
+      <link>https://source.android.com/docs/security/bulletin/pixel/2026/2026-10-01</link>
+      <guid isPermaLink="false">pixel-octubre-2026-three-critical-bluetooth-gdmc-gsa</guid>
+      <description>Publicado el 6 de octubre de 2026. Pixel corrige dos EoP críticas en Bluetooth y GDMC, una divulgación de información crítica en GSA y dos EoP High del kernel. El nivel 2026-10-05 resuelve estas fallas específicas de Pixel y el ASB general; no se señala explotación activa. Categoría: Pixel/CVE.</description>
+      <pubDate>Wed, 07 Oct 2026 11:18:02 +0000</pubDate>
+      <category>Pixel/CVE</category>
     </item>
   </channel>
 </rss>

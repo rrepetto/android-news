@@ -1665,6 +1665,12 @@
       "title": "ASB octubre 2026 corrige siete vulnerabilidades críticas",
       "url": "https://source.android.com/docs/security/bulletin/2026/2026-10-01",
       "first_seen": "2026-10-06"
+    },
+    {
+      "id": "pixel-octubre-2026-three-critical-bluetooth-gdmc-gsa",
+      "title": "Pixel corrige tres vulnerabilidades críticas en Bluetooth, GDMC y GSA",
+      "url": "https://source.android.com/docs/security/bulletin/pixel/2026/2026-10-01",
+      "first_seen": "2026-10-07"
     }
   ]
 }
