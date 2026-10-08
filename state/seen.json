@@ -1671,6 +1671,18 @@
       "title": "Pixel corrige tres vulnerabilidades críticas en Bluetooth, GDMC y GSA",
       "url": "https://source.android.com/docs/security/bulletin/pixel/2026/2026-10-01",
       "first_seen": "2026-10-07"
+    },
+    {
+      "id": "android-aiseal-pkvm-protected-vm-oct2026",
+      "title": "Google presenta AISeal: enclave aislado por pKVM para datos de IA en Android",
+      "url": "https://blog.google/security/enabling-the-next-gen-enclave-architecture-for-on-device-ai-on-android/",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "grapheneos-2026100600-zipfilero-integer-overflow",
+      "title": "GrapheneOS corrige corrupción de memoria en ZipFileRO y aplica el parche de octubre",
+      "url": "https://grapheneos.org/releases#2026100600",
+      "first_seen": "2026-10-08"
     }
   ]
 }

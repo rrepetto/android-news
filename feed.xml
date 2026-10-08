@@ -5,14 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:25:31 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Pixel corrige tres vulnerabilidades críticas en Bluetooth, GDMC y GSA</title>
-      <link>https://source.android.com/docs/security/bulletin/pixel/2026/2026-10-01</link>
-      <guid isPermaLink="false">pixel-octubre-2026-three-critical-bluetooth-gdmc-gsa</guid>
-      <description>Publicado el 6 de octubre de 2026. Pixel corrige dos EoP críticas en Bluetooth y GDMC, una divulgación de información crítica en GSA y dos EoP High del kernel. El nivel 2026-10-05 resuelve estas fallas específicas de Pixel y el ASB general; no se señala explotación activa. Categoría: Pixel/CVE.</description>
-      <pubDate>Wed, 07 Oct 2026 11:18:02 +0000</pubDate>
-      <category>Pixel/CVE</category>
+      <title>[MEDIA] Google presenta AISeal: enclave aislado por pKVM para datos de IA en Android</title>
+      <link>https://blog.google/security/enabling-the-next-gen-enclave-architecture-for-on-device-ai-on-android/</link>
+      <guid isPermaLink="false">android-aiseal-pkvm-protected-vm-oct2026</guid>
+      <description>Publicado el 7 de octubre de 2026. Google presentó AISeal, una arquitectura de bóveda multiinquilino sobre AVF y máquinas virtuales protegidas por pKVM para aislar datos personales usados por asistentes de IA incluso frente a una eventual compromisión del sistema anfitrión. La primera etapa se centra en almacenamiento protegido; inferencia y agentes dentro del enclave son objetivos futuros, no funciones ya generalizadas. Categoría: API/Plataforma.</description>
+      <pubDate>Thu, 08 Oct 2026 11:25:31 +0000</pubDate>
+      <category>API/Plataforma</category>
+    </item>
+    <item>
+      <title>[MEDIA] GrapheneOS corrige corrupción de memoria en ZipFileRO y aplica el parche de octubre</title>
+      <link>https://grapheneos.org/releases#2026100600</link>
+      <guid isPermaLink="false">grapheneos-2026100600-zipfilero-integer-overflow</guid>
+      <description>Publicado el 6 de octubre de 2026. GrapheneOS 2026100600 corrige un integer overflow heredado de upstream en ZipFileRO.cpp que podía causar corrupción de memoria con una entrada ZIP de 65.535 bytes de nombre. También incorpora el nivel de seguridad 2026-10-05 y firmware/HAL de octubre en Pixel. Al momento de la revisión está en canales Alpha/Beta, no Stable; no hay evidencia publicada de explotación. Categoría: GrapheneOS.</description>
+      <pubDate>Thu, 08 Oct 2026 11:25:31 +0000</pubDate>
+      <category>GrapheneOS</category>
     </item>
   </channel>
 </rss>
