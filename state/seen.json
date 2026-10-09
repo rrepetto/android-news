@@ -1683,6 +1683,18 @@
       "title": "GrapheneOS corrige corrupción de memoria en ZipFileRO y aplica el parche de octubre",
       "url": "https://grapheneos.org/releases#2026100600",
       "first_seen": "2026-10-08"
+    },
+    {
+      "id": "midnight-mimosa-preinstalled-platform-signed-android-malware-oct2026",
+      "title": "Midnight Mimosa: malware preinstalado y firmado como sistema convierte Android económicos en proxies",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "samsung-oct2026-smart-switch-checkout-arbitrary-apps-activities",
+      "title": "Samsung corrige instalación arbitraria de APKs en Smart Switch y lanzamiento privilegiado de Activities en Checkout",
+      "url": "https://security.samsungmobile.com/serviceWeb.smsb?month=10&year=2026",
+      "first_seen": "2026-10-09"
     }
   ]
 }
