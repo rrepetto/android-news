@@ -1695,6 +1695,18 @@
       "title": "Samsung corrige instalación arbitraria de APKs en Smart Switch y lanzamiento privilegiado de Activities en Checkout",
       "url": "https://security.samsungmobile.com/serviceWeb.smsb?month=10&year=2026",
       "first_seen": "2026-10-09"
+    },
+    {
+      "id": "pwn2own-ireland-2026-pixel10-remote-exploits",
+      "title": "Pwn2Own: tres ataques remotos comprometen un Pixel 10 actualizado",
+      "url": "https://www.zerodayinitiative.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn",
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "pwn2own-ireland-2026-galaxy-s26-confused-deputy",
+      "title": "Pwn2Own: Galaxy S26 comprometido mediante Confused Deputy y otras cadenas",
+      "url": "https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results",
+      "first_seen": "2026-10-10"
     }
   ]
 }

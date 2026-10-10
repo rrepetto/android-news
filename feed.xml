@@ -5,22 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:49:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:58:33 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Midnight Mimosa: malware preinstalado y firmado como sistema convierte Android económicos en proxies</title>
-      <link>https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware</link>
-      <guid isPermaLink="false">midnight-mimosa-preinstalled-platform-signed-android-malware-oct2026</guid>
-      <description>Publicado el 8 de octubre de 2026. Bitdefender documentó miles de dispositivos Android económicos con MediaTek afectados en más de 150 países: una app preinstalada y firmada con la clave de plataforma, con privilegios de sistema, instala payloads sin intervención, desactiva temporalmente Play Store y permite fraude publicitario y proxies residenciales. Identificó al menos 32 apps de cobertura y 13 apps relacionadas en Google Play. El origen exacto de la inserción en la cadena de suministro no está atribuido. Categoría: Malware.</description>
-      <pubDate>Fri, 09 Oct 2026 11:49:01 +0000</pubDate>
-      <category>Malware</category>
+      <title>[MEDIA] Pwn2Own: tres ataques remotos comprometen un Pixel 10 actualizado</title>
+      <link>https://www.zerodayinitiative.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn</link>
+      <guid isPermaLink="false">pwn2own-ireland-2026-pixel10-remote-exploits</guid>
+      <description>Publicado el 8 de octubre de 2026. En Pwn2Own Ireland, tres equipos demostraron compromisos remotos del Pixel 10: Xint usó un fallo previamente conocido, Ikotas Labs encadenó varias fallas y un tercer equipo combinó un zero-day con un fallo conocido. Los premios sumaron USD 562.500. No se publicaron componentes, CVEs ni técnicas de explotación; tampoco hay evidencia de ataques reales o bypass de Play Integrity. Categoría: Vulnerabilidades/Pixel.</description>
+      <pubDate>Sat, 10 Oct 2026 11:58:33 +0000</pubDate>
+      <category>Vulnerabilidades/Pixel</category>
     </item>
     <item>
-      <title>[MEDIA] Samsung corrige instalación arbitraria de APKs en Smart Switch y lanzamiento privilegiado de Activities en Checkout</title>
-      <link>https://security.samsungmobile.com/serviceWeb.smsb?month=10&amp;year=2026</link>
-      <guid isPermaLink="false">samsung-oct2026-smart-switch-checkout-arbitrary-apps-activities</guid>
-      <description>Publicado el 6 de octubre de 2026. Samsung corrigió CVE-2026-21136/21137/21138 en Smart Switch (antes de 3.7.73), que permitían a un atacante con acceso físico instalar aplicaciones arbitrarias, y CVE-2026-21128/21129/21130 en Samsung Checkout (antes de 5.1.03.1), que permitían a un atacante local iniciar Activities con privilegios de Checkout. Son fallas concretas de autorización y límites entre apps; no se informó explotación activa. Categoría: OEM/Seguridad.</description>
-      <pubDate>Fri, 09 Oct 2026 11:49:01 +0000</pubDate>
-      <category>OEM/Seguridad</category>
+      <title>[MEDIA] Pwn2Own: Galaxy S26 comprometido mediante Confused Deputy y otras cadenas</title>
+      <link>https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results</link>
+      <guid isPermaLink="false">pwn2own-ireland-2026-galaxy-s26-confused-deputy</guid>
+      <description>Publicado el 7 de octubre de 2026. Investigadores comprometieron el Galaxy S26 usando un único fallo de tipo Confused Deputy (CWE-441); otros dos equipos demostraron ataques remotos con cadenas de fallos nuevos y previamente conocidos. Expone riesgos concretos en los límites de privilegios de componentes del teléfono. Los detalles técnicos y CVEs aún no son públicos y no se informó explotación fuera del concurso. Categoría: Vulnerabilidades/OEM.</description>
+      <pubDate>Sat, 10 Oct 2026 11:58:33 +0000</pubDate>
+      <category>Vulnerabilidades/OEM</category>
     </item>
   </channel>
 </rss>
