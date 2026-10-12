@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 11 Oct 2026 11:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:57:30 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Chrome para Android corrige falla de autorización entre aplicaciones (CVE-2026-106367)</title>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-106367</link>
-      <guid isPermaLink="false">chrome-android-cve-2026-106367-sandbox-authorization-oct2026</guid>
-      <description>Publicado el 6 de octubre de 2026. CVE-2026-106367 (CWE-862) afecta a Chrome para Android anterior a 155.0.8059.39: una aplicación instalada en el mismo dispositivo podría, mediante ingeniería social, lograr ejecución de código fuera del sandbox del navegador. Chromium la clasifica como Media, con CVSS 8,4. No se conoce explotación activa. Es relevante para los límites de seguridad entre aplicaciones. Categoría: Vulnerabilidades/Chrome.</description>
-      <pubDate>Sun, 11 Oct 2026 11:26:53 +0000</pubDate>
-      <category>Vulnerabilidades/Chrome</category>
+      <title>[MEDIA] LineageOS 24.0 lleva Android 17 y parches de seguridad a dispositivos sin soporte OEM</title>
+      <link>https://lineageos.org/Changelog-32/</link>
+      <guid isPermaLink="false">lineageos-24-android17-security-backports-oct2026</guid>
+      <description>Publicado el 11 de octubre de 2026. LineageOS anunció la versión 24.0 basada en Android 17 y la incorporación de parches de seguridad de agosto de 2025 a octubre de 2026 en las ramas 18.1 a 24.0, con limitaciones de backport en versiones antiguas. También estrenó herramientas WebUSB para ADB, Fastboot y Odin. Importa para mantener dispositivos fuera del soporte OEM, aunque no garantiza parches de firmware del fabricante. Categoría: API/Plataforma</description>
+      <pubDate>Mon, 12 Oct 2026 11:57:30 +0000</pubDate>
+      <category>API/Plataforma</category>
     </item>
   </channel>
 </rss>

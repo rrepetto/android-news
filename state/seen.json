@@ -1713,6 +1713,12 @@
       "title": "Chrome para Android corrige falla de autorización entre aplicaciones (CVE-2026-106367)",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106367",
       "first_seen": "2026-10-11"
+    },
+    {
+      "id": "lineageos-24-android17-security-backports-oct2026",
+      "title": "LineageOS 24.0 lleva Android 17 y parches de seguridad a dispositivos sin soporte OEM",
+      "url": "https://lineageos.org/Changelog-32/",
+      "first_seen": "2026-10-12"
     }
   ]
 }
