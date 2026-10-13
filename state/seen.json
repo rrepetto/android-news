@@ -1719,6 +1719,18 @@
       "title": "LineageOS 24.0 lleva Android 17 y parches de seguridad a dispositivos sin soporte OEM",
       "url": "https://lineageos.org/Changelog-32/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "id": "kernelsu-v3-3-1-selinux-hide-adb-shell-oct2026",
+      "title": "KernelSU 3.3.1 refuerza la ocultación SELinux y restringe root de shell a ADB",
+      "url": "https://github.com/tiann/KernelSU/releases/tag/v3.3.1",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "kernelsu-next-v3-4-1-manager-app-lock-oct2026",
+      "title": "KernelSU Next 3.4.1 incorpora App Lock y corrige el manejo de políticas SELinux",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.1",
+      "first_seen": "2026-10-13"
     }
   ]
 }

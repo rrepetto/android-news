@@ -5,14 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 12 Oct 2026 11:57:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:59:55 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] LineageOS 24.0 lleva Android 17 y parches de seguridad a dispositivos sin soporte OEM</title>
-      <link>https://lineageos.org/Changelog-32/</link>
-      <guid isPermaLink="false">lineageos-24-android17-security-backports-oct2026</guid>
-      <description>Publicado el 11 de octubre de 2026. LineageOS anunció la versión 24.0 basada en Android 17 y la incorporación de parches de seguridad de agosto de 2025 a octubre de 2026 en las ramas 18.1 a 24.0, con limitaciones de backport en versiones antiguas. También estrenó herramientas WebUSB para ADB, Fastboot y Odin. Importa para mantener dispositivos fuera del soporte OEM, aunque no garantiza parches de firmware del fabricante. Categoría: API/Plataforma</description>
-      <pubDate>Mon, 12 Oct 2026 11:57:30 +0000</pubDate>
-      <category>API/Plataforma</category>
+      <title>[MEDIA] KernelSU 3.3.1 refuerza la ocultación SELinux y restringe root de shell a ADB</title>
+      <link>https://github.com/tiann/KernelSU/releases/tag/v3.3.1</link>
+      <guid isPermaLink="false">kernelsu-v3-3-1-selinux-hide-adb-shell-oct2026</guid>
+      <description>Publicado el 12 de octubre de 2026. KernelSU v3.3.1 corrige una vía de detección por tiempo en su ocultación de SELinux, agrega shell_su_adb_only para limitar root de shell a sesiones ADB y permite bloquear módulos del kernel durante el arranque. Relevante para detección de root y control de privilegios; no se documentó una evasión de Play Integrity. Categoría: Root</description>
+      <pubDate>Tue, 13 Oct 2026 11:59:55 +0000</pubDate>
+      <category>Root</category>
+    </item>
+    <item>
+      <title>[BAJA] KernelSU Next 3.4.1 incorpora App Lock y corrige el manejo de políticas SELinux</title>
+      <link>https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.1</link>
+      <guid isPermaLink="false">kernelsu-next-v3-4-1-manager-app-lock-oct2026</guid>
+      <description>Publicado el 9 de octubre de 2026. KernelSU Next v3.4.1 incorpora App Lock para la app gestora, exige un bloqueo de pantalla seguro para activarlo y corrige el acceso RCU a políticas SELinux y los cálculos avtab/xperms. Es endurecimiento del gestor root, sin evidencia de evasión de integridad nueva. Categoría: Root</description>
+      <pubDate>Tue, 13 Oct 2026 11:59:55 +0000</pubDate>
+      <category>Root</category>
     </item>
   </channel>
 </rss>
