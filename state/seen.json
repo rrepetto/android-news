@@ -1731,6 +1731,12 @@
       "title": "KernelSU Next 3.4.1 incorpora App Lock y corrige el manejo de políticas SELinux",
       "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.1",
       "first_seen": "2026-10-13"
+    },
+    {
+      "id": "kernelsu-next-v3-4-2-susfs-lkm-oct2026",
+      "title": "KernelSU Next 3.4.2 amplía SUSFS con cambios en redirección de rutas",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.2",
+      "first_seen": "2026-10-14"
     }
   ]
 }
