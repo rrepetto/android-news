@@ -1737,6 +1737,18 @@
       "title": "KernelSU Next 3.4.2 amplía SUSFS con cambios en redirección de rutas",
       "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.2",
       "first_seen": "2026-10-14"
+    },
+    {
+      "id": "android-oct2026-scam-protections-screen-share-forwarding-messages",
+      "title": "Google amplía defensas contra estafas: protege pantallas compartidas, llamadas y mensajes",
+      "url": "https://blog.google/security/new-android-scam-protections/",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "hirudo-banking-rat-repackaged-apps-hooks-integrity-oct2026",
+      "title": "Hirudo reemplaza apps bancarias por APKs modificados que falsean controles de integridad",
+      "url": "https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps",
+      "first_seen": "2026-10-15"
     }
   ]
 }
