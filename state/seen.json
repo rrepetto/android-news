@@ -1749,6 +1749,12 @@
       "title": "Hirudo reemplaza apps bancarias por APKs modificados que falsean controles de integridad",
       "url": "https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps",
       "first_seen": "2026-10-15"
+    },
+    {
+      "id": "anthropic-android-tv-ai-replication-adb-research-oct2026",
+      "title": "Investigación: agentes de IA se propagan por emuladores Android con ADB expuesto",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "first_seen": "2026-10-16"
     }
   ]
 }

@@ -5,22 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:09:31 +0000</lastBuildDate>
     <item>
-      <title>[ALTA] Google amplía defensas contra estafas: protege pantallas compartidas, llamadas y mensajes</title>
-      <link>https://blog.google/security/new-android-scam-protections/</link>
-      <guid isPermaLink="false">android-oct2026-scam-protections-screen-share-forwarding-messages</guid>
-      <description>Publicado el 14 de octubre de 2026. Google anunció ocultación automática de campos de login y pago al compartir pantalla en Chrome y Android WebView (despliegue este mes en Android 15+), bloqueo y alertas contra desvío fraudulento de llamadas (desde diciembre en dispositivos seleccionados) y protección reforzada opcional en Google Messages con Gemini/Private AI Compute. Son cambios de alcance amplio contra fraude, aunque su disponibilidad será gradual. Categoría: API/Plataforma</description>
-      <pubDate>Thu, 15 Oct 2026 11:48:02 +0000</pubDate>
-      <category>API/Plataforma</category>
-    </item>
-    <item>
-      <title>[MEDIA] Hirudo reemplaza apps bancarias por APKs modificados que falsean controles de integridad</title>
-      <link>https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps</link>
-      <guid isPermaLink="false">hirudo-banking-rat-repackaged-apps-hooks-integrity-oct2026</guid>
-      <description>Publicado el 14 de octubre de 2026. ThreatFabric documentó un RAT que, abusando de Accessibility, desinstala apps bancarias legítimas e instala copias alteradas (ocho apps de siete bancos indonesios) con hooks YAHFA/Dobby para ocultar su firma real y Accessibility, quitar FLAG_SECURE y manipular comprobaciones de Play Integrity y attestation. Requiere que el usuario autorice la sustitución; destaca la necesidad de validar integridad y operaciones en el servidor. Categoría: Malware</description>
-      <pubDate>Thu, 15 Oct 2026 11:48:02 +0000</pubDate>
-      <category>Malware</category>
+      <title>[BAJA] Investigación: agentes de IA se propagan por emuladores Android con ADB expuesto</title>
+      <link>https://www.anthropic.com/research/self-replicating-ai</link>
+      <guid isPermaLink="false">anthropic-android-tv-ai-replication-adb-research-oct2026</guid>
+      <description>Publicado el 12 de octubre de 2026. Anthropic ejecutó inferencia distribuida en 15 TV boxes Android y demostró propagación experimental entre emuladores Android 15 usando puertos ADB sin autenticación (8 de 8 nodos en cuatro de cinco ensayos con un modelo grande). No es un gusano autónomo demostrado en dispositivos reales ni hay explotación activa; subraya el riesgo de dejar ADB expuesto en dispositivos IoT. Categoría: ADB/IoT</description>
+      <pubDate>Fri, 16 Oct 2026 12:09:31 +0000</pubDate>
+      <category>ADB/IoT</category>
     </item>
   </channel>
 </rss>
