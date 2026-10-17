@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:53:27 +0000</lastBuildDate>
     <item>
-      <title>[BAJA] Investigación: agentes de IA se propagan por emuladores Android con ADB expuesto</title>
-      <link>https://www.anthropic.com/research/self-replicating-ai</link>
-      <guid isPermaLink="false">anthropic-android-tv-ai-replication-adb-research-oct2026</guid>
-      <description>Publicado el 12 de octubre de 2026. Anthropic ejecutó inferencia distribuida en 15 TV boxes Android y demostró propagación experimental entre emuladores Android 15 usando puertos ADB sin autenticación (8 de 8 nodos en cuatro de cinco ensayos con un modelo grande). No es un gusano autónomo demostrado en dispositivos reales ni hay explotación activa; subraya el riesgo de dejar ADB expuesto en dispositivos IoT. Categoría: ADB/IoT</description>
-      <pubDate>Fri, 16 Oct 2026 12:09:31 +0000</pubDate>
-      <category>ADB/IoT</category>
+      <title>[MEDIA] Google Play exhibe imitaciones de WhatsApp y Chrome en resultados patrocinados</title>
+      <link>https://www.androidauthority.com/fake-whatsapp-app-3724337/</link>
+      <guid isPermaLink="false">google-play-fake-whatsapp-chrome-sponsored-oct2026</guid>
+      <description>Publicado el 16 de octubre de 2026. Android Authority documentó una ficha falsa de WhatsApp en Google Play con más de 500.000 descargas, un desarrollador ajeno a Meta y presencia reportada en resultados patrocinados. Se suma a una imitación de Chrome denunciada el 14 de octubre con más de 100.000 descargas, luego retirada. La ficha de WhatsApp aparentaba usar Early Access, que no muestra reseñas públicas. No hay análisis técnico que demuestre malware o robo de datos: el riesgo comprobado es la suplantación y la distribución engañosa. Categoría: Google Play / Impersonación</description>
+      <pubDate>Sat, 17 Oct 2026 11:53:27 +0000</pubDate>
+      <category>Google Play / Impersonación</category>
     </item>
   </channel>
 </rss>

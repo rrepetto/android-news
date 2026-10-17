@@ -1755,6 +1755,12 @@
       "title": "Investigación: agentes de IA se propagan por emuladores Android con ADB expuesto",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
       "first_seen": "2026-10-16"
+    },
+    {
+      "id": "google-play-fake-whatsapp-chrome-sponsored-oct2026",
+      "title": "Google Play exhibe imitaciones de WhatsApp y Chrome en resultados patrocinados",
+      "url": "https://www.androidauthority.com/fake-whatsapp-app-3724337/",
+      "first_seen": "2026-10-17"
     }
   ]
 }
