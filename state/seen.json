@@ -1761,6 +1761,24 @@
       "title": "Google Play exhibe imitaciones de WhatsApp y Chrome en resultados patrocinados",
       "url": "https://www.androidauthority.com/fake-whatsapp-app-3724337/",
       "first_seen": "2026-10-17"
+    },
+    {
+      "id": "yuankong-rat-accessibility-wireless-adb-oct2026",
+      "title": "YuanKong RAT combina Accessibility, Wireless ADB y robo de PIN bancarios",
+      "url": "https://starlabs.sg/blog/2026/10-yuankong-rat-the-android-remote-control-service-that-stamps-its-operators-names-into-every-build/",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "adfection-zero-click-ads-candiru-oct2026",
+      "title": "AdFection: anuncios dirigidos habilitaron spyware zero-click y expusieron apps Android",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "grapheneos-2026101600-windowmanager-keyguard-activity-security",
+      "title": "GrapheneOS corrige fallas de WindowManager y reanudación de Activities ocultas por bloqueo",
+      "url": "https://grapheneos.org/releases#2026101600",
+      "first_seen": "2026-10-19"
     }
   ]
 }

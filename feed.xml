@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:32:37 GMT</lastBuildDate>
     <item>
-      <title>[MEDIA] Google Play exhibe imitaciones de WhatsApp y Chrome en resultados patrocinados</title>
-      <link>https://www.androidauthority.com/fake-whatsapp-app-3724337/</link>
-      <guid isPermaLink="false">google-play-fake-whatsapp-chrome-sponsored-oct2026</guid>
-      <description>Publicado el 16 de octubre de 2026. Android Authority documentó una ficha falsa de WhatsApp en Google Play con más de 500.000 descargas, un desarrollador ajeno a Meta y presencia reportada en resultados patrocinados. Se suma a una imitación de Chrome denunciada el 14 de octubre con más de 100.000 descargas, luego retirada. La ficha de WhatsApp aparentaba usar Early Access, que no muestra reseñas públicas. No hay análisis técnico que demuestre malware o robo de datos: el riesgo comprobado es la suplantación y la distribución engañosa. Categoría: Google Play / Impersonación</description>
-      <pubDate>Sat, 17 Oct 2026 11:53:27 +0000</pubDate>
-      <category>Google Play / Impersonación</category>
+      <title>[MEDIA] GrapheneOS corrige fallas de WindowManager y reanudación de Activities ocultas por bloqueo</title>
+      <link>https://grapheneos.org/releases#2026101600</link>
+      <guid isPermaLink="false">grapheneos-2026101600-windowmanager-keyguard-activity-security</guid>
+      <description>Publicado el 16 de octubre de 2026. La versión 2026101600 corrige una vulnerabilidad heredada de Android en WindowManagerService por confusión entre parámetros PID y UID y evita reanudar Activities ocultas por el bloqueo de pantalla cuando termina otra Activity. Importa para la integridad de la interfaz y el aislamiento entre aplicaciones; no se documenta explotación activa. Categoría: API/Plataforma / GrapheneOS</description>
+      <pubDate>Mon, 19 Oct 2026 11:32:37 GMT</pubDate>
+      <category>API/Plataforma / GrapheneOS</category>
     </item>
   </channel>
 </rss>
