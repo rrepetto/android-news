@@ -5,6 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:18:42 GMT</lastBuildDate>
+    <item>
+      <title>[MEDIA] Infinity Core: CVE-2026-98260 permitiría obtener root desde una app común en Galaxy S26 Ultra</title>
+      <link>https://github.com/V4bel/InfinityCore</link>
+      <guid isPermaLink="false">infinitycore-cve-2026-98260-galaxy-s26-ultra-android-lpe</guid>
+      <description>Investigación del 16 de octubre de 2026 sobre una vulnerabilidad del kernel que afecta la separación de privilegios de Android. La validación en Galaxy S26 Ultra es una afirmación del investigador; no hay explotación activa confirmada. Categoría: Root / Kernel.</description>
+      <pubDate>Wed, 21 Oct 2026 11:18:42 GMT</pubDate>
+      <category>Root / Kernel</category>
+    </item>
   </channel>
 </rss>

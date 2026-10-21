@@ -1779,6 +1779,15 @@
       "title": "GrapheneOS corrige fallas de WindowManager y reanudación de Activities ocultas por bloqueo",
       "url": "https://grapheneos.org/releases#2026101600",
       "first_seen": "2026-10-19"
+    },
+    {
+      "id": "infinitycore-cve-2026-98260-galaxy-s26-ultra-android-lpe",
+      "title": "Infinity Core: CVE-2026-98260 permitiría obtener root desde una app común en Galaxy S26 Ultra",
+      "url": "https://github.com/V4bel/InfinityCore",
+      "first_seen": "2026-10-21",
+      "category": "Root / Kernel",
+      "relevancia": "Media",
+      "resumen": "Investigación publicada el 16 de octubre de 2026. Hyunwoo Kim divulgó seis fallas del kernel Linux y afirma haber explotado CVE-2026-98260 desde untrusted_app sin permisos adicionales para obtener root en un Galaxy S26 Ultra. El exploit para Android no es público; no hay evidencia de explotación activa."
     }
   ]
 }
