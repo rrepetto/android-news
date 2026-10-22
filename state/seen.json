@@ -1788,6 +1788,33 @@
       "category": "Root / Kernel",
       "relevancia": "Media",
       "resumen": "Investigación publicada el 16 de octubre de 2026. Hyunwoo Kim divulgó seis fallas del kernel Linux y afirma haber explotado CVE-2026-98260 desde untrusted_app sin permisos adicionales para obtener root en un Galaxy S26 Ultra. El exploit para Android no es público; no hay evidencia de explotación activa."
+    },
+    {
+      "id": "emudhra-eight-compromised-intermediate-ca-android-play-services-oct2026",
+      "title": "Google bloquea ocho CA intermedias eMudhra comprometidas en Android y Chrome",
+      "url": "https://blog.google/security/protecting-chrome-and-android-users-from-compromised-emudhra-intermediate-ca-certificates/",
+      "first_seen": "2026-10-22",
+      "category": "TLS / Android Security",
+      "relevancia": "Media",
+      "resumen": "Publicado el 20 de octubre de 2026. Google confirmó que ocho claves privadas de CA intermedias eMudhra podían reconstruirse por entropía insuficiente, permitiendo falsificar certificados HTTPS en clientes que aún confiaran en ellas. Chrome bloqueó las claves y Android recibió una revocación mediante Google Play services el 19/10; no se confirmó explotación activa y Certificate Transparency protegía a clientes que la exigían."
+    },
+    {
+      "id": "chrome-always-use-secure-connections-default-android-oct2026",
+      "title": "Chrome exige confirmar conexiones HTTP inseguras por defecto, también en Android",
+      "url": "https://blog.google/security/chrome-now-warns-before-insecure-http-connections/",
+      "first_seen": "2026-10-22",
+      "category": "Navegador / Plataforma",
+      "relevancia": "Media",
+      "resumen": "Publicado el 21 de octubre de 2026. Chrome habilitó por defecto para todos los usuarios Always Use Secure Connections: advierte antes de establecer conexiones HTTP sin cifrar, también en móviles Android. Reduce exposición a interceptación e inyección de contenido; contempla excepciones para direcciones locales y sitios previamente autorizados."
+    },
+    {
+      "id": "grapheneos-2026102100-reverts-lockscreen-activity-hardening-oct2026",
+      "title": "GrapheneOS revierte una protección de Activities bajo la pantalla de bloqueo",
+      "url": "https://grapheneos.org/releases#2026102100",
+      "first_seen": "2026-10-22",
+      "category": "GrapheneOS / Integridad de pantalla",
+      "relevancia": "Media",
+      "resumen": "Publicado el 21 de octubre de 2026 (versión 2026102100, canal alpha). GrapheneOS revirtió por incompatibilidades el endurecimiento del 16/10 que impedía reanudar Activities ocultas por la pantalla de bloqueo. También eximió a Auditor de hibernación para mantener la atestación remota programada. No se reportó explotación activa."
     }
   ]
 }
