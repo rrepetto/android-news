@@ -1815,6 +1815,24 @@
       "category": "GrapheneOS / Integridad de pantalla",
       "relevancia": "Media",
       "resumen": "Publicado el 21 de octubre de 2026 (versión 2026102100, canal alpha). GrapheneOS revirtió por incompatibilidades el endurecimiento del 16/10 que impedía reanudar Activities ocultas por la pantalla de bloqueo. También eximió a Auditor de hibernación para mantener la atestación remota programada. No se reportó explotación activa."
+    },
+    {
+      "id": "ghostbat-ghostx-transparent-accessibility-overlay-pin-capture-oct2026",
+      "title": "GhostBat roba PINs con overlays transparentes sobre aplicaciones bancarias reales",
+      "url": "https://cyble.com/blog/ghostx-forged-in-transit-licensed-to-deceive/",
+      "first_seen": "2026-10-23",
+      "category": "Accessibility / Overlays / Fraude",
+      "relevancia": "Media",
+      "resumen": "Investigación de Cyble publicada el 15 de octubre de 2026. La nueva variante GhostBat (ecosistema GhostX) usa doce regiones transparentes de accessibility overlay sobre el teclado real de Google Pay y MobiKwik: captura el PIN y reproduce los toques en la app legítima. Otro mecanismo de Accessibility observa entradas en 60 apps financieras. Es un ataque a la integridad de la interacción, no solo una pantalla falsa."
+    },
+    {
+      "id": "android-2027-write-contacts-restriction-manage-contacts-policy-oct2026",
+      "title": "Android restringirá WRITE_CONTACTS y exigirá acceso especial para modificar contactos directamente",
+      "url": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
+      "first_seen": "2026-10-23",
+      "category": "Android API / Permisos",
+      "relevancia": "Media",
+      "resumen": "Google anunció el 21 de octubre de 2026 que las apps que apunten a la versión de Android prevista para 2027 ya no podrán escribir contactos directamente con WRITE_CONTACTS: esas operaciones fallarán y deberán usar intents con interacción del usuario. Android 17 QPR2 introducirá MANAGE_CONTACTS como acceso especial para apps justificadas, sujeto a política de Google Play. Reduce modificaciones silenciosas de la agenda, pero exige migrar integraciones."
     }
   ]
 }
