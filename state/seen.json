@@ -1833,6 +1833,24 @@
       "category": "Android API / Permisos",
       "relevancia": "Media",
       "resumen": "Google anunció el 21 de octubre de 2026 que las apps que apunten a la versión de Android prevista para 2027 ya no podrán escribir contactos directamente con WRITE_CONTACTS: esas operaciones fallarán y deberán usar intents con interacción del usuario. Android 17 QPR2 introducirá MANAGE_CONTACTS como acceso especial para apps justificadas, sujeto a política de Google Play. Reduce modificaciones silenciosas de la agenda, pero exige migrar integraciones."
+    },
+    {
+      "id": "oneplus-oxygenos-atlasservice-olc2-root-cve-2026-70386-70387",
+      "title": "OnePlus/OPPO: CVE-2026-70386 y 70387 permiten escalar de una app sin permisos a root",
+      "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+      "first_seen": "2026-10-24",
+      "category": "Root / CVE / Integridad del dispositivo",
+      "relevancia": "Alta",
+      "resumen": "CVE publicados el 21/10/2026; investigación original del 24/09 (actualizada el 28/09). Una app común sin permisos especiales puede encadenar AtlasService y el HAL olc2 de OxygenOS para ejecutar comandos como UID 0 con amplias capacidades Linux. El investigador validó la cadena en OnePlus 15 y desarrolló la PoC en otro OnePlus; el fabricante comunicó parches para 151 dispositivos mantenidos y 18 pendientes al 28/09. El impacto sobre señales locales de integridad es grave, pero no se ha demostrado un bypass criptográfico de Play Integrity ni explotación maliciosa activa."
+    },
+    {
+      "id": "zimperium-rathat-intrusion-logging-wireless-adb-forensics-oct2026",
+      "title": "Zimperium reconstruye el abuso de Wireless ADB de RatHat con Android Intrusion Logging",
+      "url": "https://zimperium.com/blog/beyond-the-sandbox-leveraging-android-intrusion-logs-to-expose-advanced-threats",
+      "first_seen": "2026-10-24",
+      "category": "ADB / Forensia / Detección",
+      "relevancia": "Media",
+      "resumen": "Análisis publicado el 22/10/2026. Zimperium muestra registros de procesos, conexiones loopback al ADB local y comandos shell que permiten reconstruir cómo RatHat sale del sandbox (UID 2000) y ejecuta binarios persistentes desde /data/local/tmp. Describe soporte de su herramienta para Intrusion Logging voluntario en dispositivos compatibles (inicialmente Pixel con Android 16+) y para Delegated Scope en equipos gestionados. No es una nueva familia de malware ni el anuncio original de la API, sino evidencia forense y una integración práctica."
     }
   ]
 }
