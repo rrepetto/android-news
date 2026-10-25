@@ -5,22 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:18:12 GMT</lastBuildDate>
     <item>
-      <title>[ALTA] OnePlus/OPPO: CVE-2026-70386 y 70387 permiten escalar de una app sin permisos a root</title>
-      <link>https://blog.nns.ee/2026/09/24/oneplus-root/</link>
-      <guid isPermaLink="false">oneplus-oxygenos-atlasservice-olc2-root-cve-2026-70386-70387</guid>
-      <description>CVE publicados el 21/10/2026; investigación original del 24/09 (actualizada el 28/09). Una app común sin permisos especiales puede encadenar AtlasService y el HAL olc2 de OxygenOS para ejecutar comandos como UID 0 con amplias capacidades Linux. El investigador validó la cadena en OnePlus 15 y desarrolló la PoC en otro OnePlus; el fabricante comunicó parches para 151 dispositivos mantenidos y 18 pendientes al 28/09. El impacto sobre señales locales de integridad es grave, pero no se ha demostrado un bypass criptográfico de Play Integrity ni explotación maliciosa activa. Categoría: Root / CVE / Integridad del dispositivo.</description>
-      <pubDate>Sat, 24 Oct 2026 11:35:25 GMT</pubDate>
-      <category>Root / CVE / Integridad del dispositivo</category>
-    </item>
-    <item>
-      <title>[MEDIA] Zimperium reconstruye el abuso de Wireless ADB de RatHat con Android Intrusion Logging</title>
-      <link>https://zimperium.com/blog/beyond-the-sandbox-leveraging-android-intrusion-logs-to-expose-advanced-threats</link>
-      <guid isPermaLink="false">zimperium-rathat-intrusion-logging-wireless-adb-forensics-oct2026</guid>
-      <description>Análisis publicado el 22/10/2026. Zimperium muestra registros de procesos, conexiones loopback al ADB local y comandos shell que permiten reconstruir cómo RatHat sale del sandbox (UID 2000) y ejecuta binarios persistentes desde /data/local/tmp. Describe soporte de su herramienta para Intrusion Logging voluntario en dispositivos compatibles (inicialmente Pixel con Android 16+) y para Delegated Scope en equipos gestionados. No es una nueva familia de malware ni el anuncio original de la API, sino evidencia forense y una integración práctica. Categoría: ADB / Forensia / Detección.</description>
-      <pubDate>Sat, 24 Oct 2026 11:35:25 GMT</pubDate>
-      <category>ADB / Forensia / Detección</category>
+      <title>[MEDIA] Android 17 QPR3 Beta 2 permite bloquear los controles de conectividad en la pantalla de bloqueo</title>
+      <link>https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/</link>
+      <guid isPermaLink="false">android17-qpr3-beta2-lock-quick-settings-connectivity-oct2026</guid>
+      <description>Novedad disponible en la beta publicada el 20/10/2026 (DP11.261002.005): los Pixel compatibles incorporan «Lock Quick Settings connectivity», una opción desactivada por defecto que exige desbloquear el dispositivo para cambiar Wi-Fi, Bluetooth, datos móviles o modo avión desde Ajustes rápidos. Dificulta que un ladrón desconecte inmediatamente un teléfono bloqueado para impedir su localización, pero no evita apagarlo ni garantiza su recuperación. La función fue verificada por medios especializados, aunque Google no la enumera en las notas oficiales y su llegada a la versión estable no está confirmada. Categoría: API/Plataforma / Protección antirrobo.</description>
+      <pubDate>Sun, 25 Oct 2026 11:18:12 GMT</pubDate>
+      <category>API/Plataforma / Protección antirrobo</category>
     </item>
   </channel>
 </rss>
