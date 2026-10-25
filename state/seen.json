@@ -1851,6 +1851,15 @@
       "category": "ADB / Forensia / Detección",
       "relevancia": "Media",
       "resumen": "Análisis publicado el 22/10/2026. Zimperium muestra registros de procesos, conexiones loopback al ADB local y comandos shell que permiten reconstruir cómo RatHat sale del sandbox (UID 2000) y ejecuta binarios persistentes desde /data/local/tmp. Describe soporte de su herramienta para Intrusion Logging voluntario en dispositivos compatibles (inicialmente Pixel con Android 16+) y para Delegated Scope en equipos gestionados. No es una nueva familia de malware ni el anuncio original de la API, sino evidencia forense y una integración práctica."
+    },
+    {
+      "id": "android17-qpr3-beta2-lock-quick-settings-connectivity-oct2026",
+      "title": "Android 17 QPR3 Beta 2 permite bloquear los controles de conectividad en la pantalla de bloqueo",
+      "url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/",
+      "first_seen": "2026-10-25",
+      "category": "API/Plataforma / Protección antirrobo",
+      "relevancia": "Media",
+      "resumen": "Novedad disponible en la beta publicada el 20/10/2026 (DP11.261002.005): los Pixel compatibles incorporan «Lock Quick Settings connectivity», una opción desactivada por defecto que exige desbloquear el dispositivo para cambiar Wi-Fi, Bluetooth, datos móviles o modo avión desde Ajustes rápidos. Dificulta que un ladrón desconecte inmediatamente un teléfono bloqueado para impedir su localización, pero no evita apagarlo ni garantiza su recuperación. La función fue verificada por medios especializados, aunque Google no la enumera en las notas oficiales y su llegada a la versión estable no está confirmada."
     }
   ]
 }
