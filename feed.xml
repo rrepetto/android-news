@@ -5,14 +5,6 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 25 Oct 2026 11:18:12 GMT</lastBuildDate>
-    <item>
-      <title>[MEDIA] Android 17 QPR3 Beta 2 permite bloquear los controles de conectividad en la pantalla de bloqueo</title>
-      <link>https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/</link>
-      <guid isPermaLink="false">android17-qpr3-beta2-lock-quick-settings-connectivity-oct2026</guid>
-      <description>Novedad disponible en la beta publicada el 20/10/2026 (DP11.261002.005): los Pixel compatibles incorporan «Lock Quick Settings connectivity», una opción desactivada por defecto que exige desbloquear el dispositivo para cambiar Wi-Fi, Bluetooth, datos móviles o modo avión desde Ajustes rápidos. Dificulta que un ladrón desconecte inmediatamente un teléfono bloqueado para impedir su localización, pero no evita apagarlo ni garantiza su recuperación. La función fue verificada por medios especializados, aunque Google no la enumera en las notas oficiales y su llegada a la versión estable no está confirmada. Categoría: API/Plataforma / Protección antirrobo.</description>
-      <pubDate>Sun, 25 Oct 2026 11:18:12 GMT</pubDate>
-      <category>API/Plataforma / Protección antirrobo</category>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 11:27:04 GMT</lastBuildDate>
   </channel>
 </rss>
