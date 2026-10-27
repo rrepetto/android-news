@@ -1860,6 +1860,33 @@
       "category": "API/Plataforma / Protección antirrobo",
       "relevancia": "Media",
       "resumen": "Novedad disponible en la beta publicada el 20/10/2026 (DP11.261002.005): los Pixel compatibles incorporan «Lock Quick Settings connectivity», una opción desactivada por defecto que exige desbloquear el dispositivo para cambiar Wi-Fi, Bluetooth, datos móviles o modo avión desde Ajustes rápidos. Dificulta que un ladrón desconecte inmediatamente un teléfono bloqueado para impedir su localización, pero no evita apagarlo ni garantiza su recuperación. La función fue verificada por medios especializados, aunque Google no la enumera en las notas oficiales y su llegada a la versión estable no está confirmada."
+    },
+    {
+      "id": "microsoft-authenticator-authmask-cve-2026-80097-exported-activity-token-theft",
+      "title": "AuthMask: una Activity exportada de Microsoft Authenticator permitía robar tokens sin permisos",
+      "url": "https://enclave.ai/blog/authmask-we-made-microsoft-authenticator-hand-over-tokens",
+      "category": "Activities exportadas / Autenticación / Intent spoofing",
+      "relevancia": "Media",
+      "resumen": "Investigación técnica publicada el 23/10/2026 (CVE-2026-80097 divulgado y corregido el 08/09). Una app Android sin permisos podía falsificar el UID y paquete del llamador mediante extras de Intent enviados a AccountChooserActivity y recibir access/refresh tokens de una cuenta laboral, sin interacción adicional. La validación usaba la firma del paquete declarado, no la identidad real del proceso. Afectaba Microsoft Authenticator anterior a 6.2606.4246; no hay explotación activa confirmada. Es un caso concreto de abuso de componentes exportados y suplantación de origen, no un bypass de Play Integrity.",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "ucreator-yinggai-virtualapp-lspatch-telegram-wechat-oct2026",
+      "title": "uCreator/YingGai: spyware comercial usa VirtualApp y LSPatch para intervenir apps autenticadas",
+      "url": "https://www.0x0v1.com/ucreator-virtualization-based-android-spyware-platform-targeting-wechat-telegram-and-other-messaging-apps/",
+      "category": "Virtualización / Hooking / App tampering / Malware",
+      "relevancia": "Media",
+      "resumen": "Análisis original publicado el 21/10/2026 y difundido el 26/10. El investigador documentó una plataforma comercial que integra VirtualApp, LSPatch y Pine para ejecutar módulos de hooking sin root dentro de apps legítimas repaquetizadas o en un contenedor. Puede consultar datos de Telegram en sesión, capturar su contraseña 2FA, ocultar sesiones y clonar cuentas WeChat; también hay código de suplantación de cámara orientado a KYC. Hay muestras de 2024–2026 y evidencia de infraestructura operativa, pero no un conteo fiable de víctimas ni pruebas de uso de todas las capacidades.",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "google-play-services-26-41-android15-incall-accessibility-scam-protection-oct2026",
+      "title": "Play services 26.41 extiende protección contra abuso de Accessibility durante llamadas a Android 15 y anteriores",
+      "url": "https://support.google.com/product-documentation/answer/14343500",
+      "category": "Google Play services / Accessibility / Antifraude",
+      "relevancia": "Media",
+      "resumen": "Notas oficiales publicadas el 19/10/2026: Google Play services v26.41 agrega una capa de defensa frente a estafas telefónicas en dispositivos con Android 15 o anterior cuando una app solicita permisos de Accessibility durante una llamada. Reduce el riesgo de que un estafador guíe a la víctima para conceder control del teléfono. Google no especifica si bloquea, advierte o interviene de otra forma, ni qué dispositivos ya tienen el despliegue activo.",
+      "first_seen": "2026-10-27"
     }
   ]
 }

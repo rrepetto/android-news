@@ -5,6 +5,30 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:27:42 GMT</lastBuildDate>
+    <item>
+      <title>[MEDIA] AuthMask: una Activity exportada de Microsoft Authenticator permitía robar tokens sin permisos</title>
+      <link>https://enclave.ai/blog/authmask-we-made-microsoft-authenticator-hand-over-tokens</link>
+      <guid isPermaLink="false">microsoft-authenticator-authmask-cve-2026-80097-exported-activity-token-theft</guid>
+      <description>Investigación técnica publicada el 23/10/2026 (CVE-2026-80097 divulgado y corregido el 08/09). Una app Android sin permisos podía falsificar el UID y paquete del llamador mediante extras de Intent enviados a AccountChooserActivity y recibir access/refresh tokens de una cuenta laboral, sin interacción adicional. La validación usaba la firma del paquete declarado, no la identidad real del proceso. Afectaba Microsoft Authenticator anterior a 6.2606.4246; no hay explotación activa confirmada. Es un caso concreto de abuso de componentes exportados y suplantación de origen, no un bypass de Play Integrity. Categoría: Activities exportadas / Autenticación / Intent spoofing.</description>
+      <pubDate>Tue, 27 Oct 2026 11:27:42 GMT</pubDate>
+      <category>Activities exportadas / Autenticación / Intent spoofing</category>
+    </item>
+    <item>
+      <title>[MEDIA] uCreator/YingGai: spyware comercial usa VirtualApp y LSPatch para intervenir apps autenticadas</title>
+      <link>https://www.0x0v1.com/ucreator-virtualization-based-android-spyware-platform-targeting-wechat-telegram-and-other-messaging-apps/</link>
+      <guid isPermaLink="false">ucreator-yinggai-virtualapp-lspatch-telegram-wechat-oct2026</guid>
+      <description>Análisis original publicado el 21/10/2026 y difundido el 26/10. El investigador documentó una plataforma comercial que integra VirtualApp, LSPatch y Pine para ejecutar módulos de hooking sin root dentro de apps legítimas repaquetizadas o en un contenedor. Puede consultar datos de Telegram en sesión, capturar su contraseña 2FA, ocultar sesiones y clonar cuentas WeChat; también hay código de suplantación de cámara orientado a KYC. Hay muestras de 2024–2026 y evidencia de infraestructura operativa, pero no un conteo fiable de víctimas ni pruebas de uso de todas las capacidades. Categoría: Virtualización / Hooking / App tampering / Malware.</description>
+      <pubDate>Tue, 27 Oct 2026 11:27:42 GMT</pubDate>
+      <category>Virtualización / Hooking / App tampering / Malware</category>
+    </item>
+    <item>
+      <title>[MEDIA] Play services 26.41 extiende protección contra abuso de Accessibility durante llamadas a Android 15 y anteriores</title>
+      <link>https://support.google.com/product-documentation/answer/14343500</link>
+      <guid isPermaLink="false">google-play-services-26-41-android15-incall-accessibility-scam-protection-oct2026</guid>
+      <description>Notas oficiales publicadas el 19/10/2026: Google Play services v26.41 agrega una capa de defensa frente a estafas telefónicas en dispositivos con Android 15 o anterior cuando una app solicita permisos de Accessibility durante una llamada. Reduce el riesgo de que un estafador guíe a la víctima para conceder control del teléfono. Google no especifica si bloquea, advierte o interviene de otra forma, ni qué dispositivos ya tienen el despliegue activo. Categoría: Google Play services / Accessibility / Antifraude.</description>
+      <pubDate>Tue, 27 Oct 2026 11:27:42 GMT</pubDate>
+      <category>Google Play services / Accessibility / Antifraude</category>
+    </item>
   </channel>
 </rss>
