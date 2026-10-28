@@ -1887,6 +1887,15 @@
       "relevancia": "Media",
       "resumen": "Notas oficiales publicadas el 19/10/2026: Google Play services v26.41 agrega una capa de defensa frente a estafas telefónicas en dispositivos con Android 15 o anterior cuando una app solicita permisos de Accessibility durante una llamada. Reduce el riesgo de que un estafador guíe a la víctima para conceder control del teléfono. Google no especifica si bloquea, advierte o interviene de otra forma, ni qué dispositivos ya tienen el despliegue activo.",
       "first_seen": "2026-10-27"
+    },
+    {
+      "id": "android-registered-app-stores-enrollment-one-tap-installs-oct2026",
+      "title": "Google abre el registro de tiendas Android con instalación de un toque y sin confirmación secundaria",
+      "url": "https://developer.android.com/registered-app-stores/overview",
+      "first_seen": "2026-10-28",
+      "category": "Distribución / Seguridad de instalación / API/Plataforma",
+      "relevancia": "Alta",
+      "resumen": "Anunciado el 27/10/2026: Google abrió la inscripción voluntaria al programa Registered App Stores. Desde el 01/12/2026, en regiones admitidas y con Android 17 QPR2 o superior, las tiendas aprobadas podrán instalar aplicaciones con un toque sin diálogos secundarios del sistema y actualizar en segundo plano. Exige verificación del operador, revisión antimalware del APK de la tienda y envío continuo del catálogo para análisis. Es un cambio material del modelo de permisos y confianza para tiendas alternativas, no un bypass de seguridad; la función todavía no está desplegada."
     }
   ]
 }
