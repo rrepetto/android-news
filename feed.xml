@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:17:05 GMT</lastBuildDate>
     <item>
-      <title>[ALTA] Google abre el registro de tiendas Android con instalación de un toque y sin confirmación secundaria</title>
-      <link>https://developer.android.com/registered-app-stores/overview</link>
-      <guid isPermaLink="false">android-registered-app-stores-enrollment-one-tap-installs-oct2026</guid>
-      <description>Anunciado el 27/10/2026: Google abrió la inscripción voluntaria al programa Registered App Stores. Desde el 01/12/2026, en regiones admitidas y con Android 17 QPR2 o superior, las tiendas aprobadas podrán instalar aplicaciones con un toque sin diálogos secundarios del sistema y actualizar en segundo plano. Exige verificación del operador, revisión antimalware del APK de la tienda y envío continuo del catálogo para análisis. Es un cambio material del modelo de permisos y confianza para tiendas alternativas, no un bypass de seguridad; la función todavía no está desplegada. Categoría: Distribución / Seguridad de instalación / API/Plataforma.</description>
-      <pubDate>Wed, 28 Oct 2026 11:57:47 GMT</pubDate>
-      <category>Distribución / Seguridad de instalación / API/Plataforma</category>
+      <title>[MEDIA] MR ROBOT: MaaS bancario combina evasión de análisis, firmas únicas y desvío de llamadas</title>
+      <link>https://www.cloudsek.com/blog/inside-mr-robot-malware-as-a-service-targeting-indian-bank-customers</link>
+      <guid isPermaLink="false">mr-robot-cloudsek-android-banking-maas-anti-analysis-call-forwarding-oct2026</guid>
+      <description>Investigación original de CloudSEK publicada el 28/10/2026. MR ROBOT es un kit MaaS activo con panel multiusuario y generador de APKs bancarios: combina un dropper cifrado, firmas distintas por compilación, archivos ZIP falsamente marcados como cifrados y espera de 48 horas para evadir análisis. También desvía llamadas mediante códigos USSD *21* para interceptar verificaciones bancarias; CloudSEK observó unos 307 dispositivos en dos afiliados. Varias técnicas ya existían en RedWing, pero el kit y su infraestructura operativa no estaban documentados. Categoría: Malware / Fraude bancario / Evasión.</description>
+      <pubDate>Thu, 29 Oct 2026 11:17:05 GMT</pubDate>
+      <category>Malware / Fraude bancario / Evasión</category>
     </item>
   </channel>
 </rss>
