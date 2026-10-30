@@ -1905,6 +1905,24 @@
       "category": "Malware / Fraude bancario / Evasión",
       "relevancia": "Media",
       "resumen": "Investigación original de CloudSEK publicada el 28/10/2026. MR ROBOT es un kit MaaS activo con panel multiusuario y generador de APKs bancarios: combina un dropper cifrado, firmas distintas por compilación, archivos ZIP falsamente marcados como cifrados y espera de 48 horas para evadir análisis. También desvía llamadas mediante códigos USSD *21* para interceptar verificaciones bancarias; CloudSEK observó unos 307 dispositivos en dos afiliados. Varias técnicas ya existían en RedWing, pero el kit y su infraestructura operativa no estaban documentados."
+    },
+    {
+      "id": "android-sms-of-death-wap-push-zero-click-telephony-dos-oct2026",
+      "title": "SMS of Death: un WAP Push malformado provoca DoS zero-click y bucles de reinicio",
+      "url": "https://smsofdeath.com/",
+      "first_seen": "2026-10-30",
+      "category": "Vulnerabilidades / Telefonía / DoS",
+      "relevancia": "Media",
+      "resumen": "Divulgación original del 29/10/2026 (reportada a Google el 05/05): un SMS WAP Push malformado provoca una excepción no capturada en WapPushOverSms y termina com.android.phone sin interacción, cortando llamadas y pudiendo generar reinicios persistentes por reintentos de entrega. Hay PoC y pruebas en Pixel y Samsung, sin explotación maliciosa confirmada. Existe corrección AOSP de junio; GrapheneOS informa que la incluyó en sus previews de julio y que figurará en el boletín Android de noviembre. El investigador sitúa el arreglo en octubre, por lo que no debe asumirse cobertura uniforme por fecha de parche."
+    },
+    {
+      "id": "pixelos-play-integrity-non-rkp-server-side-tightening-oct2026",
+      "title": "PixelOS reporta endurecimiento de Play Integrity para dispositivos sin RKP",
+      "url": "https://blog.pixelos.net/docs/users/guide/play-integrity/",
+      "first_seen": "2026-10-30",
+      "category": "Play Integrity / Attestation / Root",
+      "relevancia": "Media",
+      "resumen": "Aviso de PixelOS fechado el 16/10/2026: según sus mantenedores, cambios de validación del lado de Google hacen que dispositivos/configuraciones sin Remote Key Provisioning (RKP) obtengan solo MEETS_BASIC_INTEGRITY, aunque antes pasaran DEVICE/STRONG mediante keybox y propiedades modificadas. Afecta la compatibilidad de ROMs personalizadas con apps bancarias y el análisis de señales antifraude. No hay anuncio técnico oficial de Google ni alcance cuantificado: se trata de un reporte de la comunidad, no de un cambio universal confirmado."
     }
   ]
 }
