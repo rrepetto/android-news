@@ -5,14 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 11:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:56:20 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] MR ROBOT: MaaS bancario combina evasión de análisis, firmas únicas y desvío de llamadas</title>
-      <link>https://www.cloudsek.com/blog/inside-mr-robot-malware-as-a-service-targeting-indian-bank-customers</link>
-      <guid isPermaLink="false">mr-robot-cloudsek-android-banking-maas-anti-analysis-call-forwarding-oct2026</guid>
-      <description>Investigación original de CloudSEK publicada el 28/10/2026. MR ROBOT es un kit MaaS activo con panel multiusuario y generador de APKs bancarios: combina un dropper cifrado, firmas distintas por compilación, archivos ZIP falsamente marcados como cifrados y espera de 48 horas para evadir análisis. También desvía llamadas mediante códigos USSD *21* para interceptar verificaciones bancarias; CloudSEK observó unos 307 dispositivos en dos afiliados. Varias técnicas ya existían en RedWing, pero el kit y su infraestructura operativa no estaban documentados. Categoría: Malware / Fraude bancario / Evasión.</description>
-      <pubDate>Thu, 29 Oct 2026 11:17:05 GMT</pubDate>
-      <category>Malware / Fraude bancario / Evasión</category>
+      <title>[MEDIA] SMS of Death: un WAP Push malformado provoca DoS zero-click y bucles de reinicio</title>
+      <link>https://smsofdeath.com/</link>
+      <guid isPermaLink="false">android-sms-of-death-wap-push-zero-click-telephony-dos-oct2026</guid>
+      <description>Divulgación original del 29/10/2026 (reportada a Google el 05/05): un SMS WAP Push malformado provoca una excepción no capturada en WapPushOverSms y termina com.android.phone sin interacción, cortando llamadas y pudiendo generar reinicios persistentes por reintentos de entrega. Hay PoC y pruebas en Pixel y Samsung, sin explotación maliciosa confirmada. Existe corrección AOSP de junio; GrapheneOS informa que la incluyó en sus previews de julio y que figurará en el boletín Android de noviembre. El investigador sitúa el arreglo en octubre, por lo que no debe asumirse cobertura uniforme por fecha de parche. Categoría: Vulnerabilidades / Telefonía / DoS.</description>
+      <pubDate>Fri, 30 Oct 2026 11:56:20 +0000</pubDate>
+      <category>Vulnerabilidades / Telefonía / DoS</category>
+    </item>
+    <item>
+      <title>[MEDIA] PixelOS reporta endurecimiento de Play Integrity para dispositivos sin RKP</title>
+      <link>https://blog.pixelos.net/docs/users/guide/play-integrity/</link>
+      <guid isPermaLink="false">pixelos-play-integrity-non-rkp-server-side-tightening-oct2026</guid>
+      <description>Aviso de PixelOS fechado el 16/10/2026: según sus mantenedores, cambios de validación del lado de Google hacen que dispositivos/configuraciones sin Remote Key Provisioning (RKP) obtengan solo MEETS_BASIC_INTEGRITY, aunque antes pasaran DEVICE/STRONG mediante keybox y propiedades modificadas. Afecta la compatibilidad de ROMs personalizadas con apps bancarias y el análisis de señales antifraude. No hay anuncio técnico oficial de Google ni alcance cuantificado: se trata de un reporte de la comunidad, no de un cambio universal confirmado. Categoría: Play Integrity / Attestation / Root.</description>
+      <pubDate>Fri, 30 Oct 2026 11:56:20 +0000</pubDate>
+      <category>Play Integrity / Attestation / Root</category>
     </item>
   </channel>
 </rss>
