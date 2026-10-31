@@ -1923,6 +1923,24 @@
       "category": "Play Integrity / Attestation / Root",
       "relevancia": "Media",
       "resumen": "Aviso de PixelOS fechado el 16/10/2026: según sus mantenedores, cambios de validación del lado de Google hacen que dispositivos/configuraciones sin Remote Key Provisioning (RKP) obtengan solo MEETS_BASIC_INTEGRITY, aunque antes pasaran DEVICE/STRONG mediante keybox y propiedades modificadas. Afecta la compatibilidad de ROMs personalizadas con apps bancarias y el análisis de señales antifraude. No hay anuncio técnico oficial de Google ni alcance cuantificado: se trata de un reporte de la comunidad, no de un cambio universal confirmado."
+    },
+    {
+      "id": "magisk-v31-1-hsum-removes-app-hiding-reactive-su-oct2026",
+      "title": "Magisk v31.1 elimina el ocultamiento de la app y cambia la concesión de root",
+      "url": "https://github.com/topjohnwu/Magisk/releases/tag/v31.1",
+      "category": "Root / Magisk / Detección",
+      "relevancia": "Media",
+      "resumen": "Release oficial del 25/10/2026: para soportar Headless System User Mode, Magisk v31.1 elimina el repaquetado/ocultamiento de su APK y el stub, deja de reinstalar automáticamente la app y reemplaza los diálogos reactivos de su por permisos preconcedidos. El propio autor recomienda desinstalar la app de gestión después de configurar root: la ausencia del paquete Magisk deja de ser una señal útil para descartar root, aunque esto no demuestra evasión de Play Integrity.",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "sleipnir-android-cve-2026-109434-address-bar-ui-spoofing",
+      "title": "CVE-2026-109434: Sleipnir para Android permitía falsificar indicadores de navegación",
+      "url": "https://jvn.jp/en/jp/JVN90463048/index.html",
+      "category": "UI spoofing / Phishing / CVE",
+      "relevancia": "Baja",
+      "resumen": "Advisory oficial JVN publicado el 27/10/2026: Sleipnir Mobile para Android anterior a 3.9.0 permitía que una página especialmente preparada mostrara indicadores de interfaz engañosos, incluido un falso origen, facilitando phishing tras interacción del usuario (CWE-451; CVSS 4.0: 5,1). Fenrir corrigió el problema en la versión 3.9.0 publicada el 15/10; no hay evidencia de explotación activa y el alcance se limita a ese navegador.",
+      "first_seen": "2026-10-31"
     }
   ]
 }

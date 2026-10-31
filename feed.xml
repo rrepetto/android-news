@@ -5,22 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 30 Oct 2026 11:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:19:00 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] SMS of Death: un WAP Push malformado provoca DoS zero-click y bucles de reinicio</title>
-      <link>https://smsofdeath.com/</link>
-      <guid isPermaLink="false">android-sms-of-death-wap-push-zero-click-telephony-dos-oct2026</guid>
-      <description>Divulgación original del 29/10/2026 (reportada a Google el 05/05): un SMS WAP Push malformado provoca una excepción no capturada en WapPushOverSms y termina com.android.phone sin interacción, cortando llamadas y pudiendo generar reinicios persistentes por reintentos de entrega. Hay PoC y pruebas en Pixel y Samsung, sin explotación maliciosa confirmada. Existe corrección AOSP de junio; GrapheneOS informa que la incluyó en sus previews de julio y que figurará en el boletín Android de noviembre. El investigador sitúa el arreglo en octubre, por lo que no debe asumirse cobertura uniforme por fecha de parche. Categoría: Vulnerabilidades / Telefonía / DoS.</description>
-      <pubDate>Fri, 30 Oct 2026 11:56:20 +0000</pubDate>
-      <category>Vulnerabilidades / Telefonía / DoS</category>
+      <title>[MEDIA] Magisk v31.1 elimina el ocultamiento de la app y cambia la concesión de root</title>
+      <link>https://github.com/topjohnwu/Magisk/releases/tag/v31.1</link>
+      <guid isPermaLink="false">magisk-v31-1-hsum-removes-app-hiding-reactive-su-oct2026</guid>
+      <description>Release oficial del 25/10/2026: para soportar Headless System User Mode, Magisk v31.1 elimina el repaquetado/ocultamiento de su APK y el stub, deja de reinstalar automáticamente la app y reemplaza los diálogos reactivos de su por permisos preconcedidos. El propio autor recomienda desinstalar la app de gestión después de configurar root: la ausencia del paquete Magisk deja de ser una señal útil para descartar root, aunque esto no demuestra evasión de Play Integrity. Categoría: Root / Magisk / Detección.</description>
+      <pubDate>Sat, 31 Oct 2026 11:19:00 +0000</pubDate>
+      <category>Root / Magisk / Detección</category>
     </item>
     <item>
-      <title>[MEDIA] PixelOS reporta endurecimiento de Play Integrity para dispositivos sin RKP</title>
-      <link>https://blog.pixelos.net/docs/users/guide/play-integrity/</link>
-      <guid isPermaLink="false">pixelos-play-integrity-non-rkp-server-side-tightening-oct2026</guid>
-      <description>Aviso de PixelOS fechado el 16/10/2026: según sus mantenedores, cambios de validación del lado de Google hacen que dispositivos/configuraciones sin Remote Key Provisioning (RKP) obtengan solo MEETS_BASIC_INTEGRITY, aunque antes pasaran DEVICE/STRONG mediante keybox y propiedades modificadas. Afecta la compatibilidad de ROMs personalizadas con apps bancarias y el análisis de señales antifraude. No hay anuncio técnico oficial de Google ni alcance cuantificado: se trata de un reporte de la comunidad, no de un cambio universal confirmado. Categoría: Play Integrity / Attestation / Root.</description>
-      <pubDate>Fri, 30 Oct 2026 11:56:20 +0000</pubDate>
-      <category>Play Integrity / Attestation / Root</category>
+      <title>[BAJA] CVE-2026-109434: Sleipnir para Android permitía falsificar indicadores de navegación</title>
+      <link>https://jvn.jp/en/jp/JVN90463048/index.html</link>
+      <guid isPermaLink="false">sleipnir-android-cve-2026-109434-address-bar-ui-spoofing</guid>
+      <description>Advisory oficial JVN publicado el 27/10/2026: Sleipnir Mobile para Android anterior a 3.9.0 permitía que una página especialmente preparada mostrara indicadores de interfaz engañosos, incluido un falso origen, facilitando phishing tras interacción del usuario (CWE-451; CVSS 4.0: 5,1). Fenrir corrigió el problema en la versión 3.9.0 publicada el 15/10; no hay evidencia de explotación activa y el alcance se limita a ese navegador. Categoría: UI spoofing / Phishing / CVE.</description>
+      <pubDate>Sat, 31 Oct 2026 11:19:00 +0000</pubDate>
+      <category>UI spoofing / Phishing / CVE</category>
     </item>
   </channel>
 </rss>
