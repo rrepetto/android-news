@@ -1941,6 +1941,24 @@
       "relevancia": "Baja",
       "resumen": "Advisory oficial JVN publicado el 27/10/2026: Sleipnir Mobile para Android anterior a 3.9.0 permitía que una página especialmente preparada mostrara indicadores de interfaz engañosos, incluido un falso origen, facilitando phishing tras interacción del usuario (CWE-451; CVSS 4.0: 5,1). Fenrir corrigió el problema en la versión 3.9.0 publicada el 15/10; no hay evidencia de explotación activa y el alcance se limita a ese navegador.",
       "first_seen": "2026-10-31"
+    },
+    {
+      "id": "telegram-android-nebusec-voice-call-mediastate-rce-oct2026",
+      "title": "Telegram Android: falla en llamadas de voz permitía RCE al atender (corregida en 12.10.4)",
+      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "category": "Vulnerabilidades / RCE / Aplicaciones Android",
+      "relevancia": "Media",
+      "resumen": "Divulgada el 29/10/2026 por NebuSec: Telegram Android 8.6.2–12.10.3 procesaba incorrectamente campos MediaState durante llamadas privadas. Según el investigador, encadenar este error con una fuga de información y otra vulnerabilidad de root permitía ejecutar código y tomar el dispositivo cuando la víctima atendía. Corregida en 12.10.4 (septiembre); sin CVE, sin explotación activa conocida y sin publicación técnica de la cadena completa.",
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "alpine-ilx-f511-android-auto-adjacent-root-rce-cve-2026-118610-118606",
+      "title": "Alpine iLX-F511: zero-days en Android Auto y framework permiten RCE como root",
+      "url": "https://www.zerodayinitiative.com/advisories/ZDI-26-828/",
+      "category": "Android Auto / CVE / Automotive",
+      "relevancia": "Media",
+      "resumen": "Advisories ZDI del 28/10/2026: CVE-2026-118610 (desbordamiento de pila en el servicio Android Auto) y CVE-2026-118606 (función peligrosa expuesta en el framework), ambos CVSS 8.8, permiten a un atacante en red adyacente ejecutar código como root sin autenticación ni interacción. Afectan al receptor automotor Alpine iLX-F511, no a teléfonos Android. ZDI los publica como 0-day; no hay explotación maliciosa confirmada.",
+      "first_seen": "2026-11-01"
     }
   ]
 }
