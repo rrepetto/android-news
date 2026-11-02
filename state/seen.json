@@ -1959,6 +1959,24 @@
       "relevancia": "Media",
       "resumen": "Advisories ZDI del 28/10/2026: CVE-2026-118610 (desbordamiento de pila en el servicio Android Auto) y CVE-2026-118606 (función peligrosa expuesta en el framework), ambos CVSS 8.8, permiten a un atacante en red adyacente ejecutar código como root sin autenticación ni interacción. Afectan al receptor automotor Alpine iLX-F511, no a teléfonos Android. ZDI los publica como 0-day; no hay explotación maliciosa confirmada.",
       "first_seen": "2026-11-01"
+    },
+    {
+      "id": "unknownauto-v1-2-shizuku-spoofs-play-installer-android-auto-nov2026",
+      "title": "UnknownAuto 1.2 usa Shizuku para simular origen Google Play en Android Auto",
+      "url": "https://github.com/GitMag/UnknownAuto/releases/tag/v1.2",
+      "category": "Shizuku / Wireless ADB / Instalación de apps",
+      "relevancia": "Media",
+      "resumen": "Release oficial del 02/11/2026: UnknownAuto 1.2 extiende a Android 14 y anteriores una técnica para instalar APKs de Android Auto marcándolos como originados en Google Play, mediante el instalador del sistema iniciado con privilegios shell de Shizuku. Ilustra que la procedencia registrada por PackageManager puede manipularse con acceso ADB/shell y no debe tratarse como prueba criptográfica de distribución; no es un bypass demostrado de Play Integrity ni de Play Protect.",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "android-dev-summit-2026-official-intent-permissions-security-skills",
+      "title": "Google publica skills oficiales para auditar Intents, componentes exportados y permisos Android",
+      "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+      "category": "Herramientas / Seguridad de apps / IPC",
+      "relevancia": "Baja",
+      "resumen": "Anuncio oficial del 28/10/2026: Android Developers presentó los skills android-intent-security y android-permissions-security para revisiones asistidas de AndroidManifest, Intents, PendingIntent, componentes exportados, permisos y validación de UID/firma en IPC. Son guías de auditoría para agentes y desarrolladores, no una nueva protección del sistema ni un CVE; resultan útiles para revisar superficies de task/activity hijacking y acceso no autorizado.",
+      "first_seen": "2026-11-02"
     }
   ]
 }

@@ -5,22 +5,22 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:50:04 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Telegram Android: falla en llamadas de voz permitía RCE al atender (corregida en 12.10.4)</title>
-      <link>https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html</link>
-      <guid isPermaLink="false">telegram-android-nebusec-voice-call-mediastate-rce-oct2026</guid>
-      <description>Divulgada el 29/10/2026 por NebuSec: Telegram Android 8.6.2–12.10.3 procesaba incorrectamente campos MediaState durante llamadas privadas. Según el investigador, encadenar este error con una fuga de información y otra vulnerabilidad de root permitía ejecutar código y tomar el dispositivo cuando la víctima atendía. Corregida en 12.10.4 (septiembre); sin CVE, sin explotación activa conocida y sin publicación técnica de la cadena completa. Categoría: Vulnerabilidades / RCE / Aplicaciones Android.</description>
-      <pubDate>Sun, 01 Nov 2026 11:24:43 +0000</pubDate>
-      <category>Vulnerabilidades / RCE / Aplicaciones Android</category>
+      <title>[MEDIA] UnknownAuto 1.2 usa Shizuku para simular origen Google Play en Android Auto</title>
+      <link>https://github.com/GitMag/UnknownAuto/releases/tag/v1.2</link>
+      <guid isPermaLink="false">unknownauto-v1-2-shizuku-spoofs-play-installer-android-auto-nov2026</guid>
+      <description>Release oficial del 02/11/2026: UnknownAuto 1.2 extiende a Android 14 y anteriores una técnica para instalar APKs de Android Auto marcándolos como originados en Google Play, mediante el instalador del sistema iniciado con privilegios shell de Shizuku. Ilustra que la procedencia registrada por PackageManager puede manipularse con acceso ADB/shell y no debe tratarse como prueba criptográfica de distribución; no es un bypass demostrado de Play Integrity ni de Play Protect. Categoría: Shizuku / Wireless ADB / Instalación de apps.</description>
+      <pubDate>Mon, 02 Nov 2026 11:50:04 +0000</pubDate>
+      <category>Shizuku / Wireless ADB / Instalación de apps</category>
     </item>
     <item>
-      <title>[MEDIA] Alpine iLX-F511: zero-days en Android Auto y framework permiten RCE como root</title>
-      <link>https://www.zerodayinitiative.com/advisories/ZDI-26-828/</link>
-      <guid isPermaLink="false">alpine-ilx-f511-android-auto-adjacent-root-rce-cve-2026-118610-118606</guid>
-      <description>Advisories ZDI del 28/10/2026: CVE-2026-118610 (desbordamiento de pila en el servicio Android Auto) y CVE-2026-118606 (función peligrosa expuesta en el framework), ambos CVSS 8.8, permiten a un atacante en red adyacente ejecutar código como root sin autenticación ni interacción. Afectan al receptor automotor Alpine iLX-F511, no a teléfonos Android. ZDI los publica como 0-day; no hay explotación maliciosa confirmada. Categoría: Android Auto / CVE / Automotive.</description>
-      <pubDate>Sun, 01 Nov 2026 11:24:43 +0000</pubDate>
-      <category>Android Auto / CVE / Automotive</category>
+      <title>[BAJA] Google publica skills oficiales para auditar Intents, componentes exportados y permisos Android</title>
+      <link>https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance</link>
+      <guid isPermaLink="false">android-dev-summit-2026-official-intent-permissions-security-skills</guid>
+      <description>Anuncio oficial del 28/10/2026: Android Developers presentó los skills android-intent-security y android-permissions-security para revisiones asistidas de AndroidManifest, Intents, PendingIntent, componentes exportados, permisos y validación de UID/firma en IPC. Son guías de auditoría para agentes y desarrolladores, no una nueva protección del sistema ni un CVE; resultan útiles para revisar superficies de task/activity hijacking y acceso no autorizado. Categoría: Herramientas / Seguridad de apps / IPC.</description>
+      <pubDate>Mon, 02 Nov 2026 11:50:04 +0000</pubDate>
+      <category>Herramientas / Seguridad de apps / IPC</category>
     </item>
   </channel>
 </rss>
