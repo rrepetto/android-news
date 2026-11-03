@@ -5,22 +5,46 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:57:07 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] UnknownAuto 1.2 usa Shizuku para simular origen Google Play en Android Auto</title>
-      <link>https://github.com/GitMag/UnknownAuto/releases/tag/v1.2</link>
-      <guid isPermaLink="false">unknownauto-v1-2-shizuku-spoofs-play-installer-android-auto-nov2026</guid>
-      <description>Release oficial del 02/11/2026: UnknownAuto 1.2 extiende a Android 14 y anteriores una técnica para instalar APKs de Android Auto marcándolos como originados en Google Play, mediante el instalador del sistema iniciado con privilegios shell de Shizuku. Ilustra que la procedencia registrada por PackageManager puede manipularse con acceso ADB/shell y no debe tratarse como prueba criptográfica de distribución; no es un bypass demostrado de Play Integrity ni de Play Protect. Categoría: Shizuku / Wireless ADB / Instalación de apps.</description>
-      <pubDate>Mon, 02 Nov 2026 11:50:04 +0000</pubDate>
-      <category>Shizuku / Wireless ADB / Instalación de apps</category>
+      <title>[ALTA] XCPE: Videostrong preinstaló una puerta trasera en más de 1,3 millones de dispositivos Android</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</link>
+      <guid isPermaLink="false">xcpe-videostrong-android-tv-firmware-botnet-1-3m-nov2026</guid>
+      <description>Investigación primaria de Google Threat Intelligence del 02/11/2026: atribuye al fabricante Videostrong la inclusión deliberada de x.cpe en el firmware de más de 1,3 millones de set-top boxes Android TV. El implante corre con UID system, se reinstala desde /oem/ y permite instalar módulos silenciosos, desactivar la verificación de Play Protect, ejecutar comandos, capturar pantallas y vender proxies residenciales para fraude. Google desmanteló infraestructura C2, prohibió al fabricante suministrar dispositivos certificados y endureció su revisión de firmware; cortar el C2 no elimina el implante ya instalado. Categoría: Malware / Supply chain / Android TV / Fraude.</description>
+      <pubDate>Tue, 03 Nov 2026 11:57:07 +0000</pubDate>
+      <category>Malware / Supply chain / Android TV / Fraude</category>
     </item>
     <item>
-      <title>[BAJA] Google publica skills oficiales para auditar Intents, componentes exportados y permisos Android</title>
-      <link>https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance</link>
-      <guid isPermaLink="false">android-dev-summit-2026-official-intent-permissions-security-skills</guid>
-      <description>Anuncio oficial del 28/10/2026: Android Developers presentó los skills android-intent-security y android-permissions-security para revisiones asistidas de AndroidManifest, Intents, PendingIntent, componentes exportados, permisos y validación de UID/firma en IPC. Son guías de auditoría para agentes y desarrolladores, no una nueva protección del sistema ni un CVE; resultan útiles para revisar superficies de task/activity hijacking y acceso no autorizado. Categoría: Herramientas / Seguridad de apps / IPC.</description>
-      <pubDate>Mon, 02 Nov 2026 11:50:04 +0000</pubDate>
-      <category>Herramientas / Seguridad de apps / IPC</category>
+      <title>[MEDIA] ASB noviembre 2026: RCE crítica sin interacción en Framework y fallas de kernel/pKVM</title>
+      <link>https://source.android.com/docs/security/bulletin/2026/2026-11-01</link>
+      <guid isPermaLink="false">android-asb-noviembre-2026-critical-zero-click-rce-208-cves</guid>
+      <description>Boletín oficial publicado el 02/11/2026: 208 CVEs (23 críticos), entre ellos CVE-2026-58868, RCE crítica sin interacción en Framework para Android 14–17, y CVE-2026-58876/58936, RCE críticas en System. También incluye fallas críticas en Bluetooth, pKVM y módems MediaTek. El nivel de parche 2026-11-05 cubre ambos bloques del boletín; Google no confirmó explotación activa. Las consecuencias concretas dependen del vector y de las mitigaciones presentes. Categoría: Android Security Bulletin / CVE / RCE.</description>
+      <pubDate>Tue, 03 Nov 2026 11:57:07 +0000</pubDate>
+      <category>Android Security Bulletin / CVE / RCE</category>
+    </item>
+    <item>
+      <title>[MEDIA] CVE-2026-58836: una app sideloaded podía eludir Enhanced Confirmation Mode al autoactualizarse</title>
+      <link>https://osv.dev/vulnerability/ASB-A-349318333</link>
+      <guid isPermaLink="false">android-cve-2026-58836-sideload-ecm-self-update-source-bypass</guid>
+      <description>CVE divulgado el 02/11/2026 en el boletín de noviembre: un error en InstallPackageHelper.handlePackagePostInstall permitía a una aplicación instalada fuera de la tienda modificar su origen de instalación durante una autoactualización y sortear Enhanced Confirmation Mode (ECM). Afecta Android 16, 16 QPR2 y 17; requiere una app local ya ejecutándose, sin interacción adicional para el fallo. Importa porque debilita una barrera contra permisos sensibles de apps sideloaded; no se reportó explotación activa ni se demostró bypass de Play Integrity. Categoría: Sideloading / Permisos / Protección Android.</description>
+      <pubDate>Tue, 03 Nov 2026 11:57:07 +0000</pubDate>
+      <category>Sideloading / Permisos / Protección Android</category>
+    </item>
+    <item>
+      <title>[MEDIA] CVE-2026-58957/58962: fallas en ActivityStarter y TaskManager eludían controles de Activities</title>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58962</link>
+      <guid isPermaLink="false">android-cve-2026-58957-58962-activitystarter-taskmanager-permission-bypass</guid>
+      <description>CVEs divulgados el 02/11/2026: CVE-2026-58957 describe un confused deputy en ActivityStarter.resolveToHeavyWeightSwitcherIfNeeded que permite lanzar una Activity en segundo plano indebidamente; CVE-2026-58962 describe una comprobación de permisos ausente en ActivityTaskManagerService.moveTaskToFrontLocked. Google los clasifica como elevación local de privilegios en Android 14–17, sin permisos extra ni interacción. Relevantes para los límites de manipulación de tareas/pantallas, pero no prueban por sí solos una cadena StrandHogg ni explotación activa. Parche 2026-11-01. Categoría: Task / Activity hijacking / Elevación de privilegios.</description>
+      <pubDate>Tue, 03 Nov 2026 11:57:07 +0000</pubDate>
+      <category>Task / Activity hijacking / Elevación de privilegios</category>
+    </item>
+    <item>
+      <title>[BAJA] Googlebook rooteado: la attestation de hardware bloquea el casting de apps desde Android</title>
+      <link>https://www.androidauthority.com/lose-cross-device-feature-root-googlebook-3730485/</link>
+      <guid isPermaLink="false">googlebook-root-hardware-key-attestation-blocks-android-app-casting-nov2026</guid>
+      <description>Hallazgo comunicado por John Wu el 01/11/2026 y reportado el 02/11: un teléfono Android rechaza Cast My Apps hacia un Googlebook rooteado cuando el receptor no supera hardware key attestation. Muestra una validación de integridad del dispositivo receptor antes de exponer contenido de apps; es una limitación específica del casting y no implica un cambio ni un bypass de Play Integrity. Categoría: Root / Hardware attestation / Integridad.</description>
+      <pubDate>Tue, 03 Nov 2026 11:57:07 +0000</pubDate>
+      <category>Root / Hardware attestation / Integridad</category>
     </item>
   </channel>
 </rss>
