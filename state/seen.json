@@ -2022,6 +2022,15 @@
       "relevancia": "Baja",
       "resumen": "Hallazgo comunicado por John Wu el 01/11/2026 y reportado el 02/11: un teléfono Android rechaza Cast My Apps hacia un Googlebook rooteado cuando el receptor no supera hardware key attestation. Muestra una validación de integridad del dispositivo receptor antes de exponer contenido de apps; es una limitación específica del casting y no implica un cambio ni un bypass de Play Integrity.",
       "first_seen": "2026-11-03"
+    },
+    {
+      "id": "ghostmap-bitdefender-android-zip-parser-system-server-crash-loop-nov2026",
+      "title": "GhostMap: APK sin código ni permisos provoca bootloop persistente en Android 10–17",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+      "first_seen": "2026-11-05",
+      "category": "Android / Vulnerabilidades / DoS / Evasión de análisis",
+      "relevancia": "Media",
+      "resumen": "Investigación primaria publicada por Bitdefender el 05/11/2026: una discrepancia entre libziparchive y libandroidfw al interpretar métodos ZIP y tamaños declarados permite que recursos malformados de un APK provoquen SIGBUS al leerse. Un APK instalado, sin código ejecutable ni permisos y sin abrirse, puede hacer caer system_server repetidamente incluso en modo seguro; recuperarlo puede exigir factory reset o ADB previamente habilitado. Reproducido en Pixel 10 con Android 17 y en versiones desde Android 10. También puede bloquear pantallas de desinstalación o escáneres de APK. Google no lo incluyó en un parche de seguridad; no hay explotación maliciosa observada de la cadena de bootloop."
     }
   ]
 }
