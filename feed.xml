@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:23:28 GMT</lastBuildDate>
     <item>
-      <title>[MEDIA] GhostMap: APK sin código ni permisos provoca bootloop persistente en Android 10–17</title>
-      <link>https://www.bitdefender.com/en-us/blog/labs/ghostmap-android</link>
-      <guid isPermaLink="false">ghostmap-bitdefender-android-zip-parser-system-server-crash-loop-nov2026</guid>
-      <description>Investigación primaria publicada por Bitdefender el 05/11/2026: una discrepancia entre libziparchive y libandroidfw al interpretar métodos ZIP y tamaños declarados permite que recursos malformados de un APK provoquen SIGBUS al leerse. Un APK instalado, sin código ejecutable ni permisos y sin abrirse, puede hacer caer system_server repetidamente incluso en modo seguro; recuperarlo puede exigir factory reset o ADB previamente habilitado. Reproducido en Pixel 10 con Android 17 y en versiones desde Android 10. También puede bloquear pantallas de desinstalación o escáneres de APK. Google no lo incluyó en un parche de seguridad; no hay explotación maliciosa observada de la cadena de bootloop. Categoría: Android / Vulnerabilidades / DoS / Evasión de análisis</description>
-      <pubDate>Thu, 05 Nov 2026 11:55:05 GMT</pubDate>
-      <category>Android / Vulnerabilidades / DoS / Evasión de análisis</category>
+      <title>[ALTA] Poisoned Source: APT29 explota Chrome y Adreno en Android para robar sesiones sin interacción</title>
+      <link>https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits</link>
+      <guid isPermaLink="false">poisoned-source-sekoia-apt29-android-chrome-n-day-androsnitch-nov2026</guid>
+      <description>Investigación primaria de Sekoia publicada el 04/11/2026 sobre una campaña activa de watering holes detectada a mediados de octubre y atribuida a APT29 con confianza moderada-alta. Sitios comprometidos, dominios falsos y el tracker Plerdy comprometido servían JavaScript para perfilar dispositivos y lanzar cadenas n-day sin interacción. En Android, Chrome 139–145 (excepto 143) era atacado con CVE-2026-3910 (RCE en renderer) y CVE-2025-27038 (escape mediante GPU Adreno); el payload AndroSnitch extraía cookies, datos de acceso e historial de Chrome y contraseñas Wi-Fi. Los CVE ya estaban corregidos antes de la campaña: afectan equipos desactualizados. No se observó persistencia. Categoría: Explotación activa / Android Chrome / GPU / Robo de sesiones</description>
+      <pubDate>Fri, 06 Nov 2026 11:23:28 GMT</pubDate>
+      <category>Explotación activa / Android Chrome / GPU / Robo de sesiones</category>
     </item>
   </channel>
 </rss>
