@@ -2031,6 +2031,15 @@
       "category": "Android / Vulnerabilidades / DoS / Evasión de análisis",
       "relevancia": "Media",
       "resumen": "Investigación primaria publicada por Bitdefender el 05/11/2026: una discrepancia entre libziparchive y libandroidfw al interpretar métodos ZIP y tamaños declarados permite que recursos malformados de un APK provoquen SIGBUS al leerse. Un APK instalado, sin código ejecutable ni permisos y sin abrirse, puede hacer caer system_server repetidamente incluso en modo seguro; recuperarlo puede exigir factory reset o ADB previamente habilitado. Reproducido en Pixel 10 con Android 17 y en versiones desde Android 10. También puede bloquear pantallas de desinstalación o escáneres de APK. Google no lo incluyó en un parche de seguridad; no hay explotación maliciosa observada de la cadena de bootloop."
+    },
+    {
+      "id": "poisoned-source-sekoia-apt29-android-chrome-n-day-androsnitch-nov2026",
+      "title": "Poisoned Source: APT29 explota Chrome y Adreno en Android para robar sesiones sin interacción",
+      "url": "https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits",
+      "category": "Explotación activa / Android Chrome / GPU / Robo de sesiones",
+      "relevancia": "Alta",
+      "resumen": "Investigación primaria de Sekoia publicada el 04/11/2026 sobre una campaña activa de watering holes detectada a mediados de octubre y atribuida a APT29 con confianza moderada-alta. Sitios comprometidos, dominios falsos y el tracker Plerdy comprometido servían JavaScript para perfilar dispositivos y lanzar cadenas n-day sin interacción. En Android, Chrome 139–145 (excepto 143) era atacado con CVE-2026-3910 (RCE en renderer) y CVE-2025-27038 (escape mediante GPU Adreno); el payload AndroSnitch extraía cookies, datos de acceso e historial de Chrome y contraseñas Wi-Fi. Los CVE ya estaban corregidos antes de la campaña: afectan equipos desactualizados. No se observó persistencia.",
+      "first_seen": "2026-11-06"
     }
   ]
 }
