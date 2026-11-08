@@ -5,6 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Nov 2026 11:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:17:22 GMT</lastBuildDate>
+    <item>
+      <title>[MEDIA] GrapheneOS 2026110700 refuerza aislamiento de procesos y firma de módulos en Microdroid</title>
+      <link>https://grapheneos.org/releases#2026110700</link>
+      <guid isPermaLink="false">grapheneos-2026110700-coarse-location-nnp-microdroid-module-signing</guid>
+      <description>Changelog oficial publicado el 07/11/2026 (versión alpha 2026110700): incorpora APIs de ubicación aproximada para Vanadium y la capa de compatibilidad de Google Play, restaura NoNewPrivs y grupos suplementarios en procesos nativos lanzados con secure spawning, y exige firma de módulos del kernel Microdroid con SHA-256 en lugar de SHA-1. Refuerza aislamiento y privacidad; no se describe explotación activa ni un bypass de Play Integrity. Categoría: GrapheneOS / Hardening / Privacidad / Virtualización</description>
+      <pubDate>Sun, 08 Nov 2026 11:17:22 GMT</pubDate>
+      <category>GrapheneOS / Hardening / Privacidad / Virtualización</category>
+    </item>
   </channel>
 </rss>
