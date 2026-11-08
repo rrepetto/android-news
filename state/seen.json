@@ -2040,6 +2040,15 @@
       "relevancia": "Alta",
       "resumen": "Investigación primaria de Sekoia publicada el 04/11/2026 sobre una campaña activa de watering holes detectada a mediados de octubre y atribuida a APT29 con confianza moderada-alta. Sitios comprometidos, dominios falsos y el tracker Plerdy comprometido servían JavaScript para perfilar dispositivos y lanzar cadenas n-day sin interacción. En Android, Chrome 139–145 (excepto 143) era atacado con CVE-2026-3910 (RCE en renderer) y CVE-2025-27038 (escape mediante GPU Adreno); el payload AndroSnitch extraía cookies, datos de acceso e historial de Chrome y contraseñas Wi-Fi. Los CVE ya estaban corregidos antes de la campaña: afectan equipos desactualizados. No se observó persistencia.",
       "first_seen": "2026-11-06"
+    },
+    {
+      "id": "grapheneos-2026110700-coarse-location-nnp-microdroid-module-signing",
+      "title": "GrapheneOS 2026110700 refuerza aislamiento de procesos y firma de módulos en Microdroid",
+      "url": "https://grapheneos.org/releases#2026110700",
+      "category": "GrapheneOS / Hardening / Privacidad / Virtualización",
+      "relevancia": "Media",
+      "resumen": "Changelog oficial publicado el 07/11/2026 (versión alpha 2026110700): incorpora APIs de ubicación aproximada para Vanadium y la capa de compatibilidad de Google Play, restaura NoNewPrivs y grupos suplementarios en procesos nativos lanzados con secure spawning, y exige firma de módulos del kernel Microdroid con SHA-256 en lugar de SHA-1. Refuerza aislamiento y privacidad; no se describe explotación activa ni un bypass de Play Integrity.",
+      "first_seen": "2026-11-08"
     }
   ]
 }
