@@ -2049,6 +2049,12 @@
       "relevancia": "Media",
       "resumen": "Changelog oficial publicado el 07/11/2026 (versión alpha 2026110700): incorpora APIs de ubicación aproximada para Vanadium y la capa de compatibilidad de Google Play, restaura NoNewPrivs y grupos suplementarios en procesos nativos lanzados con secure spawning, y exige firma de módulos del kernel Microdroid con SHA-256 en lugar de SHA-1. Refuerza aislamiento y privacidad; no se describe explotación activa ni un bypass de Play Integrity.",
       "first_seen": "2026-11-08"
+    },
+    {
+      "id": "kaspersky-q3-2026-ai-ondevice-banking-malware",
+      "title": "Kaspersky Q3 2026: malware Android usa IA local para identificar datos bancarios y automatizar órdenes",
+      "url": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
+      "first_seen": "2026-11-10"
     }
   ]
 }
