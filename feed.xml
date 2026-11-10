@@ -5,6 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 09 Nov 2026 11:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:49:10 GMT</lastBuildDate>
+    <item>
+      <title>[MEDIA] Kaspersky Q3 2026: malware Android usa IA local para identificar datos bancarios y automatizar órdenes</title>
+      <link>https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/</link>
+      <guid isPermaLink="false">kaspersky-q3-2026-ai-ondevice-banking-malware</guid>
+      <description>Informe primario publicado el 10/11/2026: Kaspersky documenta un implante Android disfrazado de Play Protect que interpreta órdenes del C2 con DistilBERT, y otro que analiza capturas e imágenes de la galería con un modelo local actualizable para localizar datos bancarios y CVV. Son técnicas de automatización del fraude y selección de información sensible; no se cuantifica su despliegue individual. Categoría: Malware / fraude con IA.</description>
+      <pubDate>Tue, 10 Nov 2026 11:49:10 GMT</pubDate>
+      <category>Malware / fraude con IA</category>
+    </item>
   </channel>
 </rss>
