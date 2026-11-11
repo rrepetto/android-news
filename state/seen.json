@@ -2055,6 +2055,15 @@
       "title": "Kaspersky Q3 2026: malware Android usa IA local para identificar datos bancarios y automatizar órdenes",
       "url": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
       "first_seen": "2026-11-10"
+    },
+    {
+      "id": "pixel-bulletin-noviembre-2026-keymint-bootloader-pkvm-rce",
+      "title": "Pixel Bulletin noviembre 2026: fallos críticos en KeyMint, bootloader, pKVM y firmware multimedia",
+      "url": "https://source.android.com/docs/security/bulletin/pixel/2026/2026-11-01",
+      "category": "Pixel / Hardware / KeyMint / Bootloader / Virtualización",
+      "relevancia": "Media",
+      "resumen": "Boletín oficial publicado el 10/11/2026: Google corrige vulnerabilidades críticas de elevación de privilegios en Secure Element KeyMint (CVE-2026-55321), bootloader (CVE-2026-55344), pKVM/hipervisor y Trusty, además de ejecución remota de código en HWCodec Firmware (CVE-2026-95402) y MFC (CVE-2026-57047). El parche 2026-11-05 cubre estos fallos en dispositivos Pixel compatibles. Importa para la cadena de confianza y el aislamiento hardware; no se declara explotación activa.",
+      "first_seen": "2026-11-11"
     }
   ]
 }
