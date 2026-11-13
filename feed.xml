@@ -5,6 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:34:34 GMT</lastBuildDate>
+    <item>
+      <title>[MEDIA] ArcticRAT: control remoto oculto, VPN para evadir Play Protect y abuso de Wireless ADB</title>
+      <link>https://zimperium.com/blog/arcticrat-ai-powered-android-rat</link>
+      <guid isPermaLink="false">arcticrat-zimperium-2026-hvnc-wireless-adb-vpn-ai</guid>
+      <description>Investigación primaria de Zimperium publicada el 12/11/2026: ArcticRAT combina un dropper que corta el tráfico mediante VpnService durante la instalación, control remoto por VirtualDisplay/MediaProjection y Accessibility oculto tras una pantalla negra, y comandos para emparejar Wireless ADB y alterar permisos o bloqueo del dispositivo. También utiliza una API LLM para seleccionar datos bancarios y OTP de SMS. Importa para fraude on-device y evasión de defensas; el emparejamiento ADB requiere las condiciones de autorización correspondientes. Categoría: Malware / Accessibility / Overlays / Wireless ADB</description>
+      <pubDate>Fri, 13 Nov 2026 11:34:34 GMT</pubDate>
+      <category>Malware / Accessibility / Overlays / Wireless ADB</category>
+    </item>
   </channel>
 </rss>
