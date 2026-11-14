@@ -2073,6 +2073,15 @@
       "relevancia": "Media",
       "resumen": "Investigación primaria de Zimperium publicada el 12/11/2026: ArcticRAT combina un dropper que corta el tráfico mediante VpnService durante la instalación, control remoto por VirtualDisplay/MediaProjection y Accessibility oculto tras una pantalla negra, y comandos para emparejar Wireless ADB y alterar permisos o bloqueo del dispositivo. También utiliza una API LLM para seleccionar datos bancarios y OTP de SMS. Importa para fraude on-device y evasión de defensas; el emparejamiento ADB requiere las condiciones de autorización correspondientes.",
       "first_seen": "2026-11-13"
+    },
+    {
+      "id": "grapheneos-2026111300-remove-obsolete-ca-roots-emudhra",
+      "title": "GrapheneOS 2026111300 elimina 27 autoridades certificadoras raíz obsoletas",
+      "url": "https://grapheneos.org/releases#2026111300",
+      "category": "GrapheneOS / Certificados / Trust Store",
+      "relevancia": "Media",
+      "resumen": "Changelog oficial del 13/11/2026: GrapheneOS retira la raíz eMudhra antes de su desconfianza programada por los principales navegadores y elimina otras 26 CA raíz obsoletas que AOSP todavía conservaba. Reduce la superficie de confianza de TLS del sistema y la exposición a autoridades que ya no deberían emitir certificados aceptados; no se informa compromiso de claves ni explotación activa.",
+      "first_seen": "2026-11-14"
     }
   ]
 }
