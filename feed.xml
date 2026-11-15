@@ -5,14 +5,6 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:05:34 +0000</lastBuildDate>
-    <item>
-      <title>[MEDIA] GrapheneOS 2026111300 elimina 27 autoridades certificadoras raíz obsoletas</title>
-      <link>https://grapheneos.org/releases#2026111300</link>
-      <guid isPermaLink="false">grapheneos-2026111300-remove-obsolete-ca-roots-emudhra</guid>
-      <description>Changelog oficial del 13/11/2026: GrapheneOS retira la raíz eMudhra antes de su desconfianza programada por los principales navegadores y elimina otras 26 CA raíz obsoletas que AOSP todavía conservaba. Reduce la superficie de confianza de TLS del sistema y la exposición a autoridades que ya no deberían emitir certificados aceptados; no se informa compromiso de claves ni explotación activa. Categoría: GrapheneOS / Certificados / Trust Store</description>
-      <pubDate>Sat, 14 Nov 2026 12:05:34 +0000</pubDate>
-      <category>GrapheneOS / Certificados / Trust Store</category>
-    </item>
+    <lastBuildDate>Sun, 15 Nov 2026 11:41:22 +0000</lastBuildDate>
   </channel>
 </rss>
