@@ -2082,6 +2082,15 @@
       "relevancia": "Media",
       "resumen": "Changelog oficial del 13/11/2026: GrapheneOS retira la raíz eMudhra antes de su desconfianza programada por los principales navegadores y elimina otras 26 CA raíz obsoletas que AOSP todavía conservaba. Reduce la superficie de confianza de TLS del sistema y la exposición a autoridades que ya no deberían emitir certificados aceptados; no se informa compromiso de claves ni explotación activa.",
       "first_seen": "2026-11-14"
+    },
+    {
+      "id": "telegram-android-1322-quickjs-widget-seccomp-sandbox-bypass-nebusec-nov2026",
+      "title": "Telegram Android 13.2.2: investigadores eluden el aislamiento de widgets QuickJS por dos vías",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "category": "Android / Sandbox / RCE / Telegram",
+      "relevancia": "Media",
+      "resumen": "Investigación de NebuSec difundida el 16–17/11/2026: dos vías de ejecución fuera del filtro seccomp de widgets QuickJS en Telegram Android 13.2.2 (7303), una mediante un fallo de widget no filtrado y otra encadenando un fallo de widget con uno del kernel. La demostración en servidor de pruebas abre la calculadora; el código publicado deja la mayoría de llamadas en modo auditoría. No se conoce CVE, parche ni alcance sobre datos del usuario; solo bots aprobados pueden enviar widgets en producción. Importa por los límites del aislamiento de código no confiable dentro de una app popular.",
+      "first_seen": "2026-11-18"
     }
   ]
 }
