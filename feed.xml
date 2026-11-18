@@ -5,6 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:50:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:35:01 GMT</lastBuildDate>
+    <item>
+      <title>[MEDIA] Telegram Android 13.2.2: investigadores eluden el aislamiento de widgets QuickJS por dos vías</title>
+      <link>https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html</link>
+      <guid isPermaLink="false">telegram-android-1322-quickjs-widget-seccomp-sandbox-bypass-nebusec-nov2026</guid>
+      <description>Investigación de NebuSec difundida el 16–17/11/2026: dos vías de ejecución fuera del filtro seccomp de widgets QuickJS en Telegram Android 13.2.2 (7303), una mediante un fallo de widget no filtrado y otra encadenando un fallo de widget con uno del kernel. La demostración en servidor de pruebas abre la calculadora; el código publicado deja la mayoría de llamadas en modo auditoría. No se conoce CVE, parche ni alcance sobre datos del usuario; solo bots aprobados pueden enviar widgets en producción. Importa por los límites del aislamiento de código no confiable dentro de una app popular. Categoría: Android / Sandbox / RCE / Telegram</description>
+      <pubDate>Wed, 18 Nov 2026 11:35:01 GMT</pubDate>
+      <category>Android / Sandbox / RCE / Telegram</category>
+    </item>
   </channel>
 </rss>
