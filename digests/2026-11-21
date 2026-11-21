@@ -1,0 +1,8 @@
+# Android Security Digest — 2026-11-21
+
+## 🔴 Alta relevancia
+- **Google anuncia expansión global de verificación de desarrolladores Android desde enero de 2027** — Anuncio oficial del 19/11/2026: Google iniciará en enero de 2027 la expansión global de la verificación de identidad y registro de apps, con siete distribuidores (Google Play, Galaxy Store, Honor, Oppo, Xiaomi, Transsion y Vivo), extendiendo gradualmente las protecciones a todas las fuentes de instalación en dispositivos Android certificados. Amplía de 20 a 50 dispositivos el límite de cuentas de distribución reducida sin documento de identidad y mantiene el flujo avanzado para instalar apps no registradas. Importa por su impacto sobre sideloading y el modelo de confianza del ecosistema; el despliegue mundial aún no está vigente. [fuente](https://developer.android.com/blog/posts/android-developer-verification-2027)
+
+## 🟠 Media relevancia
+
+## 🟡 Baja relevancia / notas
