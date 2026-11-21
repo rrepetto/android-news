@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:52:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:55:39 GMT</lastBuildDate>
     <item>
-      <title>[MEDIA] Ostorlab: 35,1% de apps bancarias Android con flujos biométricos eludibles y baja adopción de attestation</title>
-      <link>https://blog.ostorlab.co/mobile-banking-app-security-report-2026.html</link>
-      <guid isPermaLink="false">ostorlab-mobile-banking-2026-biometric-bypass-attestation-report</guid>
-      <description>Informe primario de Ostorlab publicado el 12/11/2026 y ampliado el 18/11: análisis automatizado de 2.686 apps bancarias de 487 bancos en 64 países (Android, iOS y HarmonyOS). El escáner señaló flujos biométricos eludibles en el 35,1% de las apps Android; solo el 20,2% del conjunto emplea app/device attestation y apenas el 22,3% de las Android detecta herramientas de control remoto. El 51,5% del total tuvo algún hallazgo alto o crítico. Importa para controles antifraude en el cliente, pero son hallazgos estáticos/automatizados, no explotación confirmada ni pruebas de bypass del backend. Categoría: Fraude bancario / Biometría / Attestation / App Security</description>
-      <pubDate>Fri, 20 Nov 2026 11:52:35 GMT</pubDate>
-      <category>Fraude bancario / Biometría / Attestation / App Security</category>
+      <title>[ALTA] Google anuncia expansión global de verificación de desarrolladores Android desde enero de 2027</title>
+      <link>https://developer.android.com/blog/posts/android-developer-verification-2027</link>
+      <guid isPermaLink="false">android-developer-verification-global-rollout-jan2027-seven-stores</guid>
+      <description>Anuncio oficial del 19/11/2026: Google iniciará en enero de 2027 la expansión global de la verificación de identidad y registro de apps, con siete distribuidores (Google Play, Galaxy Store, Honor, Oppo, Xiaomi, Transsion y Vivo), extendiendo gradualmente las protecciones a todas las fuentes de instalación en dispositivos Android certificados. Amplía de 20 a 50 dispositivos el límite de cuentas de distribución reducida sin documento de identidad y mantiene el flujo avanzado para instalar apps no registradas. Importa por su impacto sobre sideloading y el modelo de confianza del ecosistema; el despliegue mundial aún no está vigente. Categoría: Android Developer Verification / Sideloading / Distribución</description>
+      <pubDate>Sat, 21 Nov 2026 11:55:39 GMT</pubDate>
+      <category>Android Developer Verification / Sideloading / Distribución</category>
     </item>
   </channel>
 </rss>
