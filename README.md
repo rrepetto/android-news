@@ -11,6 +11,7 @@ Suscribite al feed para recibir las novedades del día:
 > El feed RSS contiene **solo los ítems del último día** (actualizado en cada corrida diaria). El historial completo está en la carpeta [`digests/`](digests/).
 
 ## Historial de digests (últimos 30)
+- [2026-11-22](digests/2026-11-22.md)
 - [2026-11-21](digests/2026-11-21.md)
 - [2026-11-20](digests/2026-11-20.md)
 - [2026-11-19](digests/2026-11-19.md)
@@ -40,4 +41,3 @@ Suscribite al feed para recibir las novedades del día:
 - [2026-10-26](digests/2026-10-26.md)
 - [2026-10-25](digests/2026-10-25.md)
 - [2026-10-24](digests/2026-10-24.md)
-- [2026-10-23](digests/2026-10-23.md)
