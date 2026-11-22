@@ -2117,6 +2117,15 @@
       "relevancia": "Alta",
       "resumen": "Anuncio oficial del 19/11/2026: Google iniciará en enero de 2027 la expansión global de la verificación de identidad y registro de apps, con siete distribuidores (Google Play, Galaxy Store, Honor, Oppo, Xiaomi, Transsion y Vivo), extendiendo gradualmente las protecciones a todas las fuentes de instalación en dispositivos Android certificados. Amplía de 20 a 50 dispositivos el límite de cuentas de distribución reducida sin documento de identidad y mantiene el flujo avanzado para instalar apps no registradas. Importa por su impacto sobre sideloading y el modelo de confianza del ecosistema; el despliegue mundial aún no está vigente.",
       "first_seen": "2026-11-21"
+    },
+    {
+      "id": "bazuka-threatfabric-23-modules-fake-screen-self-adb-llm-nov2026",
+      "title": "Bazuka: malware modular oculta fraude con capturas de pantalla y abusa de Wireless ADB",
+      "url": "https://www.threatfabric.com/blogs/bazuka-the-fraud-framework-that-can-do-it-all",
+      "category": "Malware / Accessibility / Overlays / Wireless ADB / Fraude",
+      "relevancia": "Media",
+      "resumen": "Investigación primaria de ThreatFabric publicada el 18/11/2026: Bazuka combina un dropper, un núcleo y 23 módulos DEX para control remoto, captura de credenciales y OTP, NFC relay y sustitución de direcciones cripto. Una técnica distintiva superpone una captura de la pantalla de inicio o bloqueo para ocultar operaciones reales; el núcleo intenta habilitar Wireless Debugging, interceptar el PIN de emparejamiento y conectarse al daemon ADB para obtener permisos. Su panel integra LLM para priorizar víctimas. No se confirmó distribución efectiva por Google Play ni un volumen de infecciones; la explotación de todas las capacidades no está demostrada.",
+      "first_seen": "2026-11-22"
     }
   ]
 }
