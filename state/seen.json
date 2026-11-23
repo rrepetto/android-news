@@ -2126,6 +2126,15 @@
       "relevancia": "Media",
       "resumen": "Investigación primaria de ThreatFabric publicada el 18/11/2026: Bazuka combina un dropper, un núcleo y 23 módulos DEX para control remoto, captura de credenciales y OTP, NFC relay y sustitución de direcciones cripto. Una técnica distintiva superpone una captura de la pantalla de inicio o bloqueo para ocultar operaciones reales; el núcleo intenta habilitar Wireless Debugging, interceptar el PIN de emparejamiento y conectarse al daemon ADB para obtener permisos. Su panel integra LLM para priorizar víctimas. No se confirmó distribución efectiva por Google Play ni un volumen de infecciones; la explotación de todas las capacidades no está demostrada.",
       "first_seen": "2026-11-22"
+    },
+    {
+      "id": "whatsapp-nov2026-cve-2026-23871-102769-44908",
+      "title": "WhatsApp corrige tres fallas Android: filtración de IP usada posiblemente en estafas y debilidad de attestation",
+      "url": "https://www.whatsapp.com/security/advisories/2026",
+      "category": "WhatsApp / Fraude / Vulnerabilidades / Attestation",
+      "relevancia": "Media",
+      "resumen": "Aviso oficial de WhatsApp publicado el 20/11/2026: CVE-2026-23871 permite filtrar la IP del destinatario al mostrar una respuesta publicitaria manipulada; Meta sospecha abuso junto con mensajes de spam en una campaña de estafas (sin confirmar alcance). También corrige CVE-2026-102769 (SQL injection al tocar un mensaje de pedido de un cliente no oficial, con posible borrado local y filtración limitada) y CVE-2026-44908 (validación insuficiente de la cadena de certificados en el verificador de attestation de Private Processing, sin explotación observada). Actualizar WhatsApp Android a 2.26.35.74 o posterior y WhatsApp Business a la última versión.",
+      "first_seen": "2026-11-23"
     }
   ]
 }
