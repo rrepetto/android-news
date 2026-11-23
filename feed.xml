@@ -5,14 +5,14 @@
     <link>https://github.com/rrepetto/android-news</link>
     <description>Resumen diario de novedades de seguridad del ecosistema Android. El feed contiene solo los ítems del último día; el historial completo está en digests/.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:22:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:22:00 +0000</lastBuildDate>
     <item>
-      <title>[MEDIA] Bazuka: malware modular oculta fraude con capturas de pantalla y abusa de Wireless ADB</title>
-      <link>https://www.threatfabric.com/blogs/bazuka-the-fraud-framework-that-can-do-it-all</link>
-      <guid isPermaLink="false">bazuka-threatfabric-23-modules-fake-screen-self-adb-llm-nov2026</guid>
-      <description>Investigación primaria de ThreatFabric publicada el 18/11/2026: Bazuka combina un dropper, un núcleo y 23 módulos DEX para control remoto, captura de credenciales y OTP, NFC relay y sustitución de direcciones cripto. Una técnica distintiva superpone una captura de la pantalla de inicio o bloqueo para ocultar operaciones reales; el núcleo intenta habilitar Wireless Debugging, interceptar el PIN de emparejamiento y conectarse al daemon ADB para obtener permisos. Su panel integra LLM para priorizar víctimas. No se confirmó distribución efectiva por Google Play ni un volumen de infecciones; la explotación de todas las capacidades no está demostrada. Categoría: Malware / Accessibility / Overlays / Wireless ADB / Fraude</description>
-      <pubDate>Sun, 22 Nov 2026 11:22:42 GMT</pubDate>
-      <category>Malware / Accessibility / Overlays / Wireless ADB / Fraude</category>
+      <title>[MEDIA] WhatsApp corrige tres fallas Android: filtración de IP usada posiblemente en estafas y debilidad de attestation</title>
+      <link>https://www.whatsapp.com/security/advisories/2026</link>
+      <guid isPermaLink="false">whatsapp-nov2026-cve-2026-23871-102769-44908</guid>
+      <description>Aviso oficial de WhatsApp publicado el 20/11/2026: CVE-2026-23871 permite filtrar la IP del destinatario al mostrar una respuesta publicitaria manipulada; Meta sospecha abuso junto con mensajes de spam en una campaña de estafas (sin confirmar alcance). También corrige CVE-2026-102769 (SQL injection al tocar un mensaje de pedido de un cliente no oficial, con posible borrado local y filtración limitada) y CVE-2026-44908 (validación insuficiente de la cadena de certificados en el verificador de attestation de Private Processing, sin explotación observada). Actualizar WhatsApp Android a 2.26.35.74 o posterior y WhatsApp Business a la última versión. Categoría: WhatsApp / Fraude / Vulnerabilidades / Attestation</description>
+      <pubDate>Mon, 23 Nov 2026 11:22:00 +0000</pubDate>
+      <category>WhatsApp / Fraude / Vulnerabilidades / Attestation</category>
     </item>
   </channel>
 </rss>
