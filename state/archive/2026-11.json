@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "id": "telegram-android-nebusec-voice-call-mediastate-rce-oct2026",
+      "title": "Telegram Android: falla en llamadas de voz permitía RCE al atender (corregida en 12.10.4)",
+      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "category": "Vulnerabilidades / RCE / Aplicaciones Android",
+      "relevancia": "Media",
+      "resumen": "Divulgada el 29/10/2026 por NebuSec: Telegram Android 8.6.2–12.10.3 procesaba incorrectamente campos MediaState durante llamadas privadas. Según el investigador, encadenar este error con una fuga de información y otra vulnerabilidad de root permitía ejecutar código y tomar el dispositivo cuando la víctima atendía. Corregida en 12.10.4 (septiembre); sin CVE, sin explotación activa conocida y sin publicación técnica de la cadena completa.",
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "alpine-ilx-f511-android-auto-adjacent-root-rce-cve-2026-118610-118606",
+      "title": "Alpine iLX-F511: zero-days en Android Auto y framework permiten RCE como root",
+      "url": "https://www.zerodayinitiative.com/advisories/ZDI-26-828/",
+      "category": "Android Auto / CVE / Automotive",
+      "relevancia": "Media",
+      "resumen": "Advisories ZDI del 28/10/2026: CVE-2026-118610 (desbordamiento de pila en el servicio Android Auto) y CVE-2026-118606 (función peligrosa expuesta en el framework), ambos CVSS 8.8, permiten a un atacante en red adyacente ejecutar código como root sin autenticación ni interacción. Afectan al receptor automotor Alpine iLX-F511, no a teléfonos Android. ZDI los publica como 0-day; no hay explotación maliciosa confirmada.",
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "unknownauto-v1-2-shizuku-spoofs-play-installer-android-auto-nov2026",
+      "title": "UnknownAuto 1.2 usa Shizuku para simular origen Google Play en Android Auto",
+      "url": "https://github.com/GitMag/UnknownAuto/releases/tag/v1.2",
+      "category": "Shizuku / Wireless ADB / Instalación de apps",
+      "relevancia": "Media",
+      "resumen": "Release oficial del 02/11/2026: UnknownAuto 1.2 extiende a Android 14 y anteriores una técnica para instalar APKs de Android Auto marcándolos como originados en Google Play, mediante el instalador del sistema iniciado con privilegios shell de Shizuku. Ilustra que la procedencia registrada por PackageManager puede manipularse con acceso ADB/shell y no debe tratarse como prueba criptográfica de distribución; no es un bypass demostrado de Play Integrity ni de Play Protect.",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "android-dev-summit-2026-official-intent-permissions-security-skills",
+      "title": "Google publica skills oficiales para auditar Intents, componentes exportados y permisos Android",
+      "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+      "category": "Herramientas / Seguridad de apps / IPC",
+      "relevancia": "Baja",
+      "resumen": "Anuncio oficial del 28/10/2026: Android Developers presentó los skills android-intent-security y android-permissions-security para revisiones asistidas de AndroidManifest, Intents, PendingIntent, componentes exportados, permisos y validación de UID/firma en IPC. Son guías de auditoría para agentes y desarrolladores, no una nueva protección del sistema ni un CVE; resultan útiles para revisar superficies de task/activity hijacking y acceso no autorizado.",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "xcpe-videostrong-android-tv-firmware-botnet-1-3m-nov2026",
+      "title": "XCPE: Videostrong preinstaló una puerta trasera en más de 1,3 millones de dispositivos Android",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+      "category": "Malware / Supply chain / Android TV / Fraude",
+      "relevancia": "Alta",
+      "resumen": "Investigación primaria de Google Threat Intelligence del 02/11/2026: atribuye al fabricante Videostrong la inclusión deliberada de x.cpe en el firmware de más de 1,3 millones de set-top boxes Android TV. El implante corre con UID system, se reinstala desde /oem/ y permite instalar módulos silenciosos, desactivar la verificación de Play Protect, ejecutar comandos, capturar pantallas y vender proxies residenciales para fraude. Google desmanteló infraestructura C2, prohibió al fabricante suministrar dispositivos certificados y endureció su revisión de firmware; cortar el C2 no elimina el implante ya instalado.",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "android-asb-noviembre-2026-critical-zero-click-rce-208-cves",
+      "title": "ASB noviembre 2026: RCE crítica sin interacción en Framework y fallas de kernel/pKVM",
+      "url": "https://source.android.com/docs/security/bulletin/2026/2026-11-01",
+      "category": "Android Security Bulletin / CVE / RCE",
+      "relevancia": "Media",
+      "resumen": "Boletín oficial publicado el 02/11/2026: 208 CVEs (23 críticos), entre ellos CVE-2026-58868, RCE crítica sin interacción en Framework para Android 14–17, y CVE-2026-58876/58936, RCE críticas en System. También incluye fallas críticas en Bluetooth, pKVM y módems MediaTek. El nivel de parche 2026-11-05 cubre ambos bloques del boletín; Google no confirmó explotación activa. Las consecuencias concretas dependen del vector y de las mitigaciones presentes.",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "android-cve-2026-58836-sideload-ecm-self-update-source-bypass",
+      "title": "CVE-2026-58836: una app sideloaded podía eludir Enhanced Confirmation Mode al autoactualizarse",
+      "url": "https://osv.dev/vulnerability/ASB-A-349318333",
+      "category": "Sideloading / Permisos / Protección Android",
+      "relevancia": "Media",
+      "resumen": "CVE divulgado el 02/11/2026 en el boletín de noviembre: un error en InstallPackageHelper.handlePackagePostInstall permitía a una aplicación instalada fuera de la tienda modificar su origen de instalación durante una autoactualización y sortear Enhanced Confirmation Mode (ECM). Afecta Android 16, 16 QPR2 y 17; requiere una app local ya ejecutándose, sin interacción adicional para el fallo. Importa porque debilita una barrera contra permisos sensibles de apps sideloaded; no se reportó explotación activa ni se demostró bypass de Play Integrity.",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "android-cve-2026-58957-58962-activitystarter-taskmanager-permission-bypass",
+      "title": "CVE-2026-58957/58962: fallas en ActivityStarter y TaskManager eludían controles de Activities",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58962",
+      "category": "Task / Activity hijacking / Elevación de privilegios",
+      "relevancia": "Media",
+      "resumen": "CVEs divulgados el 02/11/2026: CVE-2026-58957 describe un confused deputy en ActivityStarter.resolveToHeavyWeightSwitcherIfNeeded que permite lanzar una Activity en segundo plano indebidamente; CVE-2026-58962 describe una comprobación de permisos ausente en ActivityTaskManagerService.moveTaskToFrontLocked. Google los clasifica como elevación local de privilegios en Android 14–17, sin permisos extra ni interacción. Relevantes para los límites de manipulación de tareas/pantallas, pero no prueban por sí solos una cadena StrandHogg ni explotación activa. Parche 2026-11-01.",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "googlebook-root-hardware-key-attestation-blocks-android-app-casting-nov2026",
+      "title": "Googlebook rooteado: la attestation de hardware bloquea el casting de apps desde Android",
+      "url": "https://www.androidauthority.com/lose-cross-device-feature-root-googlebook-3730485/",
+      "category": "Root / Hardware attestation / Integridad",
+      "relevancia": "Baja",
+      "resumen": "Hallazgo comunicado por John Wu el 01/11/2026 y reportado el 02/11: un teléfono Android rechaza Cast My Apps hacia un Googlebook rooteado cuando el receptor no supera hardware key attestation. Muestra una validación de integridad del dispositivo receptor antes de exponer contenido de apps; es una limitación específica del casting y no implica un cambio ni un bypass de Play Integrity.",
+      "first_seen": "2026-11-03"
+    },
+    {
+      "id": "ghostmap-bitdefender-android-zip-parser-system-server-crash-loop-nov2026",
+      "title": "GhostMap: APK sin código ni permisos provoca bootloop persistente en Android 10–17",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+      "first_seen": "2026-11-05",
+      "category": "Android / Vulnerabilidades / DoS / Evasión de análisis",
+      "relevancia": "Media",
+      "resumen": "Investigación primaria publicada por Bitdefender el 05/11/2026: una discrepancia entre libziparchive y libandroidfw al interpretar métodos ZIP y tamaños declarados permite que recursos malformados de un APK provoquen SIGBUS al leerse. Un APK instalado, sin código ejecutable ni permisos y sin abrirse, puede hacer caer system_server repetidamente incluso en modo seguro; recuperarlo puede exigir factory reset o ADB previamente habilitado. Reproducido en Pixel 10 con Android 17 y en versiones desde Android 10. También puede bloquear pantallas de desinstalación o escáneres de APK. Google no lo incluyó en un parche de seguridad; no hay explotación maliciosa observada de la cadena de bootloop."
+    },
+    {
+      "id": "poisoned-source-sekoia-apt29-android-chrome-n-day-androsnitch-nov2026",
+      "title": "Poisoned Source: APT29 explota Chrome y Adreno en Android para robar sesiones sin interacción",
+      "url": "https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits",
+      "category": "Explotación activa / Android Chrome / GPU / Robo de sesiones",
+      "relevancia": "Alta",
+      "resumen": "Investigación primaria de Sekoia publicada el 04/11/2026 sobre una campaña activa de watering holes detectada a mediados de octubre y atribuida a APT29 con confianza moderada-alta. Sitios comprometidos, dominios falsos y el tracker Plerdy comprometido servían JavaScript para perfilar dispositivos y lanzar cadenas n-day sin interacción. En Android, Chrome 139–145 (excepto 143) era atacado con CVE-2026-3910 (RCE en renderer) y CVE-2025-27038 (escape mediante GPU Adreno); el payload AndroSnitch extraía cookies, datos de acceso e historial de Chrome y contraseñas Wi-Fi. Los CVE ya estaban corregidos antes de la campaña: afectan equipos desactualizados. No se observó persistencia.",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "grapheneos-2026110700-coarse-location-nnp-microdroid-module-signing",
+      "title": "GrapheneOS 2026110700 refuerza aislamiento de procesos y firma de módulos en Microdroid",
+      "url": "https://grapheneos.org/releases#2026110700",
+      "category": "GrapheneOS / Hardening / Privacidad / Virtualización",
+      "relevancia": "Media",
+      "resumen": "Changelog oficial publicado el 07/11/2026 (versión alpha 2026110700): incorpora APIs de ubicación aproximada para Vanadium y la capa de compatibilidad de Google Play, restaura NoNewPrivs y grupos suplementarios en procesos nativos lanzados con secure spawning, y exige firma de módulos del kernel Microdroid con SHA-256 en lugar de SHA-1. Refuerza aislamiento y privacidad; no se describe explotación activa ni un bypass de Play Integrity.",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "kaspersky-q3-2026-ai-ondevice-banking-malware",
+      "title": "Kaspersky Q3 2026: malware Android usa IA local para identificar datos bancarios y automatizar órdenes",
+      "url": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
+      "first_seen": "2026-11-10"
+    },
+    {
+      "id": "pixel-bulletin-noviembre-2026-keymint-bootloader-pkvm-rce",
+      "title": "Pixel Bulletin noviembre 2026: fallos críticos en KeyMint, bootloader, pKVM y firmware multimedia",
+      "url": "https://source.android.com/docs/security/bulletin/pixel/2026/2026-11-01",
+      "category": "Pixel / Hardware / KeyMint / Bootloader / Virtualización",
+      "relevancia": "Media",
+      "resumen": "Boletín oficial publicado el 10/11/2026: Google corrige vulnerabilidades críticas de elevación de privilegios en Secure Element KeyMint (CVE-2026-55321), bootloader (CVE-2026-55344), pKVM/hipervisor y Trusty, además de ejecución remota de código en HWCodec Firmware (CVE-2026-95402) y MFC (CVE-2026-57047). El parche 2026-11-05 cubre estos fallos en dispositivos Pixel compatibles. Importa para la cadena de confianza y el aislamiento hardware; no se declara explotación activa.",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "arcticrat-zimperium-2026-hvnc-wireless-adb-vpn-ai",
+      "title": "ArcticRAT: control remoto oculto, VPN para evadir Play Protect y abuso de Wireless ADB",
+      "url": "https://zimperium.com/blog/arcticrat-ai-powered-android-rat",
+      "category": "Malware / Accessibility / Overlays / Wireless ADB",
+      "relevancia": "Media",
+      "resumen": "Investigación primaria de Zimperium publicada el 12/11/2026: ArcticRAT combina un dropper que corta el tráfico mediante VpnService durante la instalación, control remoto por VirtualDisplay/MediaProjection y Accessibility oculto tras una pantalla negra, y comandos para emparejar Wireless ADB y alterar permisos o bloqueo del dispositivo. También utiliza una API LLM para seleccionar datos bancarios y OTP de SMS. Importa para fraude on-device y evasión de defensas; el emparejamiento ADB requiere las condiciones de autorización correspondientes.",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "id": "grapheneos-2026111300-remove-obsolete-ca-roots-emudhra",
+      "title": "GrapheneOS 2026111300 elimina 27 autoridades certificadoras raíz obsoletas",
+      "url": "https://grapheneos.org/releases#2026111300",
+      "category": "GrapheneOS / Certificados / Trust Store",
+      "relevancia": "Media",
+      "resumen": "Changelog oficial del 13/11/2026: GrapheneOS retira la raíz eMudhra antes de su desconfianza programada por los principales navegadores y elimina otras 26 CA raíz obsoletas que AOSP todavía conservaba. Reduce la superficie de confianza de TLS del sistema y la exposición a autoridades que ya no deberían emitir certificados aceptados; no se informa compromiso de claves ni explotación activa.",
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "telegram-android-1322-quickjs-widget-seccomp-sandbox-bypass-nebusec-nov2026",
+      "title": "Telegram Android 13.2.2: investigadores eluden el aislamiento de widgets QuickJS por dos vías",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "category": "Android / Sandbox / RCE / Telegram",
+      "relevancia": "Media",
+      "resumen": "Investigación de NebuSec difundida el 16–17/11/2026: dos vías de ejecución fuera del filtro seccomp de widgets QuickJS en Telegram Android 13.2.2 (7303), una mediante un fallo de widget no filtrado y otra encadenando un fallo de widget con uno del kernel. La demostración en servidor de pruebas abre la calculadora; el código publicado deja la mayoría de llamadas en modo auditoría. No se conoce CVE, parche ni alcance sobre datos del usuario; solo bots aprobados pueden enviar widgets en producción. Importa por los límites del aislamiento de código no confiable dentro de una app popular.",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "ostorlab-mobile-banking-2026-biometric-bypass-attestation-report",
+      "title": "Ostorlab: 35,1% de apps bancarias Android con flujos biométricos eludibles y baja adopción de attestation",
+      "url": "https://blog.ostorlab.co/mobile-banking-app-security-report-2026.html",
+      "category": "Fraude bancario / Biometría / Attestation / App Security",
+      "relevancia": "Media",
+      "resumen": "Informe primario de Ostorlab publicado el 12/11/2026 y ampliado el 18/11: análisis automatizado de 2.686 apps bancarias de 487 bancos en 64 países (Android, iOS y HarmonyOS). El escáner señaló flujos biométricos eludibles en el 35,1% de las apps Android; solo el 20,2% del conjunto emplea app/device attestation y apenas el 22,3% de las Android detecta herramientas de control remoto. El 51,5% del total tuvo algún hallazgo alto o crítico. Importa para controles antifraude en el cliente, pero son hallazgos estáticos/automatizados, no explotación confirmada ni pruebas de bypass del backend.",
+      "first_seen": "2026-11-20"
+    },
+    {
+      "id": "android-developer-verification-global-rollout-jan2027-seven-stores",
+      "title": "Google anuncia expansión global de verificación de desarrolladores Android desde enero de 2027",
+      "url": "https://developer.android.com/blog/posts/android-developer-verification-2027",
+      "category": "Android Developer Verification / Sideloading / Distribución",
+      "relevancia": "Alta",
+      "resumen": "Anuncio oficial del 19/11/2026: Google iniciará en enero de 2027 la expansión global de la verificación de identidad y registro de apps, con siete distribuidores (Google Play, Galaxy Store, Honor, Oppo, Xiaomi, Transsion y Vivo), extendiendo gradualmente las protecciones a todas las fuentes de instalación en dispositivos Android certificados. Amplía de 20 a 50 dispositivos el límite de cuentas de distribución reducida sin documento de identidad y mantiene el flujo avanzado para instalar apps no registradas. Importa por su impacto sobre sideloading y el modelo de confianza del ecosistema; el despliegue mundial aún no está vigente.",
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "bazuka-threatfabric-23-modules-fake-screen-self-adb-llm-nov2026",
+      "title": "Bazuka: malware modular oculta fraude con capturas de pantalla y abusa de Wireless ADB",
+      "url": "https://www.threatfabric.com/blogs/bazuka-the-fraud-framework-that-can-do-it-all",
+      "category": "Malware / Accessibility / Overlays / Wireless ADB / Fraude",
+      "relevancia": "Media",
+      "resumen": "Investigación primaria de ThreatFabric publicada el 18/11/2026: Bazuka combina un dropper, un núcleo y 23 módulos DEX para control remoto, captura de credenciales y OTP, NFC relay y sustitución de direcciones cripto. Una técnica distintiva superpone una captura de la pantalla de inicio o bloqueo para ocultar operaciones reales; el núcleo intenta habilitar Wireless Debugging, interceptar el PIN de emparejamiento y conectarse al daemon ADB para obtener permisos. Su panel integra LLM para priorizar víctimas. No se confirmó distribución efectiva por Google Play ni un volumen de infecciones; la explotación de todas las capacidades no está demostrada.",
+      "first_seen": "2026-11-22"
+    },
+    {
+      "id": "whatsapp-nov2026-cve-2026-23871-102769-44908",
+      "title": "WhatsApp corrige tres fallas Android: filtración de IP usada posiblemente en estafas y debilidad de attestation",
+      "url": "https://www.whatsapp.com/security/advisories/2026",
+      "category": "WhatsApp / Fraude / Vulnerabilidades / Attestation",
+      "relevancia": "Media",
+      "resumen": "Aviso oficial de WhatsApp publicado el 20/11/2026: CVE-2026-23871 permite filtrar la IP del destinatario al mostrar una respuesta publicitaria manipulada; Meta sospecha abuso junto con mensajes de spam en una campaña de estafas (sin confirmar alcance). También corrige CVE-2026-102769 (SQL injection al tocar un mensaje de pedido de un cliente no oficial, con posible borrado local y filtración limitada) y CVE-2026-44908 (validación insuficiente de la cadena de certificados en el verificador de attestation de Private Processing, sin explotación observada). Actualizar WhatsApp Android a 2.26.35.74 o posterior y WhatsApp Business a la última versión.",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "sukisu-ultra-nova-rebrand-2026-11-15",
+      "title": "SukiSU Ultra continúa como SukiSU Nova",
+      "url": "https://github.com/SukiSU-Nova/SukiSU-Nova/releases/tag/v3.0.0",
+      "category": "Root / Ecosistema",
+      "relevancia": "Alta",
+      "resumen": "Anuncio oficial del 15/11/2026: SukiSU Ultra cambia de nombre a SukiSU Nova y continúa su desarrollo con el mismo equipo reducido. Las releases históricas quedaron ocultas tras la suspensión de la cuenta del desarrollador principal. Importa para el seguimiento de herramientas de root y sus fuentes oficiales; no implica un nuevo bypass de integridad.",
+      "first_seen": "2026-11-26"
+    }
+  ]
+}
