@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-26",
+  "coverage_complete": false,
+  "coverage": "Ocho fuentes consultadas; blog 429, OWASP dinámico, Xataka desactualizado; búsquedas complementarias parciales.",
+  "candidates": [
+    {
+      "id": "sukisu-ultra-nova-rebrand-2026-11-15",
+      "title": "SukiSU Ultra continúa como SukiSU Nova",
+      "url": "https://github.com/SukiSU-Nova/SukiSU-Nova/releases/tag/v3.0.0",
+      "date": "2026-11-15",
+      "evidence": "Anuncio oficial confirma continuidad y cambio de nombre; releases históricos ocultos tras suspensión de cuenta."
+    }
+  ]
+}
