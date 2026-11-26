@@ -2135,6 +2135,15 @@
       "relevancia": "Media",
       "resumen": "Aviso oficial de WhatsApp publicado el 20/11/2026: CVE-2026-23871 permite filtrar la IP del destinatario al mostrar una respuesta publicitaria manipulada; Meta sospecha abuso junto con mensajes de spam en una campaña de estafas (sin confirmar alcance). También corrige CVE-2026-102769 (SQL injection al tocar un mensaje de pedido de un cliente no oficial, con posible borrado local y filtración limitada) y CVE-2026-44908 (validación insuficiente de la cadena de certificados en el verificador de attestation de Private Processing, sin explotación observada). Actualizar WhatsApp Android a 2.26.35.74 o posterior y WhatsApp Business a la última versión.",
       "first_seen": "2026-11-23"
+    },
+    {
+      "id": "sukisu-ultra-nova-rebrand-2026-11-15",
+      "title": "SukiSU Ultra continúa como SukiSU Nova",
+      "url": "https://github.com/SukiSU-Nova/SukiSU-Nova/releases/tag/v3.0.0",
+      "category": "Root / Ecosistema",
+      "relevancia": "Baja",
+      "resumen": "Anuncio oficial del 15/11/2026: SukiSU Ultra cambia de nombre a SukiSU Nova y continúa su desarrollo con el mismo equipo reducido. Las releases históricas quedaron ocultas tras la suspensión de la cuenta del desarrollador principal. Importa para el seguimiento de herramientas de root y sus fuentes oficiales; no implica un nuevo bypass de integridad.",
+      "first_seen": "2026-11-26"
     }
   ]
 }
