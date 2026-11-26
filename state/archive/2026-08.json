@@ -1,0 +1,478 @@
+{
+  "items": [
+    {
+      "id": "android-ai-agent-invisible-text-host-pc-julio-2026",
+      "title": "Android AI Agents: texto invisible en pantalla puede ejecutar comandos en PC controladora",
+      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "google-advanced-flow-sideloading-agosto-2026",
+      "title": "Google lanza Advanced Flow para sideloading APK en agosto 2026 — enforcement desde septiembre",
+      "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "google-play-api36-deadline-agosto31-2026",
+      "title": "Deadline Google Play API 36 (Android 16): 31 agosto 2026 — quedan 30 días",
+      "url": "https://support.google.com/googleplay/android-developer/answer/11926878",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "eset-threat-report-h1-2026-promptspy-genai",
+      "title": "ESET Threat Report H1 2026: PromptSpy, primer malware Android que usa IA generativa en tiempo de ejecución",
+      "url": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/",
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "zygisknext-v1-4-4-agosto-2026",
+      "title": "ZygiskNext v1.4.4: correcciones de detección y soporte Meta Quest",
+      "url": "https://github.com/Dr-TSNG/ZygiskNext/releases",
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "android-17-qpr1-beta-8-julio-2026",
+      "title": "Android 17 QPR1 Beta 8: corrige bug de autenticación de huella digital y NFC",
+      "url": "https://9to5google.com/2026/07/31/android-17-qpr1-beta-8-pixel/",
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "samsung-s25-oneui9-beta-inminente-agosto-2026",
+      "title": "Samsung Galaxy S25: programa One UI 9 Beta inminente",
+      "url": "https://www.sammyfans.com/2026/08/03/samsung-galaxy-s25-one-ui-9-beta-is-too-close-to-rollout/amp/",
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "asb-agosto-2026-publicado-0803",
+      "title": "ASB Agosto 2026: Google publica boletín mensual con múltiples críticos",
+      "url": "https://source.android.com/docs/security/bulletin/2026/2026-08-01",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "samsung-agosto-2026-smr-56-cves-sve",
+      "title": "Samsung SMR Agosto 2026: 56 CVEs, 8 críticos + SVEs graves",
+      "url": "https://www.sammobile.com/news/samsung-august-2026-security-patch-detailed/",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "android-17-qpr2-beta-2-agosto3-2026",
+      "title": "Android 17 QPR2 Beta 2 disponible para Pixel 6a y superiores",
+      "url": "https://www.droid-life.com/2026/08/03/google-releases-android-17-qpr2-beta-2-for-pixel/",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "pixel-agosto-2026-rollout-cve-2026-0163",
+      "title": "Pixel Update Bulletin agosto 2026: CVE-2026-0163 (High) + rollout iniciado",
+      "url": "https://9to5google.com/2026/08/04/android-17-august-pixel-update/",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "samsung-oneui-roadmap-agosto-2026",
+      "title": "Samsung actualiza hoja de ruta de software One UI para agosto 2026",
+      "url": "https://www.sammyfans.com/2026/08/04/samsung-updates-one-ui-software-rollout-roadmap-august-2026/",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "samsung-galaxy-s25-oneui9-beta-agosto-2026",
+      "title": "Samsung Galaxy S25: programa One UI 9 Beta (Android 17) por lanzarse",
+      "url": "https://www.gizmochina.com/2026/08/05/galaxy-s25-series-one-ui-9-beta-program-launching-soon/",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "samsung-fold3-flip3-eol-agosto-2026",
+      "title": "Samsung Galaxy Z Fold 3 y Z Flip 3: fin de soporte de seguridad en agosto 2026",
+      "url": "https://www.bgr.com/2136284/samsung-phones-not-getting-updates-2026/",
+      "first_seen": "2026-08-06"
+    },
+    {
+      "id": "pixel-6-7-excluidos-agosto-2026-update",
+      "title": "Google excluye Pixel 6 y Pixel 7 de correcciones clave en el update agosto 2026",
+      "url": "https://tech-ish.com/2026/08/05/google-august-android-17-update-pixel-6-pixel-7/",
+      "first_seen": "2026-08-06"
+    },
+    {
+      "id": "samsung-fold8-flip8-watch9-venta-global-agosto-2026",
+      "title": "Samsung Galaxy Z Fold8/Flip8 y Watch9/Ultra2 en venta global con 7 años de actualizaciones de seguridad",
+      "url": "https://news.samsung.com/global/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9",
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "samsung-one-ui-9-watch-modelos-antiguos-agosto-2026",
+      "title": "Samsung One UI 9 Watch para Galaxy Watch 6, 7 y 8: sin fecha confirmada",
+      "url": "https://www.sammyfans.com/2026/08/07/samsung-one-ui-9-watch-older-galaxy-watch-users/",
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "calyxos-7-2-4-20-agosto-2026-android-16",
+      "title": "CalyxOS 7.2.4.20 para Android 16: actualización de seguridad de agosto 2026",
+      "url": "https://calyxos.org/news/2026/08/07/august-security-update/",
+      "first_seen": "2026-08-08"
+    },
+    {
+      "id": "google-restriccion-adb-local-shizuku-cve-2026-0073",
+      "title": "Google considera restringir ADB local en Android; Shizuku y herramientas de desarrollo en riesgo",
+      "url": "https://www.androidauthority.com/google-android-on-device-adb-changes-discussion-3691371/",
+      "first_seen": "2026-08-08"
+    },
+    {
+      "id": "samsung-one-ui-9-5-desarrollo-s27-ultra-agosto2026",
+      "title": "Samsung comenzó desarrollo de One UI 9.5 para Galaxy S27 Ultra",
+      "url": "https://www.sammyfans.com/2026/08/02/samsung-began-one-ui-9-5-development-on-galaxy-s27-ultra/",
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "samsung-oneui9-50-dispositivos-testing-agosto9-2026",
+      "title": "Samsung One UI 9 (Android 17) en testing interno en 50 dispositivos Galaxy",
+      "url": "https://www.sammyfans.com/2026/08/09/samsung-android-17-one-ui-9-galaxy-devices/",
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "samsung-oneui9-beta-s25-guia-apertura-agosto9-2026",
+      "title": "Samsung One UI 9 Beta para Galaxy S25 series — guía de instalación publicada, apertura inminente",
+      "url": "https://www.sammyfans.com/2026/08/09/galaxy-s25-one-ui-9-beta-how-to-download-and-install/",
+      "first_seen": "2026-08-09"
+    },
+    {
+      "id": "samsung-agosto-2026-rollout-inicio-fold8-flip8",
+      "title": "Samsung inicia rollout del parche de agosto 2026 para Fold 8, Flip 8 y S26",
+      "url": "https://www.sammyfans.com/2026/08/10/a-massive-wave-of-samsung-updates-is-near/",
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "samsung-one-ui-9-beta-5-galaxy-s26-agosto-2026",
+      "title": "Samsung One UI 9 Beta 5 para Galaxy S26 confirmada para ventana 10–15 agosto",
+      "url": "https://www.sammobile.com/news/samsung-reveals-when-fifth-one-ui-9-0-beta-coming-galaxy-s26/",
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "zygisknext-v1-4-5-agosto-2026",
+      "title": "ZygiskNext v1.4.5: soporte Android 17 QPR2 Beta 2 y correcciones de compatibilidad",
+      "url": "https://github.com/Dr-TSNG/ZygiskNext/releases",
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "grapheneos-revolut-bloqueo-play-integrity-agosto-2026",
+      "title": "Revolut bloquea nuevamente a usuarios de GrapheneOS invocando Play Integrity",
+      "url": "https://cybernews.com/privacy/grapheneos-says-revolut-is-blocking-users-again-and-this-time-its-personal/",
+      "first_seen": "2026-08-11"
+    },
+    {
+      "id": "btmob-rat-underground-business-agosto-2026",
+      "title": "BTMOB RAT: anatomía del negocio subterráneo del troyano Android MaaS",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "first_seen": "2026-08-11"
+    },
+    {
+      "id": "kaspersky-q2-2026-mobile-statistics",
+      "title": "Kaspersky Q2 2026: estadísticas de amenazas móviles Android — 304K paquetes maliciosos",
+      "url": "https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/",
+      "first_seen": "2026-08-11"
+    },
+    {
+      "id": "samsung-one-ui-9-5-mas-dispositivos-agosto11-2026",
+      "title": "Samsung One UI 9.5 en desarrollo para más dispositivos Galaxy",
+      "url": "https://www.sammyfans.com/2026/08/11/samsung-one-ui-9-5-is-in-development-for-these-galaxy-phones/",
+      "first_seen": "2026-08-11"
+    },
+    {
+      "id": "teesimulator-v4-agosto11-2026",
+      "title": "TEESimulator v4.0: bypass total de hardware attestation via AOSP kmr-ta in-process",
+      "url": "https://github.com/JingMatrix/TEESimulator/releases",
+      "first_seen": "2026-08-12"
+    },
+    {
+      "id": "mediatek-agosto-2026-security-bulletin",
+      "title": "MediaTek Boletín de Seguridad agosto 2026 publicado",
+      "url": "https://www.mediatek.com/product-security-bulletin/august-2026",
+      "first_seen": "2026-08-12"
+    },
+    {
+      "id": "samsung-oneui9-beta5-s26-lanzamiento-agosto12-2026",
+      "title": "Samsung One UI 9.0 Beta 5 para Galaxy S26 lanzado (12 agosto)",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/",
+      "first_seen": "2026-08-12"
+    },
+    {
+      "id": "windrelay-spynote-nfc-relay-android-agosto-2026",
+      "title": "WindRelay + SpyNote: combo de malware NFC relay drena cuentas bancarias en 13 minutos",
+      "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "nyazygisk-v2-4-agosto-2026",
+      "title": "NyaZygisk v2.4: implementacion Zygisk standalone con property spoofing y anti-deteccion",
+      "url": "https://github.com/HSSkyBoy/NyaZygisk/releases",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "samsung-oneui9-beta-s24-s25-agosto13-2026",
+      "title": "Galaxy S24 y S25 se unen al Beta de One UI 9 (Android 17)",
+      "url": "https://www.sammyfans.com/2026/08/13/good-news-galaxy-s24-flagships-to-join-one-ui-9-beta-program/",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "grapheneos-2026080501-sept-jan-asb-patches-agosto-2026",
+      "title": "GrapheneOS 2026080501: preview de seguridad incorpora parches ASB de septiembre 2026 a enero 2027",
+      "url": "https://discuss.grapheneos.org/d/27068-grapheneos-security-preview-releases?page=5",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "samsung-agosto-2026-rollout-global-fold8-series-agosto13",
+      "title": "Samsung: rollout global del parche de agosto 2026 a Galaxy Z Fold 8, Fold 8 Ultra y Flip 8",
+      "url": "https://sammyguru.com/galaxy-z-fold-8-fold-8-ultra-flip-8-august-2026-update-global/",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "magicnet-root-network-proxy-agosto13-2026",
+      "title": "MagicNet: módulo root de gestión de red actualizado el 13 de agosto",
+      "url": "https://github.com/LIghtJUNction/MagicNet",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "android-17-qpr2-beta3-app-lock-call-forwarding-agosto14-2026",
+      "title": "Android 17 QPR2 Beta 3: App Lock nativo + restricción anti-fraude en call forwarding USSD",
+      "url": "https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/",
+      "first_seen": "2026-08-15"
+    },
+    {
+      "id": "samsung-agosto-2026-rollout-expansion-s25-a-agosto15",
+      "title": "Samsung amplía rollout del parche de agosto 2026 a Serie S25 y Galaxy A",
+      "url": "https://www.sammyfans.com/2026/08/15/samsung-rolled-out-the-august-2026-update-to-these-galaxy-devices/",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "google-play-system-update-agosto-2026",
+      "title": "Google Play System Update agosto 2026 desplegado en dispositivos Samsung Galaxy",
+      "url": "https://9to5google.com/2026/08/10/august-2026-google-system-updates/",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "samsung-oneui95-leak-glass-applock-agosto16-2026",
+      "title": "One UI 9.5: primeras imágenes internas revelan rediseño glass y App Lock nativo",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-leak-galaxy-design-changes-3698833/",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "samsung-oneui9-beta6-s26-agosto15-2026",
+      "title": "One UI 9 Beta 6 para Galaxy S26 inminente: candidato a release candidate",
+      "url": "https://www.sammyfans.com/2026/08/15/one-ui-9-beta-6-could-arrive-soon-for-samsung-galaxy-s26/",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "pixel-11-titan-m3-pqc-secure-boot-agosto2026",
+      "title": "Pixel 11 lanzado: Titan M3 con criptografía post-cuántica (NIST PQC) en secure boot",
+      "url": "https://www.privacyguides.org/news/2026/08/13/google-announced-the-pixel-11-with-their-new-titan-m3-quantum-safe-secure-boot/",
+      "first_seen": "2026-08-17"
+    },
+    {
+      "id": "pixel-11-7-anos-soporte-repuestos-agosto2026",
+      "title": "Pixel 11: 7 años de actualizaciones de software Y repuestos — máximo compromiso de Google",
+      "url": "https://www.androidauthority.com/google-pixel-11-seven-years-spare-parts-3698034/",
+      "first_seen": "2026-08-17"
+    },
+    {
+      "id": "pixel-update-schedule-agosto16-2026",
+      "title": "Droid-life actualiza el calendario de soporte Pixel (16 agosto 2026)",
+      "url": "https://www.droid-life.com/2026/08/16/google-pixel-update-schedule-how-long-will-my-phone-get-updates/",
+      "first_seen": "2026-08-17"
+    },
+    {
+      "id": "unisoc-volte-kernel-exploit-agosto17-2026",
+      "title": "Unisoc VoLTE exploit chain: acceso total al kernel Android sin parche",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "kimwolf-v7-android-botnet-http2-agosto-2026",
+      "title": "Kimwolf v7: botnet Android/IoT camufla DDoS HTTP/2 como tráfico legítimo de Chrome",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "octagon-android-bot-vnc-crypto-wallets-agosto-2026",
+      "title": "Octagon Android Bot: MaaS con VNC oculto y accessibility overlays apunta a wallets cripto",
+      "url": "https://iverify.io/blog/octagon-android-bot-crypto-wallets-banking-apps",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "samsung-oneui9-stable-s26-firma-inminente-agosto2026",
+      "title": "Samsung One UI 9 stable para Galaxy S26 inminente: build BZH8 detectado en servidores",
+      "url": "https://sammyguru.com/samsung-galaxy-s26-new-one-ui-9-stable-build/",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "id": "dragondoll-spyware-26-paises-fake-chrome-agosto-2026",
+      "title": "DragonDoll: spyware Android en 26 países vía actualización falsa de Chrome",
+      "url": "https://www.brinztech.com/breach-alerts/brinztech-alert-dragondoll-android-spyware-campaign-targets-users-across-26-countries-via-fake-chrome-updates",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "samsung-agosto-2026-rollout-expansion-agosto18-gizmochina",
+      "title": "Samsung amplía rollout del parche de agosto 2026 a más dispositivos Galaxy (18 agosto)",
+      "url": "https://www.gizmochina.com/2026/08/18/samsung-august-2026-security-update-is-available-for-these-galaxy-devices/",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "toxicpanda-v2-android-banking-trojan-agosto-2026",
+      "title": "ToxicPanda 2.0: nueva variante bancaria Android apunta a 349 apps con 167 comandos remotos",
+      "url": "https://zimperium.com/blog/the-toxicpanda-never-sleeps-toxicpanda-2.0-prepares-its-next-strike-on-mobile",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "grapheneos-motorola-support-2027-agosto-2026",
+      "title": "GrapheneOS confirma primer Motorola compatible en 2027, comenzando por flagships Snapdragon",
+      "url": "https://www.notebookcheck.net/GrapheneOS-confirms-2027-launch-on-Motorola-phones-starting-with-flagships.1373443.0.html",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "manic-android-banking-spyware-agosto-2026",
+      "title": "Manic: troyano bancario Android con relay P2P offline y spyware integrado",
+      "url": "https://www.threatfabric.com/blogs/manic-blend-between-banking-malware-and-spyware",
+      "first_seen": "2026-08-21"
+    },
+    {
+      "id": "android-17-qpr2-sim-security-timeline-celular-agosto2026",
+      "title": "Android 17 QPR2 Beta 3: SIM security timeline + detección nativa de IMSI catchers y ataques de red celular",
+      "url": "https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-galaxy-quantum7-qrng-agosto25-2026",
+      "title": "Samsung Galaxy Quantum 7 lanza el 25 de agosto en Corea del Sur (QRNG)",
+      "url": "https://www.sammyfans.com/2026/08/21/samsung-to-release-galaxy-quantum-7-next-week/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-oneui9-watch-beta-watch8-agosto21-2026",
+      "title": "One UI 9 Watch (Wear OS 7) Beta para Galaxy Watch 8 es inminente",
+      "url": "https://www.sammyfans.com/2026/08/21/galaxy-watch-8s-one-ui-9-watch-beta-release-seems-imminent/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-oneui9-68-dispositivos-testing-agosto20-2026",
+      "title": "Samsung amplía testing interno de One UI 9 (Android 17) a 68 dispositivos Galaxy",
+      "url": "https://www.sammyfans.com/2026/08/20/samsung-android-17-one-ui-9-galaxy-devices/",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "samsung-oneui95-s26-testing-semanas-adelantado-agosto19-2026",
+      "title": "Samsung prueba One UI 9.5 en Galaxy S26 semanas antes de lo esperado",
+      "url": "https://www.androidheadlines.com/2026/08/samsung-begins-testing-one-ui-9-5-galaxy-s26-s27-leak.html",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "moyugroup-android-car-headunit-badbox-agosto22-2026",
+      "title": "Primer malware documentado para Android car head units — cadena de suministro MoYu/BadBox",
+      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "first_seen": "2026-08-23"
+    },
+    {
+      "id": "google-backpedals-developer-registration-free-accounts-agosto-2026",
+      "title": "Google flexibiliza verificación de desarrolladores Android: cuentas gratuitas sin ID gubernamental",
+      "url": "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "android-17-qpr1-beta-9-agosto17-2026",
+      "title": "Android 17 QPR1 Beta 9 disponible para Pixel — beta final para Pixel 6/6 Pro",
+      "url": "https://www.droid-life.com/2026/08/17/android-17-qpr1-beta-9-update-released-for-pixel-phones/",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "zimperium-2026-global-mobile-threat-report-ai-attacks",
+      "title": "Zimperium 2026 Global Mobile Threat Report: IA impulsa 14x el crecimiento de ataques móviles Android",
+      "url": "https://zimperium.com/resources/new-zimperium-research-reveals-that-ai-based-attacks-are-targeting-and-succeeding-on-mobile",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "zimperium-deep-insights-mobile-forensics-agosto-2026",
+      "title": "Zimperium Deep Insights: forensia móvil automatizada con IA para empresas",
+      "url": "https://securityboulevard.com/2026/08/zimperium-launches-deep-insights-for-automated-mobile-forensics/",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "av-comparatives-mobile-security-review-2026",
+      "title": "AV-Comparatives Mobile Security Review 2026: benchmark de 9 AV Android",
+      "url": "https://av-comparatives.org/tests/mobile-security-review-2026/",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "samsung-oneui9-beta6-s26-lanzado-agosto25-2026",
+      "title": "One UI 9 Beta 6 lanzada para Galaxy S26 con parche agosto 2026",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-6-3702640/",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "samsung-galaxy-m55-agosto-2026-patch",
+      "title": "Samsung Galaxy M55 recibe parche de seguridad agosto 2026",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-m55-with-august-2026-security-patch/",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "samsung-s26-s25-s24-agosto-2026-security-rollout",
+      "title": "Samsung despliega parche de seguridad agosto 2026 a Galaxy S26, S25 y S24",
+      "url": "https://www.sammyfans.com/2026/08/26/samsung-galaxy-s26-august-2026-security-update-is-now-rolling-out/",
+      "first_seen": "2026-08-27"
+    },
+    {
+      "id": "android-17-4-protecciones-red-anuncio-oficial-agosto2026",
+      "title": "Android 17: Google anuncia oficialmente 4 nuevas protecciones de seguridad de red",
+      "url": "https://blog.google/security/new-android-network-security-protections/",
+      "first_seen": "2026-08-28"
+    },
+    {
+      "id": "golddigger-toxicpanda-on-device-fraud-expansion-agosto2026",
+      "title": "GoldDigger 2026 + ToxicPanda 2.0: ola coordinada de fraude bancario en dispositivo apunta a Sudáfrica y Reino Unido",
+      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "first_seen": "2026-08-28"
+    },
+    {
+      "id": "samsung-oneui9-stable-build-s24-s25-detectada-agosto2026",
+      "title": "Samsung One UI 9.0 estable detectado para Galaxy S24 y S25",
+      "url": "https://r2.community.samsung.com/t5/Galaxy-S/S24-S25-A-new-One-UI-9-0-stable-build-found/m-p/22760757",
+      "first_seen": "2026-08-28"
+    },
+    {
+      "id": "android-17-qpr2-beta-4-platform-stability-agosto28-2026",
+      "title": "Android 17 QPR2 Beta 4 alcanza Platform Stability con protección anti-fraude telefónico",
+      "url": "https://9to5google.com/2026/08/28/android-17-qpr2-beta-4-pixel/",
+      "first_seen": "2026-08-29"
+    },
+    {
+      "id": "aaos-sdv-secure-by-design-agosto24-2026",
+      "title": "AAOS SDV - Secure by Design (Google Android Developers Blog)",
+      "url": "https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html",
+      "first_seen": "2026-08-30"
+    },
+    {
+      "id": "samsung-oneui9-security-privacy-features-agosto29-2026",
+      "title": "Samsung One UI 9: nuevas funciones de seguridad y privacidad reveladas (29 ago)",
+      "url": "https://www.sammyfans.com/2026/08/29/samsung-announced-more-one-ui-9-0-features-but-no-release-date/",
+      "first_seen": "2026-08-30"
+    },
+    {
+      "id": "samsung-oneui9-beta7-s26-agosto28-2026",
+      "title": "Samsung One UI 9 Beta 7 para Galaxy S26 con parche agosto 2026",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-3704232/",
+      "first_seen": "2026-08-30"
+    },
+    {
+      "id": "xda-strong-integrity-bypass-agosto26-2026",
+      "title": "XDA: Bypass de Play Integrity (MEETS_STRONG_INTEGRITY) sigue activo — guía actualizada al 26 agosto 2026",
+      "url": "https://xdaforums.com/t/guide-how-to-pass-strong-integrity-and-bypass-root-detection-apps-revolut-company-portal-google-wallet-etc-working-as-of-august-26th-2026.4773849/",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "zygisk-next-v1-5-0-agosto26-2026",
+      "title": "Zygisk Next v1.5.0 lanzado (26 agosto 2026)",
+      "url": "https://magisk.dev/modules/zygisk-next/",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "samsung-s23-agosto-2026-patch-fin-rollout",
+      "title": "Samsung completa rollout del patch agosto 2026: Galaxy S23 es el último flagship en recibirlo",
+      "url": "https://www.sammobile.com/news/galaxy-s23-august-2026-security-update-last-day-month",
+      "first_seen": "2026-08-31"
+    }
+  ]
+}
