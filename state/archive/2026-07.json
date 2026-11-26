@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "id": "google-rbus-asb-parches-riesgo-2025-2026",
+      "title": "Google implementa RBUS: el ASB mensual ahora solo lista vulnerabilidades de alto riesgo",
+      "url": "https://www.androidauthority.com/android-risk-based-security-updates-3597466/",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "grapheneos-calyxos-parches-julio-2026",
+      "title": "GrapheneOS y CalyxOS publican actualizaciones de seguridad con parches de julio 2026",
+      "url": "https://www.nobsbitcoin.com/grapheneos-and-calyxos-july-security-updates-released/",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "android-developer-id-status-api-julio-2026",
+      "title": "Android Developer ID Status API lanza globalmente en julio 2026",
+      "url": "https://android-developers.googleblog.com/2026/06/android-developer-verification.html",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "samsung-galaxy-unpacked-julio-22-2026-fold8-oneui9",
+      "title": "Samsung Galaxy Unpacked julio 22: Z Fold 8/Flip 8 con One UI 9 estable (Android 17)",
+      "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "ai-deepseek-browser-ransomware-chromium-android-2026",
+      "title": "Ransomware de navegador generado por IA (DeepSeek) cifra archivos en Android Chrome sin instalar nada",
+      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "android-17-qpr1-beta-6-platform-stability-julio-2026",
+      "title": "Android 17 QPR1 Beta 6 alcanza Platform Stability — APIs del Feature Drop de septiembre están bloqueadas",
+      "url": "https://9to5google.com/2026/07/01/android-17-qpr1-beta-6-pixel/",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "samsung-junio-2026-s23fe-mas-dispositivos-julio-2026",
+      "title": "Samsung extiende el parche de junio 2026 al Galaxy S23 FE y más dispositivos ya en julio",
+      "url": "https://www.androidheadlines.com/2026/07/samsungs-june-2026-security-update-just-reached-more-galaxy-devices.html",
+      "first_seen": "2026-07-02"
+    },
+    {
+      "id": "google-eu-android-antitrust-final-appeal-julio-2026",
+      "title": "Google pierde apelación final en la UE: multa de €4.100M por Android confirmada",
+      "url": "https://www.androidheadlines.com/2026/07/google-loses-final-appeal-eu-android-antitrust-fine.html",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "cve-2026-46242-bad-epoll-linux-kernel-android",
+      "title": "CVE-2026-46242 'Bad Epoll': LPE a root en kernel Linux 6.4+, alcanza Android",
+      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "netnut-popa-botnet-android-takedown-julio-2026",
+      "title": "Google + FBI desmantelan botnet NetNut/Popa: 2 millones de Android comprometidos",
+      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "fdroid-adv-malware-openandroid-71-orgs-julio-2026",
+      "title": "F-Droid llama 'malware' al ADV de Google; 71 organizaciones firman carta abierta",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "glitch-spy-rat-android-accessibility-julio-2026",
+      "title": "Glitch SPY RAT: RAT Android con 70+ comandos distribuido via fake app de alquiler",
+      "url": "https://gbhackers.com/glitch-spy-rat-abuses-android/",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "rustduck-botnet-android-adb-ddos-junio-2026",
+      "title": "RustDuck: botnet en Rust compromete Android set-top boxes via ADB para DDoS",
+      "url": "https://thehackernews.com/2026/07/rustduck-botnet-rebuilds-in-rust-to.html",
+      "first_seen": "2026-07-04"
+    },
+    {
+      "id": "quick-share-android-cispa-6-flaws-julio-2026",
+      "title": "Quick Share (Android): 6 vulnerabilidades CISPA — bypass de autenticacion en protocolo de proximidad",
+      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "mediatek-julio-2026-product-security-bulletin",
+      "title": "MediaTek publica boletin de seguridad de julio 2026 para chipsets Android",
+      "url": "https://corp.mediatek.com/product-security-bulletin/July-2026",
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "samsung-watch-julio-2026-parche-primer-rollout",
+      "title": "Samsung inicia el primer rollout del parche de julio 2026 en Galaxy Watch 8 y Watch 7",
+      "url": "https://www.sammobile.com/news/galaxy-watch-8-watch-7-first-samsung-devices-get-july-2026-security-update/",
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "samsung-one-ui-9-beta-4-galaxy-s26-julio-2026",
+      "title": "Samsung confirma One UI 9.0 Beta 4 para Galaxy S26 con mejoras de Auto Blocker y USB",
+      "url": "https://www.sammyfans.com/2026/07/05/samsung-confirms-one-ui-9-0-beta-4-to-release-next-week/",
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "asb-julio-2026-tres-zero-days-explotados",
+      "title": "ASB Julio 2026: tres vulnerabilidades Android explotadas activamente",
+      "url": "https://www.bleepingcomputer.com/news/security/android-july-security-updates-fix-three-actively-exploited-bugs/",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "samsung-julio-2026-parche-57-cves-5-criticos",
+      "title": "Samsung julio 2026: parche con 57 vulnerabilidades (5 críticas, 16 SVEs propias)",
+      "url": "https://www.sammobile.com/news/samsung-july-2026-security-patch-detailed/",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "samsung-one-ui-9-roadmap-julio-2026-estable-22jul",
+      "title": "Samsung One UI 9 (Android 17): hoja de ruta estable desde el 22 de julio",
+      "url": "https://www.sammyfans.com/2026/07/07/samsung-software-roadmap-july-2026/",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "kernelsu-next-v3-3-0-julio-2026",
+      "title": "KernelSU-Next v3.3.0: SELinux hide mejorado y refactor del kernel allowlist",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.3.0",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "samsung-quarterly-security-list-julio-2026-a27-m47",
+      "title": "Samsung actualiza lista Quarterly Security: A27 5G y M47 5G se suman; M13 4G pierde soporte",
+      "url": "https://www.sammyfans.com/2026/07/07/samsung-updates-quarterly-security-list-with-2-new-additions-1-exit/",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "android-16-vpn-tiny-udp-cannon-wont-fix-grapheneos",
+      "title": "Android 16 VPN bypass 'Tiny UDP Cannon': Google Won't Fix, GrapheneOS lo parchea",
+      "url": "https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "cve-2026-58299-edge-android-rce",
+      "title": "CVE-2026-58299: RCE en Microsoft Edge para Android (CVSS 7.5)",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58299",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "pixel-6-final-stretch-eol-octubre-2026",
+      "title": "Pixel 6/6 Pro: solo 3 actualizaciones restantes antes del fin de soporte en octubre 2026",
+      "url": "https://tech-ish.com/2026/07/08/pixel-6-july-2026-security-update/",
+      "first_seen": "2026-07-08"
+    },
+    {
+      "id": "pixel-julio-2026-update-bootloop-fix",
+      "title": "Pixel julio 2026: actualización corrige bootloop persistente desde marzo (boletín Pixel-específico vacío)",
+      "url": "https://www.notebookcheck.net/Google-Pixel-July-update-fixes-bootloop-issue.1337711.0.html",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "samsung-galaxy-s26-rollout-julio-2026",
+      "title": "Samsung Galaxy S26 inicia rollout del parche de seguridad julio 2026 en Corea (One UI 8.5)",
+      "url": "https://www.sammyfans.com/2026/07/09/samsung-galaxy-s26-grabs-the-july-2026-security-update/",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "google-play-system-update-julio-2026-samsung",
+      "title": "Google Play System Update julio 2026 llega a dispositivos Samsung Galaxy",
+      "url": "https://www.sammyfans.com/2026/07/09/july-2026-google-play-system-update-rolling-out-to-samsung-phones/",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "xiaomi-julio-2026-parche-rollout",
+      "title": "Xiaomi inicia rollout del parche de seguridad de julio 2026 en HyperOS 3",
+      "url": "https://ximitime.com/xiaomi-rolls-out-july-2026-android-security-patch-for-devices-98429/",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "qualcomm-julio-2026-security-bulletin",
+      "title": "Qualcomm publica boletín de seguridad de julio 2026 para chipsets Snapdragon",
+      "url": "https://docs.qualcomm.com/product/publicresources/securitybulletin/july-2026-bulletin.html",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "id": "redwing-maas-android-banking-telegram-2026",
+      "title": "RedWing MaaS: fraude bancario Android alquilado en Telegram (Zimperium)",
+      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "cve-2026-43499-ghostlock-linux-kernel-android",
+      "title": "GhostLock (CVE-2026-43499): LPE de 15 años en kernel Linux con PoC público apuntado a ARM64 Android",
+      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "samsung-messages-shutdown-smishing-julio-2026",
+      "title": "Samsung Messages se apagó el 6 julio y scammers lanzan smishing masivo contra usuarios Galaxy",
+      "url": "https://www.techtimes.com/articles/319771/20260706/samsung-messages-gone-dark-scam-texts-target-galaxy-users-shutdown-day.htm",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "samsung-julio-2026-rollout-s25-fold7-flip7",
+      "title": "Samsung expande rollout del parche de julio 2026 a Galaxy S25, Fold 7, Flip 7 y TriFold",
+      "url": "https://www.sammobile.com/news/new-galaxy-s25-update-brings-july-2026-security-patch/",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "ill-bloom-crypto-wallet-android-julio-2026",
+      "title": "\"Ill Bloom\": falla PRNG en wallets crypto Android explota activamente con +$5M robados",
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "first_seen": "2026-07-11"
+    },
+    {
+      "id": "samsung-watch-6-julio-2026",
+      "title": "Samsung Galaxy Watch 6 recibe parche de seguridad de julio 2026",
+      "url": "https://www.sammobile.com/news/galaxy-watch-6-series-gets-july-2026-security-update/",
+      "first_seen": "2026-07-11"
+    },
+    {
+      "id": "lurking-lizard-wirevpn-proxy-android-play-store-2026",
+      "title": "WireVPN: app en Play Store con +1M descargas convierte Android en nodo proxy residencial (Lurking Lizard)",
+      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "first_seen": "2026-07-12"
+    },
+    {
+      "id": "uboot-brly-2026-037-042-fit-code-execution-android",
+      "title": "Seis vulnerabilidades U-Boot (BRLY-2026-037 a 042) permiten ejecución de código pre-firma en dispositivos embebidos y Android",
+      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "first_seen": "2026-07-12"
+    },
+    {
+      "id": "dchspy-muddywater-variantes-iran-israel-2026",
+      "title": "DCHSpy (MuddyWater): nuevas variantes iraníes para Android con señuelos VPN-Starlink",
+      "url": "https://www.securityweek.com/new-variants-of-dchspy-spyware-used-by-iranian-apt-to-target-android-users/",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "frogblight-troyano-bancario-turquia-kaspersky-2026",
+      "title": "Frogblight: nuevo troyano bancario Android geo-apuntado a Turquía (Kaspersky)",
+      "url": "https://www.kaspersky.com/about/press-releases/kaspersky-uncovers-frogblight-a-new-android-banking-trojan-targeting-turkiye",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "calyxos-regresa-version-7-2-2-0-julio-2026",
+      "title": "CalyxOS 7.2.2.0 regresa tras 11 meses de pausa con firma HSM open-source",
+      "url": "https://calyxos.org/news/2026/07/01/calyxos-official-release-is-back/",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "lsposed-archivado-vector-sucesor-mayo-2026",
+      "title": "LSPosed archivado en mayo 2026; Vector (JingMatrix) es el sucesor oficial del framework de hooking",
+      "url": "https://github.com/JingMatrix/Vector/releases",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "redhook-android-rat-wireless-adb-julio-2026",
+      "title": "RedHook Android RAT: abusa de Wireless ADB para obtener acceso shell sin root ni PC",
+      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "samsung-galaxy-s26-julio-2026-global-expansion",
+      "title": "Samsung Galaxy S26: parche de julio 2026 se expande globalmente",
+      "url": "https://www.sammobile.com/news/galaxy-s26-july-2026-security-update-expands-globally/",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "nfcshare-malware-bancario-github-nfc-2026",
+      "title": "NFCShare: malware Android roba datos NFC de tarjetas bancarias vía apps falsas en GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "google-play-interoperabilidad-julio22-2026-riesgo-seguridad",
+      "title": "Google Play abre catálogo a tiendas de terceros el 22 de julio — riesgo de APKs trojanizados",
+      "url": "https://www.androidauthority.com/epic-google-play-store-settlement-withdrawn-3687649/",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "grapheneos-2026071101-security-preview-asb-futuro",
+      "title": "GrapheneOS 2026071101: preview de seguridad con parches ASB hasta enero 2027",
+      "url": "https://grapheneos.org/releases",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "samsung-one-ui-9-security-label-power-menu-2026",
+      "title": "Samsung One UI 9 Beta 4: Security Label en el Power Menu",
+      "url": "https://www.sammyfans.com/2026/07/15/samsung-one-ui-9-0-power-menu-adds-a-new-security-label/",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "samsung-galaxy-a55-julio-2026-rollout",
+      "title": "Samsung Galaxy A55 inicia rollout del parche de julio 2026",
+      "url": "https://www.sammobile.com/news/new-galaxy-a55-update-brings-july-2026-security-patch/",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "albiriox-unicredit-telegram-julio-2026",
+      "title": "Albiriox MaaS: campana con falsa recompensa UniCredit via Telegram distribuye RAT Android",
+      "url": "https://www.d3lab.net/fake-banking-rewards-telegram-delivery-and-albiriox-anatomy-of-an-android-malware-campaign/",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "google-play-policy-julio-15-2026-chat-anonimo-read-call-log",
+      "title": "Google Play Policy julio 2026: restricciones en chat anonimo, READ_CALL_LOG y plazo targetSdk agosto 2026",
+      "url": "https://support.google.com/googleplay/android-developer/answer/17134731?hl=en",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "android-17-qpr1-beta-7-julio-2026",
+      "title": "Android 17 QPR1 Beta 7 lanzado para Pixel con parche de seguridad de julio 2026",
+      "url": "https://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "samsung-galaxy-s24-julio-2026-rollout",
+      "title": "Samsung Galaxy S24 inicia rollout del parche de julio 2026",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-with-july-2026-security-patch/",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "ionstack-android-17-1click-root-firefox-ghostlock",
+      "title": "IonStack: cadena 1-click URL-to-root en Android 17 combina Firefox JIT RCE y GhostLock (PoC público)",
+      "url": "https://cybersecuritynews.com/android-17-root-1-click/",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "samsung-galaxy-z-fold6-flip6-julio-2026-parche",
+      "title": "Samsung Galaxy Z Fold 6 y Flip 6 reciben parche de julio 2026 (57 fixes, 5 críticos)",
+      "url": "https://samsung.gadgethacks.com/news/galaxy-z-fold-6-and-flip-6-july-2026-security-update-5-critical-flaws-fixed/",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "samsung-galaxy-a56-a35-julio-2026-rollout",
+      "title": "Samsung Galaxy A56 y A35 inician rollout del parche de julio 2026",
+      "url": "https://www.androidheadlines.com/2026/07/samsungs-july-2026-security-update-reaches-more-galaxy-devices.html",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "samsung-one-ui-9-42-devices-testing-android-17-jul16",
+      "title": "Samsung One UI 9 en prueba interna en 42 dispositivos Galaxy previo al lanzamiento del 22 de julio",
+      "url": "https://www.gsmarena.com/samsung_one_ui_9_galaxy_device_test_list-news-73574.php",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "eu-dma-google-android-ia-rivales-julio-2026",
+      "title": "EU/DMA: Google obligado a abrir Android a asistentes IA rivales de Gemini",
+      "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "first_seen": "2026-07-18"
+    },
+    {
+      "id": "grapheneos-2026071100-exec-spawning-per-app-toggle",
+      "title": "GrapheneOS 2026071100: exec spawning refactorizado con toggle por-app",
+      "url": "https://alternativeto.net/news/2026/7/grapheneos-update-new-exec-spawning-app-toggle-july-2026-security-patch/",
+      "first_seen": "2026-07-18"
+    },
+    {
+      "id": "samsung-one-ui-9-phishing-app-risk-alert-fold8-flip8-julio-2026",
+      "title": "Samsung One UI 9 Phishing App Risk Alert debuta en Galaxy Z Fold 8 / Flip 8",
+      "url": "https://www.sammobile.com/news/one-ui-9-galaxy-z-flip-fold-8-stop-phishing-apps-running/",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "samsung-galaxy-s22-excluido-android-17-one-ui-9-julio-2026",
+      "title": "Samsung Galaxy S22 excluido oficialmente de Android 17 (One UI 9)",
+      "url": "https://tech-ish.com/2026/07/17/samsung-galaxy-s22-one-ui-9-update/",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "samsung-one-ui-9-auto-blocker-security-report-julio-2026",
+      "title": "Samsung Auto Blocker One UI 9: Security Report + USB blocking total",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-auto-blocker-update-3666893/",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "samsung-galaxy-s23-julio-2026-rollout",
+      "title": "Samsung Galaxy S23 inicia rollout del parche de julio 2026",
+      "url": "https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "galaxy-glasses-android-xr-privacidad-anti-tampering-julio-2026",
+      "title": "Samsung Galaxy Glasses (Android XR): privacidad y anti-tampering previo al lanzamiento del 22 de julio",
+      "url": "https://samsung.gadgethacks.com/news/samsung-galaxy-glasses-launch-july-2026-features-privacy-and-tradeoffs/",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "mvpnalyzer-281-vpn-apps-play-store-2026",
+      "title": "Estudio MVPNalyzer: 88% de 281 apps VPN gratuitas en Play Store fallan en seguridad — 2.4B instalaciones afectadas",
+      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "samsung-galaxy-a25-xcover7-julio-2026-rollout",
+      "title": "Samsung Galaxy A25 y XCover 7 reciben el parche de seguridad de julio 2026",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-xcover-7-with-july-2026-security-patch/",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "pixel-6-6-pro-eol-confirmado-qpr2-julio-2026",
+      "title": "Pixel 6 y 6 Pro: Google confirma oficialmente fin de soporte al lanzar QPR2 sin ellos",
+      "url": "https://www.droid-life.com/2026/07/20/google-confirms-end-of-life-status-for-pixel-6-and-pixel-6-pro/",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "android-17-qpr2-beta-1-julio-2026",
+      "title": "Android 17 QPR2 Beta 1 disponible para Pixel: inicio del ciclo hacia el Pixel Drop de diciembre 2026",
+      "url": "https://9to5google.com/2026/07/20/android-17-qpr2-beta-1-pixel/",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "grapheneos-2026071500-secure-nfc-kernel-update",
+      "title": "GrapheneOS 2026071500: NFC seguro por defecto, compatibilidad con V-KEY anti-tampering y actualizaciones de kernel GKI",
+      "url": "https://grapheneos.org/releases#2026071500",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "samsung-one-ui-9-testing-fan-editions-s25edge-julio-2026",
+      "title": "Samsung expande pruebas internas de One UI 9 (Android 17) a Galaxy S23 FE, S24 FE, S25 FE y S25 Edge",
+      "url": "https://tech-ish.com/2026/07/20/one-ui-9-galaxy-fan-edition-s25-edge/",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "samsung-oneui9-estable-debut-fold8-flip8-julio22-2026",
+      "title": "One UI 9.0 estable debuta oficialmente en Galaxy Z Fold 8, Z Fold 8 Ultra y Z Flip 8",
+      "url": "https://www.sammyfans.com/2026/07/22/official-one-ui-9-0-and-one-ui-9-0-watch-unveiling-today/",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "grapheneos-alerta-google-backports-android-versiones-antiguas-2026",
+      "title": "GrapheneOS alerta: Google reduciría backports de seguridad para versiones antiguas de Android",
+      "url": "https://cyberinsider.com/grapheneos-says-google-will-cut-security-backports-for-older-android-releases/",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "android-xr-bulletin-julio-2026",
+      "title": "Android XR Security Bulletin Julio 2026 — primer boletín mensual para la plataforma XR",
+      "url": "https://source.android.com/docs/security/bulletin/xr/2026/2026-07-01",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "samsung-galaxy-watch9-ultra2-unpacked-julio22-2026",
+      "title": "Samsung Galaxy Watch 9 y Watch Ultra 2 lanzados con Snapdragon Wear Elite y AI health companion",
+      "url": "https://www.trustedreviews.com/news/samsung-teases-galaxy-watch-9-and-ultra-2-with-ai-health-upgrades",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "google-play-rival-stores-live-julio22-2026",
+      "title": "Google Play abre a tiendas de apps rivales — implementado el 22 julio 2026",
+      "url": "https://www.digitbin.com/google-play-third-party-app-stores/",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "android-17-advanced-protection-accessibility-os-verify-2026",
+      "title": "Android 17 Advanced Protection bloquea Accessibility Services a apps que no son herramientas de accesibilidad",
+      "url": "https://www.androidpolice.com/advanced-protection-mode-android-17-beta-accessibility/",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "octagonpanel-bhalert-spyware-bahrain-android-2026",
+      "title": "OctagonPanel / BH Alert: spyware Android de 4 etapas se disfraza de app de emergencias de Bahrein",
+      "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "xiaomi-julio-2026-58-dispositivos-expansion",
+      "title": "Xiaomi amplía rollout del parche julio 2026 a 58 dispositivos Xiaomi/Redmi/Poco",
+      "url": "https://www.gizmochina.com/2026/07/24/these-xiaomi-devices-have-received-july-2026-security-update/",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "samsung-one-ui-9-lockscreen-bruteforce-policy-julio-2026",
+      "title": "Samsung One UI 9: bloqueo permanente de pantalla tras 13 intentos fallidos",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-one-ui-9-stricter-lock-screen-security/",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "grapheneos-2026071501-preview-multi-month-patches",
+      "title": "GrapheneOS 2026071501: security preview con parches ASB adelantados hasta enero 2027",
+      "url": "https://grapheneos.org/releases",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "samsung-julio-2026-expansion-fold5-flip5-serie-a-budget",
+      "title": "Samsung expande parche de julio 2026 a Galaxy Z Fold 5/Flip 5/Fold 4/Flip 4 y A-series (A54, A33, A26, A15)",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-5-flip-5-fold-4-flip-4-get-july-2026-security-update/",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "samsung-one-ui-9-beta-expansion-mas-dispositivos-julio-2026",
+      "title": "Samsung prepara expansión de One UI 9 beta a más Galaxy (Serie S25 próxima)",
+      "url": "https://www.gizmochina.com/2026/07/25/samsung-prepares-to-expand-one-ui-9-0-beta-to-more-galaxy-phones/",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "android-developer-verifier-app-visible-devices-julio-2026",
+      "title": "Android Developer Verifier (com.google.android.verifier) ya visible en dispositivos",
+      "url": "https://www.androidauthority.com/android-developer-verifier-app-rollout-3689106/",
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "samsung-oneui9-estable-s26-s25-cronograma-agosto-sept-2026",
+      "title": "One UI 9 estable para Galaxy S26 y S25 apuntaría a agosto–septiembre 2026",
+      "url": "https://tech-ish.com/2026/07/25/alleged-samsung-one-ui-9-rollout-timeline/",
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "samsung-s25-julio-2026-global-rollout",
+      "title": "Parche julio 2026 llega globalmente a la serie Galaxy S25",
+      "url": "https://www.sammobile.com/news/galaxy-s25-series-july-2026-security-update-goes-global/",
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "samsung-a54-a33-a26-a15-julio-2026",
+      "title": "Galaxy A54, A33, A26 y A15 reciben parche julio 2026",
+      "url": "https://www.sammobile.com/news/galaxy-a54-a33-a26-a15-get-july-2026-security-update/",
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "samsung-galaxy-a57-a27-julio-2026",
+      "title": "Samsung Galaxy A57 y A27 reciben parche de seguridad julio 2026",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-a57-a27-with-july-2026-security-patch/",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "samsung-one-ui-9-leaked-builds-a57-a175g",
+      "title": "Builds filtradas de One UI 9 para Galaxy A57 y A17 5G apuntan a expansion beta Android 17",
+      "url": "https://tech-ish.com/2026/07/25/samsung-one-ui-9-galaxy-a57-a17-5g/",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "coretax-rat-android-accesibilidad-q2-2026-promon",
+      "title": "Coretax RAT: informe Q2 2026 — banking trojan con abuso de Accessibility Services",
+      "url": "https://promon.io/security-news/app-threat-report-q2-2026-coretax-android-banking-malware",
+      "first_seen": "2026-07-28"
+    },
+    {
+      "id": "app-seguridad-android-spyware-julio-2026-thn",
+      "title": "App de seguridad Android se convierte en spyware — ThreatsDay julio 23 2026",
+      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "first_seen": "2026-07-28"
+    },
+    {
+      "id": "google-system-updates-julio-2026-9to5google",
+      "title": "Google System Updates julio 2026: passkeys en Android TV, perfiles de trabajo en Wear OS",
+      "url": "https://9to5google.com/2026/07/27/july-2026-google-system-updates/",
+      "first_seen": "2026-07-28"
+    },
+    {
+      "id": "tengu-mirai-botnet-androidtv-apk-watchdog-julio-2026",
+      "title": "Tengu: nueva botnet Mirai con payloads APK para Android TV y DDoS avanzado",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "first_seen": "2026-07-29",
+      "category": "Malware",
+      "relevancia": "Media"
+    },
+    {
+      "id": "android-malware-deteccion-falsopositivos-drebin-julio-2026",
+      "title": "Investigación revela hasta 80% de falsos positivos en detectores de malware Android sobre apps legítimas",
+      "url": "https://www.helpnetsecurity.com/2026/07/29/android-malware-detection-research/",
+      "first_seen": "2026-07-29",
+      "category": "Plataforma/Investigación",
+      "relevancia": "Baja"
+    },
+    {
+      "id": "flying-eagle-android-rat-170-servidores-julio-2026",
+      "title": "Flying Eagle Android RAT: código fuente filtrado en Telegram, activo en 170 servidores",
+      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "aftercall-android-overlay-adfraud-julio-2026",
+      "title": "AfterCall: apps en Google Play abusan de overlay para mostrar anuncios tras llamadas",
+      "url": "https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "copybara-rat-n26-italy-vishing-julio-2026",
+      "title": "Copybara Android RAT: campaña activa en Italia suplanta soporte de N26 via vishing + dropper multi-etapa",
+      "url": "https://cybersecuritynews.com/fake-n26-support-calls-copybara-rat/",
+      "first_seen": "2026-07-31"
+    }
+  ]
+}
