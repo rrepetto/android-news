@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "id": "positive-technologies-android-setup-wizard-cve-2026-57012-28616",
+      "title": "Dos fallas de Setup Wizard permitían instalar apps y manipular la red sin interacción",
+      "url": "https://ptsecurity.com/about/news/pt-experts-helped-google-and-apple-eliminate-11-vulnerabilities/",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "google-advanced-protection-six-features-oct2026",
+      "title": "Advanced Protection incorpora Intrusion Logging, USB Protection y nuevas defensas en Android 17",
+      "url": "https://blog.google/security/android-advanced-protection-updates/",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "cert-pl-toll-fraud-meta-google-play-17-apps-2026",
+      "title": "Campaña de toll fraud encadenó 1.235 anuncios y 17 apps de Google Play",
+      "url": "https://cert.pl/en/posts/2026/09/tollfraud-analysis/",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "grapheneos-2026100200-vpn-leak-keepalives-security-preview",
+      "title": "GrapheneOS 2026100200 bloquea una fuga VPN por hardware keepalives",
+      "url": "https://grapheneos.org/releases#2026100200",
+      "first_seen": "2026-10-03"
+    },
+    {
+      "id": "mediatek-octubre-2026-modem-critical-oob-cve-20519-20520",
+      "title": "MediaTek corrige dos vulnerabilidades críticas de memoria en módems",
+      "url": "https://www.mediatek.com/product-security-bulletin/october-2026",
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "asb-octubre-2026-critical-eop-dos",
+      "title": "ASB octubre 2026 corrige siete vulnerabilidades críticas",
+      "url": "https://source.android.com/docs/security/bulletin/2026/2026-10-01",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "pixel-octubre-2026-three-critical-bluetooth-gdmc-gsa",
+      "title": "Pixel corrige tres vulnerabilidades críticas en Bluetooth, GDMC y GSA",
+      "url": "https://source.android.com/docs/security/bulletin/pixel/2026/2026-10-01",
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "android-aiseal-pkvm-protected-vm-oct2026",
+      "title": "Google presenta AISeal: enclave aislado por pKVM para datos de IA en Android",
+      "url": "https://blog.google/security/enabling-the-next-gen-enclave-architecture-for-on-device-ai-on-android/",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "grapheneos-2026100600-zipfilero-integer-overflow",
+      "title": "GrapheneOS corrige corrupción de memoria en ZipFileRO y aplica el parche de octubre",
+      "url": "https://grapheneos.org/releases#2026100600",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "midnight-mimosa-preinstalled-platform-signed-android-malware-oct2026",
+      "title": "Midnight Mimosa: malware preinstalado y firmado como sistema convierte Android económicos en proxies",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "samsung-oct2026-smart-switch-checkout-arbitrary-apps-activities",
+      "title": "Samsung corrige instalación arbitraria de APKs en Smart Switch y lanzamiento privilegiado de Activities en Checkout",
+      "url": "https://security.samsungmobile.com/serviceWeb.smsb?month=10&year=2026",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "pwn2own-ireland-2026-pixel10-remote-exploits",
+      "title": "Pwn2Own: tres ataques remotos comprometen un Pixel 10 actualizado",
+      "url": "https://www.zerodayinitiative.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn",
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "pwn2own-ireland-2026-galaxy-s26-confused-deputy",
+      "title": "Pwn2Own: Galaxy S26 comprometido mediante Confused Deputy y otras cadenas",
+      "url": "https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results",
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "chrome-android-cve-2026-106367-sandbox-authorization-oct2026",
+      "title": "Chrome para Android corrige falla de autorización entre aplicaciones (CVE-2026-106367)",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106367",
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "lineageos-24-android17-security-backports-oct2026",
+      "title": "LineageOS 24.0 lleva Android 17 y parches de seguridad a dispositivos sin soporte OEM",
+      "url": "https://lineageos.org/Changelog-32/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "kernelsu-v3-3-1-selinux-hide-adb-shell-oct2026",
+      "title": "KernelSU 3.3.1 refuerza la ocultación SELinux y restringe root de shell a ADB",
+      "url": "https://github.com/tiann/KernelSU/releases/tag/v3.3.1",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "kernelsu-next-v3-4-1-manager-app-lock-oct2026",
+      "title": "KernelSU Next 3.4.1 incorpora App Lock y corrige el manejo de políticas SELinux",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.1",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "kernelsu-next-v3-4-2-susfs-lkm-oct2026",
+      "title": "KernelSU Next 3.4.2 amplía SUSFS con cambios en redirección de rutas",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.2",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "android-oct2026-scam-protections-screen-share-forwarding-messages",
+      "title": "Google amplía defensas contra estafas: protege pantallas compartidas, llamadas y mensajes",
+      "url": "https://blog.google/security/new-android-scam-protections/",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "hirudo-banking-rat-repackaged-apps-hooks-integrity-oct2026",
+      "title": "Hirudo reemplaza apps bancarias por APKs modificados que falsean controles de integridad",
+      "url": "https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "anthropic-android-tv-ai-replication-adb-research-oct2026",
+      "title": "Investigación: agentes de IA se propagan por emuladores Android con ADB expuesto",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "google-play-fake-whatsapp-chrome-sponsored-oct2026",
+      "title": "Google Play exhibe imitaciones de WhatsApp y Chrome en resultados patrocinados",
+      "url": "https://www.androidauthority.com/fake-whatsapp-app-3724337/",
+      "first_seen": "2026-10-17"
+    },
+    {
+      "id": "yuankong-rat-accessibility-wireless-adb-oct2026",
+      "title": "YuanKong RAT combina Accessibility, Wireless ADB y robo de PIN bancarios",
+      "url": "https://starlabs.sg/blog/2026/10-yuankong-rat-the-android-remote-control-service-that-stamps-its-operators-names-into-every-build/",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "adfection-zero-click-ads-candiru-oct2026",
+      "title": "AdFection: anuncios dirigidos habilitaron spyware zero-click y expusieron apps Android",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "grapheneos-2026101600-windowmanager-keyguard-activity-security",
+      "title": "GrapheneOS corrige fallas de WindowManager y reanudación de Activities ocultas por bloqueo",
+      "url": "https://grapheneos.org/releases#2026101600",
+      "first_seen": "2026-10-19"
+    },
+    {
+      "id": "infinitycore-cve-2026-98260-galaxy-s26-ultra-android-lpe",
+      "title": "Infinity Core: CVE-2026-98260 permitiría obtener root desde una app común en Galaxy S26 Ultra",
+      "url": "https://github.com/V4bel/InfinityCore",
+      "first_seen": "2026-10-21",
+      "category": "Root / Kernel",
+      "relevancia": "Media",
+      "resumen": "Investigación publicada el 16 de octubre de 2026. Hyunwoo Kim divulgó seis fallas del kernel Linux y afirma haber explotado CVE-2026-98260 desde untrusted_app sin permisos adicionales para obtener root en un Galaxy S26 Ultra. El exploit para Android no es público; no hay evidencia de explotación activa."
+    },
+    {
+      "id": "emudhra-eight-compromised-intermediate-ca-android-play-services-oct2026",
+      "title": "Google bloquea ocho CA intermedias eMudhra comprometidas en Android y Chrome",
+      "url": "https://blog.google/security/protecting-chrome-and-android-users-from-compromised-emudhra-intermediate-ca-certificates/",
+      "first_seen": "2026-10-22",
+      "category": "TLS / Android Security",
+      "relevancia": "Media",
+      "resumen": "Publicado el 20 de octubre de 2026. Google confirmó que ocho claves privadas de CA intermedias eMudhra podían reconstruirse por entropía insuficiente, permitiendo falsificar certificados HTTPS en clientes que aún confiaran en ellas. Chrome bloqueó las claves y Android recibió una revocación mediante Google Play services el 19/10; no se confirmó explotación activa y Certificate Transparency protegía a clientes que la exigían."
+    },
+    {
+      "id": "chrome-always-use-secure-connections-default-android-oct2026",
+      "title": "Chrome exige confirmar conexiones HTTP inseguras por defecto, también en Android",
+      "url": "https://blog.google/security/chrome-now-warns-before-insecure-http-connections/",
+      "first_seen": "2026-10-22",
+      "category": "Navegador / Plataforma",
+      "relevancia": "Media",
+      "resumen": "Publicado el 21 de octubre de 2026. Chrome habilitó por defecto para todos los usuarios Always Use Secure Connections: advierte antes de establecer conexiones HTTP sin cifrar, también en móviles Android. Reduce exposición a interceptación e inyección de contenido; contempla excepciones para direcciones locales y sitios previamente autorizados."
+    },
+    {
+      "id": "grapheneos-2026102100-reverts-lockscreen-activity-hardening-oct2026",
+      "title": "GrapheneOS revierte una protección de Activities bajo la pantalla de bloqueo",
+      "url": "https://grapheneos.org/releases#2026102100",
+      "first_seen": "2026-10-22",
+      "category": "GrapheneOS / Integridad de pantalla",
+      "relevancia": "Media",
+      "resumen": "Publicado el 21 de octubre de 2026 (versión 2026102100, canal alpha). GrapheneOS revirtió por incompatibilidades el endurecimiento del 16/10 que impedía reanudar Activities ocultas por la pantalla de bloqueo. También eximió a Auditor de hibernación para mantener la atestación remota programada. No se reportó explotación activa."
+    },
+    {
+      "id": "ghostbat-ghostx-transparent-accessibility-overlay-pin-capture-oct2026",
+      "title": "GhostBat roba PINs con overlays transparentes sobre aplicaciones bancarias reales",
+      "url": "https://cyble.com/blog/ghostx-forged-in-transit-licensed-to-deceive/",
+      "first_seen": "2026-10-23",
+      "category": "Accessibility / Overlays / Fraude",
+      "relevancia": "Media",
+      "resumen": "Investigación de Cyble publicada el 15 de octubre de 2026. La nueva variante GhostBat (ecosistema GhostX) usa doce regiones transparentes de accessibility overlay sobre el teclado real de Google Pay y MobiKwik: captura el PIN y reproduce los toques en la app legítima. Otro mecanismo de Accessibility observa entradas en 60 apps financieras. Es un ataque a la integridad de la interacción, no solo una pantalla falsa."
+    },
+    {
+      "id": "android-2027-write-contacts-restriction-manage-contacts-policy-oct2026",
+      "title": "Android restringirá WRITE_CONTACTS y exigirá acceso especial para modificar contactos directamente",
+      "url": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
+      "first_seen": "2026-10-23",
+      "category": "Android API / Permisos",
+      "relevancia": "Media",
+      "resumen": "Google anunció el 21 de octubre de 2026 que las apps que apunten a la versión de Android prevista para 2027 ya no podrán escribir contactos directamente con WRITE_CONTACTS: esas operaciones fallarán y deberán usar intents con interacción del usuario. Android 17 QPR2 introducirá MANAGE_CONTACTS como acceso especial para apps justificadas, sujeto a política de Google Play. Reduce modificaciones silenciosas de la agenda, pero exige migrar integraciones."
+    },
+    {
+      "id": "oneplus-oxygenos-atlasservice-olc2-root-cve-2026-70386-70387",
+      "title": "OnePlus/OPPO: CVE-2026-70386 y 70387 permiten escalar de una app sin permisos a root",
+      "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+      "first_seen": "2026-10-24",
+      "category": "Root / CVE / Integridad del dispositivo",
+      "relevancia": "Alta",
+      "resumen": "CVE publicados el 21/10/2026; investigación original del 24/09 (actualizada el 28/09). Una app común sin permisos especiales puede encadenar AtlasService y el HAL olc2 de OxygenOS para ejecutar comandos como UID 0 con amplias capacidades Linux. El investigador validó la cadena en OnePlus 15 y desarrolló la PoC en otro OnePlus; el fabricante comunicó parches para 151 dispositivos mantenidos y 18 pendientes al 28/09. El impacto sobre señales locales de integridad es grave, pero no se ha demostrado un bypass criptográfico de Play Integrity ni explotación maliciosa activa."
+    },
+    {
+      "id": "zimperium-rathat-intrusion-logging-wireless-adb-forensics-oct2026",
+      "title": "Zimperium reconstruye el abuso de Wireless ADB de RatHat con Android Intrusion Logging",
+      "url": "https://zimperium.com/blog/beyond-the-sandbox-leveraging-android-intrusion-logs-to-expose-advanced-threats",
+      "first_seen": "2026-10-24",
+      "category": "ADB / Forensia / Detección",
+      "relevancia": "Media",
+      "resumen": "Análisis publicado el 22/10/2026. Zimperium muestra registros de procesos, conexiones loopback al ADB local y comandos shell que permiten reconstruir cómo RatHat sale del sandbox (UID 2000) y ejecuta binarios persistentes desde /data/local/tmp. Describe soporte de su herramienta para Intrusion Logging voluntario en dispositivos compatibles (inicialmente Pixel con Android 16+) y para Delegated Scope en equipos gestionados. No es una nueva familia de malware ni el anuncio original de la API, sino evidencia forense y una integración práctica."
+    },
+    {
+      "id": "android17-qpr3-beta2-lock-quick-settings-connectivity-oct2026",
+      "title": "Android 17 QPR3 Beta 2 permite bloquear los controles de conectividad en la pantalla de bloqueo",
+      "url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/",
+      "first_seen": "2026-10-25",
+      "category": "API/Plataforma / Protección antirrobo",
+      "relevancia": "Media",
+      "resumen": "Novedad disponible en la beta publicada el 20/10/2026 (DP11.261002.005): los Pixel compatibles incorporan «Lock Quick Settings connectivity», una opción desactivada por defecto que exige desbloquear el dispositivo para cambiar Wi-Fi, Bluetooth, datos móviles o modo avión desde Ajustes rápidos. Dificulta que un ladrón desconecte inmediatamente un teléfono bloqueado para impedir su localización, pero no evita apagarlo ni garantiza su recuperación. La función fue verificada por medios especializados, aunque Google no la enumera en las notas oficiales y su llegada a la versión estable no está confirmada."
+    },
+    {
+      "id": "microsoft-authenticator-authmask-cve-2026-80097-exported-activity-token-theft",
+      "title": "AuthMask: una Activity exportada de Microsoft Authenticator permitía robar tokens sin permisos",
+      "url": "https://enclave.ai/blog/authmask-we-made-microsoft-authenticator-hand-over-tokens",
+      "category": "Activities exportadas / Autenticación / Intent spoofing",
+      "relevancia": "Media",
+      "resumen": "Investigación técnica publicada el 23/10/2026 (CVE-2026-80097 divulgado y corregido el 08/09). Una app Android sin permisos podía falsificar el UID y paquete del llamador mediante extras de Intent enviados a AccountChooserActivity y recibir access/refresh tokens de una cuenta laboral, sin interacción adicional. La validación usaba la firma del paquete declarado, no la identidad real del proceso. Afectaba Microsoft Authenticator anterior a 6.2606.4246; no hay explotación activa confirmada. Es un caso concreto de abuso de componentes exportados y suplantación de origen, no un bypass de Play Integrity.",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "ucreator-yinggai-virtualapp-lspatch-telegram-wechat-oct2026",
+      "title": "uCreator/YingGai: spyware comercial usa VirtualApp y LSPatch para intervenir apps autenticadas",
+      "url": "https://www.0x0v1.com/ucreator-virtualization-based-android-spyware-platform-targeting-wechat-telegram-and-other-messaging-apps/",
+      "category": "Virtualización / Hooking / App tampering / Malware",
+      "relevancia": "Media",
+      "resumen": "Análisis original publicado el 21/10/2026 y difundido el 26/10. El investigador documentó una plataforma comercial que integra VirtualApp, LSPatch y Pine para ejecutar módulos de hooking sin root dentro de apps legítimas repaquetizadas o en un contenedor. Puede consultar datos de Telegram en sesión, capturar su contraseña 2FA, ocultar sesiones y clonar cuentas WeChat; también hay código de suplantación de cámara orientado a KYC. Hay muestras de 2024–2026 y evidencia de infraestructura operativa, pero no un conteo fiable de víctimas ni pruebas de uso de todas las capacidades.",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "google-play-services-26-41-android15-incall-accessibility-scam-protection-oct2026",
+      "title": "Play services 26.41 extiende protección contra abuso de Accessibility durante llamadas a Android 15 y anteriores",
+      "url": "https://support.google.com/product-documentation/answer/14343500",
+      "category": "Google Play services / Accessibility / Antifraude",
+      "relevancia": "Media",
+      "resumen": "Notas oficiales publicadas el 19/10/2026: Google Play services v26.41 agrega una capa de defensa frente a estafas telefónicas en dispositivos con Android 15 o anterior cuando una app solicita permisos de Accessibility durante una llamada. Reduce el riesgo de que un estafador guíe a la víctima para conceder control del teléfono. Google no especifica si bloquea, advierte o interviene de otra forma, ni qué dispositivos ya tienen el despliegue activo.",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "android-registered-app-stores-enrollment-one-tap-installs-oct2026",
+      "title": "Google abre el registro de tiendas Android con instalación de un toque y sin confirmación secundaria",
+      "url": "https://developer.android.com/registered-app-stores/overview",
+      "first_seen": "2026-10-28",
+      "category": "Distribución / Seguridad de instalación / API/Plataforma",
+      "relevancia": "Alta",
+      "resumen": "Anunciado el 27/10/2026: Google abrió la inscripción voluntaria al programa Registered App Stores. Desde el 01/12/2026, en regiones admitidas y con Android 17 QPR2 o superior, las tiendas aprobadas podrán instalar aplicaciones con un toque sin diálogos secundarios del sistema y actualizar en segundo plano. Exige verificación del operador, revisión antimalware del APK de la tienda y envío continuo del catálogo para análisis. Es un cambio material del modelo de permisos y confianza para tiendas alternativas, no un bypass de seguridad; la función todavía no está desplegada."
+    },
+    {
+      "id": "mr-robot-cloudsek-android-banking-maas-anti-analysis-call-forwarding-oct2026",
+      "title": "MR ROBOT: MaaS bancario combina evasión de análisis, firmas únicas y desvío de llamadas",
+      "url": "https://www.cloudsek.com/blog/inside-mr-robot-malware-as-a-service-targeting-indian-bank-customers",
+      "first_seen": "2026-10-29",
+      "category": "Malware / Fraude bancario / Evasión",
+      "relevancia": "Media",
+      "resumen": "Investigación original de CloudSEK publicada el 28/10/2026. MR ROBOT es un kit MaaS activo con panel multiusuario y generador de APKs bancarios: combina un dropper cifrado, firmas distintas por compilación, archivos ZIP falsamente marcados como cifrados y espera de 48 horas para evadir análisis. También desvía llamadas mediante códigos USSD *21* para interceptar verificaciones bancarias; CloudSEK observó unos 307 dispositivos en dos afiliados. Varias técnicas ya existían en RedWing, pero el kit y su infraestructura operativa no estaban documentados."
+    },
+    {
+      "id": "android-sms-of-death-wap-push-zero-click-telephony-dos-oct2026",
+      "title": "SMS of Death: un WAP Push malformado provoca DoS zero-click y bucles de reinicio",
+      "url": "https://smsofdeath.com/",
+      "first_seen": "2026-10-30",
+      "category": "Vulnerabilidades / Telefonía / DoS",
+      "relevancia": "Media",
+      "resumen": "Divulgación original del 29/10/2026 (reportada a Google el 05/05): un SMS WAP Push malformado provoca una excepción no capturada en WapPushOverSms y termina com.android.phone sin interacción, cortando llamadas y pudiendo generar reinicios persistentes por reintentos de entrega. Hay PoC y pruebas en Pixel y Samsung, sin explotación maliciosa confirmada. Existe corrección AOSP de junio; GrapheneOS informa que la incluyó en sus previews de julio y que figurará en el boletín Android de noviembre. El investigador sitúa el arreglo en octubre, por lo que no debe asumirse cobertura uniforme por fecha de parche."
+    },
+    {
+      "id": "pixelos-play-integrity-non-rkp-server-side-tightening-oct2026",
+      "title": "PixelOS reporta endurecimiento de Play Integrity para dispositivos sin RKP",
+      "url": "https://blog.pixelos.net/docs/users/guide/play-integrity/",
+      "first_seen": "2026-10-30",
+      "category": "Play Integrity / Attestation / Root",
+      "relevancia": "Media",
+      "resumen": "Aviso de PixelOS fechado el 16/10/2026: según sus mantenedores, cambios de validación del lado de Google hacen que dispositivos/configuraciones sin Remote Key Provisioning (RKP) obtengan solo MEETS_BASIC_INTEGRITY, aunque antes pasaran DEVICE/STRONG mediante keybox y propiedades modificadas. Afecta la compatibilidad de ROMs personalizadas con apps bancarias y el análisis de señales antifraude. No hay anuncio técnico oficial de Google ni alcance cuantificado: se trata de un reporte de la comunidad, no de un cambio universal confirmado."
+    },
+    {
+      "id": "magisk-v31-1-hsum-removes-app-hiding-reactive-su-oct2026",
+      "title": "Magisk v31.1 elimina el ocultamiento de la app y cambia la concesión de root",
+      "url": "https://github.com/topjohnwu/Magisk/releases/tag/v31.1",
+      "category": "Root / Magisk / Detección",
+      "relevancia": "Media",
+      "resumen": "Release oficial del 25/10/2026: para soportar Headless System User Mode, Magisk v31.1 elimina el repaquetado/ocultamiento de su APK y el stub, deja de reinstalar automáticamente la app y reemplaza los diálogos reactivos de su por permisos preconcedidos. El propio autor recomienda desinstalar la app de gestión después de configurar root: la ausencia del paquete Magisk deja de ser una señal útil para descartar root, aunque esto no demuestra evasión de Play Integrity.",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "sleipnir-android-cve-2026-109434-address-bar-ui-spoofing",
+      "title": "CVE-2026-109434: Sleipnir para Android permitía falsificar indicadores de navegación",
+      "url": "https://jvn.jp/en/jp/JVN90463048/index.html",
+      "category": "UI spoofing / Phishing / CVE",
+      "relevancia": "Baja",
+      "resumen": "Advisory oficial JVN publicado el 27/10/2026: Sleipnir Mobile para Android anterior a 3.9.0 permitía que una página especialmente preparada mostrara indicadores de interfaz engañosos, incluido un falso origen, facilitando phishing tras interacción del usuario (CWE-451; CVSS 4.0: 5,1). Fenrir corrigió el problema en la versión 3.9.0 publicada el 15/10; no hay evidencia de explotación activa y el alcance se limita a ese navegador.",
+      "first_seen": "2026-10-31"
+    }
+  ]
+}
