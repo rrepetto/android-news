@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-26",
+  "coverage_complete": false,
+  "validation_complete": true,
+  "items": [
+    {
+      "id": "sukisu-ultra-nova-rebrand-2026-11-15",
+      "title": "SukiSU Ultra continúa como SukiSU Nova",
+      "url": "https://github.com/SukiSU-Nova/SukiSU-Nova/releases/tag/v3.0.0",
+      "category": "Root / Ecosistema",
+      "relevancia": "Baja",
+      "resumen": "Anuncio oficial del 15/11/2026: SukiSU Ultra cambia de nombre a SukiSU Nova y continúa su desarrollo con el mismo equipo reducido. Las releases históricas quedaron ocultas tras la suspensión de la cuenta del desarrollador principal. Importa para el seguimiento de herramientas de root y sus fuentes oficiales; no implica un nuevo bypass de integridad.",
+      "first_seen": "2026-11-26"
+    }
+  ],
+  "coverage": "Ocho fuentes consultadas; blog 429, OWASP dinámico, Xataka desactualizado; búsquedas complementarias parciales."
+}
