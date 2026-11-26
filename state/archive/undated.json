@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": "grapheneos-2026111800-pixel6-legacy-frozen-security-patch-2026",
+      "title": "GrapheneOS congela el nivel de parche de Pixel 6/6 Pro y advierte sobre fallas sin corregir",
+      "url": "https://grapheneos.org/releases#2026111800",
+      "category": "GrapheneOS / Pixel / Fin de soporte / Firmware",
+      "relevancia": "Media",
+      "resumen": "Changelog oficial del 18/11/2026: GrapheneOS declara Pixel 6 y 6 Pro en soporte extendido heredado tras terminar las actualizaciones de firmware y drivers de Google. El nivel de parche de ambos queda congelado en 2026-11-01 y el proyecto advierte que ya se omiten correcciones importantes, recomendando dejar de usarlos. La release 2026111800 también integra Android 17 QPR2 y parches 2026-11-05 en los Pixel aún soportados. Importa porque un sistema actualizado parcialmente no equivale a una cadena completa de parches de seguridad."
+    }
+  ]
+}
