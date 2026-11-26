@@ -1,0 +1,352 @@
+{
+  "items": [
+    {
+      "id": "google-play-api36-enforcement-live-sept1-2026",
+      "title": "Google Play API 36: enforcement activo desde hoy — apps sin targetSdk 36 bloqueadas para publicar",
+      "url": "https://www.testerscommunity.com/blog/update-your-target-api-level-by-august-31-2026",
+      "first_seen": "2026-09-01"
+    },
+    {
+      "id": "android-dev-verification-sept30-keepandroidopen-2026",
+      "title": "Android developer verification Sept 30: sideloading libre bloqueado en 4 países; Keep Android Open (71 orgs) escala campaña",
+      "url": "https://keepandroidopen.org/",
+      "first_seen": "2026-09-01"
+    },
+    {
+      "id": "samsung-oneui9-stable-confirmed-s26-s25-sept2026",
+      "title": "Samsung confirma One UI 9 estable para Galaxy S26 Ultra y S25",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/08/31/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/",
+      "first_seen": "2026-09-01"
+    },
+    {
+      "id": "android-17-qpr1-sept-feature-drop-stable-2026",
+      "title": "Android 17 QPR1 stable — Pixel Feature Drop de septiembre 2026 inminente; último update para Pixel 6/6 Pro antes de EOL",
+      "url": "https://or1k.net/news/android-17-qpr1-beta-9-drops-as-september-approaches/",
+      "first_seen": "2026-09-01"
+    },
+    {
+      "id": "pixel-11-sept-2026-early-ota-patch",
+      "title": "Pixel 11 recibe actualización anticipada con parche de seguridad de septiembre de 2026",
+      "url": "https://9to5google.com/2026/09/01/pixel-11-september-update-early/",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "samsung-oneui9-beta-s25-fold7-flip7-sept1-2026",
+      "title": "Samsung inicia beta de One UI 9 (Android 17) en Galaxy S25, Z Fold 7 y Z Flip 7",
+      "url": "https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
+      "first_seen": "2026-09-02"
+    },
+    {
+      "id": "grapheneos-pixel-11-mte-soporte-minimo-sept2026",
+      "title": "GrapheneOS: Pixel 11 sí tiene MTE en hardware pero Google lo deshabilitó en firmware",
+      "url": "https://nokiapoweruser.com/grapheneos-pixel-11-mte-support-android-17/",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "samsung-oneui9-eligibilidad-millones-sept2-2026",
+      "title": "Samsung amplía elegibilidad de One UI 9 con millones más de Galaxy",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/09/02/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "pixel-11-android-17-qpr2-beta-sept2026",
+      "title": "Pixel 11 se une al programa Android 17 QPR2 Beta",
+      "url": "https://9to5google.com/2026/09/01/pixel-11-android-17-qpr2-beta/",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "samsung-oneui9-beta8-hotfix-s26-ultra-sept2026",
+      "title": "Samsung One UI 9 Beta 8 Hotfix para Galaxy S26 Ultra",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-8-3705321/",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "streamrat-android-trojan-meta-ads-sept2-2026",
+      "title": "StreamRat: troyano bancario Android distribuido via Meta y TikTok",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "first_seen": "2026-09-04"
+    },
+    {
+      "id": "whatsapp-android-lockscreen-bypass-videocall-sept2026",
+      "title": "WhatsApp Android: bypass de pantalla de bloqueo via videollamada",
+      "url": "https://cybersecuritynews.com/whatsapp-video-call-flaw/",
+      "first_seen": "2026-09-04"
+    },
+    {
+      "id": "fake-indeed-interview-spyware-agosto28-2026",
+      "title": "Apps falsas de Indeed instalan spyware en buscadores de empleo Android",
+      "url": "https://cybernews.com/security/fake-indeed-apps-infecting-android-job-seekers-with-malware/",
+      "first_seen": "2026-09-04"
+    },
+    {
+      "id": "cve-2026-85046-chrome-v8-zerodday-sept3-2026",
+      "title": "CVE-2026-85046: Chrome para Android V8 zero-day explotado activamente",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "first_seen": "2026-09-05"
+    },
+    {
+      "id": "magisk-v31-release-sept4-2026",
+      "title": "Magisk v31.0 lanzado (4 septiembre 2026)",
+      "url": "https://github.com/topjohnwu/Magisk/releases/tag/v31.0",
+      "first_seen": "2026-09-05"
+    },
+    {
+      "id": "google-system-updates-sept2026-play-protect",
+      "title": "Actualizaciones del sistema Google — septiembre 2026 (Play Protect)",
+      "url": "https://9to5google.com/2026/09/04/september-2026-google-system-updates/",
+      "first_seen": "2026-09-05"
+    },
+    {
+      "id": "surxrat-v5-llm-huggingface-agosto5-2026",
+      "title": "SURXRAT V5: RAT Android MaaS integra módulos LLM descargados desde Hugging Face",
+      "url": "https://thecyberexpress.com/surxrat-arsinkrat-llm-android-rat-analysis/",
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "samsung-sept-2026-patch-90-security-fixes",
+      "title": "Samsung publica detalles del parche de septiembre 2026: 90 correcciones, 18 críticas de Google y 2 CVEs críticos de Samsung en procesamiento de imágenes",
+      "url": "https://www.sammyfans.com/2026/09/08/samsung-september-2026-patch-details/",
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "asb-septiembre-2026-84-cves-zero-days",
+      "title": "ASB Septiembre 2026: CVE-2026-28604 RCE crítico y dos zero-days explotados activamente",
+      "url": "https://source.android.com/docs/security/bulletin/2026/2026-09-01",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "weworm-wechat-zero-click-worm-android-ios-sept2026",
+      "title": "WeWorm: gusano zero-click en WeChat compromete cuentas Android e iOS sin atender la llamada",
+      "url": "https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "thost9-hagaseca-android-rat-adb-worm-sept2026",
+      "title": "THost9/Hagaseca: RAT Android con loader empaquetado y gusano ADB activo",
+      "url": "https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "samsung-oneui9-stable-galaxy-s25-sept8-2026",
+      "title": "Samsung One UI 9 estable llega al Galaxy S25 (millones de dispositivos)",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/09/08/samsung-one-ui-9-features-galaxy-s26-galaxy-s25-release-date/",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "android-google-system-updates-sept-2026-motion-assist-find-hub",
+      "title": "Android Google System Updates Septiembre 2026: Motion Assist y Find Hub con Gemini",
+      "url": "https://9to5google.com/2026/09/07/september-2026-google-system-updates/",
+      "first_seen": "2026-09-09"
+    },
+    {
+      "id": "cve-2026-28662-wifi-rce-no-interaccion-sept2026",
+      "title": "CVE-2026-28662: RCE Wi-Fi sin interaccion de usuario en Android (parche Sept 2026)",
+      "url": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "eset-android-malware-18-campanas-2023-2026",
+      "title": "ESET: 18 campanas reales de malware Android (2023-2026), incluye primer caso con IA generativa",
+      "url": "https://www.eset.com/blog/en/home-topics/cybersecurity-protection/cybercriminals-targeting-android-os-are-getting-creative/",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "cve-2026-52993-kernel-tipc-rce-sept2026",
+      "title": "CVE-2026-52993: RCE crítico en kernel Android vía protocolo TIPC (ASB Sept 2026)",
+      "url": "https://cybersecuritynews.com/android-security-update-september-2026/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "pixel-11-segunda-actualizacion-sept2026",
+      "title": "Pixel 11: segunda actualización de septiembre 2026 (build CD1A.260905.001.B1)",
+      "url": "https://www.droid-life.com/2026/09/10/pixel-11-getting-surprise-new-update/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "samsung-fold8-ultra-sept-2026-patch",
+      "title": "Samsung Galaxy Z Fold 8 y Fold 8 Ultra inician rollout del parche de septiembre 2026",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-get-september-2026-security-update",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "samsung-s26-oneui9-stable-inminente-sept11-2026",
+      "title": "Samsung confirma que One UI 9 estable para Galaxy S26 es inminente",
+      "url": "https://www.sammobile.com/news/samsung-confirms-stable-galaxy-s26-one-ui-9-update-coming-soon/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "samsung-oneui-roadmap-sept2026",
+      "title": "Samsung actualiza hoja de ruta de software One UI — septiembre 2026",
+      "url": "https://www.sammyfans.com/2026/09/08/samsung-updates-one-ui-software-rollout-roadmap-september-2026/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "grapheneos-2026090701-asb-preview-marzo-2027",
+      "title": "GrapheneOS 2026090701: security preview con parches ASB hasta marzo 2027",
+      "url": "https://grapheneos.org/releases",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "calyxos-7-2-5-20-sept-2026",
+      "title": "CalyxOS 7.2.5.20 lanzado con parche de seguridad de septiembre 2026",
+      "url": "https://calyxos.org/news/2026/09/10/september-security-update/",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "gigabud-vwork-work-profile-banking-trojan-sept2026",
+      "title": "Gigabud/Vwork: troyano bancario clona apps en perfiles de trabajo de Android para evadir detección",
+      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "samsung-galaxy-s24-oneui9-stable-inminente-sept2026",
+      "title": "Samsung Galaxy S24: próxima actualización podría ser la versión estable de One UI 9",
+      "url": "https://www.sammyfans.com/2026/09/11/samsung-galaxy-s24s-next-update-could-be-stable-one-ui-9/",
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "streamrat-android-rat-meta-tiktok-ads-sept2026",
+      "title": "StreamRat: RAT Android vía anuncios Meta/TikTok con control total del dispositivo",
+      "url": "https://www.threatfabric.com/blogs/from-meta-ads-to-full-device-takeover-uncovering-streamrat",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "mantax-otax-android-ransomware-spyware-zimperium-sept2026",
+      "title": "Mantax Otax: ransomware Android + spyware de doble extorsión (Zimperium)",
+      "url": "https://zimperium.com/blog/mantax-otax-indonesian-mobile-ransomware-with-spyware-integration",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "windrelay-nfc-relay-spynote-android-malware-ago2026",
+      "title": "WindRelay: malware NFC relay Android que desvía pagos en tiempo real",
+      "url": "https://www.group-ib.com/blog/windrelay-nfc-spynote-rat-combo-fraud/",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "google-play-early-access-deceptive-apps-sept2026",
+      "title": "Google Play Early Access abusado: miles de apps deceptivas evaden reviews",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/google-play-early-access-exploit-deceptive-apps",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "android-developer-verification-sept30-2026-enforcement",
+      "title": "Android Developer Verification: enforcement el 30 de septiembre en 4 países",
+      "url": "https://developer.android.com/developer-verification/guides",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "android-17-qpr1-stable-sept14-2026",
+      "title": "Android 17 QPR1 estable esperado para 14 de septiembre",
+      "url": "https://nokiapoweruser.com/stable-android-17-qpr1-release-date-pixel-feature-drop-blur-effect/",
+      "first_seen": "2026-09-13"
+    },
+    {
+      "id": "shinyhunters-claude-android-1-8m-apk-secrets-sept2026",
+      "title": "ShinyHunters y APT abusaron de Claude para extraer secretos de 1.8M APKs de Android",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "oempocalypse-cve-2026-43499-oem-root-exploit-agosto2026",
+      "title": "OEMpocalypse: CVE-2026-43499 como root exploit sin permisos contra OEM drivers Samsung/Xiaomi/Oppo",
+      "url": "https://blog.calif.io/p/oempocalypse-now",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "mediatek-septiembre-2026-security-bulletin",
+      "title": "MediaTek Security Bulletin Septiembre 2026: 15 CVEs (5 High, 10 Medium)",
+      "url": "https://www.mediatek.com/product-security-bulletin/September-2026",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "samsung-galaxy-s26-oneui9-retraso-sept14-2026",
+      "title": "Samsung Galaxy S26 sin One UI 9 estable al 14 septiembre 2026",
+      "url": "https://r2.community.samsung.com/t5/Galaxy-S/September-14th-and-they-still-couldn-t-release-the-0ne-ui-9/m-p/22874155",
+      "first_seen": "2026-09-14"
+    },
+    {
+      "id": "android-17-qpr1-retraso-sept15-2026",
+      "title": "Android 17 QPR1 Pixel Feature Drop: rollout retrasado, no llegó el 14 sep",
+      "url": "https://www.droid-life.com/2026/09/14/where-is-the-september-google-pixel-update/",
+      "first_seen": "2026-09-15"
+    },
+    {
+      "id": "samsung-s26-oneui9-waves-rollout-sept15-2026",
+      "title": "Samsung Galaxy S26 OneUI 9 estable: cronograma de waves filtrado — semana del 15, 21 y 28 sep",
+      "url": "https://nokiapoweruser.com/claim-stable-one-ui-9-galaxy-s26-launch-rollout-schedule/",
+      "first_seen": "2026-09-15"
+    },
+    {
+      "id": "android-17-qpr1-stable-lanzado-sept15-2026",
+      "title": "Android 17 QPR1 estable lanzado para Pixel (15 sept 2026) con zero-day fix y Pixel Feature Drop",
+      "url": "https://9to5google.com/2026/09/15/android-17-qpr1-pixel/",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "cve-2026-58704-pixel-modem-zerodday-sept2026",
+      "title": "CVE-2026-58704: zero-day en Pixel Modem explotado activamente (CVSS 8.0)",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "samsung-galaxy-s26-oneui9-stable-lanzado-sept2026",
+      "title": "Samsung Galaxy S26 recibe One UI 9.0 estable con Android 17 y parche sept 2026",
+      "url": "https://www.sammobile.com/news/galaxy-s26-stable-one-ui-9-0-update-released/",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "rathat-android-malware-adb-wireless-sept2026",
+      "title": "RatHat: troyano Android encadena Accessibility + Wireless ADB + IA para robar credenciales bancarias",
+      "url": "https://gbhackers.com/rathat-malware-attack/",
+      "first_seen": "2026-09-17"
+    },
+    {
+      "id": "kernelsu-next-v3-4-0-selinux-hide-android17",
+      "title": "KernelSU Next v3.4.0 refuerza técnicas de ocultación SELinux y suma soporte Android 17/6.18",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v3.4.0",
+      "first_seen": "2026-09-23"
+    },
+    {
+      "id": "agentic-ai-mobile-tampering-fraud-zimperium-sep2026",
+      "title": "Agentic AI automatiza análisis, hooking y fraude móvil a escala",
+      "url": "https://zimperium.com/blog/how-agentic-ai-is-making-mobile-apps-easier-to-attack",
+      "first_seen": "2026-09-23"
+    },
+    {
+      "id": "remcontrol-android-banker-play-protect-vpn-sept2026",
+      "title": "RemControl bloquea Play Protect con una VPN local y cambia su firma por instalación",
+      "url": "https://www.group-ib.com/blog/remcontrol-android-banking-trojan/",
+      "first_seen": "2026-09-24"
+    },
+    {
+      "id": "oneplus-oppo-root-chain-atlasservice-olc2-sept2026",
+      "title": "OnePlus/OPPO: dos fallas sin parche permiten que una app sin permisos obtenga root",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html?m=1",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "grapheneos-2026092500-pixel-qpr1-hardware-security",
+      "title": "GrapheneOS 2026092500 actualiza el stack hardware de Pixel a Android 17 QPR1",
+      "url": "https://grapheneos.org/releases#2026092500",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "android17-qpr2-beta6-kernel-biometric-crash",
+      "title": "Android 17 QPR2 Beta 6 corrige crashes de kernel en verificación biométrica",
+      "url": "https://developer.android.com/about/versions/17/qpr2/release-notes",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "androidx-security-state-1-1-0-component-patch-posture",
+      "title": "AndroidX Security State permite evaluar parches por componente y CVE",
+      "url": "https://android-developers.googleblog.com/2026/09/introducing-androidx-security-state-libraries.html",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "cloader-runtime-obfuscation-adaptive-hooking-android",
+      "title": "CLoader coordina evasión dinámica de Frida/Xposed y logra 90% de bypass",
+      "url": "https://arxiv.org/abs/2609.23396",
+      "first_seen": "2026-09-30"
+    }
+  ]
+}
