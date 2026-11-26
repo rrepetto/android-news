@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "id": "asb-junio-2026-cve-2025-48595",
+      "title": "ASB Junio 2026: zero-day CVE-2025-48595 explotado activamente",
+      "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-api-37-lanzamiento-seguridad",
+      "title": "Android 17 (API 37) lanzado con criptografía post-cuántica y verificación de OS",
+      "url": "https://android-developers.googleblog.com/2026/06/Android-17.html",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-behavior-changes-targetsdk-37",
+      "title": "Android 17 endurece restricciones para apps (targetSdk 37)",
+      "url": "https://developer.android.com/about/versions/17/behavior-changes-17",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "rokarolla-troyano-bancario-217-apps",
+      "title": "Troyano bancario Rokarolla apunta a 217 apps bancarias y crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "samsung-one-ui-8-bootloader-lock",
+      "title": "Samsung elimina desbloqueo de bootloader con One UI 8",
+      "url": "https://www.androidauthority.com/samsung-bootloader-unlocking-disabled-one-ui-8-3581366/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "overlayphantom-troyano-bancario-180-apps",
+      "title": "OverlayPhantom: troyano bancario con overlays HTML sobre 180+ apps",
+      "url": "https://cyble.com/blog/overlayphantom-android-banking-trojan/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "grapheneos-android-17-dia-uno",
+      "title": "GrapheneOS publica Android 17 el mismo día que Google",
+      "url": "https://stateofsurveillance.org/news/grapheneos-android-17-port-degoogled-privacy-os-2026/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "play-protect-dynamic-signal-monitoring-android-17",
+      "title": "Play Protect: monitoreo dinámico de señales en Android 17",
+      "url": "https://www.androidauthority.com/android-security-features-2026-3665372/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "play-integrity-api-remediation-dialogs-2026",
+      "title": "Play Integrity API: nuevos diálogos de remediación y deprecaciones",
+      "url": "https://developer.android.com/google/play/integrity/reference/com/google/android/play/core/release-notes",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "samsung-knox-cloud-services-2606",
+      "title": "Samsung Knox Cloud Services 26.06",
+      "url": "https://www.samsungknox.com/en/blog/kcs-release-2026-06",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "fake-call-history-apps-play-store-73m",
+      "title": "28 apps falsas de historial de llamadas acumulan 7.3M descargas en Play Store",
+      "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "nfc-relay-attacks-188-pct-surge-2026",
+      "title": "Ataques NFC relay crecen 188% en 2026 (Kaspersky)",
+      "url": "https://me-en.kaspersky.com/about/press-releases/nfc-relay-attacks-on-smartphones-surged-by-188-in-2026-kaspersky-reveals",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "google-fake-call-detection-rcs-deepfake-2026",
+      "title": "Google lanza detección de llamadas falsas via RCS contra deepfakes",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "samsung-exynos-advisory-junio-2026-15-cves",
+      "title": "Samsung Exynos: advisory de junio 2026 con 15 CVEs",
+      "url": "https://www.sammyfans.com/2026/06/03/samsung-exynos-security-advisory-june-2026/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-advanced-protection-mode",
+      "title": "Android 17 Advanced Protection Mode bloquea abuso de Accessibility API",
+      "url": "https://securityaffairs.com/189497/security/advanced-protection-mode-in-android-17-prevents-apps-from-misusing-accessibility-services.html",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "android-17-behavior-changes-all-apps",
+      "title": "Android 17 cambios para TODAS las apps: WebOTP, audio, ubicación granular",
+      "url": "https://developer.android.com/about/versions/17/behavior-changes-all",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "pixel-11-titan-m3-risc-v-leak",
+      "title": "Pixel 11: filtración del chip de seguridad Titan M3 (RISC-V)",
+      "url": "https://android.gadgethacks.com/news/pixel-11-titan-m3-security-chip-5-year-upgrade-revealed/",
+      "first_seen": "2026-06-24"
+    },
+    {
+      "id": "cve-2025-65018-framework-rce-critica-sin-interaccion",
+      "title": "CVE-2025-65018: RCE crítica en Android Framework sin interacción — posible cadena con zero-day activo",
+      "url": "https://android.gadgethacks.com/news/android-june-2026-security-update-zero-day-fix-124-vulnerabilities-patched/",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "samsung-junio-2026-rollout-s23-s26-foldables-12-sve",
+      "title": "Samsung expande parche de junio 2026 a Galaxy S23–S26 y foldables con 12 SVEs propias",
+      "url": "https://www.sammyfans.com/2026/06/25/samsung-june-2026-security-update-rollout/",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "cve-2026-25262-qualcomm-bootrom-no-parcheable",
+      "title": "CVE-2026-25262: Falla BootROM de Qualcomm no parcheable afecta millones de dispositivos",
+      "url": "https://www.kaspersky.com/blog/qualcomm-cve-2026-25262/55811/",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "play-integrity-fix-keybox-rotation-2026",
+      "title": "Play Integrity Fix adopta rotación de keybox y KeyboxHub comunitario",
+      "url": "https://github.com/KOWX712/PlayIntegrityFix",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "xiaomi-rollout-junio-2026-hyperos-3",
+      "title": "Xiaomi inicia rollout del parche de seguridad de junio 2026 en HyperOS 3",
+      "url": "https://ximitime.com/xiaomi-starts-rolling-out-june-2026-security-patch-to-first-devices-97720/",
+      "first_seen": "2026-06-25"
+    },
+    {
+      "id": "android-developer-verifier-sept-2026",
+      "title": "Google despliega Android Developer Verifier: desde septiembre 2026 dispositivos certificados bloquearán apps de desarrolladores no verificados",
+      "url": "https://android-developers.googleblog.com/2026/06/android-developer-verification.html",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "android-17-os-verification-pixel",
+      "title": "Android 17 incorpora verificación de integridad del OS en Pixel con ledger de transparencia público",
+      "url": "https://www.androidauthority.com/android-17-os-verification-3665868/",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "android-17-qpr1-beta-5-pixel",
+      "title": "Android 17 QPR1 Beta 5 lanzado para Pixel con correcciones finales antes del Feature Drop de septiembre",
+      "url": "https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-pixel/",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "google-play-services-2621-credential-exchange",
+      "title": "Google Play Services 26.21 habilita Credential Exchange para portabilidad de contraseñas y passkeys",
+      "url": "https://9to5google.com/2026/06/22/june-2026-google-system-updates/",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "anatsa-teabot-fake-document-reader-100k-play-store",
+      "title": "Anatsa (TeaBot) en Play Store: app falsa de lector de documentos con 100K+ descargas distribuye troyano bancario",
+      "url": "https://cybersecuritynews.com/fake-document-reader-in-the-google-play-store/",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "cve-2026-20971-samsung-knox-kernel-uaf-8-anos",
+      "title": "Samsung Knox CVE-2026-20971: vulnerabilidad UAF de 8 anos expuso millones de Galaxy S9-S25",
+      "url": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "google-play-distribucion-terceros-epic-settlement-julio-2026",
+      "title": "Google Play abrira distribucion a tiendas de terceros en EE.UU. (acuerdo Epic)",
+      "url": "https://support.google.com/googleplay/android-developer/answer/15582165?hl=en",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "gemini-android-hijack-notificaciones-prompt-injection",
+      "title": "Gemini Android: hijack via notificaciones de WhatsApp/Slack/SMS (prompt injection)",
+      "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "qualcomm-junio-2026-3-cves-criticos-cvss-9-8",
+      "title": "Qualcomm: boletín de junio 2026 con 3 CVEs críticos CVSS 9.8",
+      "url": "https://docs.qualcomm.com/securitybulletin/june-2026-bulletin.html",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "trickmo-variante-ton-c2-socks5-proxy-2026",
+      "title": "TrickMo: nueva variante usa blockchain TON como C2 y proxy SOCKS5",
+      "url": "https://securityaffairs.com/192003/malware/android-banking-trojan-trickmo-evolves-using-ton-network-for-c2.html",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "samsung-one-ui-9-beta-android-17-galaxy-s26",
+      "title": "Samsung One UI 9.0 Beta (Android 17) disponible para Galaxy S26",
+      "url": "https://news.samsung.com/global/samsung-launches-one-ui-9-beta-for-galaxy-s26-series-users",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "android-drop-junio-2026-personal-safety-menores",
+      "title": "Android Drop junio 2026: Personal Safety para menores",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "zygisk-next-v1-4-2-junio-2026",
+      "title": "Zygisk Next v1.4.2",
+      "url": "https://github.com/Dr-TSNG/ZygiskNext/releases",
+      "first_seen": "2026-06-28"
+    },
+    {
+      "id": "shizuku-roto-android-17-nightzuku-fork-junio-2026",
+      "title": "Shizuku roto en Android 17: issue oficial sin resolver y fork comunitario con hardening de seguridad",
+      "url": "https://github.com/RikkaApps/Shizuku/issues/2180",
+      "first_seen": "2026-06-30"
+    },
+    {
+      "id": "kernelsu-v3-2-5-selinux-hide",
+      "title": "KernelSU v3.2.5: nueva release con \"selinux hide\" y endurecimiento",
+      "url": "https://github.com/tiann/KernelSU/releases/tag/v3.2.5",
+      "first_seen": "2026-06-30"
+    },
+    {
+      "id": "xda-strong-integrity-bypass-root-hide-junio-2026",
+      "title": "Guía comunitaria en XDA reporta bypass funcional de Strong Integrity y ocultación de root",
+      "url": "https://xdaforums.com/t/guide-how-to-pass-strong-integrity-and-bypass-root-detection-apps-revolut-company-portal-google-wallet-etc-working-as-of-june-22nd-2026.4773849/",
+      "first_seen": "2026-06-30"
+    }
+  ]
+}
