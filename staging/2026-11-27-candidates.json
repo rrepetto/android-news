@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-27",
+  "coverage_complete": false,
+  "candidates": [],
+  "coverage": {
+    "Android Authority": "revisión directa y búsqueda",
+    "Android Developers Blog": "revisión directa y búsqueda",
+    "Hackaday": "revisión directa y búsqueda combinada",
+    "GrapheneOS": "changelog oficial",
+    "Xataka Android": "revisión directa y búsqueda",
+    "Greenbot": "revisión directa y búsqueda combinada",
+    "OWASP": "página dinámica sin listado; búsqueda sin resultados pertinentes",
+    "The Hacker News": "revisión directa y búsqueda"
+  },
+  "limitations": [
+    "No se completó revisión de todos los digests de 60 días ni todas las fuentes primarias.",
+    "Falta validar novedad material de otras releases."
+  ],
+  "discarded": [
+    "Bazuka: duplicado",
+    "SukiSU Nova: duplicado",
+    "Developer verification: duplicado"
+  ]
+}
