@@ -1,9 +1,50 @@
 {
   "date": "2026-11-28",
-  "items": [],
+  "items": [
+    {
+      "id": "kaspersky-keenadu-triada-preinstalled-firmware-nov2026",
+      "title": "Keenadu y Triada: crecimiento del malware integrado en firmware Android",
+      "url": "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/",
+      "category": "Device integrity",
+      "relevance": "Alta",
+      "publication_date": "2026-11-25",
+      "summary": "Kaspersky detectó Keenadu en más de 220.000 dispositivos durante los primeros diez meses de 2026; estas familias permiten inyección de código en aplicaciones desde firmware comprometido. Activación diferida observada en Keenadu. Importa para la confianza en el entorno de ejecución.",
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "human-badbox-3-0-android-proxy-fraud-nov2026",
+      "title": "BADBOX 3.0: fraude y proxies residenciales en dispositivos Android no certificados",
+      "url": "https://www.humansecurity.com/newsroom/human-disrupts-badbox-3-0-ad-fraud-operation/",
+      "category": "Fraude / red",
+      "relevance": "Media",
+      "publication_date": "2026-11-18",
+      "summary": "HUMAN Security reportó el 18/11 una nueva operación sobre dispositivos AOSP no certificados, con hasta 40.000 millones de solicitudes publicitarias diarias y reutilización de conexiones como proxies residenciales.",
+      "first_seen": "2026-11-28"
+    }
+  ],
   "coverage_complete": false,
   "coverage": {
-    "status": "partial",
-    "note": "Páginas iniciales consultadas; búsquedas específicas pendientes."
-  }
+    "direct": [
+      "Android Authority",
+      "Android Developers Blog",
+      "Hackaday",
+      "GrapheneOS",
+      "Xataka Android",
+      "Greenbot",
+      "OWASP",
+      "The Hacker News"
+    ],
+    "limitations": [
+      "OWASP: Loading news content…",
+      "Búsquedas por dominio ejecutadas en lote; resultados insuficientes para certificar cobertura completa",
+      "Deduplicación temática de 60 días pendiente"
+    ]
+  },
+  "discarded": [
+    "Bazuka: duplicado",
+    "Mirax: publicación original 5/11 fuera de ventana",
+    "MR ROBOT: duplicado y fuera de fecha",
+    "GrapheneOS 2026111800: duplicado",
+    "WhatsApp: duplicado"
+  ]
 }
